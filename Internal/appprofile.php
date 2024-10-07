@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-07T17:03:27.495Z
+// # Build 2024-10-07T19:20:33.441Z
 
 declare(strict_types=1);
 
@@ -144,6 +144,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cntv.cn,Domestic',
         'DOMAIN-SUFFIX,dns.pub,Domestic',
         'DOMAIN-SUFFIX,doh.pub,Domestic',
+        'DOMAIN-SUFFIX,dot.pub,Domestic',
         'DOMAIN-SUFFIX,id6.com,Domestic',
         'DOMAIN-SUFFIX,kuwo.cn,Domestic',
         'DOMAIN-SUFFIX,migu.cn,Domestic',
@@ -1330,7 +1331,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hbomaxcdn.com,Stream',
         'DOMAIN-SUFFIX,ibytedtos.com,Stream',
         'DOMAIN-SUFFIX,indaznlab.com,Stream',
-        'DOMAIN-SUFFIX,itvstatic.com,Stream',
         'DOMAIN-SUFFIX,mytvsuper.com,Stream',
         'DOMAIN-SUFFIX,nflxvideo.net,Stream',
         'DOMAIN,hbolb.onwardsmg.com,Stream',
@@ -1401,6 +1401,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,paramountplus.com,Stream',
         'DOMAIN-SUFFIX,smartmediarep.com,Stream',
         'DOMAIN-SUFFIX,spotifycharts.com,Stream',
+        'DOMAIN-SUFFIX,tvlicensing.co.uk,Stream',
         'DOMAIN-SUFFIX,youtubegaming.com,Stream',
         'DOMAIN-SUFFIX,pornhubpremium.com,Stream',
         'DOMAIN-SUFFIX,spotifynewsroom.jp,Stream',

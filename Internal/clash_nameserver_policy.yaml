@@ -75,6 +75,7 @@ dns:
     "*.yunos.com": quic://dns.alidns.com:853
     +.dns.pub: https://doh.pub/dns-query
     +.doh.pub: https://doh.pub/dns-query
+    +.dot.pub: https://doh.pub/dns-query
     "*.qcloud.com": https://doh.pub/dns-query
     "*.gtimg.cn": https://doh.pub/dns-query
     "*.gtimg.com": https://doh.pub/dns-query
@@ -156,7 +157,6 @@ dns:
     +.xiaomi.net: https://doh.pub/dns-query
     +.xiaomiev.com: https://doh.pub/dns-query
     +.xiaomiyoupin.com: https://doh.pub/dns-query
-    +.saxyit.com: https://doh.pub/dns-query
     "*.bytecdn.cn": 180.184.2.2
     "*.toutiaoimg.com": 180.184.2.2
     "*.toutiaoimg.cn": 180.184.2.2

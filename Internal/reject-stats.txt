@@ -184,7 +184,7 @@ zip.co                                                                          
 zmzfile.com                                                                                         10
 === extra ===
 happycustomer.io                                                                                    378
-webadorsite.com                                                                                     104
+webadorsite.com                                                                                     105
 github.io                                                                                           84
 playmetrics.com                                                                                     75
 aaa.com                                                                                             71
@@ -197,7 +197,6 @@ bravenet.com                                                                    
 qq.com                                                                                              54
 plus.com                                                                                            51
 progofficial.top                                                                                    51
-valuez.top                                                                                          51
 movidesk.com                                                                                        50
 sfmctest.com                                                                                        50
 k7rv.icu                                                                                            49
@@ -299,6 +298,7 @@ taobao.com                                                                      
 vxfc.lat                                                                                            19
 acronis.com                                                                                         18
 borden-carleton.ca                                                                                  18
+deptesp.com                                                                                         18
 fgfmailbox.com                                                                                      18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
@@ -310,10 +310,8 @@ windows.net                                                                     
 a5x7.icu                                                                                            17
 capitalone.com                                                                                      17
 cloudfront.net                                                                                      17
-deptesp.com                                                                                         17
 newaistar.top                                                                                       17
 ourtablets.com                                                                                      17
-progtopdep.top                                                                                      17
 replit.dev                                                                                          17
 rutradersxprod.com                                                                                  17
 tmmsg.com                                                                                           17
@@ -347,12 +345,14 @@ onliprog.site                                                                   
 polskadep.xyz                                                                                       15
 runeww1.site                                                                                        15
 sa.com                                                                                              15
+us.kg                                                                                               15
 waonline.site                                                                                       15
 wetss.xyz                                                                                           15
 aglt.lat                                                                                            14
 ahnq.top                                                                                            14
 anonline.site                                                                                       14
 bauer-media.com.au                                                                                  14
+blogspot.hu                                                                                         14
 cusu.skin                                                                                           14
 dns-dynamic.net                                                                                     14
 elastic.co                                                                                          14
@@ -377,7 +377,6 @@ advance.net                                                                     
 angieslist.com                                                                                      13
 ayxh.top                                                                                            13
 bestbuy.com                                                                                         13
-blogspot.hu                                                                                         13
 cddo.lat                                                                                            13
 drrd.lat                                                                                            13
 eqin.one                                                                                            13
@@ -400,7 +399,6 @@ programaticeu.xyz                                                               
 quzu.skin                                                                                           13
 ru.com                                                                                              13
 sohu.com                                                                                            13
-us.kg                                                                                               13
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
 4ffw.sbs                                                                                            12
@@ -413,6 +411,7 @@ dasj.lat                                                                        
 decathlon.com                                                                                       12
 dvxd.lat                                                                                            12
 fgf-mail.com                                                                                        12
+framer.app                                                                                          12
 gcion.com                                                                                           12
 hienphucuanhanloai.org                                                                              12
 ltnk.skin                                                                                           12
@@ -443,7 +442,6 @@ e-food.gr                                                                       
 epwj.top                                                                                            11
 fgfmail.net                                                                                         11
 foody.com.cy                                                                                        11
-framer.app                                                                                          11
 glasswerxx.com                                                                                      11
 godaddy.com                                                                                         11
 goxsite.top                                                                                         11
