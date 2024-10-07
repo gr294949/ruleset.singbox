@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-07T12:39:53.587Z
+// # Build 2024-10-07T17:03:27.495Z
 
 declare(strict_types=1);
 
@@ -1310,7 +1310,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,showtime.com,Stream',
         'DOMAIN-SUFFIX,wetvinfo.com,Stream',
         'DOMAIN-SUFFIX,winticket.jp,Stream',
-        'DOMAIN,bahamut.akamaized.net,Stream',
         'DOMAIN,hboasialive.akamaized.net,Stream',
         'DOMAIN-SUFFIX,dcalivedazn.akamaized.net,Stream',
         'DOMAIN-SUFFIX,dcblivedazn.akamaized.net,Stream',
