@@ -211,9 +211,9 @@ y22n.lat                                                                        
 baidu.com                                                                                           45
 pages.dev                                                                                           45
 verwin.com                                                                                          44
-wixstudio.io                                                                                        43
 poy0.lat                                                                                            42
-wpenginepowered.com                                                                                 41
+wixstudio.io                                                                                        42
+wpenginepowered.com                                                                                 42
 alalikexpress.com                                                                                   38
 vmy0.icu                                                                                            38
 2jgc.lat                                                                                            37
@@ -259,6 +259,7 @@ x8af.icu                                                                        
 95eb.icu                                                                                            25
 chainreact.xyz                                                                                      25
 glam.com                                                                                            25
+poxj.skin                                                                                           25
 pro1program.site                                                                                    25
 prosystemorgo.com                                                                                   25
 typstade.xyz                                                                                        25
@@ -350,6 +351,7 @@ onliprog.site                                                                   
 polskadep.xyz                                                                                       15
 runeww1.site                                                                                        15
 sa.com                                                                                              15
+us.kg                                                                                               15
 waonline.site                                                                                       15
 wetss.xyz                                                                                           15
 aglt.lat                                                                                            14
@@ -368,7 +370,6 @@ printondemandmerchandise.com                                                    
 propl.top                                                                                           14
 schroders.com                                                                                       14
 underarmour.com                                                                                     14
-us.kg                                                                                               14
 uzwl.lat                                                                                            14
 z14s.top                                                                                            14
 zettle.com                                                                                          14
@@ -445,6 +446,7 @@ e-food.gr                                                                       
 epwj.top                                                                                            11
 fgfmail.net                                                                                         11
 foody.com.cy                                                                                        11
+framer.app                                                                                          11
 glasswerxx.com                                                                                      11
 godaddy.com                                                                                         11
 goxsite.top                                                                                         11
@@ -492,7 +494,6 @@ ezxz.lat                                                                        
 fgfmailer.com                                                                                       10
 fivupsit.top                                                                                        10
 foodpanda.com                                                                                       10
-framer.app                                                                                          10
 genesis.com                                                                                         10
 gloriadeicr.com                                                                                     10
 gojek.com                                                                                           10
