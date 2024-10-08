@@ -66,6 +66,7 @@ np6.com                                                                         
 ogrt80r65.com                                                                                       18
 pwc.com                                                                                             18
 blackboard.com                                                                                      17
+cdn77.org                                                                                           17
 equifax.com                                                                                         17
 sosqboh85.com                                                                                       17
 aig.com                                                                                             16
@@ -78,7 +79,6 @@ topya.com                                                                       
 zing.vn                                                                                             16
 akadns.net                                                                                          15
 att.com                                                                                             15
-cdn77.org                                                                                           15
 cisco.com                                                                                           15
 en25.com                                                                                            15
 hotdoc.com.au                                                                                       15
@@ -184,10 +184,10 @@ zip.co                                                                          
 zmzfile.com                                                                                         10
 === extra ===
 happycustomer.io                                                                                    378
-webadorsite.com                                                                                     106
+webadorsite.com                                                                                     109
 github.io                                                                                           84
 playmetrics.com                                                                                     75
-aaa.com                                                                                             71
+aaa.com                                                                                             70
 adkoffer.fr                                                                                         63
 netspend.com                                                                                        63
 townsquarenewsletters.com                                                                           60
@@ -227,6 +227,7 @@ mhi.co.jp                                                                       
 q33e.fun                                                                                            31
 shengen.ru                                                                                          31
 6amcity.com                                                                                         30
+ewp.live                                                                                            30
 hut1.ru                                                                                             30
 xe1v.lat                                                                                            30
 alliedhousing.com                                                                                   29
@@ -247,7 +248,6 @@ aremedia.com.au                                                                 
 newpol.xyz                                                                                          27
 plprogpltes.site                                                                                    27
 duckdns.org                                                                                         26
-ewp.live                                                                                            26
 gitbook.io                                                                                          26
 ropescoursesinc.com                                                                                 26
 x8af.icu                                                                                            26
@@ -296,12 +296,12 @@ irza.lat                                                                        
 microcloud360.com                                                                                   19
 orogdq1.xyz                                                                                         19
 taobao.com                                                                                          19
-us.kg                                                                                               19
 vxfc.lat                                                                                            19
 acronis.com                                                                                         18
 borden-carleton.ca                                                                                  18
 deptesp.com                                                                                         18
 fgfmailbox.com                                                                                      18
+framer.app                                                                                          18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
 netflix.com                                                                                         18
@@ -325,6 +325,7 @@ elmachif.com                                                                    
 eutrty.top                                                                                          16
 greenhouse.io                                                                                       16
 notifications-salontarget.com                                                                       16
+replit.dev                                                                                          16
 sextracker.be                                                                                       16
 waonlineprogram.top                                                                                 16
 2hzr.icu                                                                                            15
@@ -343,9 +344,9 @@ iqiyi.com                                                                       
 neteller.com                                                                                        15
 onliprog.site                                                                                       15
 polskadep.xyz                                                                                       15
-replit.dev                                                                                          15
 runeww1.site                                                                                        15
 sa.com                                                                                              15
+us.kg                                                                                               15
 waonline.site                                                                                       15
 wetss.xyz                                                                                           15
 aglt.lat                                                                                            14
@@ -380,7 +381,6 @@ blogspot.hu                                                                     
 cddo.lat                                                                                            13
 drrd.lat                                                                                            13
 eqin.one                                                                                            13
-framer.app                                                                                          13
 frvm.skin                                                                                           13
 ham-stop.xyz                                                                                        13
 ifnprog.xyz                                                                                         13
