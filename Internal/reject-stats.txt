@@ -184,7 +184,6 @@ zip.co                                                                          
 zmzfile.com                                                                                         10
 === extra ===
 happycustomer.io                                                                                    347
-github.io                                                                                           71
 netspend.com                                                                                        63
 townsquarenewsletters.com                                                                           60
 9odp.skin                                                                                           56
@@ -215,11 +214,9 @@ obx3.cfd                                                                        
 56hn.lat                                                                                            34
 dln2.lat                                                                                            32
 ullz.lat                                                                                            32
-ewp.live                                                                                            31
 mhi.co.jp                                                                                           31
 q33e.fun                                                                                            31
 shengen.ru                                                                                          31
-vercel.app                                                                                          31
 6amcity.com                                                                                         30
 hut1.ru                                                                                             30
 xe1v.lat                                                                                            30
@@ -228,7 +225,6 @@ binnpro.xyz                                                                     
 marcukesh.top                                                                                       29
 ncmr.lat                                                                                            29
 newzgames.com                                                                                       29
-pages.dev                                                                                           29
 tcoprog.site                                                                                        29
 waptrad.top                                                                                         29
 1anw.top                                                                                            28
@@ -264,7 +260,6 @@ vbax.top                                                                        
 zhbt.skin                                                                                           23
 abbvie.com                                                                                          22
 fleek.cool                                                                                          22
-gitbook.io                                                                                          22
 tesxprofit.top                                                                                      22
 1owq.skin                                                                                           21
 b76c.sbs                                                                                            21
@@ -277,7 +272,6 @@ gkag.top                                                                        
 globaltradruv.com                                                                                   20
 unenoteunjour.fr                                                                                    20
 walmart.com                                                                                         20
-wixsite.com                                                                                         20
 3t0g.icu                                                                                            19
 4asx.icu                                                                                            19
 5hni.fun                                                                                            19
@@ -360,7 +354,6 @@ programaticeu.xyz                                                               
 quzu.skin                                                                                           13
 sohu.com                                                                                            13
 sony.com                                                                                            13
-workers.dev                                                                                         13
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
 4ffw.sbs                                                                                            12
@@ -431,7 +424,6 @@ eccocar.com                                                                     
 ezxz.lat                                                                                            10
 fgf-mail.com                                                                                        10
 fgfmail.net                                                                                         10
-firebaseapp.com                                                                                     10
 fivupsit.top                                                                                        10
 ft.com                                                                                              10
 genesis.com                                                                                         10
