@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-10T10:35:57.811Z
-# Size: 112713
+# Last Updated: 2024-10-10T10:41:29.797Z
+# Size: 112716
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10683,6 +10683,7 @@ zhwnlapi.etouch.cn
 +.report.iheartmedia.gbqofs.io
 +.gbuy.shop
 +.gbuzz.net
++.ur.gcion.com
 +.gannett.gcion.com
 +.gclick.cn
 +.gdd08.com
@@ -13781,6 +13782,7 @@ msmetrics-test.ws.sonos.com
 +.sanalytics.tnt-tv.pl
 +.analytics.tnt-tv.ro
 +.sanalytics.tnt-tv.ro
++.to-kr.com
 +.clnbze.to.com.pl
 +.toapz.xyz
 +.tagmanager.toast.com
@@ -62394,6 +62396,7 @@ tracker.didiglobal.com
 +.trakksocial.googlecode.com
 +.myscoop-tracking.googlecode.com
 +.attributiontrackingga.googlecode.com
++.googleplay.pro
 +.googleseo.life
 +.gooods4you.com
 +.byhqrw.gopeople.co.kr
