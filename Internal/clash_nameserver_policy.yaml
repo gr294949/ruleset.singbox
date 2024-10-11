@@ -257,11 +257,11 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.instant.arubanetworks.com:
+    instant.arubanetworks.com:
       - system://
       - system
       - dhcp://system
-    +.setmeup.arubanetworks.com:
+    setmeup.arubanetworks.com:
       - system://
       - system
       - dhcp://system

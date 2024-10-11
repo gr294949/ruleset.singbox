@@ -4,8 +4,8 @@ dns:
     - +.$captive.apple.com
     - +.$hotspot.cslwifi.com
     - +.+home
-    - +.instant.arubanetworks.com
-    - +.setmeup.arubanetworks.com
+    - +.$instant.arubanetworks.com
+    - +.$setmeup.arubanetworks.com
     - +.$router.asus.com
     - +.$repeater.asus.com
     - +.asusrouter.com

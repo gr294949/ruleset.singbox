@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-11T12:06:44.841Z
+// # Build 2024-10-11T13:05:09.798Z
 
 declare(strict_types=1);
 
@@ -186,6 +186,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,baidu.cn,Domestic',
         'DOMAIN-SUFFIX,c-t.work,Domestic',
         'DOMAIN-SUFFIX,cctv.com,Domestic',
+        'DOMAIN-SUFFIX,cnnic.cn,Domestic',
         'DOMAIN-SUFFIX,csdn.com,Domestic',
         'DOMAIN-SUFFIX,csdn.net,Domestic',
         'DOMAIN-SUFFIX,dewu.com,Domestic',
@@ -754,6 +755,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,chaoxing.com,Domestic',
         'DOMAIN-SUFFIX,cmbchina.com,Domestic',
         'DOMAIN-SUFFIX,cmfchina.com,Domestic',
+        'DOMAIN-SUFFIX,cnnic.com.cn,Domestic',
         'DOMAIN-SUFFIX,dangdang.com,Domestic',
         'DOMAIN-SUFFIX,dbankcdn.com,Domestic',
         'DOMAIN-SUFFIX,dianping.com,Domestic',
