@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-09-30T20:01:58.456Z
-# Size: 223
+# Last Updated: 2024-10-11T09:33:40.182Z
+# Size: 214
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,10 +10,12 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,etxr
+DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,unifi
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,avgv.cc
@@ -36,7 +38,6 @@ DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,beitai.pt
@@ -52,7 +53,6 @@ DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,ntt.setup
 DOMAIN-SUFFIX,tjupt.org
@@ -60,7 +60,6 @@ DOMAIN-SUFFIX,ui.direct
 DOMAIN-SUFFIX,web.setup
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,avistaz.to
-DOMAIN-SUFFIX,bthub.home
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,hdbits.org
@@ -73,20 +72,16 @@ DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,oppaiti.me
-DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
-DOMAIN-SUFFIX,web.setup.home
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,local.adguard.org
 DOMAIN-SUFFIX,injections.adguard.org
-DOMAIN-SUFFIX,airbox.home
-DOMAIN-SUFFIX,amplifi.lan
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,comicat.org
@@ -95,7 +90,6 @@ DOMAIN-SUFFIX,hotspot.cslwifi.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,filelist.io
-DOMAIN-SUFFIX,console.gl-inet.com
 DOMAIN-SUFFIX,hd4fans.org
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,hdcity.city
@@ -150,14 +144,11 @@ DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,tplinkeap.net
 DOMAIN-SUFFIX,asiancinema.me
 DOMAIN-SUFFIX,asusrouter.com
-DOMAIN-SUFFIX,bthomehub.home
 DOMAIN-SUFFIX,concertos.live
 DOMAIN-SUFFIX,fritz.repeater
-DOMAIN-SUFFIX,hitronhub.home
 DOMAIN-SUFFIX,homerouter.cpe
 DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,mobile.hotspot
-DOMAIN-SUFFIX,samsung.router
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,tplinkwifi.net

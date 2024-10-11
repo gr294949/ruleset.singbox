@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-10T08:31:02.625Z
-# Size: 417
+# Last Updated: 2024-10-11T09:33:40.142Z
+# Size: 425
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -186,6 +186,7 @@ speedtest.thn.lon.network.as201838.net
 open.cachefly.net
 spd33.claro.com.br
 spd49.claro.com.br
+spd53.claro.com.br
 +.ookla.ddnsgeek.com
 speedtest.execulink.ca
 fiberim.site
@@ -311,6 +312,7 @@ speedtest.packetworks.net
 speedtest-obd.redeconecta.com
 speedtest-stm.redeconecta.com
 speedtest.rekornet.com.tr
+speedtest-vsbu.rolimnet.com.br
 +.speednet.net.tr
 speedtest.springfibre.com
 speedtest-tdc3.tasmanet.com.au
@@ -364,7 +366,9 @@ teste.speednetpa.net.br
 velocidade.vlctelecom.com.br
 speedtest.wbstelecom.com.br
 +.speedtest.angolacables.co.ao
+velocidade.atostelecom.com.br
 speedtest.auratelecom.com.br
+speed.grinternett.com.br
 +.test.gslnetworks.com.au
 +.speedtest.gslnetworks.com.au
 teste.linkonfibra.com.br
@@ -378,6 +382,7 @@ aks1speedtest.turktelekom.com.tr
 ank1speedtest.turktelekom.com.tr
 ant1speedtest.turktelekom.com.tr
 bur1speedtest.turktelekom.com.tr
+erz1speedtest.turktelekom.com.tr
 esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
 geb1speedtest.turktelekom.com.tr
@@ -395,6 +400,7 @@ speedtest.maisnetfibra.net.br
 +.measurement-lab.org
 +.speedtestcustom.com
 stest.ultraconnect.com.br
+speedtest.uptelecom-ro.com.br
 a-speedtest.brasildigital.net.br
 speedtest-aus.chainlinkhosting.com
 miami.getstreamhosting.com
@@ -408,12 +414,14 @@ speedtest.visiontelecom.com.br
 speedtest.americatelecom.net.br
 teste.ddlsuprimentos.com.br
 speedtest.mirror.mel1.digitalpacific.com.au
+speedtest.extremanetwork.com.br
 speedtest.japanettelecom.com.br
 st.jnettelecom-am.com.br
 teste.newsolutionnet.com.br
 speedtest.pinguimtelecom.net.br
 speedtest.albatroznetwork.com.br
 velocidade.amazoniatelecom.com.br
+velocidade-pvh.amazoniatelecom.com.br
 speedtest.conectaamazonia.com.br
 velocidade1.i9internetfibra.com.br
 +.netspeedtestmaster.com

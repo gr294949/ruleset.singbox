@@ -260,7 +260,11 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.captive.apple.com:
+    captive.apple.com:
+      - system://
+      - system
+      - dhcp://system
+    +.home:
       - system://
       - system
       - dhcp://system
@@ -324,19 +328,11 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.zte.home:
-      - system://
-      - system
-      - dhcp://system
     "*.ui.direct":
       - system://
       - system
       - dhcp://system
     unifi:
-      - system://
-      - system
-      - dhcp://system
-    +.amplifi.lan:
       - system://
       - system
       - dhcp://system
@@ -348,11 +344,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.my.router:
-      - system://
-      - system
-      - dhcp://system
-    +.phicomm.me:
+    +.router:
       - system://
       - system
       - dhcp://system
@@ -364,10 +356,6 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.airbox.home:
-      - system://
-      - system
-      - dhcp://system
     +.arcor.easybox:
       - system://
       - system
@@ -376,23 +364,11 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.bthub.home:
-      - system://
-      - system
-      - dhcp://system
-    +.bthomehub.home:
-      - system://
-      - system
-      - dhcp://system
     +.congstar.box:
       - system://
       - system
       - dhcp://system
     +.connect.box:
-      - system://
-      - system
-      - dhcp://system
-    +.console.gl-inet.com:
       - system://
       - system
       - dhcp://system
@@ -421,10 +397,6 @@ dns:
       - system
       - dhcp://system
     +.hi.link:
-      - system://
-      - system
-      - dhcp://system
-    +.hitronhub.home:
       - system://
       - system
       - dhcp://system
@@ -460,10 +432,6 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.samsung.router:
-      - system://
-      - system
-      - dhcp://system
     +.speedport.ip:
       - system://
       - system
@@ -473,10 +441,6 @@ dns:
       - system
       - dhcp://system
     +.web.setup:
-      - system://
-      - system
-      - dhcp://system
-    +.web.setup.home:
       - system://
       - system
       - dhcp://system
@@ -500,7 +464,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.setapp.click:
+    setapp.click:
       - system://
       - system
       - dhcp://system
@@ -544,43 +508,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.20.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.21.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.22.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.23.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.24.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.25.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.26.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.27.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.28.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
-    +.29.172.in-addr.arpa:
+    +.2?.172.in-addr.arpa:
       - system://
       - system
       - dhcp://system
