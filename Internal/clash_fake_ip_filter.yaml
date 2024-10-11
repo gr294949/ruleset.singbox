@@ -2,6 +2,7 @@ dns:
   fake-ip-filter:
     - +.securelogin.com.cn
     - +.$captive.apple.com
+    - +.$hotspot.cslwifi.com
     - +.+home
     - +.instant.arubanetworks.com
     - +.setmeup.arubanetworks.com
@@ -21,14 +22,15 @@ dns:
     - +.$unifi
     - +.+huaweimobilewifi.com
     - +.+router
+    - +.$aterm.me
+    - +.$console.gl-inet.com
     - +.$homerouter.cpe
     - +.$mobile.hotspot
     - +.$ntt.setup
     - +.$pi.hole
     - +.+plex.direct
     - +.+m2m
-    - +.hotspot.cslwifi.com
-    - +.ts.net
+    - +.+ts.net
     - +.$injections.adguard.org
     - +.$local.adguard.org
     - +._adb-tls-connect._tcp

@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-11T11:46:37.252Z
+// # Build 2024-10-11T12:06:44.841Z
 
 declare(strict_types=1);
 
@@ -238,7 +238,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,zdic.net,Domestic',
         'DOMAIN-SUFFIX,10010.com,Domestic',
         'DOMAIN-SUFFIX,12306.com,Domestic',
-        'DOMAIN-SUFFIX,16888.com,Domestic',
         'DOMAIN-SUFFIX,360in.com,Domestic',
         'DOMAIN-SUFFIX,360os.com,Domestic',
         'DOMAIN-SUFFIX,51cto.com,Domestic',
@@ -2141,6 +2140,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pi.hole,DIRECT',
         'DOMAIN-SUFFIX,router.asus.com,DIRECT',
         'DOMAIN-SUFFIX,repeater.asus.com,DIRECT',
+        'DOMAIN-SUFFIX,aterm.me,DIRECT',
         'DOMAIN-SUFFIX,u2.dmhy.org,DIRECT',
         'DOMAIN-SUFFIX,hdsky.me,DIRECT',
         'DOMAIN-SUFFIX,ieee.org,DIRECT',
@@ -2192,6 +2192,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,discfan.net,DIRECT',
         'DOMAIN-SUFFIX,exoticaz.to,DIRECT',
         'DOMAIN-SUFFIX,filelist.io,DIRECT',
+        'DOMAIN-SUFFIX,console.gl-inet.com,DIRECT',
         'DOMAIN-SUFFIX,hd4fans.org,DIRECT',
         'DOMAIN-SUFFIX,hdchina.org,DIRECT',
         'DOMAIN-SUFFIX,hdcity.city,DIRECT',

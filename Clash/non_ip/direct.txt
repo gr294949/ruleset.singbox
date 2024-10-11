@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-10-11T11:46:36.738Z
-# Size: 192
+# Last Updated: 2024-10-11T12:06:44.333Z
+# Size: 194
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,pi.hole
 DOMAIN-SUFFIX,router.asus.com
 DOMAIN-SUFFIX,repeater.asus.com
+DOMAIN-SUFFIX,aterm.me
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,ieee.org
@@ -78,6 +79,7 @@ DOMAIN-SUFFIX,hotspot.cslwifi.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,console.gl-inet.com
 DOMAIN-SUFFIX,hd4fans.org
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,hdcity.city

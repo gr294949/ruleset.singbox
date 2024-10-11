@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-11T11:46:36.738Z
-# Size: 759
+# Last Updated: 2024-10-11T12:06:44.333Z
+# Size: 758
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -160,7 +160,6 @@ DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,zdic.net
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,12306.com
-DOMAIN-SUFFIX,16888.com
 DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,51cto.com

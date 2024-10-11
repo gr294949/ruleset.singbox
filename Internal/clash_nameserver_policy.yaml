@@ -30,7 +30,6 @@ dns:
     +.etao.com: quic://dns.alidns.com:853
     +.yitao.com: quic://dns.alidns.com:853
     +.1688.com: quic://dns.alidns.com:853
-    +.16888.com: quic://dns.alidns.com:853
     +.amap.com: quic://dns.alidns.com:853
     +.gaode.com: quic://dns.alidns.com:853
     +.autonavi.com: quic://dns.alidns.com:853
@@ -148,7 +147,7 @@ dns:
     +.duokan.com: https://doh.pub/dns-query
     "*.mi-img.com": https://doh.pub/dns-query
     +.mi-fds.com: https://doh.pub/dns-query
-    +.mifile.cn: https://doh.pub/dns-query
+    "*.mifile.cn": https://doh.pub/dns-query
     +.miui.com: https://doh.pub/dns-query
     +.xiaomi.com: https://doh.pub/dns-query
     +.xiaomi.cn: https://doh.pub/dns-query
@@ -250,6 +249,10 @@ dns:
       - system://
       - system
       - dhcp://system
+    hotspot.cslwifi.com:
+      - system://
+      - system
+      - dhcp://system
     "*.home":
       - system://
       - system
@@ -326,6 +329,14 @@ dns:
       - system://
       - system
       - dhcp://system
+    aterm.me:
+      - system://
+      - system
+      - dhcp://system
+    console.gl-inet.com:
+      - system://
+      - system
+      - dhcp://system
     homerouter.cpe:
       - system://
       - system
@@ -350,11 +361,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.hotspot.cslwifi.com:
-      - system://
-      - system
-      - dhcp://system
-    +.ts.net:
+    "*.ts.net":
       - system://
       - system
       - dhcp://system
