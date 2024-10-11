@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-11T13:05:09.798Z
+// # Build 2024-10-11T13:35:01.860Z
 
 declare(strict_types=1);
 
@@ -2123,11 +2123,14 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,DIRECT',
         'DOMAIN-SUFFIX,lan,DIRECT',
         'DOMAIN-SUFFIX,m2m,DIRECT',
+        'DOMAIN-SUFFIX,_tcp,DIRECT',
         'DOMAIN-SUFFIX,home,DIRECT',
+        'DOMAIN-SUFFIX,bogon,DIRECT',
         'DOMAIN-SUFFIX,unifi,DIRECT',
         'DOMAIN-SUFFIX,bt.byr.cn,DIRECT',
         'DOMAIN-SUFFIX,msg.vg,DIRECT',
         'DOMAIN-SUFFIX,ts.net,DIRECT',
+        'DOMAIN-SUFFIX,_msdcs,DIRECT',
         'DOMAIN-SUFFIX,router,DIRECT',
         'DOMAIN-SUFFIX,acg.rip,DIRECT',
         'DOMAIN-SUFFIX,acm.org,DIRECT',
@@ -2179,6 +2182,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,nicept.net,DIRECT',
         'DOMAIN-SUFFIX,oppaiti.me,DIRECT',
         'DOMAIN-SUFFIX,pthome.net,DIRECT',
+        'DOMAIN-SUFFIX,router.com,DIRECT',
         'DOMAIN-SUFFIX,scopus.com,DIRECT',
         'DOMAIN-SUFFIX,sdbits.org,DIRECT',
         'DOMAIN-SUFFIX,skyey2.com,DIRECT',
@@ -2279,7 +2283,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tplinkplclogin.net,DIRECT',
         'DOMAIN-SUFFIX,tplinkrepeater.net,DIRECT',
         'DOMAIN-SUFFIX,huaweimobilewifi.com,DIRECT',
-        'DOMAIN-SUFFIX,_adb-tls-connect._tcp,DIRECT',
         'DOMAIN-SUFFIX,blackwell-synergy.com,DIRECT',
         'DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT',
         'DOMAIN-KEYWORD,cnki.net,DIRECT',

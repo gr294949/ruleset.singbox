@@ -321,6 +321,10 @@ dns:
       - system://
       - system
       - dhcp://system
+    router.com:
+      - system://
+      - system
+      - dhcp://system
     "*.huaweimobilewifi.com":
       - system://
       - system
@@ -373,7 +377,15 @@ dns:
       - system://
       - system
       - dhcp://system
-    +._adb-tls-connect._tcp:
+    "*._tcp":
+      - system://
+      - system
+      - dhcp://system
+    "*.bogon":
+      - system://
+      - system
+      - dhcp://system
+    "*._msdcs":
       - system://
       - system
       - dhcp://system
