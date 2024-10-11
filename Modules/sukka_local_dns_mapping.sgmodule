@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-11T12:06:44.333Z
+#!desc=Last Updated: 2024-10-11T12:54:57.929Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -432,7 +432,6 @@ injections.adguard.org = server:system
 local.adguard.org = server:system
 _adb-tls-connect._tcp = server:system
 *._adb-tls-connect._tcp = server:system
-lan = server:system
 *.lan = server:system
 localhost = server:system
 localdomain = server:system

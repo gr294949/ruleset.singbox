@@ -377,7 +377,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.lan:
+    "*.lan":
       - system://
       - system
       - dhcp://system

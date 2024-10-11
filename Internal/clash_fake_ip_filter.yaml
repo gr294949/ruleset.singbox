@@ -34,7 +34,7 @@ dns:
     - +.$injections.adguard.org
     - +.$local.adguard.org
     - +._adb-tls-connect._tcp
-    - +.lan
+    - +.+lan
     - +.$localhost
     - +.localdomain
     - +.home.arpa
