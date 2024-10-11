@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-10-11T09:33:40.182Z
-# Size: 15
+# Last Updated: 2024-10-11T11:15:55.354Z
+# Size: 16
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,8 +19,9 @@ DOMAIN-SUFFIX,16.172.in-addr.arpa
 DOMAIN-SUFFIX,17.172.in-addr.arpa
 DOMAIN-SUFFIX,18.172.in-addr.arpa
 DOMAIN-SUFFIX,19.172.in-addr.arpa
-DOMAIN-SUFFIX,2?.172.in-addr.arpa
 DOMAIN-SUFFIX,30.172.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
 DOMAIN-SUFFIX,168.192.in-addr.arpa
+DOMAIN-REGEX,^2[a-zA-Z0-9-_.]\.172\.in-addr\.arpa$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.2[a-zA-Z0-9-_.]\.172\.in-addr\.arpa$
 ################## EOF ##################

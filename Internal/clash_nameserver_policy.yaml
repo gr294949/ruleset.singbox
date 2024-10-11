@@ -1,7 +1,6 @@
 dns:
   nameserver-policy:
     +.uc.cn: quic://dns.alidns.com:853
-    +.ucweb.com: quic://dns.alidns.com:853
     +.alibaba.com: quic://dns.alidns.com:853
     "*.alicdn.com": quic://dns.alidns.com:853
     "*.ialicdn.com": quic://dns.alidns.com:853
@@ -19,7 +18,7 @@ dns:
     "*.alipayobjects.com": quic://dns.alidns.com:853
     +.alibaba-inc.com: quic://dns.alidns.com:853
     "*.alibabausercontent.com": quic://dns.alidns.com:853
-    +.alibabadns.com: quic://dns.alidns.com:853
+    "*.alibabadns.com": quic://dns.alidns.com:853
     +.alicloudccp.com: quic://dns.alidns.com:853
     +.alipan.com: quic://dns.alidns.com:853
     +.aliyundrive.com: quic://dns.alidns.com:853
@@ -29,6 +28,7 @@ dns:
     +.cainiaoyizhan.com: quic://dns.alidns.com:853
     +.guoguo-app.com: quic://dns.alidns.com:853
     +.etao.com: quic://dns.alidns.com:853
+    +.yitao.com: quic://dns.alidns.com:853
     +.1688.com: quic://dns.alidns.com:853
     +.16888.com: quic://dns.alidns.com:853
     +.amap.com: quic://dns.alidns.com:853
@@ -90,7 +90,6 @@ dns:
     "*.qlogo.cn": https://doh.pub/dns-query
     +.qq.com: https://doh.pub/dns-query
     +.qq.com.cn: https://doh.pub/dns-query
-    +.qq.wang: https://doh.pub/dns-query
     +.qqmail.cn: https://doh.pub/dns-query
     +.qqmail.com: https://doh.pub/dns-query
     +.qzone.com: https://doh.pub/dns-query
@@ -115,7 +114,6 @@ dns:
     "*.tencentcs.cn": https://doh.pub/dns-query
     "*.qcloudimg.com": https://doh.pub/dns-query
     +.dnspod.cn: https://doh.pub/dns-query
-    +.yitao.com: https://doh.pub/dns-query
     +.anticheatexpert.com: https://doh.pub/dns-query
     url.cn: https://doh.pub/dns-query
     "*.qlivecdn.com": https://doh.pub/dns-query
@@ -215,28 +213,17 @@ dns:
     "*.yunjiasu-cdn.net": 180.76.76.76
     +.tieba.com: 180.76.76.76
     +.xiaodutv.com: 180.76.76.76
-    +.shifen.com: 180.76.76.76
+    "*.shifen.com": 180.76.76.76
     "*.jomodns.com": 180.76.76.76
     "*.bdydns.com": 180.76.76.76
     "*.jomoxc.com": 180.76.76.76
     "*.duapp.com": 180.76.76.76
     "*.antpcdn.com": 180.76.76.76
     "*.qhimg.com": https://dns.360.net/dns-query
-    "*.qhimgs0.com": https://dns.360.net/dns-query
-    "*.qhimgs1.com": https://dns.360.net/dns-query
-    "*.qhimgs2.com": https://dns.360.net/dns-query
-    "*.qhimgs3.com": https://dns.360.net/dns-query
-    "*.qhimgs4.com": https://dns.360.net/dns-query
-    "*.qhimgs5.com": https://dns.360.net/dns-query
-    "*.qhimgs6.com": https://dns.360.net/dns-query
+    "*.qhimgs.com": https://dns.360.net/dns-query
+    "*.qhimgs?.com": https://dns.360.net/dns-query
     "*.qhres.com": https://dns.360.net/dns-query
-    "*.qhres0.com": https://dns.360.net/dns-query
-    "*.qhres1.com": https://dns.360.net/dns-query
     "*.qhres2.com": https://dns.360.net/dns-query
-    "*.qhres3.com": https://dns.360.net/dns-query
-    "*.qhres4.com": https://dns.360.net/dns-query
-    "*.qhres5.com": https://dns.360.net/dns-query
-    "*.qhres6.com": https://dns.360.net/dns-query
     "*.qhmsg.com": https://dns.360.net/dns-query
     "*.qhstatic.com": https://dns.360.net/dns-query
     "*.qhupdate.com": https://dns.360.net/dns-query
@@ -264,7 +251,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.home:
+    "*.home":
       - system://
       - system
       - dhcp://system
@@ -292,6 +279,10 @@ dns:
       - system://
       - system
       - dhcp://system
+    +.routerlogin.com:
+      - system://
+      - system
+      - dhcp://system
     +.tendawifi.com:
       - system://
       - system
@@ -308,10 +299,6 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.tplinkeap.net:
-      - system://
-      - system
-      - dhcp://system
     +.tplinkmodem.net:
       - system://
       - system
@@ -324,19 +311,11 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.miwifi.com:
-      - system://
-      - system
-      - dhcp://system
     "*.ui.direct":
       - system://
       - system
       - dhcp://system
     unifi:
-      - system://
-      - system
-      - dhcp://system
-    +.hiwifi.com:
       - system://
       - system
       - dhcp://system
@@ -348,63 +327,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.router.ctc:
-      - system://
-      - system
-      - dhcp://system
-    +.peiluyou.com:
-      - system://
-      - system
-      - dhcp://system
-    +.arcor.easybox:
-      - system://
-      - system
-      - dhcp://system
-    +.aterm.me:
-      - system://
-      - system
-      - dhcp://system
-    +.congstar.box:
-      - system://
-      - system
-      - dhcp://system
-    +.connect.box:
-      - system://
-      - system
-      - dhcp://system
-    +.easy.box:
-      - system://
-      - system
-      - dhcp://system
-    +.etxr:
-      - system://
-      - system
-      - dhcp://system
-    +.fritz.box:
-      - system://
-      - system
-      - dhcp://system
-    +.fritz.nas:
-      - system://
-      - system
-      - dhcp://system
-    +.fritz.repeater:
-      - system://
-      - system
-      - dhcp://system
-    +.giga.cube:
-      - system://
-      - system
-      - dhcp://system
-    +.hi.link:
-      - system://
-      - system
-      - dhcp://system
     +.homerouter.cpe:
-      - system://
-      - system
-      - dhcp://system
-    +.myfritz.box:
       - system://
       - system
       - dhcp://system
@@ -428,23 +351,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.routerlogin.com:
-      - system://
-      - system
-      - dhcp://system
-    +.speedport.ip:
-      - system://
-      - system
-      - dhcp://system
-    +.steamloopback.host:
-      - system://
-      - system
-      - dhcp://system
-    +.web.setup:
-      - system://
-      - system
-      - dhcp://system
-    +._hotspot_.m2m:
+    "*.m2m":
       - system://
       - system
       - dhcp://system
@@ -564,4 +471,6 @@ hosts:
   dns.360.net:
     - 101.198.198.198
     - 101.198.199.200
+  steamloopback.host:
+    - 127.0.0.1
 
