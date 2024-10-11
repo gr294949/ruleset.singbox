@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-11T12:54:58.422Z
-# Size: 2473
+# Last Updated: 2024-10-11T13:21:12.643Z
+# Size: 2474
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -101,6 +101,7 @@ ooo.0o0.ooo
 9191.ga
 +.99av.tv
 adkit.9pub.io
+st.agrd.eu
 content.any.run
 static2.avg.com
 +.marketing.aws.dev
