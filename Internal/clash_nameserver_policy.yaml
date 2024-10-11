@@ -42,7 +42,6 @@ dns:
     "*.taobaocdn.com": quic://dns.alidns.com:853
     "*.tbcache.com": quic://dns.alidns.com:853
     +.tmall.com: quic://dns.alidns.com:853
-    +.tmall.hk: quic://dns.alidns.com:853
     +.xiami.com: quic://dns.alidns.com:853
     +.xiami.net: quic://dns.alidns.com:853
     "*.ykimg.com": quic://dns.alidns.com:853
@@ -263,11 +262,11 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.router.asus.com:
+    router.asus.com:
       - system://
       - system
       - dhcp://system
-    +.repeater.asus.com:
+    repeater.asus.com:
       - system://
       - system
       - dhcp://system
@@ -319,35 +318,31 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.huaweimobilewifi.com:
+    "*.huaweimobilewifi.com":
       - system://
       - system
       - dhcp://system
-    +.router:
+    "*.router":
       - system://
       - system
       - dhcp://system
-    +.homerouter.cpe:
+    homerouter.cpe:
       - system://
       - system
       - dhcp://system
-    +.mobile.hotspot:
+    mobile.hotspot:
       - system://
       - system
       - dhcp://system
-    +.ntt.setup:
+    ntt.setup:
       - system://
       - system
       - dhcp://system
-    +.pi.hole:
+    pi.hole:
       - system://
       - system
       - dhcp://system
-    +.plex.direct:
-      - system://
-      - system
-      - dhcp://system
-    +.app.plex.tv:
+    "*.plex.direct":
       - system://
       - system
       - dhcp://system
@@ -368,10 +363,6 @@ dns:
       - system
       - dhcp://system
     local.adguard.org:
-      - system://
-      - system
-      - dhcp://system
-    setapp.click:
       - system://
       - system
       - dhcp://system
@@ -471,6 +462,4 @@ hosts:
   dns.360.net:
     - 101.198.198.198
     - 101.198.199.200
-  steamloopback.host:
-    - 127.0.0.1
 

@@ -5,8 +5,8 @@ dns:
     - +.+home
     - +.instant.arubanetworks.com
     - +.setmeup.arubanetworks.com
-    - +.router.asus.com
-    - +.repeater.asus.com
+    - +.$router.asus.com
+    - +.$repeater.asus.com
     - +.asusrouter.com
     - +.routerlogin.net
     - +.routerlogin.com
@@ -19,20 +19,18 @@ dns:
     - +.tplinkrepeater.net
     - +.+ui.direct
     - +.$unifi
-    - +.huaweimobilewifi.com
-    - +.router
-    - +.homerouter.cpe
-    - +.mobile.hotspot
-    - +.ntt.setup
-    - +.pi.hole
-    - +.plex.direct
-    - +.app.plex.tv
+    - +.+huaweimobilewifi.com
+    - +.+router
+    - +.$homerouter.cpe
+    - +.$mobile.hotspot
+    - +.$ntt.setup
+    - +.$pi.hole
+    - +.+plex.direct
     - +.+m2m
     - +.hotspot.cslwifi.com
     - +.ts.net
     - +.$injections.adguard.org
     - +.$local.adguard.org
-    - +.$setapp.click
     - +._adb-tls-connect._tcp
     - +.lan
     - +.$localhost

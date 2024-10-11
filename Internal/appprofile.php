@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-11T11:15:55.832Z
+// # Build 2024-10-11T11:46:37.252Z
 
 declare(strict_types=1);
 
@@ -227,7 +227,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,soku.com,Domestic',
         'DOMAIN-SUFFIX,soso.com,Domestic',
         'DOMAIN-SUFFIX,tanx.com,Domestic',
-        'DOMAIN-SUFFIX,tmall.hk,Domestic',
         'DOMAIN,dl.ubnt.com,Domestic',
         'DOMAIN,config.ubnt.com,Domestic',
         'DOMAIN-SUFFIX,uczzd.cn,Domestic',
@@ -2140,7 +2139,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,open.cd,DIRECT',
         'DOMAIN-SUFFIX,oup.com,DIRECT',
         'DOMAIN-SUFFIX,pi.hole,DIRECT',
-        'DOMAIN-SUFFIX,app.plex.tv,DIRECT',
         'DOMAIN-SUFFIX,router.asus.com,DIRECT',
         'DOMAIN-SUFFIX,repeater.asus.com,DIRECT',
         'DOMAIN-SUFFIX,u2.dmhy.org,DIRECT',
@@ -2226,7 +2224,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pornbits.net,DIRECT',
         'DOMAIN-SUFFIX,privatehd.to,DIRECT',
         'DOMAIN-SUFFIX,pterclub.com,DIRECT',
-        'DOMAIN-SUFFIX,setapp.click,DIRECT',
         'DOMAIN-SUFFIX,springer.com,DIRECT',
         'DOMAIN-SUFFIX,tplinkap.net,DIRECT',
         'DOMAIN-SUFFIX,alpharatio.cc,DIRECT',
