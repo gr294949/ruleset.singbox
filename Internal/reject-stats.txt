@@ -63,6 +63,7 @@ zijieapi.com                                                                    
 aig.com                                                                                             14
 aleragroup.com                                                                                      14
 att.com                                                                                             14
+cdn77.org                                                                                           14
 hostcontent.li                                                                                      14
 isnssdk.com                                                                                         14
 seponews.com                                                                                        14
@@ -81,7 +82,6 @@ zalo.me                                                                         
 360safe.com                                                                                         12
 akamaized.net                                                                                       12
 apple.com                                                                                           12
-cdn77.org                                                                                           12
 goguardian.com                                                                                      12
 mywd.com                                                                                            12
 samsungcloudsolution.com                                                                            12
@@ -158,6 +158,7 @@ mhi.co.jp                                                                       
 q33e.fun                                                                                            31
 shengen.ru                                                                                          31
 6amcity.com                                                                                         30
+blogspot.com                                                                                        30
 hut1.ru                                                                                             30
 xe1v.lat                                                                                            30
 alliedhousing.com                                                                                   29
@@ -169,7 +170,6 @@ newzgames.com                                                                   
 tcoprog.site                                                                                        29
 waptrad.top                                                                                         29
 1anw.top                                                                                            28
-blogspot.com                                                                                        28
 lcef.com                                                                                            28
 movidesk.com                                                                                        28
 newprogram.top                                                                                      28
@@ -207,6 +207,7 @@ b76c.sbs                                                                        
 igwk.top                                                                                            21
 itcapprog.top                                                                                       21
 mjrm.skin                                                                                           21
+pages.dev                                                                                           21
 3u84.icu                                                                                            20
 endiim.com                                                                                          20
 gkag.top                                                                                            20
@@ -228,6 +229,7 @@ gkru.skin                                                                       
 investtraderxreh.com                                                                                18
 ow7m.top                                                                                            18
 sunyclouds.com                                                                                      18
+wixsite.com                                                                                         18
 2r5d.icu                                                                                            17
 a5x7.icu                                                                                            17
 newaistar.top                                                                                       17
@@ -323,6 +325,7 @@ oqlf.pro                                                                        
 peolke.xyz                                                                                          12
 pop6.com                                                                                            12
 progrr.top                                                                                          12
+substack.com                                                                                        12
 tajawal.com                                                                                         12
 wegn.top                                                                                            12
 welerpro.com                                                                                        12
