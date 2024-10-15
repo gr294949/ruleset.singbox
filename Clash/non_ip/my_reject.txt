@@ -1,48 +1,48 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2024-10-15T08:43:09.123Z
+# Last Updated: 2024-10-15T10:37:07.501Z
 # Size: 67
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN,dns.jd.com
-DOMAIN,dns.weixin.qq.com
-DOMAIN,httpdns.music.163.com
-DOMAIN,music.httpdns.c.163.com
-DOMAIN,lofter.httpdns.c.163.com
-DOMAIN-SUFFIX,adobe.io
-DOMAIN,dns.weibo.cn
-DOMAIN,httpdns.baidu.com
-DOMAIN,httpsdns.baidu.com
-DOMAIN,dns.weixin.qq.com.cn
-DOMAIN,httpdns.c.cdnhwc2.com
-DOMAIN-SUFFIX,httpdns.pro
-DOMAIN,httpdns.meituan.com
-DOMAIN,httpdnsvip.meituan.com
-DOMAIN,httpdns.n.netease.com
-DOMAIN,httpdns-sc.aliyuncs.com
-DOMAIN,httpdns-api.aliyuncs.com
-DOMAIN-SUFFIX,genuine.autodesk.com
-DOMAIN,httpdns.baidubce.com
 DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,parallels.de
 DOMAIN-SUFFIX,parallels.es
 DOMAIN-SUFFIX,parallels.fr
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,parallels.nl
 DOMAIN-SUFFIX,parallels.pt
 DOMAIN-SUFFIX,parallels.ru
-DOMAIN-SUFFIX,adobestats.io
-DOMAIN,httpdns.bilivideo.com
 DOMAIN-SUFFIX,parallels.com
-DOMAIN,httpdns.yunxindns.com
-DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
-DOMAIN,httpdns.push.oppomobile.com
 DOMAIN-SUFFIX,myparallels.com
 DOMAIN,daisydiskapp.com
-DOMAIN,httpdns.volcengineapi.com
 DOMAIN-SUFFIX,parallelskorea.com
+DOMAIN-SUFFIX,httpdns.pro
+DOMAIN,dns.weibo.cn
+DOMAIN,dns.jd.com
+DOMAIN,httpdns.baidu.com
+DOMAIN,httpsdns.baidu.com
+DOMAIN,httpdns.meituan.com
+DOMAIN,httpdnsvip.meituan.com
+DOMAIN,httpdns-sc.aliyuncs.com
+DOMAIN,httpdns-api.aliyuncs.com
+DOMAIN-SUFFIX,genuine.autodesk.com
+DOMAIN,httpdns.baidubce.com
+DOMAIN,httpdns.bilivideo.com
+DOMAIN,httpdns.yunxindns.com
+DOMAIN,httpdns.volcengineapi.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,httpdns.music.163.com
+DOMAIN,httpdns.c.cdnhwc2.com
+DOMAIN,httpdns.n.netease.com
+DOMAIN,httpdns.push.oppomobile.com
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,music.httpdns.c.163.com
+DOMAIN,lofter.httpdns.c.163.com
+DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,bahoom
 PROCESS-NAME,Tencent Lemon
 PROCESS-NAME,LemonMonitor

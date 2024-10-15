@@ -50,7 +50,6 @@ vodafone.com                                                                    
 yahoo.com                                                                                           16
 adp.ca                                                                                              15
 adpinfo.com                                                                                         15
-akadns.net                                                                                          15
 globalsources.com                                                                                   15
 iqiyi.com                                                                                           15
 letv.com                                                                                            15
@@ -160,7 +159,6 @@ ullz.lat                                                                        
 q33e.fun                                                                                            31
 shengen.ru                                                                                          31
 baidu.com                                                                                           30
-blogspot.com                                                                                        30
 hut1.ru                                                                                             30
 unenoteunjour.fr                                                                                    30
 xe1v.lat                                                                                            30
@@ -173,6 +171,7 @@ tcoprog.site                                                                    
 walmart.com                                                                                         29
 waptrad.top                                                                                         29
 1anw.top                                                                                            28
+blogspot.com                                                                                        28
 newprogram.top                                                                                      28
 qcct.lat                                                                                            28
 v4l6.top                                                                                            28
@@ -210,7 +209,6 @@ happ.social                                                                     
 igwk.top                                                                                            21
 itcapprog.top                                                                                       21
 mjrm.skin                                                                                           21
-pages.dev                                                                                           21
 3u84.icu                                                                                            20
 endiim.com                                                                                          20
 gkag.top                                                                                            20
@@ -229,7 +227,6 @@ acronis.com                                                                     
 adkplan.fr                                                                                          18
 capitalone.com                                                                                      18
 clead.xyz                                                                                           18
-cloudfront.net                                                                                      18
 deptesp.com                                                                                         18
 fgfmail.org                                                                                         18
 framer.app                                                                                          18
@@ -240,7 +237,6 @@ kmotrack.xyz                                                                    
 ow7m.top                                                                                            18
 sunyclouds.com                                                                                      18
 vonage.com                                                                                          18
-wixsite.com                                                                                         18
 2r5d.icu                                                                                            17
 a5x7.icu                                                                                            17
 bankofamerica.com                                                                                   17
@@ -366,7 +362,6 @@ pop6.com                                                                        
 popmarker.com                                                                                       12
 progrr.top                                                                                          12
 sfmc-tlsprovisioningqa.com                                                                          12
-substack.com                                                                                        12
 tajawal.com                                                                                         12
 twitch.tv                                                                                           12
 wegn.top                                                                                            12
@@ -451,7 +446,6 @@ trapiconto.com                                                                  
 us.kg                                                                                               10
 vab5.cfd                                                                                            10
 vgml.lat                                                                                            10
-weebly.com                                                                                          10
 westernunion.com                                                                                    10
 westfield.com                                                                                       10
 zotoi.icu                                                                                           10

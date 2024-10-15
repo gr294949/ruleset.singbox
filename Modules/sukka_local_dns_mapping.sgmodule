@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-15T08:17:36.346Z
+#!desc=Last Updated: 2024-10-15T10:37:05.772Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -243,6 +243,7 @@ mi.com = server:https://doh.pub/dns-query
 duokan.com = server:https://doh.pub/dns-query
 *.duokan.com = server:https://doh.pub/dns-query
 *.mi-img.com = server:https://doh.pub/dns-query
+*.mi-idc.com = server:https://doh.pub/dns-query
 mi-fds.com = server:https://doh.pub/dns-query
 *.mi-fds.com = server:https://doh.pub/dns-query
 *.mifile.cn = server:https://doh.pub/dns-query
