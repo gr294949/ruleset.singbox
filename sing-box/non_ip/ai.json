@@ -2,7 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "alkalicore-pa.clients6.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "ai.google.dev",
+        "gateway.ai.cloudflare.com"
+      ],
       "domain_suffix": [
         "x.ai",
         "ai.com",
@@ -16,9 +22,6 @@
         "aistudio.google.com",
         "makersuite.google.com",
         "notebooklm.google.com",
-        "alkalicore-pa.clients6.google.com",
-        "alkalimakersuite-pa.clients6.google.com",
-        "ai.google.dev",
         "openart.ai",
         "chatgpt.com",
         "clipdrop.co",
@@ -26,7 +29,6 @@
         "anthropic.com",
         "oaistatic.com",
         "perplexity.ai",
-        "gateway.ai.cloudflare.com",
         "geller-pa.googleapis.com",
         "generativelanguage.googleapis.com",
         "proactivebackend-pa.googleapis.com",

@@ -2,11 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "oth.str.mdt.qq.com",
+        "otheve.beacon.qq.com"
+      ],
       "domain_suffix": [
         "sginput.qq.com",
-        "oth.str.mdt.qq.com",
-        "otheve.beacon.qq.com",
         "get.sogou.com",
         "ime.sogou.com",
         "macime.sogou.com",

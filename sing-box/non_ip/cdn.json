@@ -2,8 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": ["cdn-msp.jmcomic.me", "cdn-msp.18comic.vip"],
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "cdn-msp.jmcomic.me",
+        "cdn-msp.18comic.vip"
+      ],
+      "domain_suffix": [],
       "domain_keyword": [
         "-files.gitbook.io",
         "vod-adaptive.akamaized.net",

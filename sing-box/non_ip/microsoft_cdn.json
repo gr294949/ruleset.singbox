@@ -2,11 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": [
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "res.cdn.office.net",
         "res-1.cdn.office.net",
-        "statics.teams.cdn.office.net",
+        "statics.teams.cdn.office.net"
+      ],
+      "domain_suffix": [
         "fs.microsoft.com",
         "sdx.microsoft.com",
         "build.microsoft.com",

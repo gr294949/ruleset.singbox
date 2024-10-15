@@ -1,22 +1,22 @@
 #########################################
 # Sukka's Ruleset - Proxy
-# Last Updated: 2024-10-15T08:17:37.908Z
+# Last Updated: 2024-10-15T08:43:09.118Z
 # Size: 14
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,ip.cn
+DOMAIN,ip.cn
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,ipdata.co
-DOMAIN-SUFFIX,fonts.gstatic.cn
+DOMAIN,fonts.gstatic.cn
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,ipstack.com
-DOMAIN-SUFFIX,fonts.googleapis.cn
+DOMAIN,fonts.googleapis.cn
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,ipgeolocation.io

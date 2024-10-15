@@ -2,18 +2,20 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": [
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "ip.cn",
+        "fonts.gstatic.cn",
+        "fonts.googleapis.cn"
+      ],
+      "domain_suffix": [
         "ip.sb",
         "ipwho.is",
         "db-ip.com",
         "ipdata.co",
-        "fonts.gstatic.cn",
         "ip-api.com",
         "nextdns.io",
         "ipstack.com",
-        "fonts.googleapis.cn",
         "services.googleapis.cn",
         "ipregistry.co",
         "ipgeolocation.io"
