@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-15T15:05:32.515Z
-# Size: 115175
+# Last Updated: 2024-10-15T16:13:31.770Z
+# Size: 115176
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -42074,6 +42074,7 @@ samsungcloudsolution.com
 +.precisethrobbingsentinel.com
 +.premonitioneuropeanstems.com
 +.princessdazzlepeacefully.com
++.printondemandmerchandise.com
 +.privateappealingsymphony.com
 +.profitablecreativeformat.com
 +.profitabledisplaycontent.com
