@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-15T10:37:06.402Z
-# Size: 2484
+# Last Updated: 2024-10-15T14:58:01.400Z
+# Size: 2485
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2484,6 +2484,7 @@ cdn.pkg.svc.ui.com
 net-fe-static-assets.network-controller.svc.ui.com
 firefox.settings.services.mozilla.com
 cdn.assets.as2.amazonaws.com
+rum-agent.na-01.cloud.solarwinds.com
 storage.gra.cloud.ovh.net
 brick.a.ssl.fastly.net
 cf-images.us-east-1.prod.boltdns.net
