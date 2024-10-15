@@ -2,15 +2,9 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "this_rule_set_is_made_by_sukkaw.skk.moe",
-        "js.iterable.com",
-        "api.iterable.com",
-        "api-js.mixpanel.com",
-        "stun.smartgslb.com"
-      ],
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
+        "this_rule_set_is_made_by_sukkaw.skk.moe",
         "net.mydays.de",
         "openx.net",
         "omtrdc.net",
@@ -19,8 +13,12 @@
         "telemetry-coverage.mozilla.org",
         "notify6.com",
         "crazyegg.com",
+        "js.iterable.com",
+        "api.iterable.com",
+        "api-js.mixpanel.com",
         "amplitude.com",
         "notifysrv.com",
+        "stun.smartgslb.com",
         "advertising.com",
         "incoming-telemetry.thunderbird.net"
       ],

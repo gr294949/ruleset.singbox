@@ -2,18 +2,16 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain_suffix": [
         "mask.icloud.com",
         "mask-h2.icloud.com",
         "mask-api.icloud.com",
         "mask-canary.icloud.com",
         "mask.apple-dns.net",
         "mask-t.apple-dns.net",
-        "canary.mask.apple-dns.net",
-        "mask-api.fe.apple-dns.net",
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
-      ],
-      "domain_suffix": []
+        "mask-api.fe.apple-dns.net"
+      ]
     }
   ]
 }

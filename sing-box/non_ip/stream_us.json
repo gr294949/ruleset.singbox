@@ -2,16 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "cbsi.live.ott.irdeto.com",
-        "cbsservice.aws.syncbak.com",
-        "cbsplaylistserver.aws.syncbak.com",
-        "bcbolt446c5271-a.akamaihd.net",
-        "staticasiafox.akamaized.net",
-        "edge.api.brightcove.com",
-        "dashasiafox.akamaized.netflix"
-      ],
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
         "fox.com",
         "hulu.jp",
@@ -25,18 +16,25 @@
         "foxdcg.com",
         "happyon.jp",
         "huluim.com",
+        "cbsi.live.ott.irdeto.com",
         "uplynk.com",
         "foxplus.com",
+        "cbsservice.aws.syncbak.com",
+        "cbsplaylistserver.aws.syncbak.com",
+        "bcbolt446c5271-a.akamaihd.net",
         "showtime.com",
+        "staticasiafox.akamaized.net",
         "cbsivideo.com",
         "disco-api.com",
         "encoretvb.com",
         "hjholdings.jp",
         "peacocktv.com",
+        "edge.api.brightcove.com",
         "cbsaavideo.com",
         "hulustream.com",
         "theplatform.com",
         "discoveryplus.in",
+        "dashasiafox.akamaized.netflix",
         "discoveryplus.com",
         "paramountplus.com",
         "discoveryplus.co.uk"
