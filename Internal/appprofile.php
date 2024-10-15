@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-15T08:43:07.964Z
+// # Build 2024-10-15T09:09:10.723Z
 
 declare(strict_types=1);
 
@@ -182,7 +182,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,acfun.cn,Domestic',
         'DOMAIN-SUFFIX,alios.cn,Domestic',
         'DOMAIN-SUFFIX,amap.com,Domestic',
-        'DOMAIN-SUFFIX,api.smoot.apple.cn,Domestic',
+        'DOMAIN,api.smoot.apple.cn,Domestic',
         'DOMAIN-SUFFIX,baidu.cn,Domestic',
         'DOMAIN-SUFFIX,c-t.work,Domestic',
         'DOMAIN-SUFFIX,cctv.com,Domestic',
@@ -1580,7 +1580,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,gvt6.com,Global',
         'DOMAIN-SUFFIX,gvt7.com,Global',
         'DOMAIN-SUFFIX,gvt9.com,Global',
-        'DOMAIN-SUFFIX,wego.here.com,Global',
+        'DOMAIN,wego.here.com,Global',
         'DOMAIN-SUFFIX,imdb.com,Global',
         'DOMAIN-SUFFIX,iwara.tv,Global',
         'DOMAIN-SUFFIX,ixxx.com,Global',
@@ -1594,7 +1594,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,line.naver.jp,Global',
         'DOMAIN-SUFFIX,noip.com,Global',
         'DOMAIN-SUFFIX,okex.com,Global',
-        'DOMAIN-SUFFIX,pki.goog,Global',
+        'DOMAIN,pki.goog,Global',
         'DOMAIN-SUFFIX,short.io,Global',
         'DOMAIN-SUFFIX,snap.com,Global',
         'DOMAIN-SUFFIX,split.io,Global',
@@ -1606,7 +1606,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,xing.com,Global',
         'DOMAIN-SUFFIX,xnxx.com,Global',
         'DOMAIN-SUFFIX,youtu.be,Global',
-        'DOMAIN-SUFFIX,ccmdl.adobe.com,Global',
+        'DOMAIN,ccmdl.adobe.com,Global',
         'DOMAIN-SUFFIX,auth0.com,Global',
         'DOMAIN-SUFFIX,avgle.com,Global',
         'DOMAIN-SUFFIX,bbc.co.uk,Global',
@@ -1667,7 +1667,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tgstat.ru,Global',
         'DOMAIN-SUFFIX,twimg.com,Global',
         'DOMAIN-SUFFIX,twitch.tv,Global',
-        'DOMAIN-SUFFIX,store.ui.com.cn,Global',
+        'DOMAIN,store.ui.com.cn,Global',
         'DOMAIN-SUFFIX,v2fly.org,Global',
         'DOMAIN-SUFFIX,v2ray.com,Global',
         'DOMAIN-SUFFIX,viber.com,Global',
@@ -1862,7 +1862,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dns-oarc.net,Global',
         'DOMAIN-SUFFIX,dribbble.com,Global',
         'DOMAIN-SUFFIX,e-hentai.org,Global',
-        'DOMAIN-SUFFIX,ees.elsevier.com,Global',
+        'DOMAIN,ees.elsevier.com,Global',
         'DOMAIN-SUFFIX,engadget.com,Global',
         'DOMAIN-SUFFIX,etherscan.io,Global',
         'DOMAIN-SUFFIX,euronews.com,Global',
@@ -2065,7 +2065,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,privacytest.info,Global',
         'DOMAIN-SUFFIX,redditstatic.com,Global',
         'DOMAIN-SUFFIX,shutterstock.com,Global',
-        'DOMAIN-SUFFIX,media.steampowered.com,Global',
+        'DOMAIN,media.steampowered.com,Global',
         'DOMAIN-SUFFIX,surfsharkdns.com,Global',
         'DOMAIN-SUFFIX,thepiratebay.org,Global',
         'DOMAIN-SUFFIX,waveprotocol.org,Global',
@@ -2888,7 +2888,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,59.80.0.0/17,Domestic',
         'IP-CIDR,59.81.8.0/23,Domestic',
         'IP-CIDR,59.81.20.0/23,Domestic',
-        'IP-CIDR,59.81.36.0/23,Domestic',
         'IP-CIDR,59.81.40.0/23,Domestic',
         'IP-CIDR,59.81.46.0/24,Domestic',
         'IP-CIDR,59.81.64.0/23,Domestic',

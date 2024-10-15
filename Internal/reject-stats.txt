@@ -51,9 +51,9 @@ moethennessy.com                                                                
 unity3d.com                                                                                         21
 yahoo.com                                                                                           21
 adpinfo.com                                                                                         20
-alimama.com                                                                                         20
 coca-cola.com                                                                                       20
 hsbc.com                                                                                            20
+alimama.com                                                                                         19
 aon.com                                                                                             19
 focus.de                                                                                            19
 ogrt80r65.com                                                                                       19
@@ -183,7 +183,6 @@ townsquarenewsletters.com                                                       
 9odp.skin                                                                                           56
 bravenet.com                                                                                        54
 movidesk.com                                                                                        54
-qq.com                                                                                              54
 sfmc-marketingqa.com                                                                                54
 plus.com                                                                                            51
 progofficial.top                                                                                    51
@@ -191,8 +190,8 @@ rciadventure.com                                                                
 sfmctest.com                                                                                        50
 k7rv.icu                                                                                            49
 ormd.skin                                                                                           49
+qq.com                                                                                              49
 y22n.lat                                                                                            46
-baidu.com                                                                                           45
 wixstudio.io                                                                                        45
 wpenginepowered.com                                                                                 44
 verwin.com                                                                                          43
@@ -213,6 +212,7 @@ dln2.lat                                                                        
 ullz.lat                                                                                            32
 q33e.fun                                                                                            31
 shengen.ru                                                                                          31
+baidu.com                                                                                           30
 blogspot.com                                                                                        30
 hut1.ru                                                                                             30
 unenoteunjour.fr                                                                                    30
@@ -274,7 +274,6 @@ b66t.top                                                                        
 cnn.com                                                                                             19
 irza.lat                                                                                            19
 orogdq1.xyz                                                                                         19
-taobao.com                                                                                          19
 vxfc.lat                                                                                            19
 acronis.com                                                                                         18
 adkplan.fr                                                                                          18
@@ -343,7 +342,6 @@ fgfemail.com                                                                    
 foody.com.cy                                                                                        14
 kosmm.xyz                                                                                           14
 m7nw.icu                                                                                            14
-mob.com                                                                                             14
 nba.com                                                                                             14
 nestle.com                                                                                          14
 propl.top                                                                                           14
@@ -383,7 +381,6 @@ pro1wrld.top                                                                    
 programaticeu.xyz                                                                                   13
 quzu.skin                                                                                           13
 schroders.com                                                                                       13
-sohu.com                                                                                            13
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
 4ffw.sbs                                                                                            12
@@ -399,6 +396,7 @@ dvxd.lat                                                                        
 getui.com                                                                                           12
 lexisnexis.com                                                                                      12
 ltnk.skin                                                                                           12
+mob.com                                                                                             12
 nbpx.lat                                                                                            12
 ngrok.app                                                                                           12
 opentraderxwe.com                                                                                   12
@@ -437,7 +435,7 @@ n9g.cc                                                                          
 opym.top                                                                                            11
 polylia.com                                                                                         11
 ppaco.xyz                                                                                           11
-snssdk.com                                                                                          11
+sohu.com                                                                                            11
 target.com                                                                                          11
 trom-so.com                                                                                         11
 tsqwz.xyz                                                                                           11
@@ -485,6 +483,7 @@ sapo.pt                                                                         
 shell.com                                                                                           10
 snvq.top                                                                                            10
 sound.ag                                                                                            10
+taobao.com                                                                                          10
 tradwzorce.top                                                                                      10
 trapiconto.com                                                                                      10
 us.kg                                                                                               10

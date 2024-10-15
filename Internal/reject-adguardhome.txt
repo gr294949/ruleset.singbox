@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-15T08:43:12.399Z
-# Size: 64451
+# Last Updated: 2024-10-15T09:09:15.063Z
+# Size: 64447
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -269,11 +269,41 @@
 @@||inflight.pacwisp.net^
 @@||cbsi.map.fastly.net^
 @@||wwwimage-tve.cbsstatic.com^
+@@||amazonaws.com^
+@@||buzzfeed.com^
+@@||mewe.com^
+@@||wikileaks.org^
+@@||t.me^
+@@||siteadvisor.com^
+@@||virustotal.com^
+@@|www.fortiguard.co^
+@@|github.com^
+@@||bitbucket.org^
+@@||network-auth.com^
+@@||kaltura.com^
+@@||kaltura.map.fastly.net^
+@@||dna.ip-only.ne^
+@@||filters.adtidy.org^
+@@||reports.adguard.com^
 @@||pics.porndroids.com^
 @@||lk-subscr.tricolor.tv^
 @@|googleadservices.com^
 @@|www.googleadservices.com^
 @@||auto-api.yelp.com^
+@@||unpkg.com^
+@@||ad.10010.com^
+@@||ad.abchina.com^
+@@||ad.alimama.com^
+@@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
+@@||adcdn.pingan.com^
+@@||advert.kf5.com^
+@@||api.ads.tvb.com^
+@@||app-advertise.zhihuishu.com^
+@@||buyad.bi-xenon.cn^
+@@||captcha.su.baidu.com^
+@@||cmechina.net^
+@@||img.ads.tvb.com^
 @@||redirect.appmetrica.yandex.net^
 @@||redirect.appmetrica.yandex.com^
 @@||79423.analytics.edgekey.net^
@@ -367,36 +397,6 @@
 @@||nwolb.com^
 @@||adobelogin.com^
 @@||privat24.privatbank.ua^
-@@||amazonaws.com^
-@@||buzzfeed.com^
-@@||mewe.com^
-@@||wikileaks.org^
-@@||t.me^
-@@||siteadvisor.com^
-@@||virustotal.com^
-@@|www.fortiguard.co^
-@@|github.com^
-@@||bitbucket.org^
-@@||network-auth.com^
-@@||kaltura.com^
-@@||kaltura.map.fastly.net^
-@@||dna.ip-only.ne^
-@@||filters.adtidy.org^
-@@||reports.adguard.com^
-@@||unpkg.com^
-@@||ad.10010.com^
-@@||ad.abchina.com^
-@@||ad.alimama.com^
-@@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
-@@||adcdn.pingan.com^
-@@||advert.kf5.com^
-@@||api.ads.tvb.com^
-@@||app-advertise.zhihuishu.com^
-@@||buyad.bi-xenon.cn^
-@@||captcha.su.baidu.com^
-@@||cmechina.net^
-@@||img.ads.tvb.com^
 ||atom-log.3.cn^
 ||kzsisc.3.dk^
 ||mit3app.3.dk^
@@ -7535,7 +7535,6 @@
 ||0uvt8b.cn^
 ||0uyt5b.cn^
 ||data-c14a6b9c37.1000ps.de^
-|ad.10010.com^
 ||xmr.101010.pl^
 ||1.11467.com^
 ||114la.com^
@@ -11122,7 +11121,6 @@
 ||smetrics.pwccn.com^
 ||smetrics.pwchk.com^
 ||pwuxnr.cn^
-||pxlk9.net^
 ||q02orc.cn^
 ||smetrics.q107fm.ca^
 ||q1gel.icu^
@@ -20026,7 +20024,6 @@
 ||dmtracking2.alibaba.com^
 ||tracelog.www.alibaba.com^
 |p.alimama.com^
-|ad.alimama.com^
 |adx.alimama.com^
 |pre-ad.alimama.com^
 |c.click.alimama.com^
@@ -45738,7 +45735,6 @@
 ||caterpillarsigns.coversandall.ca^
 ||caterpillarsigns.coversandall.eu^
 ||somni.cpoworkshop.com^
-|e.crashlytics.com^
 |reports.crashlytics.com^
 ||images.crazynews.crazyshirts.com^
 ||creativedot.net^
