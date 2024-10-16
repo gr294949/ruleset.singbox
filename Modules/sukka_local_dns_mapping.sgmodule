@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-16T07:23:52.814Z
+#!desc=Last Updated: 2024-10-16T11:34:56.700Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -424,7 +424,6 @@ ntt.setup = server:system
 pi.hole = server:system
 *.plex.direct = server:system
 *.m2m = server:system
-*.ts.net = server:system
 injections.adguard.org = server:system
 local.adguard.org = server:system
 *._tcp = server:system

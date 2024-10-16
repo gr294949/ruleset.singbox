@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-16T07:23:53.135Z
+// # Build 2024-10-16T11:34:56.999Z
 
 declare(strict_types=1);
 
@@ -2195,7 +2195,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,huaweimobilewifi.com,DIRECT',
         'DOMAIN-SUFFIX,blackwell-synergy.com,DIRECT',
         'DOMAIN,homerouter.cpe,DIRECT',
-        'DOMAIN-SUFFIX,ts.net,DIRECT',
         'DOMAIN-SUFFIX,joyhd.net,DIRECT',
         'DOMAIN-SUFFIX,nicept.net,DIRECT',
         'DOMAIN-SUFFIX,pthome.net,DIRECT',

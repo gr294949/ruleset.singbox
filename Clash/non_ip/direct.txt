@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-10-16T07:23:52.814Z
-# Size: 219
+# Last Updated: 2024-10-16T11:34:56.700Z
+# Size: 218
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -80,7 +80,6 @@ DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,huaweimobilewifi.com
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN,homerouter.cpe
-DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,pthome.net

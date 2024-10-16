@@ -1,7 +1,6 @@
 dns:
   fake-ip-filter:
     - +.+m2m
-    - +.+ts.net
     - +.$injections.adguard.org
     - +.$local.adguard.org
     - +.+_tcp

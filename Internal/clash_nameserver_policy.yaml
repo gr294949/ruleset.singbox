@@ -365,10 +365,6 @@ dns:
       - system://
       - system
       - dhcp://system
-    "*.ts.net":
-      - system://
-      - system
-      - dhcp://system
     injections.adguard.org:
       - system://
       - system
