@@ -393,10 +393,6 @@ dns:
       - system://
       - system
       - dhcp://system
-    localhost:
-      - system://
-      - system
-      - dhcp://system
     +.localdomain:
       - system://
       - system
@@ -425,7 +421,43 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.2?.172.in-addr.arpa:
+    +.20.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.21.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.22.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.23.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.24.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.25.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.26.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.27.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.28.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.29.172.in-addr.arpa:
       - system://
       - system
       - dhcp://system
@@ -481,4 +513,6 @@ hosts:
   dns.360.net:
     - 101.198.198.198
     - 101.198.199.200
+  localhost:
+    - 127.0.0.1
 

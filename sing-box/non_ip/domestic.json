@@ -4,6 +4,9 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "url.cn",
+        "acg.tv",
+        "b23.tv",
         "www.intel.cn",
         "lv.queniujq.cn",
         "dl.ubnt.com",
@@ -34,7 +37,6 @@
         "nmc.cn",
         "org.cn",
         "php.cn",
-        "url.cn",
         "wps.cn",
         "2144.cn",
         "cctv.cn",
@@ -141,8 +143,6 @@
         "qbox.me",
         "coding.me",
         "oppoer.me",
-        "acg.tv",
-        "b23.tv",
         "fun.tv",
         "pps.tv",
         "douyu.tv",
@@ -443,7 +443,6 @@
         "netease.com",
         "oppopay.com",
         "orayimg.com",
-        "qhimgs?.com",
         "qihucdn.com",
         "qingcdn.com",
         "qiyipic.com",
@@ -769,7 +768,7 @@
         "dl.delivery.mp.microsoft.com"
       ],
       "domain_keyword": [],
-      "domain_regex": [],
+      "domain_regex": ["^[a-zA-Z0-9-_.]*?\\.qhimgs[a-zA-Z0-9-_.]\\.com$"],
       "ip_cidr": [],
       "source_ip_cidr": [],
       "source_port": [],
