@@ -31,15 +31,6 @@ dns:
     - "*.xboxlive.com"
     - "*.turn.twilio.com"
     - "*.stun.twilio.com"
+    - stun.syncthing.net
     - stun.*
-    - time.*.com
-    - time.*.gov
-    - time.*.edu.cn
-    - time.*.apple.com
-    - time?.*.com
-    - ntp.*.com
-    - ntp?.*.com
-    - "*.time.edu.cn"
-    - "*.ntp.org.cn"
-    - "*.pool.ntp.org"
 
