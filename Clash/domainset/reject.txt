@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-15T16:13:31.770Z
-# Size: 115176
+# Last Updated: 2024-10-17T08:23:32.788Z
+# Size: 115215
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3000,6 +3000,7 @@ adcloud.jp
 +.botndm.nl
 +.istats.nl
 +.mtrack.nl
++.nmo-ep.nl
 +.webads.nl
 +.adcalls.nl
 +.adsight.nl
@@ -11541,6 +11542,7 @@ lgtvsdp.com
 +.dicouksa.com
 +.dicyiish.com
 +.didodadn.com
++.didspack.com
 +.didthere.com
 +.digadser.com
 +.digisets.com
@@ -13286,6 +13288,7 @@ lgtvsdp.com
 +.ryeprior.com
 +.ryqlbqdj.com
 +.ryushare.com
++.rzdcdjxg.com
 +.s-adzone.com
 +.s-onetag.com
 +.s2rjtiki.com
@@ -16696,6 +16699,7 @@ lgtvsdp.com
 +.sitewithg.com
 +.sjczzdfvd.com
 +.sjmbwxnqz.com
++.skhgzrtxy.com
 +.skhmjezzj.com
 +.skinected.com
 +.sleeknote.com
@@ -18020,6 +18024,7 @@ lgtvsdp.com
 +.ambientdsp.com
 +.ambuizeler.com
 +.amelatrina.com
++.amkxihjuvo.com
 +.ammankeyan.com
 +.amoddishor.com
 +.ampugi334f.com
@@ -18194,6 +18199,7 @@ lgtvsdp.com
 +.bddc935c97.com
 +.bdf7a07377.com
 +.bdhddyknhy.com
++.be30660063.com
 +.bea988787c.com
 +.beachlinkz.com
 +.beardyapii.com
@@ -19077,6 +19083,7 @@ lgtvsdp.com
 +.gaveasword.com
 +.gbf77po03m.com
 +.gbiyigdsgu.com
++.gbzvldguay.com
 +.gcfynlyvab.com
 +.gcomfbzrsa.com
 +.gdmdigital.com
@@ -20115,6 +20122,7 @@ lgtvsdp.com
 +.ozectynptd.com
 +.ozmspawupo.com
 +.ozonemedia.com
++.ozzvjbdqcw.com
 +.p59othersq.com
 +.paddlemenu.com
 +.pagelazada.com
@@ -22863,6 +22871,7 @@ samsungqbe.com
 +.keynotefool.com
 +.keyrunmodel.com
 +.kezytpdsxmw.com
++.kfyrquavidn.com
 +.kggiqfmeafi.com
 +.kgouzrranqt.com
 +.kgsehayyvhk.com
@@ -23317,6 +23326,7 @@ samsungqbe.com
 +.olivefamine.com
 +.ombrealbany.com
 +.omgwowgirls.com
++.omhxguadsvq.com
 +.omniconvert.com
 +.omzoroarkan.com
 +.onandeggsis.com
@@ -24550,6 +24560,7 @@ samsungqbe.com
 +.whiskyqueue.com
 +.whjibbprhng.com
 +.whkyiuufzjt.com
++.whoawoansoo.com
 +.whollyneedy.com
 +.whufteekoam.com
 +.widerplanet.com
@@ -25079,6 +25090,7 @@ samsungqbe.com
 +.bbuildersget.com
 +.bcajjtbzmdrl.com
 +.bceptemujahb.com
++.bdckqpofmclr.com
 +.beamincrease.com
 +.beanborrowed.com
 +.bearbanepant.com
@@ -25408,6 +25420,7 @@ samsungqbe.com
 +.cutesyapaise.com
 +.cvietcombank.com
 +.cvixthukvgac.com
++.cvwrkqfpapsg.com
 +.cvyimypsjxca.com
 +.cxrfoubqoxnk.com
 +.cybertronads.com
@@ -25686,6 +25699,7 @@ samsungqbe.com
 +.exultantdrop.com
 +.exurbdaimiel.com
 +.eyyicbskhglf.com
++.eznwukoceebp.com
 +.ezzmvdyyzccx.com
 +.f95nkry2nf8o.com
 +.faciledegree.com
@@ -25722,6 +25736,7 @@ samsungqbe.com
 +.fgkqaatlzhgn.com
 +.fh259by01r25.com
 +.fhepiqajsdap.com
++.fhvfznpehzgl.com
 +.fibfgfptaeci.com
 +.fickle-brush.com
 +.fickleclinic.com
@@ -25759,6 +25774,7 @@ samsungqbe.com
 +.fluentmobile.com
 +.fluidallobar.com
 +.fluidsurveys.com
++.flungsnibble.com
 +.flyerseafood.com
 +.flyingadvert.com
 +.fmlabsonline.com
@@ -26528,6 +26544,7 @@ samsungqbe.com
 +.mmutpubcaegu.com
 +.mndjcojpsdcr.com
 +.mnekumtrssln.com
++.mnpdylwayjbh.com
 +.moawgsfidoqm.com
 +.moawhoumahow.com
 +.mobilerevenu.com
@@ -26545,6 +26562,7 @@ samsungqbe.com
 +.monkquestion.com
 +.monsoonlassi.com
 +.monthsappear.com
++.mooruptraiks.com
 +.mopesrubelle.com
 +.mopiwhoisqui.com
 +.morefriendly.com
@@ -26660,6 +26678,7 @@ samsungqbe.com
 +.nlvwdlnhfnnw.com
 +.nmqwdmtwjleb.com
 +.nnjisvdxaoet.com
++.nogaiboccaro.com
 +.nohowsankhya.com
 +.nomeuspagrus.com
 +.nomorepecans.com
@@ -27068,6 +27087,7 @@ samsungqbe.com
 +.quicksandear.com
 +.quicksitting.com
 +.quidclueless.com
++.quiffredsear.com
 +.quippedtcawi.com
 +.quokkacheeks.com
 +.quzwteqzaabm.com
@@ -28042,6 +28062,7 @@ samsungqbe.com
 +.wokm8isd4zit.com
 +.wollycanoing.com
 +.wonderhsjnsd.com
++.woodieababua.com
 +.woodtipvpnrh.com
 +.wordmonetize.com
 +.workedworlds.com
@@ -29241,6 +29262,7 @@ samsungqbe.com
 +.guaranteefume.com
 +.guaranteelamp.com
 +.guardedschool.com
++.guareacelling.com
 +.guesswhatnews.com
 +.guidonsfeeing.com
 +.gullible-hope.com
@@ -29551,6 +29573,7 @@ samsungqbe.com
 +.kvumadoxpipqq.com
 +.kxadykuwmllrn.com
 +.kymnelboloman.com
++.labelstrinkum.com
 +.laboredlocket.com
 +.laccaiccrusta.com
 +.laciniatibert.com
@@ -31175,6 +31198,7 @@ samsungqbe.com
 +.allfreecounter.com
 +.alli-ti-hunter.com
 +.alluringbucket.com
++.almonryminuter.com
 +.alodialreciter.com
 +.alphabetlayout.com
 +.altitude-arena.com
@@ -33259,6 +33283,7 @@ samsungqbe.com
 +.troublebrought.com
 +.trqwuvidegayhr.com
 +.truckstomatoes.com
++.trullercurrant.com
 +.trungtamgarena.com
 +.trusting-offer.com
 +.trustmaxonline.com
@@ -34837,6 +34862,7 @@ samsungqbe.com
 +.shrimpgenerator.com
 +.sibilantsuccess.com
 +.sierradissolved.com
++.similarpresence.com
 +.sindatontherrom.com
 +.sinefilmizlesen.com
 +.sinnerobtrusive.com
@@ -34962,6 +34988,7 @@ samsungqbe.com
 +.tbudpgepadxfoch.com
 +.tdgtkqtluuhjcfw.com
 +.technoratimedia.com
++.techourtoapingu.com
 +.techtricksworld.com
 +.teenytinycellar.com
 +.teenytinytongue.com
@@ -39171,6 +39198,7 @@ samsungqbe.com
 +.saunamilitarymental.com
 +.sausagefaithfemales.com
 +.scalesapologyprefix.com
++.scheduleginnarcotic.com
 +.scholarkeyboarddoom.com
 +.schoolboyfingernail.com
 +.scintillatingsilver.com
@@ -40277,6 +40305,7 @@ samsungcloudsolution.com
 +.disappearingassertive.com
 +.disbeliefenvelopemeow.com
 +.disciplecousinendorse.com
++.disclosesweepraincoat.com
 +.disgustedawaitingcone.com
 +.dishevelledoughtshall.com
 +.disingenuousdismissed.com
@@ -44083,6 +44112,8 @@ samsungcloudsolution.com
 +.jbib-hxyf.icu
 +.lazadaapp.icu
 +.qa-vatote.icu
++.jztwidpixa.icu
++.m-fmfadcfm.icu
 +.yxuytpfe-t.icu
 +.kubicserves.icu
 +.yourprivacy.icu
@@ -46181,6 +46212,7 @@ samsungcloudsolution.com
 +.jullyambery.net
 +.kebeckirgon.net
 +.ketseestoog.net
++.kixestalsie.net
 +.koazowapsib.net
 +.koocawhaido.net
 +.korenizsemi.net
@@ -46493,6 +46525,7 @@ samsungcloudsolution.com
 +.gitsurtithauth.net
 +.glaubsoopsehen.net
 +.globalwebindex.net
++.goobefirumaupt.net
 +.goryachie-foto.net
 +.granseerdissee.net
 +.imageadvantage.net
@@ -46527,6 +46560,7 @@ samsungcloudsolution.com
 +.conversionlogic.net
 +.datamarketplace.net
 +.flixsyndication.net
++.gibizosutchoakr.net
 +.google-pagerank.net
 +.graigloapikraft.net
 +.hubaffiliations.net
@@ -47589,6 +47623,7 @@ samsungcloudsolution.net
 +.turbulent-bedroom.pro
 +.weirddistribution.pro
 +.bustling-substance.pro
++.clutteredassociate.pro
 +.compassionaterough.pro
 +.complete-afternoon.pro
 +.conventional-nurse.pro
@@ -49366,6 +49401,7 @@ samsungcloudsolution.net
 +.favaqo.xyz
 +.fbfec2.xyz
 +.fbfrbt.xyz
++.fc3ppv.xyz
 +.fczunn.xyz
 +.fdtlfl.xyz
 +.febtzd.xyz
@@ -51683,6 +51719,7 @@ samsungcloudsolution.net
 +.chaipungie.xyz
 +.chiasephim.xyz
 +.chijauqybb.xyz
++.chiwaiwhor.xyz
 +.choulsoans.xyz
 +.chumpaufte.xyz
 +.cilvhypjiv.xyz
@@ -52379,6 +52416,7 @@ samsungcloudsolution.net
 +.rreauksofthecom.xyz
 +.rtxbdugpeumpmye.xyz
 +.sassaglertoulti.xyz
++.seedouptoanapsy.xyz
 +.shdegtbokshipns.xyz
 +.simpliftsbefore.xyz
 +.soglaptaicmaurg.xyz
@@ -54168,6 +54206,7 @@ nmbr.info
 +.yhdemu368.shop
 +.yyddkm526.shop
 +.absorbmele.shop
++.acrityezra.shop
 +.ad-service.shop
 +.aeeonmaili.shop
 +.askewusurp.shop
@@ -54331,6 +54370,7 @@ nmbr.info
 +.impedergusher.shop
 +.inlandteiidae.shop
 +.isiacalcasual.shop
++.kamahiunvisor.shop
 +.khazardungeon.shop
 +.lettedhomoean.shop
 +.logresempales.shop
@@ -54397,6 +54437,7 @@ nmbr.info
 +.sternedfranion.shop
 +.talcingartarin.shop
 +.trampletittery.shop
++.trocarssubpool.shop
 +.vn-nhanquatang.shop
 +.vroomedbedroll.shop
 +.warisonrescuer.shop
@@ -68498,6 +68539,7 @@ abema-adx.ameba.jp
 +.tr.business-deal.nl
 +.campagne.enecozakelijk.nl
 +.swa.energiedirect.nl
++.unl1zvy2zuyn.franchiseplus.nl
 +.m3uef4b38brmbntdzx.franchiseplus.nl
 +.secmetrics.friendscout24.nl
 +.smetrics.handelsbanken.nl
@@ -69201,7 +69243,7 @@ x.o2.pl
 +.clnbze.stronakobiet.pl
 +.xvkhez.swiatkwiatow.pl
 +.cogxmr.travelplanet.pl
-+.p2ro4u.trybawaryjny.pl
++.yctjw54slxrwwlh.trybawaryjny.pl
 +.nlf6.vente-unique.pl
 +.vpl.voyage-prive.pl
 +.analytics.wienerberger.pl
@@ -71043,6 +71085,7 @@ gif.7mmtv.sx
 +.an.sny.tv
 +.stats.tou.tv
 +.collector.vhx.tv
++.w2g-mtrx.w2g.tv
 +.log.wat.tv
 +.ad.52av.tv
 +.log.adap.tv
@@ -77463,7 +77506,6 @@ shouji.sougou.com
 +.marketing.syntax.com
 +.am.szhome.com
 +.collector.szlcsc.com
-+.8e0905osvgw5.taleez.com
 +.lfbowp.talisa.com
 +.mdws.tandia.com
 re.taobao.com
@@ -86796,7 +86838,6 @@ push.wandoujia.com
 +.5e24c893ea.bc1da16d64.com
 +.3127e9ed17.bd6afd7ab5.com
 +.serve.bdsmstreak.com
-+.3d78620f7e.be30660063.com
 +.aiq-in.beachbound.com
 +.smetrics.beatsbydre.com
 +.vwqbuc.beautymade.com
@@ -91338,7 +91379,6 @@ material.istreamsche.com
 +.sxjfhh.floridatoday.com
 +.repdata.floridatoday.com
 +.track.fluffyfalcon.com
-+.bj.flungsnibble.com
 +.fna.fnainsurance.com
 +.sentry.footballiapp.com
 +.a8clk.for-customer.com
@@ -99572,6 +99612,7 @@ www-analytics.ripe.net
 +.ad-serve.b-cdn.net
 +.bbangads.b-cdn.net
 +.tracking.b-cdn.net
++.w2g-ping.b-cdn.net
 +.winonexd.b-cdn.net
 +.core-apps.b-cdn.net
 +.popcashjs.b-cdn.net
@@ -107026,7 +107067,7 @@ adx-drcn.op.dbankcloud.cn
 +.play.go.cloot.ga
 +.wiar9wff0ma9.ping.t3.gg
 +.3wn3w3skxpym.round.t3.gg
-+.76zvoxo5yx0l.www.eldorado.gg
++.w9g7dlhw3kaank.www.eldorado.gg
 +.smetrics.telecel.com.gh
 +.smetrics.vodafone.com.gh
 +.stbg.stanbicbank.com.gh
@@ -113079,9 +113120,6 @@ httpdns.push.oppomobile.com
 +.a8clk.www.duskin-hozumi.com
 +.secure.checkout.ecosferastile.com
 +.images.explore.editionhotels.com
-+.7mvmjg.www.emanualonline.com
-+.jii3gnhro.www.emanualonline.com
-+.dwdlpqm6d4ra.test1.emanualonline.com
 +.trck.go.emoneyadvisor.com
 +.tr.news.entreprise-pm.com
 +.tr.newsletter.etoiledevenus.com
@@ -113994,6 +114032,9 @@ sec.resource.xiaomi.net
 +.1529462937.rsc.cdn77.org
 +.1548164934.rsc.cdn77.org
 +.1558334541.rsc.cdn77.org
++.1583263508.rsc.cdn77.org
++.1596918856.rsc.cdn77.org
++.1614729201.rsc.cdn77.org
 +.1675450967.rsc.cdn77.org
 +.1736253261.rsc.cdn77.org
 +.1844221534.rsc.cdn77.org
@@ -114213,8 +114254,6 @@ sec.resource.xiaomi.net
 +.link.uat.my.smartcrowd.ae
 +.images.mkt.acindar.com.ar
 +.images.novedades.fibercorp.com.ar
-+.0d8is908gby1.www.terraform.com.ar
-+.rbat6ac0zzjd.www.terraform.com.ar
 +.target.wsec06.bancogalicia.com.ar
 +.target.onlinebanking.bancogalicia.com.ar
 +.trk.en.business.westernunion.at

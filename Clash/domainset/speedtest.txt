@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-15T14:58:00.685Z
-# Size: 434
+# Last Updated: 2024-10-17T08:23:32.838Z
+# Size: 436
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -151,6 +151,7 @@
 +.speedtest.cdmsfirst.com
 +.mensura.cdn-apple.com
 +.mns.i-systems.com
+speedtest.linknetbv.com
 +.speedtest.surfshark.com
 +.speed-test.westelcom.com
 +.speed.cloudflare.com
@@ -219,6 +220,7 @@
 +.lg-ams.fdcservers.net
 +.lg-sea.fdcservers.net
 +.lg-syd.fdcservers.net
+lg-tok.fdcservers.net
 +.lg-tor.fdcservers.net
 +.speedtest.windstream.net
 +.speedtest.centurylink.net
