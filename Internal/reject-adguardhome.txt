@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-17T14:16:53.390Z
-# Size: 116211
+# Last Updated: 2024-10-17T17:20:31.924Z
+# Size: 116243
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -141,15 +141,6 @@
 @@||net.mydays.de^
 @@||notifysrv.com^
 @@||notify6.com^
-@@||mhc-ajax-eu.myhomescreen.tv^
-@@||mhc-ajax-eu-s2.myhomescreen.tv^
-@@||mhc-xpana-eu.myhomescreen.tv^
-@@||mhc-xpana-eu-s2.myhomescreen.tv^
-@@||infolink.pavv.co.kr^
-@@||hbbtv.zdf.de^
-@@||hbbtv.prosieben.de^
-@@||hbbtv.redbutton.de^
-@@||hbbtv.kika.de^
 @@||whatfinger.com^
 @@||benelph.de^
 @@||norstatsurveys.com^
@@ -619,6 +610,15 @@
 @@||r.mail.ru^
 @@||s.youtube.com^
 @@||googleadapis.l.google.com^
+@@||mhc-ajax-eu.myhomescreen.tv^
+@@||mhc-ajax-eu-s2.myhomescreen.tv^
+@@||mhc-xpana-eu.myhomescreen.tv^
+@@||mhc-xpana-eu-s2.myhomescreen.tv^
+@@||infolink.pavv.co.kr^
+@@||hbbtv.zdf.de^
+@@||hbbtv.prosieben.de^
+@@||hbbtv.redbutton.de^
+@@||hbbtv.kika.de^
 @@||f-gear.ec-optimizer.com^
 @@||hidive.com^
 @@||res.ads.nicovideo.jp^
@@ -864,15 +864,53 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+@@||aainflight.com^
+@@||inflight.pacwisp.net^
 @@||duellinksmeta.com^
 @@||h.seznam.cz^
 @@||metrolagu.cam^
 @@||berlagu.com^
-@@||aainflight.com^
-@@||inflight.pacwisp.net^
 @@||cbsi.map.fastly.net^
 @@||wwwimage-tve.cbsstatic.com^
 @@||optout.networkadvertising.org^
+@@||amazonaws.com^
+@@||buzzfeed.com^
+@@||mewe.com^
+@@||wikileaks.org^
+@@||t.me^
+@@||siteadvisor.com^
+@@||virustotal.com^
+@@|www.fortiguard.co^
+@@|github.com^
+@@||bitbucket.org^
+@@||network-auth.com^
+@@||kaltura.com^
+@@||kaltura.map.fastly.net^
+@@||dna.ip-only.ne^
+@@||filters.adtidy.org^
+@@||reports.adguard.com^
+@@||pics.porndroids.com^
+@@||lk-subscr.tricolor.tv^
+@@|googleadservices.com^
+@@|www.googleadservices.com^
+@@||auto-api.yelp.com^
+@@||ad.alimama.com^
+@@||cmechina.net^
+@@||redirect.appmetrica.yandex.net^
+@@||optout.rlcdn.com^
+@@||software.seek.intel.com^
+@@||form.info-morimoto-real.jp^
+@@||connect.telstrawholesale.com^
+@@||login.eki-net.com^
+@@||ens.nzz.ch^
+@@||smartpixel.tv^
+@@||vodafonelimited.tt.omtrdc.net^
+@@||kiplinger.112.2o7.net^
+@@||equifaxps.122.2o7.net^
+@@||logging.apache.org^
+@@||metrics.torproject.org^
+@@||track2.royalmail.com^
+@@||webtrack.dhlglobalmail.com^
 @@||smsonline.cloud^
 @@||consent.cookiefirst.com^
 @@||trstx.org^
@@ -943,44 +981,6 @@
 @@||nwolb.com^
 @@||adobelogin.com^
 @@||privat24.privatbank.ua^
-@@||pics.porndroids.com^
-@@||lk-subscr.tricolor.tv^
-@@|googleadservices.com^
-@@|www.googleadservices.com^
-@@||auto-api.yelp.com^
-@@||redirect.appmetrica.yandex.net^
-@@||optout.rlcdn.com^
-@@||software.seek.intel.com^
-@@||form.info-morimoto-real.jp^
-@@||connect.telstrawholesale.com^
-@@||login.eki-net.com^
-@@||ens.nzz.ch^
-@@||smartpixel.tv^
-@@||vodafonelimited.tt.omtrdc.net^
-@@||kiplinger.112.2o7.net^
-@@||equifaxps.122.2o7.net^
-@@||logging.apache.org^
-@@||metrics.torproject.org^
-@@||track2.royalmail.com^
-@@||webtrack.dhlglobalmail.com^
-@@||ad.alimama.com^
-@@||cmechina.net^
-@@||amazonaws.com^
-@@||buzzfeed.com^
-@@||mewe.com^
-@@||wikileaks.org^
-@@||t.me^
-@@||siteadvisor.com^
-@@||virustotal.com^
-@@|www.fortiguard.co^
-@@|github.com^
-@@||bitbucket.org^
-@@||network-auth.com^
-@@||kaltura.com^
-@@||kaltura.map.fastly.net^
-@@||dna.ip-only.ne^
-@@||filters.adtidy.org^
-@@||reports.adguard.com^
 ||say.ac^
 ||mysp.ac^
 ||tube.ac^
@@ -1111,6 +1111,8 @@
 ||tvfeel.cc^
 ||vipads.cc^
 ||vmring.cc^
+||xpicj6.cc^
+||xpicj8.cc^
 ||areliux.cc^
 ||collecl.cc^
 ||ebayget.cc^
@@ -6264,6 +6266,7 @@
 ||deqik.com^
 ||didit.com^
 ||djers.com^
+||dktad.com^
 ||dmpxs.com^
 ||dmrtx.com^
 ||dmtry.com^
@@ -33459,6 +33462,7 @@
 ||nebulacrescent.com^
 ||nebulousquasar.com^
 ||nebulousripple.com^
+||negationomitor.com^
 ||negotiaterealm.com^
 ||neozoicriffled.com^
 ||neverforgettab.com^
@@ -44391,6 +44395,7 @@
 ||dsaewew21.fun^
 ||easyjav12.fun^
 ||edspectsm.fun^
+||etroytj33.fun^
 ||failjav11.fun^
 ||fearjav11.fun^
 ||g7ghdash2.fun^
@@ -44411,9 +44416,11 @@
 ||mildjav11.fun^
 ||moodjav12.fun^
 ||ovyyszfod.fun^
+||qtroytj33.fun^
 ||quatanthu.fun^
 ||quitjav11.fun^
 ||riotjav11.fun^
+||rtroytj33.fun^
 ||safejav12.fun^
 ||showjav11.fun^
 ||sidejav11.fun^
@@ -44428,6 +44435,7 @@
 ||vfdvdfv77.fun^
 ||vtbfgnf00.fun^
 ||wingjav11.fun^
+||wtroytj33.fun^
 ||avbang3431.fun^
 ||avbulb3431.fun^
 ||avdebt3431.fun^
@@ -44674,7 +44682,9 @@
 ||sltle.icu^
 ||smarf.icu^
 ||smatr.icu^
+||sslir.icu^
 ||stq89.icu^
+||tgb1l.icu^
 ||tjfbh.icu^
 ||twj6s.icu^
 ||u2tu4.icu^
@@ -44904,6 +44914,7 @@
 ||ifxqubw.icu^
 ||ihssdas.icu^
 ||ioffers.icu^
+||ioykmxa.icu^
 ||ipsoazr.icu^
 ||iqgessh.icu^
 ||ismuwcm.icu^
@@ -44965,6 +44976,7 @@
 ||plecnyz.icu^
 ||pmgfwya.icu^
 ||puwkcqp.icu^
+||pviasld.icu^
 ||pwcegau.icu^
 ||pxqqytk.icu^
 ||qfaaokr.icu^
@@ -45010,6 +45022,7 @@
 ||wbgafrr.icu^
 ||wcsmvmf.icu^
 ||weagehn.icu^
+||wkabios.icu^
 ||wlkukrv.icu^
 ||wnmoobz.icu^
 ||wnojded.icu^
@@ -48844,6 +48857,7 @@
 ||ertlisw.top^
 ||esyliew.top^
 ||etyusiw.top^
+||euresdw.top^
 ||ewaterw.top^
 ||eweriow.top^
 ||eyislow.top^
@@ -48893,6 +48907,7 @@
 ||jsyliea.top^
 ||jtyusia.top^
 ||jubbkon.top^
+||juresda.top^
 ||justapp.top^
 ||jwatera.top^
 ||jwerioa.top^
@@ -48908,6 +48923,7 @@
 ||krtlisd.top^
 ||ksylied.top^
 ||ktyusid.top^
+||kuresdd.top^
 ||kwaterd.top^
 ||kweriod.top^
 ||kyislod.top^
@@ -48978,6 +48994,7 @@
 ||ssylieb.top^
 ||starssp.top^
 ||styusib.top^
+||suresdb.top^
 ||swaterb.top^
 ||sweriob.top^
 ||syislob.top^
@@ -50171,6 +50188,7 @@
 ||a67d12.xyz^
 ||aadmei.xyz^
 ||aaiwuq.xyz^
+||abixkw.xyz^
 ||abqdgu.xyz^
 ||abucki.xyz^
 ||advnet.xyz^
@@ -50274,6 +50292,7 @@
 ||cfateu.xyz^
 ||cfb98a.xyz^
 ||cgczuu.xyz^
+||cggyyi.xyz^
 ||cgskys.xyz^
 ||chrtds.xyz^
 ||cjgymo.xyz^
@@ -50369,6 +50388,7 @@
 ||equkgm.xyz^
 ||eqygki.xyz^
 ||eraygc.xyz^
+||erqtga.xyz^
 ||esqhsm.xyz^
 ||esqzwq.xyz^
 ||esyook.xyz^
@@ -50639,6 +50659,7 @@
 ||lwdcnz.xyz^
 ||lwprdv.xyz^
 ||lwrohd.xyz^
+||lxpbdp.xyz^
 ||lxryhx.xyz^
 ||lzzqfj.xyz^
 ||maioux.xyz^
@@ -50749,6 +50770,7 @@
 ||onefuq.xyz^
 ||ooejkd.xyz^
 ||oouiqi.xyz^
+||opkmio.xyz^
 ||opqnkw.xyz^
 ||oprece.xyz^
 ||opwoga.xyz^
@@ -50818,6 +50840,7 @@
 ||qcohkm.xyz^
 ||qcsvku.xyz^
 ||qdcxia.xyz^
+||qdoeki.xyz^
 ||qeedaa.xyz^
 ||qeeocy.xyz^
 ||qhapoq.xyz^
@@ -50935,6 +50958,7 @@
 ||templa.xyz^
 ||tgrpzl.xyz^
 ||thjwxz.xyz^
+||thrzbf.xyz^
 ||tiaoap.xyz^
 ||tihdjd.xyz^
 ||tkauru.xyz^
@@ -51173,6 +51197,7 @@
 ||zylizz.xyz^
 ||zyrnbh.xyz^
 ||zztxfj.xyz^
+||1iohncj.xyz^
 ||3601880.xyz^
 ||3615407.xyz^
 ||3615738.xyz^
@@ -52178,6 +52203,7 @@
 ||ousinouk.xyz^
 ||outchops.xyz^
 ||owcdilxy.xyz^
+||p40rlh4k.xyz^
 ||p97387hj.xyz^
 ||palroudi.xyz^
 ||pangtues.xyz^
@@ -78265,6 +78291,7 @@
 ||littlelilistore.rdtrke.com^
 ||iot-logser.realme.com^
 ||iot-eu-logser.realme.com^
+||iot-in-logser.realme.com^
 ||cruntn.receno.com^
 ||link.rechat.com^
 ||med.rectiv.com^
@@ -80168,6 +80195,7 @@
 ||log.isnssdk.com^
 ||mon.isnssdk.com^
 ||open.isnssdk.com^
+||rtlog.isnssdk.com^
 ||i16-tb.isnssdk.com^
 ||log-tb.isnssdk.com^
 ||ichannel.isnssdk.com^
@@ -81260,6 +81288,7 @@
 ||rtlog.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||xlog-va.tiktokv.com^
+||log-boot.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
 ||mcs-va-useast2a.tiktokv.com^
 ||tjnffp.tilebar.com^
@@ -92630,6 +92659,7 @@
 ||marketing.kainmcarthur.com^
 ||moygic.kamtechsolar.com^
 ||smetrics.kansasfarmer.com^
+||event.karrotmarket.com^
 ||qixipi.kathykuohome.com^
 ||e.kc-education.com^
 ||stats.keirwhitaker.com^
@@ -101129,6 +101159,7 @@
 ||vakzsu.gagushow.net^
 ||clk.get-karz.net^
 ||collector-hpn.ghostery.net^
+||mt.gigazine.net^
 ||pw.gigazine.net^
 ||metrics.glucerna.net^
 ||xml.goclickz.net^
@@ -116181,6 +116212,7 @@
 ||data.msg.email.commsec.com.au^
 ||heartbeats.prd.data.s.joyn.de^
 ||event-collector.prd.data.s.joyn.de^
+||events-api.towneers.prod.data.krmt.io^
 ||branch.vcf-test.vzw.dev.llabs.io^
 ||info.mkt.global.dnp.co.jp^
 ||www.secure.rc-club.ricoh.co.jp^
