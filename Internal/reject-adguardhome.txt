@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-18T09:15:38.068Z
-# Size: 116287
+# Last Updated: 2024-10-18T13:23:14.640Z
+# Size: 116293
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -110,6 +110,7 @@
 @@||app.link^
 @@||router.asus.com^
 @@||axiom.co^
+@@||applicationinsights.azure.cn^
 @@||bat.bing.com^
 @@||braze.eu^
 @@||dw.cbsi.com^
@@ -22936,6 +22937,7 @@
 ||ckodsxyjdql.com^
 ||clash-media.com^
 ||cleveritics.com^
+||cleverreach.com^
 ||clickadilla.com^
 ||clickalyzer.com^
 ||clickintext.com^
@@ -59143,6 +59145,7 @@
 ||a1.99966.cn^
 ||apilog-web.acfun.cn^
 |fota4.adups.cn^
+||collector.azure.cn^
 ||a1.bajiu.cn^
 ||cpro.bdrmb.cn^
 ||ad.cdnjm.cn^
@@ -76865,6 +76868,7 @@
 ||mads.amazon.com^
 ||mads-eu.amazon.com^
 ||mads-fe.amazon.com^
+||amazon-adsystem.amazon.com^
 ||device-metrics-us.amazon.com^
 |device-metrics-us-2.amazon.com^
 ||banners.amigos.com^
@@ -88773,6 +88777,7 @@
 ||vhpabx.herffjones.com^
 ||teijgy.herveleger.com^
 ||bi.heyloyalty.com^
+||ads.heytapmobi.com^
 ||newy.hifiliving.com^
 ||web.hikari-ocn.com^
 ||a8clk.hikarinobe.com^
@@ -92595,6 +92600,7 @@
 ||resources.hermanmiller.com^
 ||smetrics.heromotocorp.com^
 ||jhbami.hervecuisine.com^
+||ads.heytapmobile.com^
 ||omes-sec.heytapmobile.com^
 ||httpdns-push.heytapmobile.com^
 ||dragate-in-dc.heytapmobile.com^
@@ -114053,7 +114059,6 @@
 ||tr.satisfaction.groupe-pv-cp.com^
 ||images.info.grupovaughan.com^
 ||track.hg.healthgrades.com^
-||adx-in.ads.heytapmobile.com^
 ||links.e.historyvault.com^
 ||ablink.engage.insighttimer.com^
 ||ablink.notification.insighttimer.com^
@@ -116069,6 +116074,7 @@
 |t3.a.market.xiaomi.com^
 |t4.a.market.xiaomi.com^
 |t5.a.market.xiaomi.com^
+|xadx.file.market.xiaomi.com^
 |image.cdn.mvideo.xiaomi.com^
 |url8807.global.passport.xiaomi.com^
 ||api.miui.security.xiaomi.com^

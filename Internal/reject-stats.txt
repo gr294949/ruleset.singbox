@@ -4,7 +4,7 @@ windows.com                                                                     
 weebly.com                                                                                          117
 llnw.net                                                                                            101
 adobe.com                                                                                           91
-xiaomi.com                                                                                          89
+xiaomi.com                                                                                          90
 baidu.com                                                                                           87
 qq.com                                                                                              67
 eccocar.com                                                                                         51
@@ -156,6 +156,7 @@ yandex.ru                                                                       
 935ft4j96.com                                                                                       10
 acspubs.org                                                                                         10
 agilent.com                                                                                         10
+amazon.com                                                                                          10
 aotter.net                                                                                          10
 auction.co.kr                                                                                       10
 azureedge.net                                                                                       10

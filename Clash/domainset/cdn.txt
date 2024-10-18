@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-18T12:10:56.937Z
-# Size: 2493
+# Last Updated: 2024-10-18T13:23:08.771Z
+# Size: 2494
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -643,6 +643,7 @@ content.arduino.cc
 registry.npmjs.cf
 +.ipfs.xoqq.ch
 static.infomaniak.ch
++.applicationinsights.azure.cn
 i.ibb.co
 image.ibb.co
 s.w-x.co
