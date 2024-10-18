@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-18T04:12:44.933Z
-# Size: 116286
+# Last Updated: 2024-10-18T09:10:18.235Z
+# Size: 116287
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -141,15 +141,6 @@
 @@||net.mydays.de^
 @@||notifysrv.com^
 @@||notify6.com^
-@@||mhc-ajax-eu.myhomescreen.tv^
-@@||mhc-ajax-eu-s2.myhomescreen.tv^
-@@||mhc-xpana-eu.myhomescreen.tv^
-@@||mhc-xpana-eu-s2.myhomescreen.tv^
-@@||infolink.pavv.co.kr^
-@@||hbbtv.zdf.de^
-@@||hbbtv.prosieben.de^
-@@||hbbtv.redbutton.de^
-@@||hbbtv.kika.de^
 @@||whatfinger.com^
 @@||benelph.de^
 @@||norstatsurveys.com^
@@ -758,6 +749,15 @@
 @@||track.rutarget.ru^
 @@||5471782.fls.doubleclick.net^
 @@||omniture.walmart.com^
+@@||mhc-ajax-eu.myhomescreen.tv^
+@@||mhc-ajax-eu-s2.myhomescreen.tv^
+@@||mhc-xpana-eu.myhomescreen.tv^
+@@||mhc-xpana-eu-s2.myhomescreen.tv^
+@@||infolink.pavv.co.kr^
+@@||hbbtv.zdf.de^
+@@||hbbtv.prosieben.de^
+@@||hbbtv.redbutton.de^
+@@||hbbtv.kika.de^
 @@||top.mail.ru^
 @@||sumo.com^
 @@||o0bc.com^
@@ -853,12 +853,6 @@
 @@||st.dynamicyield.com^
 @@||services.haaretz.co.il^
 @@||trycloudflare.com^
-@@||aainflight.com^
-@@||inflight.pacwisp.net^
-@@||duellinksmeta.com^
-@@||h.seznam.cz^
-@@||metrolagu.cam^
-@@||berlagu.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -870,11 +864,19 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+@@||duellinksmeta.com^
+@@||h.seznam.cz^
+@@||metrolagu.cam^
+@@||berlagu.com^
 @@||cbsi.map.fastly.net^
 @@||wwwimage-tve.cbsstatic.com^
-@@||optout.networkadvertising.org^
-@@||ad.alimama.com^
-@@||cmechina.net^
+@@||aainflight.com^
+@@||inflight.pacwisp.net^
+@@||pics.porndroids.com^
+@@||lk-subscr.tricolor.tv^
+@@|googleadservices.com^
+@@|www.googleadservices.com^
+@@||auto-api.yelp.com^
 @@||amazonaws.com^
 @@||buzzfeed.com^
 @@||mewe.com^
@@ -891,6 +893,7 @@
 @@||dna.ip-only.ne^
 @@||filters.adtidy.org^
 @@||reports.adguard.com^
+@@||optout.networkadvertising.org^
 @@||redirect.appmetrica.yandex.net^
 @@||optout.rlcdn.com^
 @@||software.seek.intel.com^
@@ -906,11 +909,6 @@
 @@||metrics.torproject.org^
 @@||track2.royalmail.com^
 @@||webtrack.dhlglobalmail.com^
-@@||pics.porndroids.com^
-@@||lk-subscr.tricolor.tv^
-@@|googleadservices.com^
-@@|www.googleadservices.com^
-@@||auto-api.yelp.com^
 @@||smsonline.cloud^
 @@||consent.cookiefirst.com^
 @@||trstx.org^
@@ -981,6 +979,8 @@
 @@||nwolb.com^
 @@||adobelogin.com^
 @@||privat24.privatbank.ua^
+@@||ad.alimama.com^
+@@||cmechina.net^
 ||say.ac^
 ||mysp.ac^
 ||tube.ac^
@@ -102737,6 +102737,7 @@
 ||mediasolutions.netinsight.net^
 ||acv.nft-hikari.net^
 ||log.pdfreaders.net^
+||client.perimeterx.net^
 ||a8clk.point-land.net^
 ||ads.pornharlot.net^
 ||njnlih.realitatea.net^

@@ -189,9 +189,9 @@ adkoffer.fr                                                                     
 netspend.com                                                                                        63
 bravenet.com                                                                                        54
 plus.com                                                                                            51
+wpenginepowered.com                                                                                 51
 rciadventure.com                                                                                    50
 qq.com                                                                                              49
-wpenginepowered.com                                                                                 49
 wixstudio.io                                                                                        48
 vercel.app                                                                                          47
 pages.dev                                                                                           46
@@ -280,7 +280,6 @@ programaticeu.xyz                                                               
 quzu.skin                                                                                           13
 sa.com                                                                                              13
 schroders.com                                                                                       13
-us.kg                                                                                               13
 zettle.com                                                                                          13
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
@@ -304,6 +303,7 @@ peolke.xyz                                                                      
 pop6.com                                                                                            12
 printondemandagency.com                                                                             12
 progrr.top                                                                                          12
+us.kg                                                                                               12
 wegn.top                                                                                            12
 welerpro.com                                                                                        12
 zyskglot.top                                                                                        12
@@ -345,7 +345,6 @@ damstonges.com                                                                  
 eccocar.com                                                                                         10
 ezxz.lat                                                                                            10
 fivupsit.top                                                                                        10
-gtsepress.vip                                                                                       10
 ij5.cc                                                                                              10
 invbalp.site                                                                                        10
 jgik.lat                                                                                            10
