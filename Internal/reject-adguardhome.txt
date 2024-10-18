@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-18T14:51:39.573Z
-# Size: 116322
+# Last Updated: 2024-10-18T16:38:29.587Z
+# Size: 116330
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10644,6 +10644,7 @@
 ||orqaxjj.com^
 ||osfrjut.com^
 ||osoirux.com^
+||otoadom.com^
 ||otvlehf.com^
 ||outster.com^
 ||owldata.com^
@@ -17858,6 +17859,7 @@
 ||thearoids.com^
 ||thecodeil.com^
 ||theeptoah.com^
+||theetheks.com^
 ||theod-omq.com^
 ||theod-qsr.com^
 ||theonecdn.com^
@@ -20184,6 +20186,7 @@
 ||gumcongest.com^
 ||gutsnights.com^
 ||guvmcalwio.com^
+||guxidrookr.com^
 ||guybaafvpv.com^
 ||gvdetxlwcm.com^
 ||gvwdwrtzrs.com^
@@ -26342,6 +26345,7 @@
 ||cntrafficpro.com^
 ||coationexult.com^
 ||coatsanguine.com^
+||cobnutzelant.com^
 ||coendouspare.com^
 ||cogentwarden.com^
 ||coherebehalf.com^
@@ -30856,6 +30860,7 @@
 ||nkrvqmvlyryzn.com^
 ||nmrjnqiwocfyi.com^
 ||nmxcadosdrcbd.com^
+||nobledtenuous.com^
 ||nocturnalloom.com^
 ||nongrayrestis.com^
 ||nopoloferewer.com^
@@ -33894,6 +33899,7 @@
 ||riverstressful.com^
 ||rivetrearrange.com^
 ||rjiwweegcearer.com^
+||rjlkibvwgxiduq.com^
 ||rkajleihgyidsu.com^
 ||rmgfulosqmlcly.com^
 ||roabmyrevngqqk.com^
@@ -47702,6 +47708,7 @@
 ||hdywrwnvf-h.one^
 ||redirection.one^
 ||vieclamfptt.one^
+||vzeakntvvkc.one^
 ||ae-edqfrmstp.one^
 ||wzcuinglezyz.one^
 ||steamunlocked.one^
@@ -55008,6 +55015,7 @@
 ||pdheuryopd.loan^
 ||candyai.love^
 ||pptnuhffs.love^
+||iv-akuifxp.love^
 ||x-zjxfhysb.love^
 ||adjmntesdsoi.love^
 ||shopee.luxe^
