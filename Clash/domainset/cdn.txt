@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-18T13:23:08.771Z
-# Size: 2494
+# Last Updated: 2024-10-18T14:51:33.806Z
+# Size: 2495
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1047,6 +1047,7 @@ public-cdn.bblmw.com
 images.bfmtv.com
 tags.bkrtx.com
 assets.bnidx.com
+safebrowsing.brave.com
 designsystem.brevo.com
 cdn.cameo.com
 ajax.cdnjs.com

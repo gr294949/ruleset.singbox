@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-18T13:23:14.640Z
-# Size: 116293
+# Last Updated: 2024-10-18T14:51:39.573Z
+# Size: 116322
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5649,6 +5649,7 @@
 ||clicktimes.bid^
 ||djfhwosjck.bid^
 ||fge9vbrzwt.bid^
+||pushadvert.bid^
 ||static-cnt.bid^
 ||vcfs6ip5h6.bid^
 ||avualrhg9p0.bid^
@@ -8679,6 +8680,7 @@
 ||tracot.com^
 ||trafit.com^
 ||tratbc.com^
+||trcktr.com^
 ||trecut.com^
 ||trk023.com^
 ||trkjmp.com^
@@ -12492,6 +12494,7 @@
 ||dfgbalon.com^
 ||dfsdkkka.com^
 ||dftjcofe.com^
+||dfwzepkz.com^
 ||dgamapxs.com^
 ||dgcgugid.com^
 ||dgojzjdb.com^
@@ -14752,6 +14755,7 @@
 ||userwave.com^
 ||ushoofop.com^
 ||usounoul.com^
+||usvitgco.com^
 ||uthounie.com^
 ||uu3192uu.com^
 ||uu8811uu.com^
@@ -18966,6 +18970,7 @@
 ||aklorswikk.com^
 ||aktwusgwep.com^
 ||akvpzgytzv.com^
+||alackzokor.com^
 ||alanibelen.com^
 ||alecclause.com^
 ||alespeonor.com^
@@ -19452,6 +19457,7 @@
 ||cibleclick.com^
 ||cicdserver.com^
 ||cijianggun.com^
+||cimtaiphos.com^
 ||ciqzagzwao.com^
 ||citizenhid.com^
 ||cityadspix.com^
@@ -21739,6 +21745,7 @@
 ||stoaphalti.com^
 ||stonkstime.com^
 ||stooduvumt.com^
+||stoopfalse.com^
 ||stoorgouxy.com^
 ||stopformal.com^
 ||storage-ad.com^
@@ -24402,6 +24409,7 @@
 ||passivepolo.com^
 ||passtechusa.com^
 ||pastcabbage.com^
+||patyholdups.com^
 ||paularrears.com^
 ||paulastroid.com^
 ||pauptoolari.com^
@@ -28021,6 +28029,7 @@
 ||pwbffdsszgkv.com^
 ||pwdxawuedjjj.com^
 ||pwrgrowthapi.com^
+||pyewdnerftym.com^
 ||pyxiscablese.com^
 ||pzwigrnuimeh.com^
 ||q6idnawboy7g.com^
@@ -28029,6 +28038,7 @@
 ||qalscihrolwu.com^
 ||qavgacsmegav.com^
 ||qcbfiytngupv.com^
+||qceatqoqwpza.com^
 ||qdlbdpsctalt.com^
 ||qdogpcfgejgc.com^
 ||qdvducltjswp.com^
@@ -32968,6 +32978,7 @@
 ||gnashesfanfare.com^
 ||gnatterjingall.com^
 ||gnfavfqifukyyl.com^
+||gobbingtheresa.com^
 ||gobetweengroan.com^
 ||golden-gateway.com^
 ||goldfishgrowth.com^
@@ -33394,6 +33405,7 @@
 ||metrica-yandex.com^
 ||meyximegrgypnv.com^
 ||mgdtnwnjwewlph.com^
+||mhczintehtfjzp.com^
 ||miaouedcrevass.com^
 ||mickiesetheric.com^
 ||midwifelangurs.com^
@@ -33588,6 +33600,7 @@
 ||pangiingsinspi.com^
 ||panickycurtain.com^
 ||panickypancake.com^
+||panoplywalkist.com^
 ||panoramicplane.com^
 ||paoukgnssmkeys.com^
 ||paragraphopera.com^
@@ -40436,6 +40449,7 @@
 ||assertedelevateratio.com^
 ||assistancelawnthesis.com^
 ||astronomycrawlingcol.com^
+||ate60vs7zcjhsjo5qgv8.com^
 ||atonementfosterchild.com^
 ||attributedharnesssag.com^
 ||attritioncombustible.com^
@@ -42531,6 +42545,7 @@
 ||exhibitedpermanentstoop.com^
 ||eyeshadowclayindulgence.com^
 ||failurehamburgerillicit.com^
+||fastidiousilliteratehag.com^
 ||femalesunderpantstrapes.com^
 ||fertilizerpokerelations.com^
 ||ff-memberrshipvn-garena.com^
@@ -42829,6 +42844,7 @@
 ||unusualbrainlessshotgun.com^
 ||uptightdecreaseclinical.com^
 ||vaccineconvictedseafood.com^
+||valuerstarringarmistice.com^
 ||vandalismundermineshock.com^
 ||varietyofdisplayformats.com^
 ||varyingcanteenartillery.com^
@@ -44492,6 +44508,7 @@
 ||insure1266.fun^
 ||launch1266.fun^
 ||momochanle.fun^
+||office1266.fun^
 ||resort1266.fun^
 ||revise1266.fun^
 ||revoke1266.fun^
@@ -44586,6 +44603,7 @@
 ||sailorjav128.fun^
 ||sandwich3452.fun^
 ||scrapejav128.fun^
+||sdbuuzhjzznc.fun^
 ||secondjav128.fun^
 ||shadowjav182.fun^
 ||sketchjav182.fun^
@@ -45135,6 +45153,7 @@
 ||hdbankfinance.icu^
 ||responservbzh.icu^
 ||samage-bility.icu^
+||deview-moryant.icu^
 ||comilar-efferiff.icu^
 ||readly-renterval.icu^
 ||tragency-clesburg.icu^
@@ -51228,6 +51247,7 @@
 ||zylizz.xyz^
 ||zyrnbh.xyz^
 ||zztxfj.xyz^
+||12aksss.xyz^
 ||1iohncj.xyz^
 ||3601880.xyz^
 ||3615407.xyz^
@@ -53182,6 +53202,7 @@
 ||ygeosqsomusu.xyz^
 ||yijaovuvbndx.xyz^
 ||zeemaustoops.xyz^
+||zoogroocevee.xyz^
 ||amesgraduatel.xyz^
 ||bflgokbupydgr.xyz^
 ||bipgialxcfvad.xyz^
@@ -55637,6 +55658,7 @@
 ||buildnaq91.site^
 ||cbdedibles.site^
 ||datingkoen.site^
+||fgk-jheepn.site^
 ||glasssmash.site^
 ||igwatrsthg.site^
 ||instadrama.site^
@@ -55873,6 +55895,7 @@
 ||personaly.click^
 ||push-news.click^
 ||pushckick.click^
+||tazkiaonu.click^
 ||ulekvetch.click^
 ||woneguess.click^
 ||wow-click.click^
@@ -56066,6 +56089,7 @@
 ||redenyswallet.click^
 ||redfootchiros.click^
 ||regis2tarsinc.click^
+||rhumbslauders.click^
 ||seichesditali.click^
 ||shopbloxfruit.click^
 ||shoppyoccults.click^
@@ -56475,6 +56499,7 @@
 ||vietlott.world^
 ||greedseed.world^
 ||refpasrasw.world^
+||tagd-otmhf.world^
 ||zcck60eqyw.world^
 ||i98jio988ui.world^
 ||vaynganhang.world^
@@ -56709,6 +56734,7 @@
 ||chopflexhit.online^
 ||chovaynhanh.online^
 ||contentango.online^
+||eunpprzdlkf.online^
 ||hospitalsky.online^
 ||ladyvietnam.online^
 ||letterslamp.online^
@@ -95218,6 +95244,7 @@
 ||marketing.callmeonmycell.com^
 ||marketing.campbellwealth.com^
 ||ea.camping-and-co.com^
+||creative.camsplanetlive.com^
 ||cueohf.canadian-forum.com^
 ||activate.capitalgazette.com^
 ||gtm.careercontessa.com^
@@ -107718,6 +107745,7 @@
 ||data.email.yousee.dk^
 ||web.mapp.skousen.dk^
 ||data.email.telmore.dk^
+||nrpukcsgboqr0gz2o8.www.bolighub.dk^
 ||data.events.pokerstars.dk^
 ||web.info.varelotteriet.dk^
 ||js.evtr.nordiskemedier.dk^
@@ -115099,6 +115127,7 @@
 ||app.connect.wgby.org^
 ||1019175970.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
+||1102085370.rsc.cdn77.org^
 ||1176731452.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
