@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-19T16:26:46.516Z
-# Size: 821
+# Last Updated: 2024-10-19T16:38:53.164Z
+# Size: 765
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,15 +9,6 @@
 # This file contains known addresses that are avaliable in the Mainland China.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,m2m
-DOMAIN-SUFFIX,_tcp
-DOMAIN-SUFFIX,home
-DOMAIN-SUFFIX,bogon
-DOMAIN,unifi
-DOMAIN-SUFFIX,_msdcs
-DOMAIN-SUFFIX,router
-DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
@@ -105,7 +96,6 @@ DOMAIN-SUFFIX,oneplus.cn
 DOMAIN-SUFFIX,outlook.cn
 DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,sinaimg.cn
-DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,tripcdn.cn
 DOMAIN-SUFFIX,51ctocdn.cn
 DOMAIN-SUFFIX,bilibili.cn
@@ -145,7 +135,6 @@ DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,qbox.me
-DOMAIN,aterm.me
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,oppoer.me
 DOMAIN,acg.tv
@@ -583,7 +572,6 @@ DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,alibabadns.com
-DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,bytednsdoc.com
@@ -625,7 +613,6 @@ DOMAIN-SUFFIX,jcloudcache.com
 DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,leetcode-cn.com
-DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,xiaohongshu.com
@@ -656,10 +643,8 @@ DOMAIN-SUFFIX,chinanetcenter.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,anticheatexpert.com
-DOMAIN-SUFFIX,huaweimobilewifi.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
-DOMAIN,homerouter.cpe
 DOMAIN-SUFFIX,39.net
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,126.net
@@ -701,20 +686,14 @@ DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,staticdn.net
-DOMAIN-SUFFIX,tplinkap.net
 DOMAIN-SUFFIX,alikunlun.net
 DOMAIN-SUFFIX,bilivideo.net
 DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,pinduoduo.net
-DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,routerlogin.net
-DOMAIN-SUFFIX,tplinkmodem.net
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,tencent-cloud.net
-DOMAIN-SUFFIX,tplinkplclogin.net
-DOMAIN-SUFFIX,tplinkrepeater.net
 DOMAIN-SUFFIX,2288.org
 DOMAIN-SUFFIX,3322.org
 DOMAIN-SUFFIX,6600.org
@@ -729,18 +708,12 @@ DOMAIN,dns.pub
 DOMAIN,doh.pub
 DOMAIN,dot.pub
 DOMAIN-SUFFIX,landian.vip
-DOMAIN-SUFFIX,home.arpa
-DOMAIN,pi.hole
 DOMAIN-SUFFIX,126.link
 DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,xunyou.mobi
 DOMAIN-SUFFIX,c-t.work
-DOMAIN,ntt.setup
-DOMAIN-SUFFIX,ui.direct
-DOMAIN-SUFFIX,plex.direct
-DOMAIN,mobile.hotspot
 DOMAIN-SUFFIX,jd.com.cn
 DOMAIN-SUFFIX,qq.com.cn
 DOMAIN-SUFFIX,ui.com.cn
@@ -783,50 +756,21 @@ DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,mcdonalds.com.cn
 DOMAIN-SUFFIX,ubionline.com.cn
-DOMAIN-SUFFIX,securelogin.com.cn
 DOMAIN-SUFFIX,chinatelecom.com.cn
 DOMAIN-SUFFIX,assets.msn.cn
 DOMAIN,www.intel.cn
 DOMAIN,lv.queniujq.cn
 DOMAIN-SUFFIX,71.am.com
-DOMAIN,router.asus.com
-DOMAIN,repeater.asus.com
 DOMAIN,dl.ubnt.com
 DOMAIN,config.ubnt.com
-DOMAIN,captive.apple.com
 DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,dl.eccdnx.com
-DOMAIN,hotspot.cslwifi.com
-DOMAIN,console.gl-inet.com
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
-DOMAIN,instant.arubanetworks.com
-DOMAIN,setmeup.arubanetworks.com
 DOMAIN-SUFFIX,dl.bscstorage.net
-DOMAIN,local.adguard.org
-DOMAIN,injections.adguard.org
-DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,254.169.in-addr.arpa
-DOMAIN-SUFFIX,16.172.in-addr.arpa
-DOMAIN-SUFFIX,17.172.in-addr.arpa
-DOMAIN-SUFFIX,18.172.in-addr.arpa
-DOMAIN-SUFFIX,19.172.in-addr.arpa
-DOMAIN-SUFFIX,20.172.in-addr.arpa
-DOMAIN-SUFFIX,21.172.in-addr.arpa
-DOMAIN-SUFFIX,22.172.in-addr.arpa
-DOMAIN-SUFFIX,23.172.in-addr.arpa
-DOMAIN-SUFFIX,24.172.in-addr.arpa
-DOMAIN-SUFFIX,25.172.in-addr.arpa
-DOMAIN-SUFFIX,26.172.in-addr.arpa
-DOMAIN-SUFFIX,27.172.in-addr.arpa
-DOMAIN-SUFFIX,28.172.in-addr.arpa
-DOMAIN-SUFFIX,29.172.in-addr.arpa
-DOMAIN-SUFFIX,30.172.in-addr.arpa
-DOMAIN-SUFFIX,31.172.in-addr.arpa
-DOMAIN-SUFFIX,168.192.in-addr.arpa
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.qhimgs[a-zA-Z0-9-_.]\.com$
 ################## EOF ##################
