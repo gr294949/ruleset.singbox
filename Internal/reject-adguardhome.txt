@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-19T07:59:41.482Z
-# Size: 112314
+# Last Updated: 2024-10-19T12:36:32.791Z
+# Size: 112318
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11787,6 +11787,7 @@
 ||awldcupu.com^
 ||awltovhc.com^
 ||awmserve.com^
+||awwnaqax.com^
 ||axotrade.com^
 ||ayrather.com^
 ||azj57rjy.com^
@@ -13625,6 +13626,7 @@
 ||rukplaza.com^
 ||ruliaoqi.com^
 ||rulrahed.com^
+||rumkhprg.com^
 ||runative.com^
 ||runmixed.com^
 ||ruranews.com^
@@ -43531,6 +43533,7 @@
 ||zireemilsoude.net^
 ||auckodsailtoas.net^
 ||centralnervous.net^
+||choafaidoonsoy.net^
 ||convergeselect.net^
 ||dating-service.net^
 ||decibelinsight.net^
@@ -48959,6 +48962,7 @@
 ||tepysilscpm.xyz^
 ||thoocheegee.xyz^
 ||thoorteeboo.xyz^
+||tugraughilr.xyz^
 ||unblock2303.xyz^
 ||unblock2304.xyz^
 ||vdjpqtsxuwc.xyz^
@@ -49348,6 +49352,7 @@
 ||dtbfpygjdxuxfbs.xyz^
 ||dyhxduicfngnumo.xyz^
 ||ebdokvydrvqvrak.xyz^
+||ebqptawxdxrrdsu.xyz^
 ||egmfjmhffbarsxd.xyz^
 ||eoxaxdglxecvguh.xyz^
 ||esbqetmmejjtksa.xyz^
@@ -73355,7 +73360,6 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
