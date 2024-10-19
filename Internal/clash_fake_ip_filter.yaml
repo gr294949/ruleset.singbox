@@ -7,7 +7,7 @@ dns:
     - +.+bogon
     - +.+_msdcs
     - +.+lan
-    - +.localdomain
+    - +.+localdomain
     - +.home.arpa
     - +.10.in-addr.arpa
     - +.16.172.in-addr.arpa
