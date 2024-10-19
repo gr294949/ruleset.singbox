@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-19T07:59:37.044Z
+// # Build 2024-10-19T10:27:00.216Z
 
 declare(strict_types=1);
 
@@ -1514,6 +1514,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,annas-archive.gs,Global',
         'DOMAIN-SUFFIX,npm.im,Global',
         'DOMAIN-SUFFIX,lnkd.in,Global',
+        'DOMAIN-SUFFIX,gh.io,Global',
         'DOMAIN-SUFFIX,gcr.io,Global',
         'DOMAIN-SUFFIX,git.io,Global',
         'DOMAIN-SUFFIX,npm.io,Global',
@@ -1889,6 +1890,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,itasoftware.com,Global',
         'DOMAIN-SUFFIX,jumpdesktop.com,Global',
         'DOMAIN-SUFFIX,linefriends.com,Global',
+        'DOMAIN-SUFFIX,raspberrypi.com,Global',
         'DOMAIN-SUFFIX,redditmedia.com,Global',
         'DOMAIN-SUFFIX,redditspace.com,Global',
         'DOMAIN-SUFFIX,theguardian.com,Global',
@@ -1939,6 +1941,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cloudflareresolve.com,Global',
         'DOMAIN-SUFFIX,githubusercontent.com,Global',
         'DOMAIN-SUFFIX,lineshoppingseller.com,Global',
+        'DOMAIN-SUFFIX,returnyoutubedislike.com,Global',
         'DOMAIN-SUFFIX,privateinternetaccess.com,Global',
         'DOMAIN-SUFFIX,returnyoutubedislikeapi.com,Global',
         'DOMAIN-SUFFIX,go.dev,Global',
