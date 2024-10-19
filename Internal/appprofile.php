@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-19T10:27:00.216Z
+// # Build 2024-10-19T11:11:30.155Z
 
 declare(strict_types=1);
 
@@ -1603,6 +1603,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,binance.us,Global',
         'DOMAIN-SUFFIX,missav.ws,Global',
         'DOMAIN-SUFFIX,run.app,Global',
+        'DOMAIN-SUFFIX,ajay.app,Global',
         'DOMAIN-SUFFIX,vercel.app,Global',
         'DOMAIN-SUFFIX,cyberghost.app,Global',
         'DOMAIN-SUFFIX,istatmenus.app,Global',
@@ -5695,6 +5696,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,223.223.192.0/20,Domestic',
         'IP-CIDR,223.240.0.0/13,Domestic',
         'IP-CIDR,223.248.0.0/14,Domestic',
+        'IP-CIDR,223.252.196.0/24,Domestic',
         'IP-CIDR,223.255.236.0/24,Domestic',
         'IP-CIDR,223.255.252.0/23,Domestic',
         'IP-CIDR6,2001:250::/30,Domestic',
