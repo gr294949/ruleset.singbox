@@ -88,6 +88,7 @@ dns:
     "*.gtimg.com.cn": https://doh.pub/dns-query
     "*.gdtimg.com": https://doh.pub/dns-query
     "*.idqqimg.com": https://doh.pub/dns-query
+    "*.udqqimg.com": https://doh.pub/dns-query
     +.igamecj.com: https://doh.pub/dns-query
     +.myapp.com: https://doh.pub/dns-query
     "*.myqcloud.com": https://doh.pub/dns-query
