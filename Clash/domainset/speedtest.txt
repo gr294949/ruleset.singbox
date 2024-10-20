@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-18T09:10:13.491Z
-# Size: 439
+# Last Updated: 2024-10-20T12:37:09.622Z
+# Size: 441
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -315,6 +315,7 @@ lg-tok.fdcservers.net
 +.speedtest.conectaamazonia.com.br
 +.velocidade1.i9internetfibra.com.br
 +.speed.newclicktelecom.com.br
+ookla.siditelecom-isp.com.br
 +.velocidade.impertechtelecom.com.br
 +.test.infoconnecttelecom.com.br
 +.speedtest.topnettelecomservicos.com.br
@@ -373,6 +374,7 @@ hizistanbul1.durunet.com.tr
 +.speedtest.bursabil.com.tr
 +.speedtest.kapteyan.com.tr
 +.speedtest.kentwifi.com.tr
+speedtest.lodosnet.com.tr
 +.speedtest.rekornet.com.tr
 +.speedtest.teknosos.com.tr
 +.aks1speedtest.turktelekom.com.tr
