@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-10-20T17:02:39.341Z
-# Size: 640
+# Last Updated: 2024-10-21T15:49:06.136Z
+# Size: 641
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -294,6 +294,7 @@ DOMAIN-SUFFIX,scpwiki.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,tinypng.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vivaldi.com
