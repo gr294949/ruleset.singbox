@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-10-21T12:39:47.256Z
+// # Build 2024-10-21T14:26:17.851Z
 
 declare(strict_types=1);
 
@@ -695,6 +695,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,leetcode-cn.com,Domestic',
         'DOMAIN-SUFFIX,taopiaopiao.com,Domestic',
         'DOMAIN-SUFFIX,toutiaopage.com,Domestic',
+        'DOMAIN-SUFFIX,xiaoaisound.com,Domestic',
         'DOMAIN-SUFFIX,xiaohongshu.com,Domestic',
         'DOMAIN-SUFFIX,aicoinstorge.com,Domestic',
         'DOMAIN-SUFFIX,baiducontent.com,Domestic',
@@ -710,6 +711,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tencentmusic.com,Domestic',
         'DOMAIN-SUFFIX,toutiaocloud.com,Domestic',
         'DOMAIN-SUFFIX,weixinbridge.com,Domestic',
+        'DOMAIN-SUFFIX,xiaomixiaoai.com,Domestic',
         'DOMAIN-SUFFIX,xiaomiyoupin.com,Domestic',
         'DOMAIN-SUFFIX,zuimeitianqi.com,Domestic',
         'DOMAIN-SUFFIX,alipayobjects.com,Domestic',
@@ -718,6 +720,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,fengkongcloud.com,Domestic',
         'DOMAIN-SUFFIX,huoshanstatic.com,Domestic',
         'DOMAIN-SUFFIX,pphimalayanrt.com,Domestic',
+        'DOMAIN-SUFFIX,tencent-cloud.com,Domestic',
         'DOMAIN-SUFFIX,toutiaostatic.com,Domestic',
         'DOMAIN-SUFFIX,chinanetcenter.com,Domestic',
         'DOMAIN-SUFFIX,heytapdownload.com,Domestic',
@@ -4800,7 +4803,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,119.40.40.0/22,Domestic',
         'IP-CIDR,119.40.64.0/20,Domestic',
         'IP-CIDR,119.41.0.0/16,Domestic',
-        'IP-CIDR,119.40.128.0/17,Domestic',
         'IP-CIDR,119.42.0.0/19,Domestic',
         'IP-CIDR,119.42.136.0/21,Domestic',
         'IP-CIDR,119.42.224.0/19,Domestic',
@@ -6560,17 +6562,18 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,219.233.0.0/16,Domestic',
         'IP-CIDR,219.234.0.0/21,Domestic',
         'IP-CIDR,219.234.16.0/20,Domestic',
-        'IP-CIDR,219.235.0.0/17,Domestic',
         'IP-CIDR,219.234.128.0/17,Domestic',
         'IP-CIDR,219.234.96.0/19,Domestic',
         'IP-CIDR,219.234.80.0/20,Domestic',
+        'IP-CIDR,219.235.0.0/20,Domestic',
+        'IP-CIDR,219.235.64.0/18,Domestic',
+        'IP-CIDR,219.235.32.0/19,Domestic',
         'IP-CIDR,219.235.128.0/20,Domestic',
         'IP-CIDR,219.235.144.0/21,Domestic',
         'IP-CIDR,219.235.192.0/23,Domestic',
+        'IP-CIDR,219.235.207.0/24,Domestic',
         'IP-CIDR,219.236.0.0/14,Domestic',
         'IP-CIDR,219.235.224.0/19,Domestic',
-        'IP-CIDR,219.235.208.0/20,Domestic',
-        'IP-CIDR,219.235.207.0/24,Domestic',
         'IP-CIDR,219.244.0.0/14,Domestic',
         'IP-CIDR,219.242.0.0/15,Domestic',
         'IP-CIDR,220.101.192.0/18,Domestic',
