@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-20T17:02:42.770Z
-# Size: 112482
+# Last Updated: 2024-10-21T10:03:46.054Z
+# Size: 112499
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -756,6 +756,7 @@
 @@||cdn.datatables.net^
 @@||check.ddos-guard.net^
 @@||analitik.edevlet.gov.tr^
+@@||epochtimes.com^
 @@||fireworktv.com^
 @@||seal.globalsign.com^
 @@|imasdk.googleapis.com^
@@ -21734,6 +21735,7 @@
 ||factquicker.com^
 ||fadedprofit.com^
 ||fadegranted.com^
+||fafmimgubcm.com^
 ||fagovwnavab.com^
 ||faintstates.com^
 ||fairfeeling.com^
@@ -32943,6 +32945,7 @@
 ||1b969cef84d93b43.com^
 ||4hfchest5kdnfnut.com^
 ||6631f33cf2a1032b.com^
+||8dwd87c7a091b12x.com^
 ||995db2642d3d852b.com^
 ||aamsitecertifier.com^
 ||absentlyrindbulk.com^
@@ -40902,6 +40905,7 @@
 ||ouplc.icu^
 ||p45m0.icu^
 ||q1gel.icu^
+||rbsr0.icu^
 ||rk6h3.icu^
 ||sd2ua.icu^
 ||sltle.icu^
@@ -40909,6 +40913,7 @@
 ||sslir.icu^
 ||stq89.icu^
 ||sv2fo.icu^
+||tfzah.icu^
 ||tgb1l.icu^
 ||tjfbh.icu^
 ||twj6s.icu^
@@ -41129,6 +41134,7 @@
 ||gkcogyf.icu^
 ||gkeolwi.icu^
 ||guwohvw.icu^
+||gwogrgq.icu^
 ||hgcgnfe.icu^
 ||hjammiz.icu^
 ||hlegsdh.icu^
@@ -41241,6 +41247,7 @@
 ||uqcktxp.icu^
 ||uskecsx.icu^
 ||uvekyvs.icu^
+||uvwnkmf.icu^
 ||uyyquln.icu^
 ||vbiakpu.icu^
 ||vdoqomz.icu^
@@ -43875,6 +43882,7 @@
 ||iplogger.org^
 ||ketchapp.org^
 ||kingads2.org^
+||kingbaba.org^
 ||kxtmstjs.org^
 ||layer-ad.org^
 ||linkeasy.org^
@@ -44893,6 +44901,7 @@
 ||bkiterv.top^
 ||bnalzlv.top^
 ||brtlisv.top^
+||buresdv.top^
 ||bweriov.top^
 ||byretuv.top^
 ||byuwkbv.top^
@@ -45002,6 +45011,7 @@
 ||lnalzll.top^
 ||lrtlisl.top^
 ||lsyliel.top^
+||luresdl.top^
 ||lweriol.top^
 ||lyislol.top^
 ||lyretul.top^
@@ -45459,6 +45469,7 @@
 ||kaulaijeepul.top^
 ||kenkenlimted.top^
 ||lalabaos1020.top^
+||lalabaos1021.top^
 ||loppersixtes.top^
 ||lordandogger.top^
 ||methodslacca.top^
@@ -46421,6 +46432,7 @@
 ||esyook.xyz^
 ||evgaow.xyz^
 ||evkzqs.xyz^
+||exqvak.xyz^
 ||eyyngo.xyz^
 ||ezacci.xyz^
 ||ezeqcy.xyz^
@@ -46485,6 +46497,7 @@
 ||goteat.xyz^
 ||gpiagk.xyz^
 ||gpmzkg.xyz^
+||gpowow.xyz^
 ||gpqkeq.xyz^
 ||grthhr.xyz^
 ||gsiawq.xyz^
@@ -46588,6 +46601,7 @@
 ||jinxpn.xyz^
 ||jiqeni.xyz^
 ||jivvjl.xyz^
+||jizxnr.xyz^
 ||jkzbjv.xyz^
 ||jqbddp.xyz^
 ||jqtnft.xyz^
@@ -46735,6 +46749,7 @@
 ||mqwtgq.xyz^
 ||mraozo.xyz^
 ||mrthav.xyz^
+||msmcoa.xyz^
 ||mtwmuy.xyz^
 ||muycpg.xyz^
 ||mvcngm.xyz^
@@ -47039,6 +47054,7 @@
 ||ulktyi.xyz^
 ||uloscw.xyz^
 ||ulwfys.xyz^
+||umwcyw.xyz^
 ||uoosqk.xyz^
 ||uqaagi.xyz^
 ||uqueae.xyz^
@@ -47721,6 +47737,7 @@
 ||98140548.xyz^
 ||9814b49f.xyz^
 ||98383163.xyz^
+||98738797.xyz^
 ||98853171.xyz^
 ||9bc639da.xyz^
 ||9desires.xyz^
