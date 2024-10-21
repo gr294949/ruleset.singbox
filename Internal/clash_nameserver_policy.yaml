@@ -97,8 +97,7 @@ dns:
     "*.qlogo.cn": https://doh.pub/dns-query
     +.qq.com: https://doh.pub/dns-query
     +.qq.com.cn: https://doh.pub/dns-query
-    +.qqmail.cn: https://doh.pub/dns-query
-    +.qqmail.com: https://doh.pub/dns-query
+    "*.qqmail.com": https://doh.pub/dns-query
     +.qzone.com: https://doh.pub/dns-query
     "*.tencent-cloud.net": https://doh.pub/dns-query
     "*.tencent-cloud.com": https://doh.pub/dns-query
@@ -144,13 +143,10 @@ dns:
     "*.biliimg.com": https://doh.pub/dns-query
     "*.biliapi.com": https://doh.pub/dns-query
     "*.biliapi.net": https://doh.pub/dns-query
-    +.biligame.cn: https://doh.pub/dns-query
     +.biligame.com: https://doh.pub/dns-query
-    +.biligame.net: https://doh.pub/dns-query
+    "*.biligame.net": https://doh.pub/dns-query
     +.bilicomic.com: https://doh.pub/dns-query
     +.bilicomics.com: https://doh.pub/dns-query
-    +.bilibilipay.cn: https://doh.pub/dns-query
-    +.bilibilipay.com: https://doh.pub/dns-query
     "*.bilicdn1.com": https://doh.pub/dns-query
     +.mi.com: https://doh.pub/dns-query
     +.duokan.com: https://doh.pub/dns-query
@@ -160,6 +156,7 @@ dns:
     "*.xiaomixiaoai.com": https://doh.pub/dns-query
     "*.mi-fds.com": https://doh.pub/dns-query
     "*.mifile.cn": https://doh.pub/dns-query
+    "*.mijia.tech": https://doh.pub/dns-query
     +.miui.com: https://doh.pub/dns-query
     +.xiaomi.com: https://doh.pub/dns-query
     +.xiaomi.cn: https://doh.pub/dns-query
