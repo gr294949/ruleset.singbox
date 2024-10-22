@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-20T12:37:09.622Z
-# Size: 441
+# Last Updated: 2024-10-22T17:08:18.220Z
+# Size: 443
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -377,6 +377,7 @@ hizistanbul1.durunet.com.tr
 speedtest.lodosnet.com.tr
 +.speedtest.rekornet.com.tr
 +.speedtest.teknosos.com.tr
+adn1speedtest.turktelekom.com.tr
 +.aks1speedtest.turktelekom.com.tr
 +.ank1speedtest.turktelekom.com.tr
 +.ant1speedtest.turktelekom.com.tr
@@ -429,6 +430,7 @@ speedtest.ty7.macarne.com
 +.ty1.chtm.hinet.net
 +.ntp1.chtm.hinet.net
 +.speedtest.sjc.sonic.net
+stosat-rvlt-01.sys.comcast.net
 +.speedtest.ams.sharktech.net
 +.speedtest.cg.shawcable.net
 +.speedtest.ed.shawcable.net
