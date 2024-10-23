@@ -1,5 +1,5 @@
 === base ===
-cloudfront.net                                                                                      1221
+cloudfront.net                                                                                      1222
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
@@ -194,12 +194,12 @@ adkoffer.fr                                                                     
 ebutudan.com                                                                                        78
 awicksin.com                                                                                        67
 netspend.com                                                                                        63
-github.io                                                                                           61
+github.io                                                                                           56
+vercel.app                                                                                          56
 bravenet.com                                                                                        54
+pages.dev                                                                                           53
 plus.com                                                                                            51
 rciadventure.com                                                                                    49
-vercel.app                                                                                          48
-pages.dev                                                                                           47
 wixstudio.io                                                                                        47
 qq.com                                                                                              46
 wpenginepowered.com                                                                                 46
@@ -213,9 +213,9 @@ msn.com                                                                         
 adbureau.net                                                                                        33
 unenoteunjour.fr                                                                                    33
 luxxeeu.com                                                                                         32
-blogspot.com                                                                                        31
 shengen.ru                                                                                          31
 aesthetise.com                                                                                      30
+blogspot.com                                                                                        30
 hut1.ru                                                                                             30
 kmotrack.xyz                                                                                        30
 baidu.com                                                                                           29
@@ -224,7 +224,6 @@ klewmedia.com                                                                   
 unixofficeequipment.com                                                                             27
 lcef.com                                                                                            26
 ropescoursesinc.com                                                                                 26
-weebly.com                                                                                          26
 asmucol.com                                                                                         25
 duckdns.org                                                                                         25
 gelopro.com                                                                                         25
@@ -234,6 +233,7 @@ prosystemorgo.com                                                               
 bakerstreetfinance.tv                                                                               24
 beblon.com                                                                                          24
 hostingkampanya.com                                                                                 24
+wixsite.com                                                                                         24
 clead.xyz                                                                                           23
 eucharisticjesus.net                                                                                23
 linkomo.fr                                                                                          23
@@ -242,9 +242,9 @@ univer.se                                                                       
 bonnelectureatous.fr                                                                                22
 eliteoftokens.com                                                                                   21
 epinlock.com                                                                                        21
+weebly.com                                                                                          21
 adkplan.fr                                                                                          20
 b-cdn.net                                                                                           20
-cloudfront.net                                                                                      20
 endiim.com                                                                                          20
 globaltradruv.com                                                                                   20
 3t0g.icu                                                                                            19
@@ -254,8 +254,8 @@ anticrsss1-ep.xyz                                                               
 b66t.top                                                                                            19
 bitupes.xyz                                                                                         19
 bloxg.top                                                                                           19
+cloudfront.net                                                                                      19
 facst.xyz                                                                                           19
-framer.app                                                                                          19
 gamemods.com.tr                                                                                     19
 irza.lat                                                                                            19
 milldrop.xyz                                                                                        19
@@ -285,7 +285,6 @@ tayki.site                                                                      
 techwwwpl.site                                                                                      18
 tess1.top                                                                                           18
 wertas.xyz                                                                                          18
-wixsite.com                                                                                         18
 2r5d.icu                                                                                            17
 a5x7.icu                                                                                            17
 alxprogs.xyz                                                                                        17
@@ -293,6 +292,7 @@ bolss.xyz                                                                       
 bonnytondesigns.com                                                                                 17
 cas-program.site                                                                                    17
 euclasco.xyz                                                                                        17
+framer.app                                                                                          17
 infoprog.xyz                                                                                        17
 lidoks.xyz                                                                                          17
 newaistar.top                                                                                       17
@@ -310,7 +310,6 @@ treasurendtrovedeals.com                                                        
 valuevaultmarkets.com                                                                               17
 vcdau.top                                                                                           17
 wf74.top                                                                                            17
-workers.dev                                                                                         17
 worldkolf.info                                                                                      17
 8hwo.pro                                                                                            16
 comfirty.top                                                                                        16
@@ -341,6 +340,7 @@ dduv.top                                                                        
 dfrtraderxsys.com                                                                                   15
 dropcanoiles.com                                                                                    15
 euprofx.top                                                                                         15
+fierceatfifty.com                                                                                   15
 fondblagorus.xyz                                                                                    15
 franksistem.site                                                                                    15
 ggaf.pl                                                                                             15
@@ -364,9 +364,9 @@ polprogramm1.xyz                                                                
 polskadep.xyz                                                                                       15
 prog-max1pro0g.site                                                                                 15
 progictpro.top                                                                                      15
-replit.dev                                                                                          15
 rewol-ucja-gazowa.com                                                                               15
 runeww1.site                                                                                        15
+sa.com                                                                                              15
 spectare.top                                                                                        15
 tex-prog.top                                                                                        15
 tradelifeworld.top                                                                                  15
@@ -402,13 +402,14 @@ mytemp.website                                                                  
 njrrs.com                                                                                           14
 phtmedia.com                                                                                        14
 propl.top                                                                                           14
+replit.dev                                                                                          14
 reviss.site                                                                                         14
-sa.com                                                                                              14
 systemlocal.space                                                                                   14
 ttssonine.top                                                                                       14
 uzwl.lat                                                                                            14
 vrtr.skin                                                                                           14
 womenforum.top                                                                                      14
+workers.dev                                                                                         14
 z14s.top                                                                                            14
 05vq.icu                                                                                            13
 6p6a.cfd                                                                                            13
@@ -420,7 +421,6 @@ dasms.xyz                                                                       
 deharina.com                                                                                        13
 drrd.lat                                                                                            13
 eqin.one                                                                                            13
-fierceatfifty.com                                                                                   13
 free9k.site                                                                                         13
 frvm.skin                                                                                           13
 fxworldkol.info                                                                                     13
@@ -481,7 +481,6 @@ dianamercer.com                                                                 
 dns.army                                                                                            12
 dvxd.lat                                                                                            12
 ferreta.xyz                                                                                         12
-hienphucuanhanloai.org                                                                              12
 intuit.com                                                                                          12
 krakowiak.org.pl                                                                                    12
 ltnk.skin                                                                                           12
@@ -556,7 +555,6 @@ michasiabadek.pl                                                                
 mvslive.com                                                                                         11
 n9g.cc                                                                                              11
 neohus.xyz                                                                                          11
-netlify.app                                                                                         11
 online-cashhh.top                                                                                   11
 onlineact1.site                                                                                     11
 opym.top                                                                                            11
@@ -654,6 +652,7 @@ mazsina.warszawa.pl                                                             
 mirekkaminskimk.pl                                                                                  10
 myqcloud.com                                                                                        10
 ner9.top                                                                                            10
+netlify.app                                                                                         10
 newprif.site                                                                                        10
 oceanvd.life                                                                                        10
 officialbalticpipe.space                                                                            10
