@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-10-21T14:26:18.035Z
-# Size: 126
+# Last Updated: 2024-10-24T18:09:01.633Z
+# Size: 127
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -109,6 +109,7 @@ DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.ad\.[a-zA-Z0-9-_.]*?\.prod\.hosts\.ooklaserver\.
 DOMAIN-REGEX,^adv0[a-zA-Z0-9-_.]*?\.msa\.cdn\.mediaset\.net$
 DOMAIN-REGEX,^beacons[a-zA-Z0-9-_.]*?\.gvt[a-zA-Z0-9-_.]\.com$
 DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?ad\.ixigua\.com$
+DOMAIN-REGEX,^tracking\.[a-zA-Z0-9-_.]*?\.miui\.com$
 IP-CIDR,39.97.128.148/32,no-resolve
 IP-CIDR,39.97.130.51/32,no-resolve
 IP-CIDR,42.81.232.18/32,no-resolve
