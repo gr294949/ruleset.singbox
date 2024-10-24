@@ -110,7 +110,8 @@
         "^adv0[a-zA-Z0-9-_.]*?\\.msa\\.cdn\\.mediaset\\.net$",
         "^beacons[a-zA-Z0-9-_.]*?\\.gvt[a-zA-Z0-9-_.]\\.com$",
         "^[a-zA-Z0-9-_.]*?ad\\.ixigua\\.com$",
-        "^tracking\\.[a-zA-Z0-9-_.]*?\\.miui\\.com$"
+        "^tracking\\.[a-zA-Z0-9-_.]*?\\.miui\\.com$",
+        "^[a-zA-Z0-9-_.]*?\\.tracking\\.[a-zA-Z0-9-_.]*?\\.miui\\.com$"
       ],
       "ip_cidr": [
         "39.97.128.148/32",

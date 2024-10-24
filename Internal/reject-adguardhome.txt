@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-24T18:09:06.491Z
-# Size: 112601
+# Last Updated: 2024-10-24T18:25:25.765Z
+# Size: 112608
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -61,7 +61,6 @@
 @@||s1.wp.com^
 @@||hbbtv.zdf.de^
 @@||za.zdn.vn^
-@@||httpdns.c.163.com^
 @@||puma.112.2o7.net^
 @@||alllaw.112.2o7.net^
 @@||citiintl.122.2o7.net^
@@ -205,13 +204,11 @@
 @@||micpn.com^
 @@||mradx.net^
 @@|cdn.mxpnl.com^
-@@||net.mydays.de^
 @@||adcr.naver.com^
 @@||cologger.shopping.naver.com^
 @@||info.neg.co.jp^
 @@||nimiq.com^
 @@||nwolb.com^
-@@||openx.net^
 @@||nineto5mac-d.openx.net^
 @@||piwik.pro^
 @@||pstmrk.it^
@@ -418,7 +415,6 @@
 @@||health.halodoc.com^
 @@||heroeswm.ru^
 @@||histats.com^
-@@||httpdns.pro^
 @@||hxtrack.com^
 @@||iesnare.com^
 @@||informz.net^
@@ -438,13 +434,9 @@
 @@||web.mention.com^
 @@||minexmr.com^
 @@||moshimo.com^
-@@||classify-client.services.mozilla.com^
 @@||telemetry.mozilla.org^
-@@||telemetry-coverage.mozilla.org^
-@@||httpdns.n.netease.com^
 @@||tags.news.com.au^
 @@||adc.api.nine.com.au^
-@@||notify6.com^
 @@||www.npttech.com^
 @@||ntuplay.xyz^
 @@||ad.ourgame.com^
@@ -687,7 +679,6 @@
 @@||support-widget.nakanohito.jp^
 @@||oneline.nextday.media^
 @@||nicequest.com^
-@@||notifysrv.com^
 @@||onesignal.com^
 @@||cdn.onesignal.com^
 @@||ospserver.net^
@@ -869,7 +860,6 @@
 @@||www.statcounter.com^
 @@||supplyframe.com^
 @@||links.e.theatlantic.com^
-@@||incoming-telemetry.thunderbird.net^
 @@||click.trafficguard.ai^
 @@||vectorstock.com^
 @@||webclicks24.com^
@@ -10408,6 +10398,7 @@
 ||nojhhsg.com^
 ||noretia.com^
 ||notabl8.com^
+||notify6.com^
 ||novaonx.com^
 ||nowhern.com^
 ||npprvby.com^
@@ -16200,6 +16191,7 @@
 ||notiflist.com^
 ||notifpush.com^
 ||notifyerr.com^
+||notifysrv.com^
 ||notifzone.com^
 ||notix-tag.com^
 ||notos-yty.com^
@@ -41710,6 +41702,7 @@
 ||ogffa.net^
 ||ogfga.net^
 ||ogfna.net^
+||openx.net^
 ||ownip.net^
 ||plinx.net^
 ||publy.net^
@@ -44423,6 +44416,7 @@
 ||csdf4dn.pro^
 ||gitgrub.pro^
 ||gomain2.pro^
+||httpdns.pro^
 ||jmrnews.pro^
 ||lessite.pro^
 ||momo365.pro^
@@ -57501,6 +57495,7 @@
 ||cudgoz.mifcom.de^
 ||cqishr.mobile.de^
 ||muqtti.motoin.de^
+||net.mydays.de^
 ||sxeimx.mydays.de^
 ||data-9dc3fcd9b4.mylife.de^
 ||data-fbb8842b89.mylife.de^
@@ -99112,6 +99107,7 @@
 ||hello.staticstuff.net^
 ||omni.superonline.net^
 ||somni.superonline.net^
+||incoming-telemetry.thunderbird.net^
 ||ao.tolydigital.net^
 ||srv2.trafficgate.net^
 ||ydtzzw.tuttonapoli.net^
@@ -99667,6 +99663,7 @@
 ||fdxtbs.meeters.org^
 ||geo.mozilla.org^
 ||download-stats.mozilla.org^
+||telemetry-coverage.mozilla.org^
 ||info.ochsner.org^
 ||quokka.oeshome.org^
 ||ssc.ozodlik.org^
@@ -107725,6 +107722,7 @@
 |httpdns-v6.gslb.yy.com^
 |union-httpdns.gslb.yy.com^
 |yyapp-httpdns.gslb.yy.com^
+||httpdns.c.163.com^
 |iad.g.163.com^
 |n.3g.163.com^
 ||ac.dun.163.com^
@@ -108913,11 +108911,13 @@
 ||metrics.learning.monster.com^
 ||metrics.career-education.monster.com^
 ||trk.cx.motivcx.com^
+||classify-client.services.mozilla.com^
 ||metrics.iossc.natwest.com^
 ||smetrics.iossc.natwest.com^
 ||metrics.winsc.natwest.com^
 ||metrics.droidsc.natwest.com^
 ||app.response.neopost.com^
+||httpdns.n.netease.com^
 |httpdns-sdk.n.netease.com^
 |ad.bn.netease.com^
 ||pr.nss.netease.com^
@@ -112628,4 +112628,11 @@
 ||ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com^
 ||origin.www.images.2.forms.healthcare.philips.com^
 |this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
+|f-log*.grammarly.io^
+||ad.*.prod.hosts.ooklaserver.net^
+|adv0*.msa.cdn.mediaset.net^
+|beacons*.gvt*.com^
+|*ad.ixigua.com^
+|tracking.*.miui.com^
+||tracking.*.miui.com^
 ################## EOF ##################
