@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-24T18:25:25.765Z
-# Size: 112608
+# Last Updated: 2024-10-24T18:33:28.208Z
+# Size: 112657
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -73338,6 +73338,7 @@
 ||shtptt.cupshe.com^
 ||experts.cutter.com^
 ||mdws.cwbank.com^
+||logsdata.cxkfwn.com^
 ||d.cybtel.com^
 ||marketing.cypram.com^
 ||ad.cyycoy.com^
@@ -112635,4 +112636,52 @@
 |*ad.ixigua.com^
 |tracking.*.miui.com^
 ||tracking.*.miui.com^
+/.estream./
+/jshosting/
+/hostingcloud/
+/flightsy/
+/zymerget/
+/gettate/
+/mighbest/
+/nimiqpool/
+/.freecontent./
+/sunnimiq/
+/.nimiq./
+/anybest./
+/dubester./
+/fb-restriction-case/
+/fb-restriction-appeal/
+/fb-community-standards/
+/fb-business-appeal/
+/cp-home-pl-/
+/track.tiara/
+/umeng/
+/adsby/
+/adsdk/
+/adserver/
+/admaster/
+/adserve2/
+/admob/
+/adspace/
+/advertmarket/
+/adsyndication/
+/doubleclick./
+/adjust./
+/appsflyer/
+/dnserror/
+/marketing.net/
+/adktrack/
+/_vmind.qqvideo.tc.qq.com/
+/-logging.nextmedia.com/
+/-spiky.clevertap-prod.com/
+/.engage.3m./
+/telemetry.officeapps.live.com/
+/-launches.appsflyersdk.com/
+/-s2s.sensic.net/
+/.net.daraz./
+/.zooplus./
+/smetrics.marketing./
+/wxsnsdy/
+/adwords/
+/-tracker.biliapi.net/
 ################## EOF ##################

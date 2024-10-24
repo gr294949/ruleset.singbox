@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-24T18:25:22.640Z
-# Size: 111642
+# Last Updated: 2024-10-24T18:33:24.915Z
+# Size: 111643
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -72379,6 +72379,7 @@ miui-fxcse.avlyun.com
 +.shtptt.cupshe.com
 +.experts.cutter.com
 +.mdws.cwbank.com
++.logsdata.cxkfwn.com
 +.d.cybtel.com
 +.marketing.cypram.com
 +.ad.cyycoy.com
