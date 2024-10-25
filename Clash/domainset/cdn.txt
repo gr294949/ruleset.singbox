@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-25T01:24:34.031Z
-# Size: 2529
+# Last Updated: 2024-10-25T12:21:24.591Z
+# Size: 2530
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1823,6 +1823,7 @@ media.gettyimages.com
 static.gettyimages.com
 media.graphassets.com
 media.istockphoto.com
+logos.kiwibrowser.com
 settings.kiwibrowser.com
 cdn.linearicons.com
 cdn.livechatinc.com
