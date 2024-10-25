@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-25T02:03:15.378Z
-# Size: 112710
+# Last Updated: 2024-10-25T12:09:05.781Z
+# Size: 112728
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -979,6 +979,7 @@
 @@||onelink-translations.com
 @@||epl.paypal-communication.com
 @@||realfinanceblogcenter.com
+@@||shenyunperformingarts.org
 @@||321naturelikefurfuroid.com
 @@||app-analytics-services.com
 @@||visualwebsiteoptimizer.com
@@ -1965,6 +1966,7 @@
 ||liujiahao6.cn
 ||ntfsformac.cn
 ||qchannel01.cn
+||qchannel02.cn
 ||qchannel03.cn
 ||shilian168.cn
 ||tagmanager.cn
@@ -5782,6 +5784,7 @@
 ||easyflirt-partners.biz
 ||vayvon-techcombank.biz
 ||vaytheoluong-vietcombank24h.biz
+||ycq.cab
 ||checkmy.cam
 ||noelsdoc.cam
 ||aperushmo.cam
@@ -16611,6 +16614,7 @@
 ||sbxgipbks.com
 ||scanscout.com
 ||scarefowl.com
+||schizypdq.com
 ||scootloor.com
 ||scopefile.com
 ||scripts21.com
@@ -25249,6 +25253,7 @@
 ||kapetracking.com
 ||kapnucojzkul.com
 ||kaqppajmofte.com
+||karelspinula.com
 ||kaujouphosta.com
 ||kayoesfervor.com
 ||kbugxeslbjc8.com
@@ -25563,6 +25568,7 @@
 ||myfreshposts.com
 ||myhappy-news.com
 ||mynewcounter.com
+||myosoteruins.com
 ||myrtolbanzai.com
 ||mytomatosoup.com
 ||mywondertrip.com
@@ -26525,6 +26531,7 @@
 ||tmjididaqbom.com
 ||tmrjaghtledm.com
 ||tnnpozuqdhes.com
+||toddiesmeson.com
 ||togothermany.com
 ||tomcodlachsa.com
 ||toneincludes.com
@@ -27318,6 +27325,7 @@
 ||canhanshinhan.com
 ||capricornplay.com
 ||capwilyunseen.com
+||caravelvirent.com
 ||caribedkurukh.com
 ||carriedamiral.com
 ||cartmansneest.com
@@ -29426,6 +29434,7 @@
 ||yourlustmedia.com
 ||yourniceposts.com
 ||youthfulnoise.com
+||yowdenfalcial.com
 ||ytoqgrxemracv.com
 ||yuintbradshed.com
 ||yvamklgamsbsp.com
@@ -30047,6 +30056,7 @@
 ||economicpizzas.com
 ||ectsofcukorpor.com
 ||edingrigoguter.com
+||eduardocluster.com
 ||efawhwawapkrbu.com
 ||effectedscorch.com
 ||efficiencybate.com
@@ -30621,6 +30631,7 @@
 ||mufflercypress.com
 ||mukhtarproving.com
 ||muricidmartins.com
+||murrinejumping.com
 ||my-rudderjolly.com
 ||mycooljourneyz.com
 ||myhomequotepro.com
@@ -30704,6 +30715,7 @@
 ||oqprjunocooluy.com
 ||orecticconchae.com
 ||organizerprobe.com
+||orlandowaggons.com
 ||ornatecomputer.com
 ||osissmistlytrk.com
 ||osshydreigonan.com
@@ -41264,11 +41276,13 @@
 ||djecgyk.icu
 ||dpweupc.icu
 ||dreuaxk.icu
+||dsikpuv.icu
 ||dsukqsx.icu
 ||duyewnf.icu
 ||dxwksqa.icu
 ||eacqihh.icu
 ||ecikmrm.icu
+||eeaczcf.icu
 ||enokouv.icu
 ||eoucxzw.icu
 ||faaqgje.icu
@@ -43769,6 +43783,7 @@
 ||doubleclick-cn.net
 ||download-ready.net
 ||emaxudrookrora.net
+||faiphoawheepur.net
 ||gitsurtithauth.net
 ||glaubsoopsehen.net
 ||globalwebindex.net
@@ -45328,6 +45343,7 @@
 ||edipsumw.top
 ||egidskiw.top
 ||enifdlaw.top
+||eouvxliw.top
 ||erutvncw.top
 ||ewerilxw.top
 ||ewurserw.top
@@ -45654,6 +45670,7 @@
 ||kenkenlimted.top
 ||lalabaos1020.top
 ||lalabaos1021.top
+||lalabaos1025.top
 ||loppersixtes.top
 ||lordandogger.top
 ||methodslacca.top
@@ -49226,6 +49243,7 @@
 ||phookroamte.xyz
 ||phujaudsoft.xyz
 ||psoakichoax.xyz
+||psohemsinso.xyz
 ||pssjsbrpihl.xyz
 ||purplewinds.xyz
 ||pympbhxyhnd.xyz
@@ -51645,6 +51663,7 @@
 ||arenosegesten.shop
 ||assaiscucujus.shop
 ||avocetdentary.shop
+||azurousdollar.shop
 ||becomeusances.shop
 ||biberonmacers.shop
 ||boudinminding.shop
@@ -92038,7 +92057,6 @@
 ||stats.online-convert.com
 ||smetrics.onlinegambling.com
 ||marketing.originaffinity.com
-||tj.orlandowaggons.com
 ||track.orthocare-shop.com
 ||stats.ortussolutions.com
 ||bd.overpetleersia.com
