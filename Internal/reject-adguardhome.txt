@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-24T18:33:28.208Z
-# Size: 112657
+# Last Updated: 2024-10-25T00:06:32.684Z
+# Size: 112676
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -129,6 +129,7 @@
 @@||litix.io^
 @@||mewe.com^
 @@|api.vip.miui.com^
+@@|api.comm.miui.com^
 @@||mql5.com^
 @@||webstatic.nero.com^
 @@||o0bc.com^
@@ -8161,6 +8162,7 @@
 ||oiycak.com^
 ||okanjo.com^
 ||olibes.com^
+||omheth.com^
 ||onacao.com^
 ||onedmp.com^
 ||onetad.com^
@@ -12198,6 +12200,7 @@
 ||divehope.com^
 ||dizimax2.com^
 ||djldrhxb.com^
+||djrsvwtt.com^
 ||dkfqrsqg.com^
 ||dkotrack.com^
 ||dmsktmld.com^
@@ -15149,6 +15152,8 @@
 ||crptentry.com^
 ||cryptomcw.com^
 ||csggmxrbt.com^
+||csyzhztgs.com^
+||cszjyqqpj.com^
 ||ctm-media.com^
 ||ctvshopee.com^
 ||cudgeletc.com^
@@ -20871,6 +20876,7 @@
 ||xsqwhlldud.com^
 ||xtalfuwcxh.com^
 ||xtendmedia.com^
+||xtroglobal.com^
 ||xu5ctufltn.com^
 ||xuiqxlhqyo.com^
 ||xviperonec.com^
@@ -24040,6 +24046,7 @@
 ||afgakzvicdfe.com^
 ||afsanalytics.com^
 ||agakoffingan.com^
+||agalumineonr.com^
 ||agamantykeon.com^
 ||agaomastaran.com^
 ||agatarainpro.com^
@@ -25727,6 +25734,7 @@
 ||ourselvesoak.com^
 ||outchinchour.com^
 ||outsimiseara.com^
+||outwingullom.com^
 ||outyanmegaom.com^
 ||overcacneaan.com^
 ||overheadnell.com^
@@ -29073,6 +29081,7 @@
 ||tediousticket.com^
 ||temporarympay.com^
 ||tenmtajhepsnt.com^
+||tensasscarify.com^
 ||tensorsbancos.com^
 ||terabytemedia.com^
 ||terhousouokop.com^
@@ -33259,6 +33268,7 @@
 ||commentaryinduce.com^
 ||commissionlounge.com^
 ||committeeoutcome.com^
+||competemerriment.com^
 ||compileformality.com^
 ||comprehendpaying.com^
 ||conceivedtowards.com^
@@ -36414,6 +36424,7 @@
 ||downtowndisapproval.com^
 ||dreamteamaffiliates.com^
 ||driedcollisionshrub.com^
+||drugstoredemuretake.com^
 ||drummercorruptprime.com^
 ||dubdetectioniceberg.com^
 ||dubunwiseobjections.com^
@@ -41221,6 +41232,7 @@
 ||zopuqv.icu^
 ||zwxxcb.icu^
 ||acqaghx.icu^
+||allkmbr.icu^
 ||ankczwr.icu^
 ||aqeivzm.icu^
 ||avqdhss.icu^
@@ -45813,6 +45825,7 @@
 ||treitrehagdin.top^
 ||tunnelbuilder.top^
 ||unbeardgorraf.top^
+||vbozbkzvyzloy.top^
 ||veezljzrkjbbl.top^
 ||watchmytopapp.top^
 ||wevrwqjlylbyz.top^
@@ -52948,6 +52961,7 @@
 ||nganhang88.online^
 ||nganhangsk.online^
 ||planetvids.online^
+||riazrk-oba.online^
 ||sitamedal2.online^
 ||sitamedal3.online^
 ||sitamedal4.online^
@@ -74122,6 +74136,7 @@
 ||go.mitesp.com^
 ||stats.mituyu.com^
 ||api.miwifi.com^
+||log.miwifi.com^
 ||link.mixbit.com^
 ||mymix.mixtel.com^
 ||smetrics.mizuno.com^
@@ -79177,6 +79192,7 @@
 ||pgapi.ksmobile.com^
 ||axp.ktalnews.com^
 ||wlog.kuaishou.com^
+||data.kuiniuca.com^
 ||ktracker.kumparan.com^
 ||analytics.kurocore.com^
 ||tk.kusmitea.com^
@@ -108015,6 +108031,7 @@
 ||data.sec.miui.com^
 |info.sec.miui.com^
 ||mazu.sec.miui.com^
+||port.sec.miui.com^
 ||xlmc.sec.miui.com^
 ||avast.sec.miui.com^
 |flash.sec.miui.com^
@@ -108026,7 +108043,6 @@
 ||metok.sys.miui.com^
 |jupiter.sys.miui.com^
 |geofence.sys.miui.com^
-|api.comm.miui.com^
 |calopenupdate.comm.miui.com^
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
@@ -111256,6 +111272,7 @@
 ||track.byzon.swelen.net^
 ||eph-adsjutarnji.cdn.sysbee.net^
 |hz.tbusergw.taobao.net^
+||sentry.d.xiaomi.net^
 |resolver.msg.xiaomi.net^
 |api.chat.xiaomi.net^
 ||app.chat.xiaomi.net^
@@ -111386,6 +111403,7 @@
 ||1437953666.rsc.cdn77.org^
 ||1446023384.rsc.cdn77.org^
 ||1480876790.rsc.cdn77.org^
+||1494918251.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1558334541.rsc.cdn77.org^
@@ -111395,6 +111413,7 @@
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1844221534.rsc.cdn77.org^
+||1918634747.rsc.cdn77.org^
 ||1991482557.rsc.cdn77.org^
 ||marketing.congress.eular.org^
 ||app.response.hslda.org^
