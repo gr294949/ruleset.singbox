@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-25T00:06:25.589Z
-# Size: 111661
+# Last Updated: 2024-10-25T00:52:07.518Z
+# Size: 111663
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2343,6 +2343,7 @@
 +.segment.io
 +.sirdata.io
 +.soliads.io
++.statfox.io
 +.tronads.io
 +.trugaze.io
 +.adclicks.io
@@ -74227,6 +74228,7 @@ huodong.xiaomi.com
 +.pandora.xiaomi.com
 shenghuo.xiaomi.com
 +.installer.xiaomi.com
++.sdkconfig.xiaomi.com
 +.marketing.xicato.com
 +.yi.ximizi.com
 +.ads.xlxtra.com
