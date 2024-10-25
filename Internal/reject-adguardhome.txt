@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-25T00:52:11.664Z
-# Size: 112710
+# Last Updated: 2024-10-25T01:24:37.583Z
+# Size: 112713
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -108726,6 +108726,9 @@
 |order.music.xiaomi.com^
 |api.hybrid.xiaomi.com^
 |f4.market.xiaomi.com^
+|f6.market.xiaomi.com^
+|f7.market.xiaomi.com^
+|f8.market.xiaomi.com^
 |video.market.xiaomi.com^
 |wtradv.market.xiaomi.com^
 ||register.xmpush.xiaomi.com^

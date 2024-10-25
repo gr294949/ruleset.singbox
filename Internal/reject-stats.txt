@@ -3,7 +3,7 @@ cloudfront.net                                                                  
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
-xiaomi.com                                                                                          95
+xiaomi.com                                                                                          98
 adobe.com                                                                                           92
 baidu.com                                                                                           92
 qq.com                                                                                              81
