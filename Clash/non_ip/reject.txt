@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-10-25T00:06:26.194Z
+# Last Updated: 2024-10-25T00:15:23.538Z
 # Size: 131
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -127,7 +127,7 @@ IP-CIDR,103.224.222.208/32,no-resolve
 IP-CIDR,114.110.97.97/32,no-resolve
 IP-CIDR,115.236.121.51/32,no-resolve
 IP-CIDR,115.236.121.195/32,no-resolve
-IP-CIDR,118.89.204.0/23,no-resolve
+IP-CIDR,118.89.204.198/32,no-resolve
 IP-CIDR,119.29.29.98/31,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
