@@ -32,10 +32,10 @@ microsoft.com                                                                   
 sina.cn                                                                                             31
 360.cn                                                                                              29
 b-cdn.net                                                                                           28
+cdn77.org                                                                                           28
 wolterskluwer.com                                                                                   28
 yahoo.com                                                                                           28
 akamaihd.net                                                                                        27
-cdn77.org                                                                                           27
 vodafone.com                                                                                        27
 833enmhob.com                                                                                       26
 intuit.com                                                                                          26
@@ -275,6 +275,7 @@ cftvpinheiro.com.br                                                             
 cloudfront.net                                                                                      18
 deptesp.com                                                                                         18
 duums.xyz                                                                                           18
+framer.app                                                                                          18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
 lisanse.com                                                                                         18
@@ -321,7 +322,6 @@ elmachif.com                                                                    
 emergencepsychservices.com                                                                          16
 eutrty.top                                                                                          16
 formhh.top                                                                                          16
-framer.app                                                                                          16
 gertrader.xyz                                                                                       16
 hoccs.xyz                                                                                           16
 jokivest1.site                                                                                      16
@@ -402,7 +402,6 @@ m7nw.icu                                                                        
 malangg.xyz                                                                                         14
 mastt.xyz                                                                                           14
 miliomp.xyz                                                                                         14
-mytemp.website                                                                                      14
 njrrs.com                                                                                           14
 phtmedia.com                                                                                        14
 propl.top                                                                                           14
@@ -443,6 +442,7 @@ maxi-bl0g.site                                                                  
 mediacrss.com                                                                                       13
 metregplt.top                                                                                       13
 myshopify.com                                                                                       13
+mytemp.website                                                                                      13
 neuru.top                                                                                           13
 nev1evesplt.site                                                                                    13
 newappco.xyz                                                                                        13
