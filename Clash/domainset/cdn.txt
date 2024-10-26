@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-26T10:15:55.374Z
-# Size: 2533
+# Last Updated: 2024-10-26T14:37:42.685Z
+# Size: 2534
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2037,6 +2037,7 @@ npm.antfu.dev
 fonts.upset.dev
 plugins.dprint.dev
 fiddle.fastly.dev
+assets.github.dev
 packages.termux.dev
 packages-cf.termux.dev
 +.mirrors.utermux.dev

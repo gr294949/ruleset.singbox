@@ -1321,6 +1321,7 @@
         "fonts.upset.dev",
         "plugins.dprint.dev",
         "fiddle.fastly.dev",
+        "assets.github.dev",
         "packages.termux.dev",
         "packages-cf.termux.dev",
         "tuf-repo-cdn.sigstore.dev",

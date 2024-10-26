@@ -1,16 +1,8 @@
 dns:
   nameserver-policy:
     dns.alidns.com: quic://223.5.5.5:853
-    dot.pub: https://1.12.12.12/dns-query
     doh.pub: https://1.12.12.12/dns-query
-    dns.pub: https://1.12.12.12/dns-query
-    dns.360.cn: https://101.198.198.198/dns-query
-    dot.360.cn: https://101.198.198.198/dns-query
-    doh.360.cn: https://101.198.198.198/dns-query
-    sdns.360.net: https://101.198.198.198/dns-query
-    dns.360.net: https://101.198.198.198/dns-query
-    dot.360.net: https://101.198.198.198/dns-query
-    doh.360.net: https://101.198.198.198/dns-query
+    doh.360.cn: 101.198.198.198
     +.uc.cn: quic://dns.alidns.com:853
     +.alibaba.com: quic://dns.alidns.com:853
     "*.alicdn.com": quic://dns.alidns.com:853
