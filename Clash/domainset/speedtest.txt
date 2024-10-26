@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-24T18:09:01.183Z
-# Size: 450
+# Last Updated: 2024-10-26T07:11:38.938Z
+# Size: 452
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -154,6 +154,7 @@ speedtest.sercomm.com
 +.mensura.cdn-apple.com
 +.mns.i-systems.com
 speedtest.jsqiuying.com
+kadoshspeed.kadoshnet.com
 speedtest.linknetbv.com
 +.speedtest.surfshark.com
 +.speed-test.westelcom.com
@@ -388,6 +389,7 @@ adn1speedtest.turktelekom.com.tr
 +.ank1speedtest.turktelekom.com.tr
 +.ant1speedtest.turktelekom.com.tr
 +.bur1speedtest.turktelekom.com.tr
+cnk1speedtest.turktelekom.com.tr
 +.erz1speedtest.turktelekom.com.tr
 +.esk1speedtest.turktelekom.com.tr
 +.gay1speedtest.turktelekom.com.tr
