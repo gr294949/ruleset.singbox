@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-26T07:42:41.705Z
-# Size: 2532
+# Last Updated: 2024-10-26T10:15:55.374Z
+# Size: 2533
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -950,6 +950,7 @@ cdn.donmai.us
 cdn.rive.app
 static.linear.app
 +.cms-cdn.linear.app
+pic.macked.app
 videos.elephas.app
 cdn.langshop.app
 weather.istatmenus.app

@@ -101,6 +101,7 @@ hostcontent.li                                                                  
 informa.com                                                                                         14
 intel.com                                                                                           14
 jd.com                                                                                              14
+mi.com                                                                                              14
 mywd.com                                                                                            14
 nba.com                                                                                             14
 rambler.ru                                                                                          14
@@ -115,7 +116,6 @@ groc.press                                                                      
 inhaabit.com                                                                                        13
 jll.com                                                                                             13
 mgtv.com                                                                                            13
-mi.com                                                                                              13
 powzers.lol                                                                                         13
 siemensplmevents.com                                                                                13
 snssdk.com                                                                                          13
