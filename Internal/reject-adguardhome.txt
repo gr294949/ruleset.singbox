@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-26T07:11:45.653Z
-# Size: 112742
+# Last Updated: 2024-10-26T07:42:44.929Z
+# Size: 112744
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11923,6 +11923,7 @@
 ||boatoamo.com
 ||bob-recs.com
 ||bobpiety.com
+||bodiscdn.com
 ||bolrookr.com
 ||boltepse.com
 ||bonomans.com
@@ -68242,6 +68243,7 @@
 ||analytics.midas.sn
 ||tk.airfrance.sn
 ||events.btw.so
+||api.june.so
 ||get.spot.so
 ||adv.bandi.so
 ||ana.bandi.so
