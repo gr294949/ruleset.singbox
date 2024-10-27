@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-10-27T11:39:17.020Z
-# Size: 650
+# Last Updated: 2024-10-27T12:36:18.346Z
+# Size: 651
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,ajay.app
+DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,cyberghost.app
 DOMAIN-SUFFIX,istatmenus.app
