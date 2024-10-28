@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-27T11:39:16.622Z
-# Size: 453
+# Last Updated: 2024-10-28T12:40:25.460Z
+# Size: 458
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -38,6 +38,7 @@
 +.speedtest.creolineserver.de
 ookla3.1und1-mobilfunk.de
 +.speedtest.sewan.fr
+speedperf.axione.fr
 +.speedtest.orange.fr
 +.speed.pfm.gg
 +.speedtest.serveur.gg
@@ -158,11 +159,13 @@ kadoshspeed.kadoshnet.com
 speedtest.linknetbv.com
 +.speedtest.surfshark.com
 +.speed-test.westelcom.com
+speedtest-ank1.atasunucum.com
 +.speed.cloudflare.com
 +.sp1.hcetelecom.com
 +.speedlon.hyperoptic.com
 +.speedsin.phoenixnap.com
 +.speedtest.gslnetworks.com
+ooklaspeedtest-cdb.quebeccloud.com
 +.speedtest-obd.redeconecta.com
 +.speedtest-stm.redeconecta.com
 +.speedtest.springfibre.com
@@ -314,6 +317,7 @@ lg-tok.fdcservers.net
 +.speedtest.japanettelecom.com.br
 +.st.jnettelecom-am.com.br
 +.teste.newsolutionnet.com.br
+velocidade.phinfortelecom.com.br
 +.speedtest.albatroznetwork.com.br
 +.velocidade.amazoniatelecom.com.br
 +.velocidade-pvh.amazoniatelecom.com.br
@@ -455,6 +459,7 @@ stosat-rvlt-01.sys.comcast.net
 +.ams-speedtest.isp.htb.systems
 +.ookla-speedtest-central.hgconair.hgc.com.hk
 +.sosimhk.datapath.three.com.hk
+speedtest-1.london.network.youfibre.com
 +.speedtest.seattle.wa.limewave.net
 +.speedtest.mirror.mel1.digitalpacific.com.au
 +.speedtest.hk212.hkg.cn.nerocloud.io
