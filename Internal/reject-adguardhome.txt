@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-29T13:36:19.610Z
-# Size: 110750
+# Last Updated: 2024-10-29T18:44:22.624Z
+# Size: 110770
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1617,6 +1617,7 @@
 ||twlcyc.cn^
 ||udykkl.cn^
 ||ujovcb.cn^
+||ul2tos.cn^
 ||upyzqf.cn^
 ||vyrpoe.cn^
 ||wdadad.cn^
@@ -8131,6 +8132,7 @@
 ||nffkfg.com^
 ||nfztms.com^
 ||ngjzmt.com^
+||nhnace.com^
 ||nigmen.com^
 ||nitmus.com^
 ||nkdyzf.com^
@@ -12660,6 +12662,7 @@
 ||iekrtaas.com^
 ||iezptsoc.com^
 ||ifdnzact.com^
+||ignslkgs.com^
 ||ihauvogh.com^
 ||ihkybtde.com^
 ||iibhytvj.com^
@@ -12834,6 +12837,7 @@
 ||koucerie.com^
 ||kougloar.com^
 ||kpebuazc.com^
+||kqhgjmap.com^
 ||krqjfirm.com^
 ||kuaiyiad.com^
 ||kuaizhan.com^
@@ -14272,6 +14276,7 @@
 ||vteflygt.com^
 ||vudoutch.com^
 ||vuftouks.com^
+||vugpakba.com^
 ||vukhhjzd.com^
 ||vupoupay.com^
 ||vuqcteyi.com^
@@ -16757,7 +16762,6 @@
 ||skhgzrtxy.com^
 ||skhmjezzj.com^
 ||skinected.com^
-||sleeknote.com^
 ||slimelump.com^
 ||slimspots.com^
 ||slimtrade.com^
@@ -17233,6 +17237,7 @@
 ||vuhnvtrfj.com^
 ||vusrabieg.com^
 ||vvprcztaw.com^
+||vvvvdbrrt.com^
 ||vwhwspngk.com^
 ||vwwzygltq.com^
 ||vzphikkfy.com^
@@ -19932,6 +19937,7 @@
 ||primeleech.com^
 ||printsmull.com^
 ||priselapse.com^
+||privateadx.com^
 ||pro-pro-go.com^
 ||processsky.com^
 ||prodresell.com^
@@ -20625,6 +20631,7 @@
 ||udkcqpmuhc.com^
 ||uelllwrite.com^
 ||ueuodgnrhb.com^
+||ufengjnskl.com^
 ||ugricmoist.com^
 ||ugujwhwwyh.com^
 ||ultrabetas.com^
@@ -33384,6 +33391,7 @@
 ||desperateambient.com^
 ||detailexcitement.com^
 ||detectedpectoral.com^
+||detectivegrilled.com^
 ||deterioratesadly.com^
 ||dgmaxinteractive.com^
 ||diabeteprecursor.com^
@@ -37452,6 +37460,7 @@
 ||noerwe5gianfor19e4st.com^
 ||notorietyobservation.com^
 ||noughttrustthreshold.com^
+||novelslopeoppressive.com^
 ||novemberslantwilfrid.com^
 ||nullscateringinforms.com^
 ||nyadmcncserve-05y06a.com^
@@ -41100,6 +41109,7 @@
 ||bd9wv.icu^
 ||bieuc.icu^
 ||bxqgk.icu^
+||cadcc.icu^
 ||d2tf0.icu^
 ||dfan4.icu^
 ||dk45h.icu^
@@ -43753,6 +43763,7 @@
 ||socketviking.net^
 ||speedcounter.net^
 ||spolecznosci.net^
+||staugloobads.net^
 ||stilanzeigen.net^
 ||stughoamoono.net^
 ||sublimemedia.net^
@@ -43885,6 +43896,7 @@
 ||napthelienquan.net^
 ||nonstoppartner.net^
 ||odeecmoothaith.net^
+||onoamoutsaitsy.net^
 ||phanmemmaytinh.net^
 ||probabilidades.net^
 ||rirteelraibsou.net^
@@ -43914,6 +43926,7 @@
 ||gauwanouzeebota.net^
 ||gibizosutchoakr.net^
 ||google-pagerank.net^
+||gounodogaptofok.net^
 ||graigloapikraft.net^
 ||hubaffiliations.net^
 ||joomisomushisuw.net^
@@ -44413,6 +44426,7 @@
 ||officetablntry.org^
 ||oldndalltheold.org^
 ||orldwhoisquite.org^
+||prodregistryv2.org^
 ||sjsmartcontent.org^
 ||solaranalytics.org^
 ||typicalstudent.org^
@@ -45200,6 +45214,7 @@
 ||clisatf.top^
 ||cntsgsd.top^
 ||cos1999.top^
+||coublif.top^
 ||crtlisf.top^
 ||csylief.top^
 ||ctyusif.top^
@@ -49709,6 +49724,7 @@
 ||news-universe1.xyz^
 ||niggeusakebvkb.xyz^
 ||nmkhvtnypwykfh.xyz^
+||nvlcnvyqvpjppi.xyz^
 ||ohmyanotherone.xyz^
 ||oijorfkfwtdswv.xyz^
 ||ongrpdwwnvliao.xyz^
@@ -51696,6 +51712,7 @@
 ||moutcoverer.shop^
 ||nolduniques.shop^
 ||outvoteloco.shop^
+||pettyachras.shop^
 ||pulpphlegma.shop^
 ||seedsmurids.shop^
 ||shnpetdb638.shop^
@@ -72749,6 +72766,7 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
+||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -73415,7 +73433,6 @@
 ||xml-eu-v4.nexrtb.com^
 ||rtb-useast-v4.nexrtb.com^
 ||forms.nexsan.com^
-||cdn.nhnace.com^
 ||sc.nickjr.com^
 ||ssc.nickjr.com^
 ||pig.nigano.com^
@@ -75218,6 +75235,8 @@
 ||t.flix360.com^
 ||rt.flix360.com^
 ||gagysn.floward.com^
+||tianji.flowgpt.com^
+||data-ingestion.flowgpt.com^
 ||tt.flowntw.com^
 ||nkwvwb.fluevog.com^
 ||app.flykitt.com^
@@ -81854,6 +81873,7 @@
 ||secure.skye6oner.com^
 ||loglady.skypicker.com^
 ||stats.slashgear.com^
+||analytics.sleeknote.com^
 ||un.sleevetaa.com^
 ||b.sli-spark.com^
 ||www.slim2disc.com^

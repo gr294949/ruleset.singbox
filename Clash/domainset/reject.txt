@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-29T13:36:16.348Z
-# Size: 109702
+# Last Updated: 2024-10-29T18:44:17.196Z
+# Size: 109722
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -655,6 +655,7 @@
 +.twlcyc.cn
 +.udykkl.cn
 +.ujovcb.cn
++.ul2tos.cn
 +.upyzqf.cn
 +.vyrpoe.cn
 +.wdadad.cn
@@ -7169,6 +7170,7 @@ adcloud.jp
 +.nffkfg.com
 +.nfztms.com
 +.ngjzmt.com
++.nhnace.com
 +.nigmen.com
 +.nitmus.com
 +.nkdyzf.com
@@ -11698,6 +11700,7 @@ lgtvsdp.com
 +.iekrtaas.com
 +.iezptsoc.com
 +.ifdnzact.com
++.ignslkgs.com
 +.ihauvogh.com
 +.ihkybtde.com
 +.iibhytvj.com
@@ -11872,6 +11875,7 @@ lgtvsdp.com
 +.koucerie.com
 +.kougloar.com
 +.kpebuazc.com
++.kqhgjmap.com
 +.krqjfirm.com
 +.kuaiyiad.com
 +.kuaizhan.com
@@ -13310,6 +13314,7 @@ lgtvsdp.com
 +.vteflygt.com
 +.vudoutch.com
 +.vuftouks.com
++.vugpakba.com
 +.vukhhjzd.com
 +.vupoupay.com
 +.vuqcteyi.com
@@ -15795,7 +15800,6 @@ lgtvsdp.com
 +.skhgzrtxy.com
 +.skhmjezzj.com
 +.skinected.com
-+.sleeknote.com
 +.slimelump.com
 +.slimspots.com
 +.slimtrade.com
@@ -16271,6 +16275,7 @@ lgtvsdp.com
 +.vuhnvtrfj.com
 +.vusrabieg.com
 +.vvprcztaw.com
++.vvvvdbrrt.com
 +.vwhwspngk.com
 +.vwwzygltq.com
 +.vzphikkfy.com
@@ -18970,6 +18975,7 @@ lgtvsdp.com
 +.primeleech.com
 +.printsmull.com
 +.priselapse.com
++.privateadx.com
 +.pro-pro-go.com
 +.processsky.com
 +.prodresell.com
@@ -19663,6 +19669,7 @@ samsungqbe.com
 +.udkcqpmuhc.com
 +.uelllwrite.com
 +.ueuodgnrhb.com
++.ufengjnskl.com
 +.ugricmoist.com
 +.ugujwhwwyh.com
 +.ultrabetas.com
@@ -32422,6 +32429,7 @@ samsungqbe.com
 +.desperateambient.com
 +.detailexcitement.com
 +.detectedpectoral.com
++.detectivegrilled.com
 +.deterioratesadly.com
 +.dgmaxinteractive.com
 +.diabeteprecursor.com
@@ -36490,6 +36498,7 @@ samsungqbe.com
 +.noerwe5gianfor19e4st.com
 +.notorietyobservation.com
 +.noughttrustthreshold.com
++.novelslopeoppressive.com
 +.novemberslantwilfrid.com
 +.nullscateringinforms.com
 +.nyadmcncserve-05y06a.com
@@ -40138,6 +40147,7 @@ samsungcloudsolution.com
 +.bd9wv.icu
 +.bieuc.icu
 +.bxqgk.icu
++.cadcc.icu
 +.d2tf0.icu
 +.dfan4.icu
 +.dk45h.icu
@@ -42791,6 +42801,7 @@ samsungcloudsolution.com
 +.socketviking.net
 +.speedcounter.net
 +.spolecznosci.net
++.staugloobads.net
 +.stilanzeigen.net
 +.stughoamoono.net
 +.sublimemedia.net
@@ -42923,6 +42934,7 @@ samsungcloudsolution.com
 +.napthelienquan.net
 +.nonstoppartner.net
 +.odeecmoothaith.net
++.onoamoutsaitsy.net
 +.phanmemmaytinh.net
 +.probabilidades.net
 +.rirteelraibsou.net
@@ -42952,6 +42964,7 @@ samsungcloudsolution.com
 +.gauwanouzeebota.net
 +.gibizosutchoakr.net
 +.google-pagerank.net
++.gounodogaptofok.net
 +.graigloapikraft.net
 +.hubaffiliations.net
 +.joomisomushisuw.net
@@ -43451,6 +43464,7 @@ samsungcloudsolution.net
 +.officetablntry.org
 +.oldndalltheold.org
 +.orldwhoisquite.org
++.prodregistryv2.org
 +.sjsmartcontent.org
 +.solaranalytics.org
 +.typicalstudent.org
@@ -44238,6 +44252,7 @@ samsungcloudsolution.net
 +.clisatf.top
 +.cntsgsd.top
 +.cos1999.top
++.coublif.top
 +.crtlisf.top
 +.csylief.top
 +.ctyusif.top
@@ -48747,6 +48762,7 @@ samsungcloudsolution.net
 +.news-universe1.xyz
 +.niggeusakebvkb.xyz
 +.nmkhvtnypwykfh.xyz
++.nvlcnvyqvpjppi.xyz
 +.ohmyanotherone.xyz
 +.oijorfkfwtdswv.xyz
 +.ongrpdwwnvliao.xyz
@@ -50734,6 +50750,7 @@ nmbr.info
 +.moutcoverer.shop
 +.nolduniques.shop
 +.outvoteloco.shop
++.pettyachras.shop
 +.pulpphlegma.shop
 +.seedsmurids.shop
 +.shnpetdb638.shop
@@ -71787,6 +71804,7 @@ sapi.edgedb.com
 +.1.feihua.com
 +.cash.femjoy.com
 +.links.fennel.com
++.hub.fghtem.com
 +.go.fhlbny.com
 +.join.fhlbny.com
 +.learn.fhlbny.com
@@ -72453,7 +72471,6 @@ applog.mobike.com
 +.xml-eu-v4.nexrtb.com
 +.rtb-useast-v4.nexrtb.com
 +.forms.nexsan.com
-+.cdn.nhnace.com
 +.sc.nickjr.com
 +.ssc.nickjr.com
 +.pig.nigano.com
@@ -74256,6 +74273,8 @@ update.coolyun.com
 +.t.flix360.com
 +.rt.flix360.com
 +.gagysn.floward.com
++.tianji.flowgpt.com
++.data-ingestion.flowgpt.com
 +.tt.flowntw.com
 +.nkwvwb.fluevog.com
 +.app.flykitt.com
@@ -80892,6 +80911,7 @@ m.sjzhushou.com
 +.secure.skye6oner.com
 +.loglady.skypicker.com
 +.stats.slashgear.com
++.analytics.sleeknote.com
 +.un.sleevetaa.com
 +.b.sli-spark.com
 +.www.slim2disc.com
