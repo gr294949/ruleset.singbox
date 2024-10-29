@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-28T12:40:25.460Z
-# Size: 458
+# Last Updated: 2024-10-29T13:36:16.401Z
+# Size: 459
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -37,6 +37,7 @@
 +.speedtest.ip-projects.de
 +.speedtest.creolineserver.de
 ookla3.1und1-mobilfunk.de
+speedtest1-qupra-ams-nl.ebgp.fi
 +.speedtest.sewan.fr
 speedperf.axione.fr
 +.speedtest.orange.fr
