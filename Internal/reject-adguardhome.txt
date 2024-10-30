@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-30T13:24:04.357Z
-# Size: 110781
+# Last Updated: 2024-10-30T14:04:39.073Z
+# Size: 110789
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -43797,6 +43797,7 @@
 ||waujigarailo.net^
 ||web-boosting.net^
 ||web-rotation.net^
+||webmaxlogger.net^
 ||whaidroansee.net^
 ||whegnoangirt.net^
 ||whidribsiheg.net^
@@ -62556,6 +62557,7 @@
 ||skink.asorman.io^
 ||collect-eu.attraqt.io^
 ||collect-ap2.attraqt.io^
+||ad.bandlab.io^
 ||link.bestest.io^
 ||link-staging.bestest.io^
 ||geo.bluedot.io^
@@ -74717,6 +74719,8 @@
 ||distributors.balluff.com^
 ||smetrics.banamex.com^
 ||go.bandits.com^
+||amplitude.bandlab.com^
+||amplitude-experiment.bandlab.com^
 ||logger.baofeng.com^
 ||syycwa.barcelo.com^
 ||oms.barrons.com^
@@ -77439,6 +77443,7 @@
 ||www.cntr-di7.com^
 ||metrics.coalesse.com^
 ||l.coastapp.com^
+||ads.cocomobi.com^
 ||bpgbcl.coconala.com^
 ||marketing.codebaby.com^
 ||abcd.coderays.com^
@@ -82040,6 +82045,7 @@
 ||gotest.taillight.com^
 ||cashback.takhfifan.com^
 ||log.talkie-ai.com^
+||relay-event.talkie-ai.com^
 ||app.talksport.com^
 ||www.tank3pull.com^
 ||secure.tank3pull.com^
@@ -98964,6 +98970,7 @@
 ||ads.cdvn.vip^
 ||share.tp666.vip^
 ||s.fuxporn.vip^
+||sensorsdata.glowapp.vip^
 ||play.nekobot.vip^
 ||cdn.shrtfly.vip^
 ||as1.maturexxx.vip^
@@ -100722,6 +100729,7 @@
 ||stats.nonprofit.foundation^
 ||gamefowl.nonprofit.foundation^
 ||swordfish.lorem.industries^
+||ad.deepthought.industries^
 ||go.dxc.technology^
 ||omni.dxc.technology^
 ||somni.dxc.technology^
