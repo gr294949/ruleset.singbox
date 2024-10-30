@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-29T18:44:17.196Z
-# Size: 109722
+# Last Updated: 2024-10-30T08:01:06.026Z
+# Size: 109729
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5805,6 +5805,7 @@ adcloud.jp
 +.srcip.com
 +.srgev.com
 +.srkft.com
++.srvgl.com
 +.ssevt.com
 +.sslph.com
 +.ssrv7.com
@@ -7170,7 +7171,6 @@ adcloud.jp
 +.nffkfg.com
 +.nfztms.com
 +.ngjzmt.com
-+.nhnace.com
 +.nigmen.com
 +.nitmus.com
 +.nkdyzf.com
@@ -8180,6 +8180,7 @@ adcloud.jp
 +.agilone.com
 +.aiejlfb.com
 +.aigccdn.com
++.aikkits.com
 +.aimatch.com
 +.airfind.com
 +.airpush.com
@@ -14354,6 +14355,7 @@ lgtvsdp.com
 +.eegeeglou.com
 +.efreecode.com
 +.egfqlswbf.com
++.ehrmanoda.com
 +.ejvdfssdj.com
 +.ela-3-tnk.com
 +.electnext.com
@@ -24299,6 +24301,7 @@ samsungqbe.com
 +.jubilanthush.com
 +.jubnaadserve.com
 +.jugerfowells.com
++.juglarunioid.com
 +.julyouncecat.com
 +.junkieswudge.com
 +.justrelevant.com
@@ -40136,6 +40139,7 @@ samsungcloudsolution.com
 +.5mltq.icu
 +.5z2oy.icu
 +.62zd0.icu
++.6ft8a.icu
 +.6zfem.icu
 +.82zcb.icu
 +.8gra3.icu
@@ -40370,6 +40374,7 @@ samsungcloudsolution.com
 +.azsqkrc.icu
 +.baggvon.icu
 +.baigamp.icu
++.bdawrsi.icu
 +.blciqbk.icu
 +.blinxmi.icu
 +.bmougwx.icu
@@ -40556,6 +40561,7 @@ samsungcloudsolution.com
 +.wbgafrr.icu
 +.wcsmvmf.icu
 +.weagehn.icu
++.whrwlxg.icu
 +.wkabios.icu
 +.wlkukrv.icu
 +.wnmoobz.icu
@@ -44286,6 +44292,7 @@ samsungcloudsolution.net
 +.hewrutu.top
 +.hfjsliu.top
 +.hnalzlu.top
++.houbliu.top
 +.hrtlisu.top
 +.hsylieu.top
 +.htyusiu.top
@@ -71447,7 +71454,6 @@ miui-fxcse.avlyun.com
 +.rt.bvtrkr.com
 +.pbjs-stream.bydata.com
 +.oocrzh.byojet.com
-+.webcare.byside.com
 +.webminer.c3pool.com
 +.go.c4weld.com
 +.gg.caixin.com
@@ -72471,6 +72477,7 @@ applog.mobike.com
 +.xml-eu-v4.nexrtb.com
 +.rtb-useast-v4.nexrtb.com
 +.forms.nexsan.com
++.cdn.nhnace.com
 +.sc.nickjr.com
 +.ssc.nickjr.com
 +.pig.nigano.com
