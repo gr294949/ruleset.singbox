@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-30T08:02:04.150Z
-# Size: 110777
+# Last Updated: 2024-10-30T12:39:47.690Z
+# Size: 110779
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -8133,6 +8133,7 @@
 ||nffkfg.com^
 ||nfztms.com^
 ||ngjzmt.com^
+||nhnace.com^
 ||nigmen.com^
 ||nitmus.com^
 ||nkdyzf.com^
@@ -73439,7 +73440,6 @@
 ||xml-eu-v4.nexrtb.com^
 ||rtb-useast-v4.nexrtb.com^
 ||forms.nexsan.com^
-||cdn.nhnace.com^
 ||sc.nickjr.com^
 ||ssc.nickjr.com^
 ||pig.nigano.com^
@@ -97790,6 +97790,7 @@
 ||a8clk.sirtuinbooster.net^
 ||play.skydreamcasino.net^
 ||stats.spreadtheworld.net^
+||events.swiftlycontent.net^
 ||minnow.tapas-software.net^
 ||track.usadailyoffers.net^
 ||nope.xn--mgbkt9eckr.net^
@@ -99498,6 +99499,7 @@
 ||t.themonument.live^
 ||ad.top-max-buy.live^
 ||server.officeclowns.live^
+||log.cleandesigner.live^
 ||lbtbing.leanbodytonic.live^
 ||pinniped.quarantinecup.live^
 ||get.redboost-site.live^
