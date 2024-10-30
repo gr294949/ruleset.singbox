@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-30T12:39:47.690Z
-# Size: 110779
+# Last Updated: 2024-10-30T13:24:04.357Z
+# Size: 110781
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -52009,6 +52009,7 @@
 ||glxtest.site^
 ||hesftig.site^
 ||iginnis.site^
+||inmense.site^
 ||ippunet.site^
 ||naptien.site^
 ||ncbbank.site^
@@ -52036,6 +52037,7 @@
 ||avatarweb.site^
 ||bahatoken.site^
 ||broadsimp.site^
+||dollphoin.site^
 ||gaming001.site^
 ||hosillfir.site^
 ||howboxmab.site^
