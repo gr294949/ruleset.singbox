@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-31T12:39:09.112Z
-# Size: 109568
+# Last Updated: 2024-10-31T16:14:21.779Z
+# Size: 109586
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12360,6 +12360,7 @@ lgtvsdp.com
 +.paydemic.com
 +.paypopup.com
 +.pblcpush.com
++.pbyfdgnh.com
 +.pc180101.com
 +.pdfurqok.com
 +.peak-adx.com
@@ -12596,6 +12597,7 @@ lgtvsdp.com
 +.quayngoc.com
 +.quillion.com
 +.quixdtrk.com
++.qujptcqr.com
 +.qvjqbtbt.com
 +.qwertize.com
 +.qxhspimg.com
@@ -14441,6 +14443,7 @@ lgtvsdp.com
 +.fineporno.com
 +.first-vay.com
 +.fixedfold.com
++.fjbtkrfay.com
 +.flakesyet.com
 +.flcounter.com
 +.fleenaive.com
@@ -16863,6 +16866,7 @@ lgtvsdp.com
 +.adframesrc.com
 +.adgardener.com
 +.adgorithms.com
++.adgzfujunv.com
 +.adit-media.com
 +.adklimages.com
 +.adl-hunter.com
@@ -24003,6 +24007,7 @@ samsungqbe.com
 +.gobletclosed.com
 +.gollarpulsus.com
 +.gomakemerich.com
++.gonakedowing.com
 +.gondolagnome.com
 +.googleadapis.com
 +.googleads-cn.com
@@ -26542,6 +26547,7 @@ samsungqbe.com
 +.deferjobfeels.com
 +.defiancebelow.com
 +.degreechariot.com
++.dejjjdbifojmi.com
 +.delicateducks.com
 +.deligrassdull.com
 +.delusionpenal.com
@@ -31479,6 +31485,7 @@ samsungqbe.com
 +.nightmarerelive.com
 +.nightspickcough.com
 +.nippona7n2theum.com
++.nnxfiqgqdsoywwa.com
 +.noiselessplough.com
 +.nonchalantnerve.com
 +.nondescriptnote.com
@@ -32132,6 +32139,7 @@ samsungqbe.com
 +.accedemotorcycle.com
 +.accedeproductive.com
 +.accelerateswitch.com
++.acceptvigorously.com
 +.acclaimcraftsman.com
 +.acecapprecarious.com
 +.achelessarkaskew.com
@@ -34038,6 +34046,7 @@ samsungqbe.com
 +.perfunctoryfrugal.com
 +.periodicjotrickle.com
 +.perksyringefiring.com
++.perpetraterummage.com
 +.persaonwhoisablet.com
 +.persevereindirect.com
 +.personalityhamlet.com
@@ -44230,6 +44239,7 @@ samsungcloudsolution.net
 +.kewrutd.top
 +.kfjslid.top
 +.knalzld.top
++.koublid.top
 +.kreisis.top
 +.krtlisd.top
 +.ksylied.top
@@ -48020,6 +48030,7 @@ samsungcloudsolution.net
 +.d1x9q8w2e4.xyz
 +.dacmursaiz.xyz
 +.dagobert33.xyz
++.dansimseng.xyz
 +.datanoufou.xyz
 +.deejehicha.xyz
 +.doajauhopi.xyz
@@ -48345,6 +48356,7 @@ samsungcloudsolution.net
 +.inrqqddrnqkk.xyz
 +.istoanaugrub.xyz
 +.jacqsojijukj.xyz
++.jblkvlyurssx.xyz
 +.kbqtuwoxgvth.xyz
 +.kjjbgclciiay.xyz
 +.kjsckwjvdxju.xyz
@@ -50501,6 +50513,7 @@ nmbr.info
 +.alienernod.shop
 +.askewusurp.shop
 +.binzdapoet.shop
++.brughsasha.shop
 +.bullromney.shop
 +.cunealfume.shop
 +.dapcerevis.shop
@@ -50583,6 +50596,7 @@ nmbr.info
 +.unhonedyork.shop
 +.uvrecussing.shop
 +.vib-cardnew.shop
++.virgalocust.shop
 +.vn-thongtin.shop
 +.yavaflocker.shop
 +.yellochloed.shop
@@ -50769,6 +50783,7 @@ nmbr.info
 +.shofarsregroup.shop
 +.slimishbiosome.shop
 +.sorobanbesplit.shop
++.stagerydialing.shop
 +.stalkerlagunes.shop
 +.sternedfranion.shop
 +.talcingartarin.shop
@@ -97665,6 +97680,7 @@ ssl.360antivirus.org
 +.c22x1.xcdn.ovh
 +.client2009x25.xcdn.ovh
 +.m.anyfiles.ovh
++.dmp.citynews.ovh
 +.plausible.citynews.ovh
 +.aardvark.tracking.ovh
 +.ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
@@ -108354,10 +108370,12 @@ al-log.d.meituan.net
 +.1614729201.rsc.cdn77.org
 +.1651567170.rsc.cdn77.org
 +.1675450967.rsc.cdn77.org
++.1686385128.rsc.cdn77.org
 +.1736253261.rsc.cdn77.org
 +.1771616246.rsc.cdn77.org
 +.1844221534.rsc.cdn77.org
 +.1918634747.rsc.cdn77.org
++.1937343605.rsc.cdn77.org
 +.1991482557.rsc.cdn77.org
 +.marketing.congress.eular.org
 +.app.response.hslda.org

@@ -24,13 +24,13 @@ anwalt.de                                                                       
 msn.com                                                                                             34
 samsung.com                                                                                         33
 aliyuncs.com                                                                                        32
+cdn77.org                                                                                           32
 thermofisher.com                                                                                    32
 aleragroup.com                                                                                      31
 appspot.com                                                                                         31
 cosmicnewspulse.com                                                                                 31
 microsoft.com                                                                                       31
 sina.cn                                                                                             31
-cdn77.org                                                                                           30
 360.cn                                                                                              29
 b-cdn.net                                                                                           29
 833enmhob.com                                                                                       28
@@ -201,7 +201,7 @@ pages.dev                                                                       
 qq.com                                                                                              47
 wpenginepowered.com                                                                                 47
 b-cdn.net                                                                                           46
-wixstudio.io                                                                                        46
+wixstudio.io                                                                                        45
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
 supplypoland.com                                                                                    40
@@ -211,7 +211,7 @@ adktrack30.xyz                                                                  
 covidvcfund.com                                                                                     37
 msn.com                                                                                             37
 dfirma.pl                                                                                           36
-framer.app                                                                                          35
+framer.app                                                                                          34
 adbureau.net                                                                                        33
 luxxeeu.com                                                                                         32
 github.io                                                                                           31
@@ -284,7 +284,6 @@ sunyclouds.com                                                                  
 tayki.site                                                                                          18
 techwwwpl.site                                                                                      18
 tess1.top                                                                                           18
-univer.se                                                                                           18
 wertas.xyz                                                                                          18
 2r5d.icu                                                                                            17
 a5x7.icu                                                                                            17
@@ -309,6 +308,7 @@ redsistem.site                                                                  
 rutradersxprod.com                                                                                  17
 treasurendtrovedeals.com                                                                            17
 umeng.com                                                                                           17
+univer.se                                                                                           17
 valuevaultmarkets.com                                                                               17
 vcdau.top                                                                                           17
 wf74.top                                                                                            17
@@ -371,7 +371,6 @@ progictpro.top                                                                  
 recettedubonheur.fr                                                                                 15
 rewol-ucja-gazowa.com                                                                               15
 runeww1.site                                                                                        15
-servebbs.org                                                                                        15
 spectare.top                                                                                        15
 tex-prog.top                                                                                        15
 tradelifeworld.top                                                                                  15
@@ -408,6 +407,7 @@ njrrs.com                                                                       
 phtmedia.com                                                                                        14
 propl.top                                                                                           14
 reviss.site                                                                                         14
+servebbs.org                                                                                        14
 systemlocal.space                                                                                   14
 ttssonine.top                                                                                       14
 uzwl.lat                                                                                            14
@@ -573,6 +573,7 @@ prof-stat.site                                                                  
 profit-activ.site                                                                                   11
 program-pro1.site                                                                                   11
 projectprog.click                                                                                   11
+replit.dev                                                                                          11
 riamor.xyz                                                                                          11
 roonss.xyz                                                                                          11
 ru.com                                                                                              11
@@ -676,7 +677,6 @@ poland-money.fun                                                                
 profitactiv1.top                                                                                    10
 profitcsh.site                                                                                      10
 proflivee.top                                                                                       10
-replit.dev                                                                                          10
 riverffsa.cloud                                                                                     10
 saigow.top                                                                                          10
 sanital.xyz                                                                                         10
