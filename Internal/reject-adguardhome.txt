@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-10-31T12:39:14.720Z
-# Size: 110618
+# Last Updated: 2024-10-31T13:25:11.790Z
+# Size: 110619
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -636,6 +636,7 @@
 @@||coralogix.com&
 @@||online.cosmosbank.in&
 @@||crakmedia.com&
+@@|api.crashguard.me^
 @@||tags.crwdcntrl.net&
 @@||logs.datadoghq.com&
 @@||debugbear.com&
