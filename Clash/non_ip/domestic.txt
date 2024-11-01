@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-31T13:25:07.616Z
-# Size: 742
+# Last Updated: 2024-11-01T19:54:18.557Z
+# Size: 743
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -748,6 +748,7 @@ DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,dl.bscstorage.net
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
+DOMAIN,media.cdn.queniuqe.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.qhimgs[a-zA-Z0-9-_.]\.com$
 ################## EOF ##################

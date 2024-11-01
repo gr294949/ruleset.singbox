@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-31T16:14:21.826Z
-# Size: 462
+# Last Updated: 2024-11-01T19:54:18.547Z
+# Size: 466
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -73,6 +73,7 @@ speedperf.axione.fr
 +.speedtest.race.com
 +.speedtest10.vqbn.com
 +.mycuspeed.169ol.com
+speedtest2.niutk.com
 +.speedtest.telus.com
 +.nyc1-speedtest.webnx.com
 +.lax1a-speedtest.webnx.com
@@ -272,6 +273,7 @@ lg-tok.fdcservers.net
 +.veloteste.mrjomar.com.br
 +.f1.netfast.com.br
 +.teste.wsfibra.com.br
+speedtest.apnet-rr.com.br
 +.speedtest.linkamos.com.br
 +.speedtest.orixinet.com.br
 +.speedtest-vsbu.rolimnet.com.br
@@ -436,6 +438,7 @@ speedtest.spd.net.tr
 speedtest.nyc.macarne.com
 speedtest.ty7.macarne.com
 speedtest.eu.kamatera.com
+csfw.fj.chinamobile.com
 +.speedtest.hk.chinamobile.com
 +.speedtestbb.hk.chinamobile.com
 +.speedtest.fra.ewgmedianet.com
@@ -467,6 +470,7 @@ speedtest-1.london.network.youfibre.com
 +.speedtest.seattle.wa.limewave.net
 +.speedtest.mirror.mel1.digitalpacific.com.au
 +.speedtest.hk212.hkg.cn.nerocloud.io
+speed.vm.brs.marcusn.co.uk
 +.ipl3pt.syd.ops.aspac.uu.net
 +.speedtest.thn.lon.network.as201838.net
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
