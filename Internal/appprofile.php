@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-02T14:41:44.448Z
+// # Build 2024-11-02T18:52:30.798Z
 
 declare(strict_types=1);
 
@@ -188,7 +188,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,feelgood.cn,Domestic',
         'DOMAIN-SUFFIX,iconfont.cn,Domestic',
         'DOMAIN-SUFFIX,leetcode.cn,Domestic',
-        'DOMAIN-SUFFIX,linkedin.cn,Domestic',
         'DOMAIN-SUFFIX,opposhop.cn,Domestic',
         'DOMAIN-SUFFIX,bilivideo.cn,Domestic',
         'DOMAIN-SUFFIX,blzstatic.cn,Domestic',
@@ -333,6 +332,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ksyun.com,Domestic',
         'DOMAIN-SUFFIX,kugou.com,Domestic',
         'DOMAIN-SUFFIX,lagou.com,Domestic',
+        'DOMAIN-SUFFIX,ljcdn.com,Domestic',
         'DOMAIN-SUFFIX,m1905.com,Domestic',
         'DOMAIN-SUFFIX,meitu.com,Domestic',
         'DOMAIN-SUFFIX,meizu.com,Domestic',
@@ -517,6 +517,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ksosoft.com,Domestic',
         'DOMAIN-SUFFIX,kwaicdn.com,Domestic',
         'DOMAIN-SUFFIX,leiniao.com,Domestic',
+        'DOMAIN-SUFFIX,lianjia.com,Domestic',
         'DOMAIN-SUFFIX,ludashi.com,Domestic',
         'DOMAIN-SUFFIX,meituan.com,Domestic',
         'DOMAIN-SUFFIX,myzaker.com,Domestic',
@@ -559,6 +560,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,blizzard.com,Domestic',
         'DOMAIN-SUFFIX,changyan.com,Domestic',
         'DOMAIN-SUFFIX,chaoxing.com,Domestic',
+        'DOMAIN-SUFFIX,chiphell.com,Domestic',
         'DOMAIN-SUFFIX,cmbchina.com,Domestic',
         'DOMAIN-SUFFIX,cmfchina.com,Domestic',
         'DOMAIN-SUFFIX,dangdang.com,Domestic',
@@ -2910,7 +2912,9 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.150.236.0/23,Domestic',
         'IP-CIDR,45.153.128.0/22,Domestic',
         'IP-CIDR,45.157.70.0/23,Domestic',
+        'IP-CIDR,45.192.64.0/19,Domestic',
         'IP-CIDR,45.199.167.0/24,Domestic',
+        'IP-CIDR,45.204.112.0/20,Domestic',
         'IP-CIDR,45.248.8.0/22,Domestic',
         'IP-CIDR,45.248.110.0/24,Domestic',
         'IP-CIDR,45.249.212.0/22,Domestic',
@@ -5331,6 +5335,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,154.205.112.0/21,Domestic',
         'IP-CIDR,154.205.124.0/22,Domestic',
         'IP-CIDR,154.211.72.0/24,Domestic',
+        'IP-CIDR,154.223.96.0/19,Domestic',
         'IP-CIDR,155.126.176.0/23,Domestic',
         'IP-CIDR,156.0.92.0/22,Domestic',
         'IP-CIDR,156.107.160.0/24,Domestic',
@@ -5345,7 +5350,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.236.119.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
         'IP-CIDR,156.239.64.0/18,Domestic',
-        'IP-CIDR,156.239.224.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',

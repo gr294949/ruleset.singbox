@@ -24,10 +24,10 @@ anwalt.de                                                                       
 msn.com                                                                                             34
 samsung.com                                                                                         33
 aliyuncs.com                                                                                        32
+appspot.com                                                                                         32
 cdn77.org                                                                                           32
 thermofisher.com                                                                                    32
 aleragroup.com                                                                                      31
-appspot.com                                                                                         31
 cosmicnewspulse.com                                                                                 31
 microsoft.com                                                                                       31
 sina.cn                                                                                             31
@@ -212,7 +212,7 @@ covidvcfund.com                                                                 
 msn.com                                                                                             37
 wixsite.com                                                                                         37
 dfirma.pl                                                                                           36
-framer.app                                                                                          34
+framer.app                                                                                          36
 adbureau.net                                                                                        33
 luxxeeu.com                                                                                         32
 shengen.ru                                                                                          31
@@ -240,7 +240,7 @@ hostingkampanya.com                                                             
 mhi.co.jp                                                                                           24
 adkplan.fr                                                                                          23
 eucharisticjesus.net                                                                                23
-duckdns.org                                                                                         21
+duckdns.org                                                                                         22
 eliteoftokens.com                                                                                   21
 epinlock.com                                                                                        21
 endiim.com                                                                                          20
@@ -309,7 +309,6 @@ rutradersxprod.com                                                              
 sa.com                                                                                              17
 treasurendtrovedeals.com                                                                            17
 umeng.com                                                                                           17
-univer.se                                                                                           17
 valuevaultmarkets.com                                                                               17
 vcdau.top                                                                                           17
 wf74.top                                                                                            17
@@ -332,6 +331,7 @@ sextracker.be                                                                   
 startone.top                                                                                        16
 supplypoland.company                                                                                16
 tune2u.com                                                                                          16
+univer.se                                                                                           16
 waonlineprogram.top                                                                                 16
 xtnew.click                                                                                         16
 2hzr.icu                                                                                            15
@@ -390,7 +390,6 @@ cusu.skin                                                                       
 dowss.site                                                                                          14
 elespcoinn.site                                                                                     14
 eumashd.top                                                                                         14
-freewebhostmost.com                                                                                 14
 fxxmaxtrade.top                                                                                     14
 g-cointrad.top                                                                                      14
 incogtrad.site                                                                                      14
@@ -425,6 +424,7 @@ deharina.com                                                                    
 drrd.lat                                                                                            13
 eqin.one                                                                                            13
 free9k.site                                                                                         13
+freewebhostmost.com                                                                                 13
 frvm.skin                                                                                           13
 fxworldkol.info                                                                                     13
 ham-stop.xyz                                                                                        13
@@ -480,7 +480,6 @@ aptin.live                                                                      
 b9cp.cfd                                                                                            12
 blogspot.hu                                                                                         12
 careprofit.xyz                                                                                      12
-cccinvolve.org                                                                                      12
 dasj.lat                                                                                            12
 dianamercer.com                                                                                     12
 dns.army                                                                                            12
@@ -538,11 +537,11 @@ bbuuddaa.top                                                                    
 bdvh.top                                                                                            11
 biznesinsaiderpolandnews.com                                                                        11
 capitalloredfd.site                                                                                 11
+cccinvolve.org                                                                                      11
 cenacoolo.pl                                                                                        11
 comvis.site                                                                                         11
 coolplattf.top                                                                                      11
 depiinv.xyz                                                                                         11
-dns-dynamic.net                                                                                     11
 drygas.warszawa.pl                                                                                  11
 epwj.top                                                                                            11
 fellsax.top                                                                                         11
@@ -587,7 +586,6 @@ teswp.xyz                                                                       
 trom-so.com                                                                                         11
 tsqwz.xyz                                                                                           11
 upnf.cfd                                                                                            11
-us.kg                                                                                               11
 uxtu.skin                                                                                           11
 vicdesmidt.com                                                                                      11
 well-beingandstability.com                                                                          11
@@ -680,7 +678,6 @@ poland-money.fun                                                                
 profitactiv1.top                                                                                    10
 profitcsh.site                                                                                      10
 proflivee.top                                                                                       10
-replit.app                                                                                          10
 riverffsa.cloud                                                                                     10
 ru.com                                                                                              10
 saigow.top                                                                                          10
@@ -702,6 +699,7 @@ trioprofit2.online                                                              
 trioprofit3.online                                                                                  10
 trioprofit4.online                                                                                  10
 trioprofit5.online                                                                                  10
+us.kg                                                                                               10
 vab5.cfd                                                                                            10
 valhaalla.xyz                                                                                       10
 vgml.lat                                                                                            10
