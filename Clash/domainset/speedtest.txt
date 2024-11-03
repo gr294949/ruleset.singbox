@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-11-01T19:54:18.547Z
-# Size: 466
+# Last Updated: 2024-11-03T12:35:29.024Z
+# Size: 467
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -164,6 +164,7 @@ speedtest.linknetbv.com
 speedtest-ank1.atasunucum.com
 +.speed.cloudflare.com
 +.sp1.hcetelecom.com
+speedtest.hizhosting.com
 +.speedlon.hyperoptic.com
 +.speedsin.phoenixnap.com
 +.speedtest.gslnetworks.com

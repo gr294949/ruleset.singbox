@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-02T18:52:35.129Z
-# Size: 110711
+# Last Updated: 2024-11-03T12:35:34.238Z
+# Size: 110761
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1105,6 +1105,7 @@
 ||hsdps.cc^
 ||pocrd.cc^
 ||qksrv.cc^
+||soyte.cc^
 ||tikiy.cc^
 ||ulink.cc^
 ||vssid.cc^
@@ -4131,6 +4132,7 @@
 ||interestingz.pw^
 ||kiemtiencv19.pw^
 ||unblockedtpb.pw^
+||uuyiiuqwownx.pw^
 ||uyhgqunqkxnx.pw^
 ||wwgfyvvdtmeq.pw^
 ||airproxyproxy.pw^
@@ -4796,6 +4798,7 @@
 ||yoaabgvkm.ru^
 ||zarabotki.ru^
 ||zszhfffyd.ru^
+||08ro35delw.ru^
 ||0p1ohj2f5f.ru^
 ||1p3opxwwet.ru^
 ||2gwzdkjrtb.ru^
@@ -5539,6 +5542,7 @@
 ||vongquaylienminh.vn^
 ||congtacvienonline.vn^
 ||dangkycongtacvien.vn^
+||dienmayxanhcenter.vn^
 ||ff-members-garena.vn^
 ||membership-garena.vn^
 ||onlinebank-shopee.vn^
@@ -6240,6 +6244,7 @@
 ||croea.com^
 ||csbtd.com^
 ||csjuq.com^
+||ctivo.com^
 ||ctrmi.com^
 ||ctyzd.com^
 ||cufcw.com^
@@ -7831,6 +7836,7 @@
 ||imgsdn.com^
 ||imiclk.com^
 ||imitrk.com^
+||imniel.com^
 ||implix.com^
 ||impore.com^
 ||imposi.com^
@@ -8440,6 +8446,7 @@
 ||secprf.com^
 ||sehiba.com^
 ||sehtjv.com^
+||sendo1.com^
 ||sepyra.com^
 ||sexiba.com^
 ||sftapi.com^
@@ -9618,6 +9625,7 @@
 ||eunow4u.com^
 ||eunzkvf.com^
 ||euvtoaw.com^
+||evnnpcs.com^
 ||evsembu.com^
 ||evtwkkh.com^
 ||evwmwnd.com^
@@ -9763,6 +9771,7 @@
 ||ggwcash.com^
 ||ggxcoez.com^
 ||ggzkgfe.com^
+||ghtk247.com^
 ||gianwho.com^
 ||gigjjgb.com^
 ||gillynn.com^
@@ -10927,6 +10936,7 @@
 ||sp1776p.com^
 ||sp56788.com^
 ||sp7335p.com^
+||sp7588p.com^
 ||sp77888.com^
 ||spacash.com^
 ||sparteo.com^
@@ -11060,6 +11070,7 @@
 ||tobyxev.com^
 ||tomekas.com^
 ||top2099.com^
+||topcvvn.com^
 ||topdepo.com^
 ||topitme.com^
 ||topklik.com^
@@ -11758,6 +11769,7 @@
 ||altastat.com^
 ||altpubli.com^
 ||amavalet.com^
+||amazoni2.com^
 ||amazonl0.com^
 ||amazonl3.com^
 ||amazonl4.com^
@@ -15062,6 +15074,7 @@
 ||caunaurou.com^
 ||ccmdcinut.com^
 ||ccryxqgqf.com^
+||ccty-ghtk.com^
 ||cdn-image.com^
 ||cdn4image.com^
 ||cdngcloud.com^
@@ -22518,6 +22531,7 @@
 ||moldyicicle.com^
 ||moleconcern.com^
 ||momentumjob.com^
+||momoshopvip.com^
 ||monicaatron.com^
 ||moocaicaico.com^
 ||moonheappyr.com^
@@ -28190,6 +28204,7 @@
 ||kopehngtragen.com^
 ||kopeukasrsiha.com^
 ||korgiejoinyou.com^
+||korshoptiktok.com^
 ||koudaiyundong.com^
 ||koxcsmmcealss.com^
 ||kpgbxnpwrsnsi.com^
@@ -34219,6 +34234,7 @@
 ||thresholdunusual.com^
 ||thrilledrentbull.com^
 ||thrustlumpypulse.com^
+||thuongmai-dientu.com^
 ||thursdaymolecule.com^
 ||thutucnhantienvn.com^
 ||ticketnegligence.com^
@@ -37894,6 +37910,7 @@
 ||dich-vu-the-ez-vpbank.com^
 ||dich-vu-update-vpbank.com^
 ||dictatormiserablealec.com^
+||dienlanhdienmayxanhvn.com^
 ||dienmayxanhbeautyplus.com^
 ||difficultyhobblefrown.com^
 ||digestionheartlesslid.com^
@@ -38504,6 +38521,7 @@
 ||deserveannotationjesus.com^
 ||deterrentpainscodliver.com^
 ||dichvucongbaohiemxahoi.com^
+||dichvugiaohangtietkiem.com^
 ||diffusedpassionquaking.com^
 ||dinecogitateaffections.com^
 ||disappearancetickfilth.com^
@@ -39749,6 +39767,7 @@
 ||candyschoolmasterbullying.com^
 ||caricaturechampionshipeye.com^
 ||chaisefireballresearching.com^
+||chamsocthe-uudaikhachhang.com^
 ||chancellorharrowbelieving.com^
 ||chocolatesingconservative.com^
 ||chrisrespectivelynostrils.com^
@@ -40653,7 +40672,9 @@
 ||frecklessfrecklesscommercialeighth.com^
 ||khoi-khach-hang-ca-nhan-vni-diamon.com^
 ||professionallygravitationbackwards.com^
+||uudaikhachhang-chamsocthetructuyen.com^
 ||chamsockhachhang-uudai-tructuyenthe.com^
+||chamsocthe-uudaikhachhang-tructuyen.com^
 ||chamsocthekhachhang-uudai-tructuyen.com^
 ||dirtrecurrentinapptitudeinapptitude.com^
 ||khoi-khach-hang-ca-nhan-uu-tien-vni.com^
@@ -41121,6 +41142,7 @@
 ||d2tf0.icu^
 ||dfan4.icu^
 ||dk45h.icu^
+||dsfh2.icu^
 ||dv4ku.icu^
 ||e1zin.icu^
 ||er1h4.icu^
@@ -41344,6 +41366,7 @@
 ||baggvon.icu^
 ||baigamp.icu^
 ||bdawrsi.icu^
+||bdcmwcl.icu^
 ||blciqbk.icu^
 ||blinxmi.icu^
 ||bmougwx.icu^
@@ -41429,6 +41452,7 @@
 ||kfocken.icu^
 ||kfycmiu.icu^
 ||khcsvdc.icu^
+||kiolpia.icu^
 ||kiykfux.icu^
 ||kjnsgqe.icu^
 ||kkacrgx.icu^
@@ -41522,6 +41546,7 @@
 ||ukkiftx.icu^
 ||umoxomv.icu^
 ||uqcktxp.icu^
+||urpkktc.icu^
 ||uskecsx.icu^
 ||uvekyvs.icu^
 ||uvwnkmf.icu^
@@ -41621,6 +41646,7 @@
 ||jbib-hxyf.icu^
 ||lazadaapp.icu^
 ||qa-vatote.icu^
+||walmartva.icu^
 ||jztwidpixa.icu^
 ||m-fmfadcfm.icu^
 ||yxuytpfe-t.icu^
@@ -45357,6 +45383,7 @@
 ||tewruti.top^
 ||tkiteri.top^
 ||tnalzli.top^
+||toublii.top^
 ||ttgbnmk.top^
 ||turesdi.top^
 ||twerioi.top^
@@ -46094,6 +46121,7 @@
 ||shoppe8.vip^
 ||tiki333.vip^
 ||tiki444.vip^
+||tiki886.vip^
 ||trungso.vip^
 ||vebo123.vip^
 ||vn-tiki.vip^
@@ -47548,6 +47576,7 @@
 ||ajffubz.xyz^
 ||albdbsk.xyz^
 ||albireo.xyz^
+||amazoul.xyz^
 ||anjdwmq.xyz^
 ||anjneia.xyz^
 ||apvnzvg.xyz^
@@ -51112,6 +51141,7 @@
 ||gayfinder.life^
 ||growngame.life^
 ||newwinner.life^
+||yk37wagdg.life^
 ||best-prize.life^
 ||duimspruer.life^
 ||ephebedori.life^
@@ -51916,6 +51946,7 @@
 ||adsfarm.site^
 ||adshost.site^
 ||alitems.site^
+||amazoul.site^
 ||antenta.site^
 ||bin-tds.site^
 ||flelgwe.site^
@@ -53082,6 +53113,7 @@
 ||contentango.online^
 ||eunpprzdlkf.online^
 ||hospitalsky.online^
+||jetkingncsc.online^
 ||ladyvietnam.online^
 ||letterslamp.online^
 ||likenewvids.online^
@@ -53181,6 +53213,7 @@
 ||taichinhthongminh.online^
 ||thuytrieukiemtien.online^
 ||vaytiennhanh5phut.online^
+||dichvudienmay-xanh.online^
 ||garena-membershipp.online^
 ||membershipkimcuong.online^
 ||motaikhoannganhang.online^
@@ -53207,6 +53240,7 @@
 ||tongdaitruyenhinhcap24h.online^
 ||vaytheoluongtechcombank.online^
 ||shinhanbank-tindunghanoi.online^
+||chamsocthe-uudaikhachhang.online^
 ||vaytinchap-shinhanbank247.online^
 ||vn-lienkettaikhoannhanqua.online^
 ||chamsocthekhachhang-thang4.online^
@@ -53360,6 +53394,7 @@
 ||tetlienquan2023.website^
 ||distributionland.website^
 ||educationrailway.website^
+||giaohangtietkiemvn.website^
 ||sieukhuyenmaii2023.website^
 ||momo.builders^
 ||ay.delivery^
@@ -54871,6 +54906,7 @@
 ||cv.tenjin.cc^
 ||ads.topsex.cc^
 ||xserve.zapurl.cc^
+||dichvucong.ccbcavn.cc^
 ||mo.gushiji.cc^
 ||stat.mydaddy.cc^
 ||analytics.raenonx.cc^
@@ -54887,6 +54923,7 @@
 ||tontent.powv1deo.cc^
 ||plausible.pronouns.cc^
 ||centent.stemplay.cc^
+||vneid.vieegovn.cc^
 ||m.wenxuemi.cc^
 ||ad.weplayer.cc^
 ||crosspromotion.weplayer.cc^
@@ -67904,6 +67941,7 @@
 ||lazmail.com.vn^
 ||napngay.com.vn^
 ||faceb00k.com.vn^
+||fasebook.com.vn^
 ||wiinvent.com.vn^
 ||doithecao.com.vn^
 ||lottehanoi.com.vn^
@@ -67935,13 +67973,22 @@
 ||vietcombank-vietnam.com.vn^
 ||cham-soc-the-truc-tuyen.com.vn^
 ||uudaikhachhang-tructuyen.com.vn^
+||chamsocthe-uudaitructuyen.com.vn^
 ||dhl-chuyenphatnhanhquocte.com.vn^
 ||chamsocthekhachhang-thang4.com.vn^
+||uudaikhachhang-tructuyen-the.com.vn^
 ||hotrokhachhang-uudai-tructuyen.com.vn^
+||chamsocthe-uudaikhachhang-thang10.com.vn^
 ||chamsockhachhangtheuudai-tructuyen.com.vn^
+||chamsocthe-uudai-tructuyen-thang10.com.vn^
+||uudaikhachhang-chamsocthetructuyen.com.vn^
 ||uudaikhachhangthe-tructuyen-thang9.com.vn^
+||uudauthekhachhanh-tructuyen-thang10.com.vn^
 ||chamsocthekhachhang-tructuyen-thang8.com.vn^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
+||chamsockhachhang-the-tructuyen-thang9.com.vn^
+||chamsockhachhang-uudai-tructuyen-thang10.com.vn^
+||chamsockhachhang-uudaithetructuyen-thang10.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||statis.dsp.vn^
 ||truongtonducthang.edu.vn^
@@ -68582,6 +68629,7 @@
 ||link.yesorno.bet^
 ||go.lize.bid^
 ||wvontgd.pqmg.bid^
+||dfeenxea.tidc.bid^
 ||dpsmhx.zxte.bid^
 |ga.utilapi.bid^
 ||js.mangaraw.bid^
@@ -74666,7 +74714,6 @@
 ||smetrics.berkeys.com^
 ||rqjjdi.bershka.com^
 ||cdn.bescore.com^
-||tmx.bestbuy.com^
 ||smetrics.bestbuy.com^
 ||str2-fsca-track.bestbuy.com^
 ||str2-bbyca-track.bestbuy.com^
@@ -94519,6 +94566,7 @@
 ||track.feelingbetterlifestyle.com^
 ||go.foreverhealthyandhappy.com^
 ||business.franchiseopportunities.com^
+||api.garageserviceoperation.com^
 ||sstats.governmentcontractsusa.com^
 ||secure.happyretirementstories.com^
 ||trk.healthcaremarketquotes.com^
@@ -98891,6 +98939,7 @@
 ||link.btl.vin^
 ||ads.cdvn.vip^
 ||share.tp666.vip^
+||telaagam.maxisl.vip^
 ||s.fuxporn.vip^
 ||sensorsdata.glowapp.vip^
 ||play.nekobot.vip^
@@ -99687,6 +99736,7 @@
 ||stats.seotraff.team^
 ||affiliate.studio51.team^
 ||stats.cloudflex.team^
+||natvxgkbb.9pz1.tech^
 ||link.nate.tech^
 ||cdn.xpln.tech^
 ||mljfff.zgbv.tech^
