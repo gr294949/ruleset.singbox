@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-03T14:17:41.184Z
-# Size: 110770
+# Last Updated: 2024-11-04T01:30:44.209Z
+# Size: 110778
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6458,6 +6458,7 @@
 ||knlob.com^
 ||knowd.com^
 ||kovla.com^
+||kra18.com^
 ||ktxtr.com^
 ||kuyun.com^
 ||kvaaa.com^
@@ -14295,6 +14296,7 @@
 ||vreqnait.com^
 ||vroaafoi.com^
 ||vsesumki.com^
+||vsojfsoj.com^
 ||vssidgov.com^
 ||vstvstsa.com^
 ||vteflygt.com^
@@ -41131,6 +41133,7 @@
 ||62zd0.icu^
 ||6ft8a.icu^
 ||6zfem.icu^
+||7f7rt.icu^
 ||82zcb.icu^
 ||8gra3.icu^
 ||8q88n.icu^
@@ -41407,6 +41410,7 @@
 ||enokouv.icu^
 ||eoucxzw.icu^
 ||extopae.icu^
+||ezrcowa.icu^
 ||faaqgje.icu^
 ||fdyacma.icu^
 ||fjqcqdr.icu^
@@ -41554,6 +41558,7 @@
 ||uskecsx.icu^
 ||uvekyvs.icu^
 ||uvwnkmf.icu^
+||uwsaqoi.icu^
 ||uyyquln.icu^
 ||vbiakpu.icu^
 ||vdoqomz.icu^
@@ -45402,6 +45407,7 @@
 ||ufjslit.top^
 ||ukitert.top^
 ||unalzlt.top^
+||uoublit.top^
 ||urtlist.top^
 ||usyliet.top^
 ||uuresdt.top^
@@ -72881,6 +72887,7 @@
 ||dls.guidrr.com^
 ||ad.gunosy.com^
 ||tr.gunosy.com^
+||ads-delivery.gunosy.com^
 ||1.gunsuo.com^
 ||tagman.guoman.com^
 ||m.gxwztv.com^
@@ -95020,6 +95027,7 @@
 ||tahr.rasen.dev^
 |sashimi.royli.dev^
 ||wildebeest.trigo.dev^
+||analytics.ahrefs.dev^
 ||butterfly.dharsh.dev^
 ||stats.dillen.dev^
 ||pa-stats.encore.dev^
