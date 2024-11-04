@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-04T01:30:34.148Z
-# Size: 2630
+# Last Updated: 2024-11-04T02:03:52.174Z
+# Size: 2631
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2452,6 +2452,7 @@ static.bit.cloud
 +.ipfs.tubby.cloud
 +.gateway.pinata.cloud
 resources-live.sketch.cloud
++.cloud-object-storage.appdomain.cloud
 media.cleanshot.cloud
 assets.buttondown.email
 +.ipfs.telos.miami
