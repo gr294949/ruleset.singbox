@@ -25,7 +25,6 @@ msn.com                                                                         
 samsung.com                                                                                         33
 aliyuncs.com                                                                                        32
 appspot.com                                                                                         32
-cdn77.org                                                                                           32
 thermofisher.com                                                                                    32
 aleragroup.com                                                                                      31
 cosmicnewspulse.com                                                                                 31
@@ -139,6 +138,7 @@ yandex.net                                                                      
 935ft4j96.com                                                                                       11
 averydennison.com                                                                                   11
 byteoversea.com                                                                                     11
+cdn77.org                                                                                           11
 com.se                                                                                              11
 coniferhealth.com                                                                                   11
 cresa.com                                                                                           11
@@ -199,7 +199,7 @@ pages.dev                                                                       
 rciadventure.com                                                                                    48
 qq.com                                                                                              47
 b-cdn.net                                                                                           46
-wpenginepowered.com                                                                                 46
+wpenginepowered.com                                                                                 45
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
 wixstudio.io                                                                                        43
@@ -319,7 +319,6 @@ elmachif.com                                                                    
 emergencepsychservices.com                                                                          16
 eutrty.top                                                                                          16
 formhh.top                                                                                          16
-freewebhostmost.com                                                                                 16
 gertrader.xyz                                                                                       16
 hoccs.xyz                                                                                           16
 jokivest1.site                                                                                      16
@@ -348,6 +347,7 @@ euprofx.top                                                                     
 fierceatfifty.com                                                                                   15
 fondblagorus.xyz                                                                                    15
 franksistem.site                                                                                    15
+freewebhostmost.com                                                                                 15
 ggaf.pl                                                                                             15
 histtory.top                                                                                        15
 improvetrd.xyz                                                                                      15
@@ -683,7 +683,6 @@ ru.com                                                                          
 saigow.top                                                                                          10
 sanital.xyz                                                                                         10
 save-x.live                                                                                         10
-servebbs.org                                                                                        10
 sist-eurp.xyz                                                                                       10
 slwiastore.pl                                                                                       10
 snvq.top                                                                                            10
