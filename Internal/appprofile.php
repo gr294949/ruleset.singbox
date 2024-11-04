@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-04T10:49:56.526Z
+// # Build 2024-11-04T12:40:05.414Z
 
 declare(strict_types=1);
 
@@ -1603,6 +1603,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dcard.tw,Global',
         'DOMAIN-SUFFIX,linetv.tw,Global',
         'DOMAIN-SUFFIX,shopee.tw,Global',
+        'DOMAIN-SUFFIX,moegirl.tw,Global',
         'DOMAIN-SUFFIX,moegirl.uk,Global',
         'DOMAIN-SUFFIX,binance.us,Global',
         'DOMAIN-SUFFIX,missav.ws,Global',
@@ -1628,6 +1629,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ask.com,Global',
         'DOMAIN-SUFFIX,avg.com,Global',
         'DOMAIN-SUFFIX,bbc.com,Global',
+        'DOMAIN-SUFFIX,cal.com,Global',
         'DOMAIN-SUFFIX,cbs.com,Global',
         'DOMAIN-SUFFIX,cnn.com,Global',
         'DOMAIN-SUFFIX,fc2.com,Global',
@@ -5334,7 +5336,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.232.13.0/24,Domestic',
         'IP-CIDR,156.236.119.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
-        'IP-CIDR,156.239.96.0/19,Domestic',
+        'IP-CIDR,156.239.64.0/18,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',
