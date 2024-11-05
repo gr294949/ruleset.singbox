@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-05T12:36:55.413Z
-# Size: 107343
+# Last Updated: 2024-11-05T15:40:23.954Z
+# Size: 107344
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22333,6 +22333,7 @@ samsungqbe.com
 +.fe7qygqi2p2h.com
 +.featherstage.com
 +.fernwaycloud.com
++.feverfreeman.com
 +.fh259by01r25.com
 +.fhepiqajsdap.com
 +.fickle-brush.com

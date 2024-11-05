@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-05T08:40:51.634Z
-# Size: 611
+# Last Updated: 2024-11-05T15:40:24.286Z
+# Size: 612
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -28,6 +28,7 @@ pixeldrain.com
 +.catbox.moe
 +.filebin.net
 +.steamserver.net
++.archive.org
 +.tmpfiles.org
 fedorapeople.org
 +.1fichier.info
