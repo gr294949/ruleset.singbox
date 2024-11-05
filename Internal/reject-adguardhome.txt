@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-05T15:56:39.394Z
-# Size: 108397
+# Last Updated: 2024-11-05T17:20:58.642Z
+# Size: 108367
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3663,7 +3663,7 @@
 ||ad-drop.jp^
 ||ad-move.jp^
 ||ad-seek.jp^
-|adcloud.jp^
+||adcloud.jp^
 ||adflare.jp^
 ||appollo.jp^
 ||dbfocus.jp^
@@ -10391,6 +10391,7 @@
 ||phkwimm.com^
 ||phluant.com^
 ||phpstat.com^
+||phpwind.com^
 ||pigeoon.com^
 ||pigspie.com^
 ||pihmvhv.com^
@@ -16078,6 +16079,7 @@
 ||showsteel.com^
 ||showzyeye.com^
 ||shredquiz.com^
+||shshuoshu.com^
 ||shughaxiw.com^
 ||sickflock.com^
 ||sicksmash.com^
@@ -52320,7 +52322,6 @@
 ||hao.360.cn^
 ||wan.360.cn^
 ||down.360.cn^
-|leak.360.cn^
 ||jiagu.360.cn^
 ||union.360.cn^
 ||mobilem.360.cn^
@@ -52531,6 +52532,7 @@
 ||js.ubaike.cn^
 ||un.ubaike.cn^
 ||manage.wdfans.cn^
+||auction-ads.wpscdn.cn^
 ||mg.xhkvff.cn^
 ||iads.xinmin.cn^
 ||tongji.xinmin.cn^
@@ -60481,7 +60483,6 @@
 ||wxnxau.air-r.jp^
 ||a8cv.all24.jp^
 ||ln.ameba.jp^
-|abema-adx.ameba.jp^
 ||fpida.amphi.jp^
 ||a8clk.ancar.jp^
 ||a8cv.aplod.jp^
@@ -64713,7 +64714,7 @@
 ||play.rheo.tv^
 ||app.subs.tv^
 ||link.tubi.tv^
-|ads.wasu.tv^
+||ads.wasu.tv^
 ||adsc.wasu.tv^
 |adwasu.wasu.tv^
 |adsystem.wasu.tv^
@@ -65965,7 +65966,7 @@
 ||rqd.qq.com^
 ||wxs.qq.com^
 ||push.qq.com^
-|tajs.qq.com^
+||tajs.qq.com^
 |tcss.qq.com^
 |tpns.qq.com^
 ||adnet.qq.com^
@@ -65982,7 +65983,7 @@
 ||pingjs.qq.com^
 ||pingma.qq.com^
 ||sngmta.qq.com^
-|wspeed.qq.com^
+||wspeed.qq.com^
 |adsfile.qq.com^
 |adsview.qq.com^
 ||pingtas.qq.com^
@@ -66679,7 +66680,6 @@
 |ad.21cn.com^
 ||market.21cn.com^
 ||adshows.21cn.com^
-|admarket.21cn.com^
 ||ssp.21ic.com^
 ||fxjs.2541.com^
 ||js.263y.com^
@@ -67004,10 +67004,8 @@
 ||t-ak.hulu.com^
 ||metcon.hulu.com^
 ||vortex.hulu.com^
-|hd.hupu.com^
 |adx.hupu.com^
 |ccdace.hupu.com^
-|shence.hupu.com^
 ||df.huya.com^
 ||ylog.huya.com^
 ||e-stat.huya.com^
@@ -67125,11 +67123,11 @@
 ||app.lark.com^
 ||smetrics.lcbo.com^
 ||dc.letv.com^
-|fz.letv.com^
+||fz.letv.com^
 |g3.letv.com^
 |ark.letv.com^
-|pro.letv.com^
-|stat.letv.com^
+||pro.letv.com^
+||stat.letv.com^
 ||fe-go.letv.com^
 ||webp2p.letv.com^
 |minisite.letv.com^
@@ -67780,6 +67778,7 @@
 ||e.baidu.com^
 ||g.baidu.com^
 ||s.baidu.com^
+||x.baidu.com^
 ||cb.baidu.com^
 ||cm.baidu.com^
 ||em.baidu.com^
@@ -68380,6 +68379,7 @@
 ||iwa.iplsc.com^
 ||vpdyyz.iqair.com^
 |afp.iqiyi.com^
+||ckm.iqiyi.com^
 ||cupid.iqiyi.com^
 |yuedu.iqiyi.com^
 |mbdlog.iqiyi.com^
@@ -68983,8 +68983,8 @@
 ||sanalytics.trutv.com^
 ||yiohzu.tsigs.com^
 ||ebanking.ttoh4.com^
-|nstat.tudou.com^
-|stats.tudou.com^
+||nstat.tudou.com^
+||stats.tudou.com^
 |adplay.tudou.com^
 |iwstat.tudou.com^
 ||hola.tukif.com^
@@ -69108,7 +69108,6 @@
 ||events.whisk.com^
 ||axp.who13.com^
 |adnew.wifi8.com^
-|adfile.wifi8.com^
 |adunion.wifi8.com^
 ||sdata.wiley.com^
 ||marketing.wingd.com^
@@ -69145,7 +69144,6 @@
 ||noa.yahoo.com^
 ||nol.yahoo.com^
 ||ras.yahoo.com^
-|ysm.yahoo.com^
 ||ganon.yahoo.com^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
@@ -70482,7 +70480,6 @@
 ||info.mmmlaw.com^
 ||zg.mmyuer.com^
 ||a.mobify.com^
-|applog.mobike.com^
 ||ma.moblrn.com^
 ||info.mobmed.com^
 ||kyjoyk.modoza.com^
@@ -71939,7 +71936,6 @@
 ||m.bigroad.com^
 ||hcjpbc.bikemag.com^
 ||meta-events.bikereg.com^
-|thirdparty.biliapi.com^
 ||br.bio-rad.com^
 ||eakwza.bipicar.com^
 ||xwpoxv.birdies.com^
@@ -72109,7 +72105,6 @@
 ||app.cookdtv.com^
 ||logend.cookpad.com^
 ||smetrics.coolray.com^
-|update.coolyun.com^
 ||trck.coomeet.com^
 ||omni.copaair.com^
 ||somni.copaair.com^
@@ -72670,7 +72665,6 @@
 ||trackcommon.hujiang.com^
 ||da.hunantv.com^
 ||log.hunantv.com^
-|res.hunantv.com^
 |click.hunantv.com^
 ||ping.hungama.com^
 ||t.huskers.com^
@@ -73289,7 +73283,6 @@
 ||analytics.pgatour.com^
 ||swebanalytics.pgatour.com^
 ||r.phhhoto.com^
-|init.phpwind.com^
 ||halibut.phytype.com^
 ||stats.piaggio.com^
 ||invite.piceapp.com^
@@ -74162,16 +74155,6 @@
 ||app.ziptoss.com^
 ||d.ziyuanm.com^
 ||www.zmxncb5.com^
-|tracker1.zmzfile.com^
-|tracker2.zmzfile.com^
-|tracker3.zmzfile.com^
-|tracker4.zmzfile.com^
-|tracker5.zmzfile.com^
-|htracker1.zmzfile.com^
-|htracker2.zmzfile.com^
-|htracker3.zmzfile.com^
-|htracker4.zmzfile.com^
-|htracker5.zmzfile.com^
 ||stats.zotabox.com^
 ||static.zotabox.com^
 ||saclel.zotapay.com^
@@ -75015,7 +74998,7 @@
 ||metrics.fortinet.com^
 ||tracking.fortnite.com^
 ||open.fotition.com^
-|regist.fotoable.com^
+||adapi.fotoable.com^
 ||wvvw.france24.com^
 ||webstat.freaks4u.com^
 ||a8cv.free-max.com^
@@ -76270,7 +76253,7 @@
 ||marketing.soenergy.com^
 ||tracker.softcube.com^
 ||lu.sogoucdn.com^
-|inte.sogoucdn.com^
+||inte.sogoucdn.com^
 ||theta.sogoucdn.com^
 ||smetrics.solidigm.com^
 ||rtb-uswest-ak.solomath.com^
@@ -79089,7 +79072,6 @@
 ||tracking.shopstyle.com^
 ||analytics.shorthand.com^
 ||hz.shouyoutv.com^
-|js.shshuoshu.com^
 ||web.sidsavage.com^
 ||t.sieu-viet.com^
 ||bran.sightdots.com^
@@ -93257,7 +93239,6 @@
 ||stats.behance.net^
 ||go.betobet.net^
 ||app.bidhead.net^
-|thirdparty.biliapi.net^
 ||8cc5ff581a88.bitsngo.net^
 ||marketing.bluebox.net^
 ||stocker.bonnint.net^
@@ -96360,7 +96341,6 @@
 ||track.lapa.pub^
 ||plaus.outpost.pub^
 ||ferret.itsf.red^
-|analyze.innei.ren^
 ||t.fml.rip^
 ||slit.lewd.rip^
 ||owa.any.run^
@@ -99495,7 +99475,6 @@
 ||stsdk.vivo.com.cn^
 |adxlog.vivo.com.cn^
 |stnetsdk.vivo.com.cn^
-|adsstatic.vivo.com.cn^
 |ort-stsdk.vivo.com.cn^
 |prt-stsdk.vivo.com.cn^
 |onrt-stsdk.vivo.com.cn^
@@ -99602,11 +99581,10 @@
 ||track.lc.quark.cn^
 |dp.im.weibo.cn^
 |promote.biz.weibo.cn^
+||push.mcp.weibo.cn^
 |m.game.weibo.cn^
 |mdrecv.app.cntvwb.cn^
-|sdapprecv.app.cntvwb.cn^
 |vdapprecv.app.cntvwb.cn^
-|img.auction-ads.wpscdn.cn^
 ||www2.info.renesas.cn^
 ||open.e.kuaishou.cn^
 |lcs.dev.surepush.cn^
@@ -103356,7 +103334,7 @@
 |report.qqweb.qq.com^
 ||statistic.qzone.qq.com^
 ||rcgi.video.qq.com^
-|trace.video.qq.com^
+|btrace.video.qq.com^
 |wxsmsdy.video.qq.com^
 |sdkconfig.video.qq.com^
 |huatuocode.huatuo.qq.com^
@@ -103561,7 +103539,6 @@
 |match.p4p.1688.com^
 ||tr.newsletter.1oag.com^
 ||images.warranty.2-10.com^
-|ad.k.21cn.com^
 ||a8clk.wedding.294p.com^
 ||links.e.aetv.com^
 ||links.em.aetv.com^
@@ -103636,7 +103613,7 @@
 ||cs.analytics.lego.com^
 |msg.m.letv.com^
 ||apple.www.letv.com^
-|pro.hoye.letv.com^
+||pro.hoye.letv.com^
 |n.mark.letv.com^
 ||d.mail.levi.com^
 ||e.mail.levi.com^
@@ -103661,7 +103638,6 @@
 |encounter.bz.mgtv.com^
 |rc-topic-api.bz.mgtv.com^
 ||images.engage.mims.com^
-|rom.pt.miui.com^
 ||tracking.rus.miui.com^
 ||adv.sec.miui.com^
 ||api.sec.miui.com^
@@ -103767,7 +103743,6 @@
 ||au.ff.avast.com^
 ||analytics.ff.avast.com^
 ||streamback.ff.avast.com^
-|w.x.baidu.com^
 |click.bes.baidu.com^
 |ps.map.baidu.com^
 |sv.map.baidu.com^
@@ -103843,8 +103818,7 @@
 ||ablink.help.innit.com^
 ||ablink.hello.innit.com^
 ||elqtrk.thailand.intel.com^
-|ad.m.iqiyi.com^
-|a.ckm.iqiyi.com^
+||ad.m.iqiyi.com^
 |emoticon.sns.iqiyi.com^
 |c.uaa.iqiyi.com^
 |policy.video.iqiyi.com^
@@ -103989,7 +103963,7 @@
 |c.yes.youku.com^
 |ad.mobile.youku.com^
 |das.mobile.youku.com^
-|gamex.mobile.youku.com^
+||gamex.mobile.youku.com^
 |b.smartvideo.youku.com^
 ||images.seemore.zebra.com^
 ||secure.info.zetes.com^
@@ -104157,7 +104131,7 @@
 ||data.stagemailing.mcafee.com^
 ||ssl.o.mdedge.com^
 ||images.news.meraas.com^
-|mi-stat.gslb.mi-idc.com^
+||mi-stat.gslb.mi-idc.com^
 ||resolver.gslb.mi-idc.com^
 ||go.fem.mingle.com^
 ||go.jsh.mingle.com^
@@ -104642,7 +104616,6 @@
 ||tr.contact.ruinart.com^
 ||retail-client-events-service.internal.salsify.com^
 ||bldr.mkt.samsung.com^
-|bigdata.ssp.samsung.com^
 ||images.b2bmkt.samsung.com^
 ||analytics.bigdata.samsung.com^
 ||images.b2bindia.samsung.com^
@@ -104974,7 +104947,6 @@
 ||app.e.flukecal.com^
 ||track.f1store.formula1.com^
 ||strack.f1store.formula1.com^
-|cdn.adapi.fotoable.com^
 ||email.everyonesocial.frontier.com^
 ||r.sib2.gardrops.com^
 ||app.gfis.genworth.com^
@@ -106803,7 +106775,6 @@
 ||email.everyonesocial.colt.net^
 ||stat.tiara.daum.net^
 ||real-feedback.toros.daum.net^
-|live.tvpot.daum.net^
 ||a8cv.ias.il24.net^
 ||a8clk.ias.il24.net^
 ||images.marketing.kaec.net^
@@ -107488,7 +107459,6 @@
 ||log.vdn.apps.cntv.cn^
 |u1.img.mobile.sina.cn^
 |click.uve.mobile.sina.cn^
-|gw5.push.mcp.weibo.cn^
 ||images.universidad.javeriana.edu.co^
 ||app.info.coopenae.fi.cr^
 ||images.info.coopenae.fi.cr^

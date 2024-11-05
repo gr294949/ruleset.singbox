@@ -11,9 +11,9 @@ taobao.com                                                                      
 eccocar.com                                                                                         51
 youku.com                                                                                           49
 flourishpath.online                                                                                 45
-miui.com                                                                                            45
 pandasuite.io                                                                                       45
 sina.com.cn                                                                                         45
+miui.com                                                                                            44
 experian.com                                                                                        43
 nespresso.com                                                                                       39
 americanexpress.com                                                                                 38
@@ -22,22 +22,22 @@ aaa.com                                                                         
 m-shop.me                                                                                           35
 anwalt.de                                                                                           34
 msn.com                                                                                             34
-samsung.com                                                                                         33
 aliyuncs.com                                                                                        32
 appspot.com                                                                                         32
 cosmicnewspulse.com                                                                                 32
+samsung.com                                                                                         32
 thermofisher.com                                                                                    32
 aleragroup.com                                                                                      31
 microsoft.com                                                                                       31
 sina.cn                                                                                             31
-360.cn                                                                                              29
 833enmhob.com                                                                                       29
 b-cdn.net                                                                                           29
+360.cn                                                                                              28
 wolterskluwer.com                                                                                   28
-yahoo.com                                                                                           28
 akamaihd.net                                                                                        27
 hsbc.com                                                                                            27
 vodafone.com                                                                                        27
+yahoo.com                                                                                           27
 34gwl8v1a.com                                                                                       26
 intuit.com                                                                                          26
 naver.com                                                                                           26
@@ -121,7 +121,6 @@ mgtv.com                                                                        
 powzers.lol                                                                                         13
 snssdk.com                                                                                          13
 verintsystemsinc.com                                                                                13
-vivo.com.cn                                                                                         13
 zalo.me                                                                                             13
 360safe.com                                                                                         12
 advancedtech.com                                                                                    12
@@ -135,6 +134,7 @@ ricoh.de                                                                        
 riteaid.com                                                                                         12
 samsungcloudsolution.com                                                                            12
 thomsonreuters.com                                                                                  12
+vivo.com.cn                                                                                         12
 ximalaya.com                                                                                        12
 yandex.net                                                                                          12
 53.com                                                                                              11
@@ -188,7 +188,6 @@ westernunion.com                                                                
 xhamster.com                                                                                        10
 xunlei.com                                                                                          10
 zip.co                                                                                              10
-zmzfile.com                                                                                         10
 === extra ===
 ebutudan.com                                                                                        78
 adkoffer.fr                                                                                         77

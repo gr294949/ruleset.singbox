@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-05T15:44:56.767Z
+// # Build 2024-11-05T17:20:45.376Z
 
 declare(strict_types=1);
 
@@ -1444,14 +1444,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,fastly-download.epicgames.com,Steam Download',
         'DOMAIN-SUFFIX,egdownload.fastly-edge.com,Steam Download',
         'DOMAIN-SUFFIX,content.steampowered.com,Steam Download',
-        'DOMAIN,content1.steampowered.com,Steam Download',
-        'DOMAIN,content2.steampowered.com,Steam Download',
-        'DOMAIN,content3.steampowered.com,Steam Download',
-        'DOMAIN,content4.steampowered.com,Steam Download',
-        'DOMAIN,content5.steampowered.com,Steam Download',
-        'DOMAIN,content6.steampowered.com,Steam Download',
-        'DOMAIN,content7.steampowered.com,Steam Download',
-        'DOMAIN,content8.steampowered.com,Steam Download',
         'DOMAIN,content-origin.steampowered.com,Steam Download',
         'DOMAIN-SUFFIX,dyn.riotcdn.net,Steam Download',
         'DOMAIN,origin-a.akamaihd.net,Steam Download',
@@ -1474,7 +1466,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,steam.naeu.qtlglb.com,Steam Download',
         'DOMAIN-SUFFIX,content.cdp.bethesda.net,Steam Download',
         'DOMAIN-SUFFIX,download.cdp.bethesda.net,Steam Download',
-        'DOMAIN,gog-cdn-lumen.secure2.footprint.net,Steam Download',
         'DOMAIN,blizzard.gcdn.cloudn.co.kr,Steam Download',
         'DOMAIN,edge.steam-dns.top.comcast.net,Steam Download',
         'DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,Global',
@@ -5326,6 +5317,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,154.205.112.0/21,Domestic',
         'IP-CIDR,154.205.124.0/22,Domestic',
         'IP-CIDR,154.211.72.0/24,Domestic',
+        'IP-CIDR,154.223.96.0/19,Domestic',
         'IP-CIDR,155.126.176.0/23,Domestic',
         'IP-CIDR,156.0.92.0/22,Domestic',
         'IP-CIDR,156.107.160.0/24,Domestic',
@@ -5340,6 +5332,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.236.119.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
         'IP-CIDR,156.239.96.0/19,Domestic',
+        'IP-CIDR,156.239.224.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',
@@ -6116,9 +6109,10 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,211.92.0.0/17,Domestic',
         'IP-CIDR,211.91.224.0/19,Domestic',
         'IP-CIDR,211.91.216.0/21,Domestic',
-        'IP-CIDR,211.92.128.0/19,Domestic',
-        'IP-CIDR,211.92.160.0/20,Domestic',
-        'IP-CIDR,211.92.240.0/21,Domestic',
+        'IP-CIDR,211.92.128.0/18,Domestic',
+        'IP-CIDR,211.92.192.0/19,Domestic',
+        'IP-CIDR,211.92.224.0/20,Domestic',
+        'IP-CIDR,211.92.244.0/22,Domestic',
         'IP-CIDR,211.93.0.0/17,Domestic',
         'IP-CIDR,211.93.128.0/20,Domestic',
         'IP-CIDR,211.93.144.0/21,Domestic',
