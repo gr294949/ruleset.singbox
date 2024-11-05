@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-05T17:20:45.324Z
-# Size: 2613
+# Last Updated: 2024-11-05T17:53:46.519Z
+# Size: 2609
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -436,6 +436,7 @@ yummlystatic.com
 +.zdusercontent.com
 +.zohowebstatic.com
 +.alonestreaming.com
++.datocms-assets.com
 +.intercomassets.com
 +.kc-usercontent.com
 +.oaiusercontent.com
@@ -679,8 +680,6 @@ i.ibb.co
 image.ibb.co
 s.w-x.co
 v.w-x.co
-cdn.jifi.co
-gfonts.jifi.co
 snippet.maze.co
 load.csell.co
 +.ipfs.fleek.co
@@ -1106,8 +1105,8 @@ media-s3-eu-west-1.ceros.com
 media-s3-us-east-1.ceros.com
 media-s3-us-west-1.ceros.com
 assets-s3-us-east-1.ceros.com
+asset.chase.com
 sites.chase.com
-assets.chase.com
 img.clerk.com
 scdn.clerk.com
 cdn.cliqz.com
@@ -1334,7 +1333,6 @@ img.xhacgn.com
 static.zaobao.com
 cdn.zapier.com
 fonts.zapier.com
-sigma9.zokhoi.com
 static.4shared.com
 s.abcnews.com
 assets-cdn.abcnews.com
@@ -1705,6 +1703,7 @@ img.represent.com
 img.riskified.com
 media-cldnry.s-nbcnews.com
 assets.scaleflex.com
+sigma9.scpwikicn.com
 forest-mt-s3.seekrtech.com
 media.shopimind.com
 uploads.sitepoint.com
@@ -2037,7 +2036,6 @@ prod.addictinggames.com
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
 userimg-assets.customeriomail.com
-www.datocms-assets.com
 cdn-live.foreignaffairs.com
 static-gcp.freepikcompany.com
 code.ionicframework.com
@@ -2111,7 +2109,6 @@ tuf-repo-cdn.sigstore.dev
 i.jpg.dog
 cdn.onetime.dog
 cdn.usd.fan
-cdn10.hiftporn.fun
 static.mikuclub.fun
 cdn7.pornmaster.fun
 images-assets.nasa.gov
@@ -2361,7 +2358,6 @@ cdn.sciencecast.org
 storage.sciencecast.org
 cdn.simpleicons.org
 files.writefreely.org
-repos.danosproject.org
 cdn.freecodecamp.org
 cdn-media-1.freecodecamp.org
 cdn-media-2.freecodecamp.org
@@ -2576,6 +2572,7 @@ images.store.crowdstrike.com
 img1.ak.crunchyroll.com
 sts.online.visualstudio.com
 image.email.microsoftemail.com
+static.na1.visioncritical.com
 static.global.visioncritical.com
 stats.setapp.macpaw.dev
 assets.video.yahoo.net
@@ -2590,7 +2587,6 @@ cdn.forms.office.net
 cdn.graph.office.net
 avatars.mds.yandex.net
 +.crash-reports.browser.yandex.net
-ysa-static.passport.yandex.net
 interactive-examples.mdn.mozilla.net
 +.blob.core.windows.net
 +.file.core.windows.net

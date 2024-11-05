@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-05T17:20:58.642Z
-# Size: 108367
+# Last Updated: 2024-11-05T17:53:51.852Z
+# Size: 108352
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1311,6 +1311,7 @@
 ||adzp.cn^
 ||aeaw.cn^
 ||aqvi.cn^
+||dbba.cn^
 ||hy90.cn^
 ||kdeh.cn^
 ||mvng.cn^
@@ -18189,6 +18190,7 @@
 ||gscsahv014.com^
 ||gsimvqfghc.com^
 ||gtcslt-di2.com^
+||gtyjpiobza.com^
 ||guhomnfuzq.com^
 ||guildalpha.com^
 ||gumcongest.com^
@@ -21026,6 +21028,7 @@
 ||isawthenews.com^
 ||isparkmedia.com^
 ||istanaiklan.com^
+||istreamsche.com^
 ||itblisseyer.com^
 ||itcameruptr.com^
 ||itflorgesan.com^
@@ -32724,6 +32727,7 @@
 ||assassinationsteal.com^
 ||assignmentlonesome.com^
 ||atelegendinflected.com^
+||ationforeathyougla.com^
 ||atrocityfingernail.com^
 ||attractwarningkeel.com^
 ||auditioneasterhelm.com^
@@ -38955,6 +38959,7 @@
 ||momo79.net^
 ||momo91.net^
 ||msedge.net^
+||myaora.net^
 ||nuevaq.net^
 ||nuggad.net^
 ||ohchat.net^
@@ -42690,6 +42695,7 @@
 ||cftpolished5.top^
 ||closeupclear.top^
 ||daiwofei2019.top^
+||deponerdidym.top^
 ||devoteerouge.top^
 ||dgafgadsgkjg.top^
 ||dimmestlasts.top^
@@ -42851,6 +42857,7 @@
 ||isidiumfastus.top^
 ||jbbyyryezqavb.top^
 ||jelokeryevrmz.top^
+||jeoawamjbbyeq.top^
 ||jeoawamjbbzjy.top^
 ||jyozavoyyymly.top^
 ||jyvkwqjoombkz.top^
@@ -48255,6 +48262,7 @@
 ||x-zjxfhysb.love^
 ||adjmntesdsoi.love^
 ||tsy-jnugwavj.love^
+||zaamgqlgdhac.love^
 ||shopee.luxe^
 ||1mp.mobi^
 ||adz.mobi^
@@ -49605,6 +49613,7 @@
 ||cloudbit.rocks^
 ||octavius.rocks^
 ||bmzgcv-eo.rocks^
+||dyipkcuro.rocks^
 ||g-xtqrgag.rocks^
 ||monerominer.rocks^
 ||oz-yypkhuwo.rocks^
@@ -52374,7 +52383,6 @@
 ||3.cjcp.cn^
 ||online.cphi.cn^
 ||adf.dahe.cn^
-|union.dbba.cn^
 ||bd.dhsz.cn^
 |dd.iask.cn^
 ||metrics.kone.cn^
@@ -65979,6 +65987,7 @@
 |adping.qq.com^
 ||beacon.qq.com^
 ||btrace.qq.com^
+||huatuo.qq.com^
 ||mtrace.qq.com^
 ||pingjs.qq.com^
 ||pingma.qq.com^
@@ -65999,7 +66008,6 @@
 ||beaconcdn.qq.com^
 |qring-tms.qq.com^
 |adsqqclick.qq.com^
-|adstestview.qq.com^
 ||adv.r7.com^
 ||log-ads.r7.com^
 ||audience-mostread.r7.com^
@@ -66419,7 +66427,7 @@
 ||confiant.msn.com^
 ||zmetrics.msn.com^
 |analytics.msn.com^
-|mobileads.msn.com^
+||mobileads.msn.com^
 ||marketingde.mti.com^
 ||ssc.mtv.com^
 ||go.mwe.com^
@@ -67672,7 +67680,6 @@
 ||resources.aldec.com^
 ||marketing.alere.com^
 ||marketing-us.alere.com^
-|data.alexa.com^
 ||insights.alley.com^
 ||snalytics.allyz.com^
 ||tracking.almax.com^
@@ -67845,7 +67852,6 @@
 ||wangmeng.baidu.com^
 |click-bes.baidu.com^
 |nadvideo2.baidu.com^
-|videopush.baidu.com^
 |feed-image.baidu.com^
 ||unionimage.baidu.com^
 |mobads-logs.baidu.com^
@@ -68254,7 +68260,6 @@
 ||z.grfyw.com^
 ||go.grip6.com^
 ||xpcpmr.gsm55.com^
-|beacon.gtimg.com^
 |splashqqlive.gtimg.com^
 ||r.guggy.com^
 ||mdws.gvccu.com^
@@ -68693,7 +68698,6 @@
 ||omni.orvis.com^
 ||somni.orvis.com^
 ||eiorzm.orvis.com^
-|s.osano.com^
 ||aidsro.ostin.com^
 ||tgtgzo.otelz.com^
 ||data.ouigo.com^
@@ -69194,7 +69198,6 @@
 ||ykad-data.youku.com^
 |apiv4-iyes.youku.com^
 |guanggaoad.youku.com^
-|passport-log.youku.com^
 ||adx-open-service.youku.com^
 ||pcapp-data-collect.youku.com^
 ||daima.ysdui.com^
@@ -69996,8 +69999,6 @@
 ||api.gimbal.com^
 ||analytics-server.gimbal.com^
 ||know.gimmal.com^
-|ads.gionee.com^
-|pdl.gionee.com^
 ||collector.github.com^
 ||collector-cdn.github.com^
 ||campaign.gitiho.com^
@@ -75351,7 +75352,6 @@
 ||info.jordansc.com^
 ||play.journey8.com^
 ||mnrddc.journeys.com^
-|ad-cn.jovcloud.com^
 ||pbstats.jpmorgan.com^
 ||datum.jsdelivr.com^
 ||sp.jsonline.com^
@@ -75723,7 +75723,6 @@
 ||metrics.myyellow.com^
 ||smetrics.myyellow.com^
 ||metrics.mzstatic.com^
-|dzc-metrics.mzstatic.com^
 ||info.nahealth.com^
 ||med.namzaric.com^
 ||ideas.nanawall.com^
@@ -78296,6 +78295,7 @@
 ||a8.lens-labo.com^
 ||a8cv.leoandlea.com^
 ||lxiaho.lesfurets.com^
+||game.letvstore.com^
 ||mat.lgdisplay.com^
 ||promotion.lginnotek.com^
 ||clk.liberty-e.com^
@@ -79557,7 +79557,6 @@
 ||target.walgreens.com^
 ||metrics.walgreens.com^
 ||smetrics.walgreens.com^
-|push.wandoujia.com^
 ||www.want7feed.com^
 ||secure.want7feed.com^
 ||a.wanzhuang.com^
@@ -83211,9 +83210,6 @@
 ||omni.istockphoto.com^
 ||somni.istockphoto.com^
 ||firstpartycookie.istockphoto.com^
-|jxlog.istreamsche.com^
-|tanxlog.istreamsche.com^
-|material.istreamsche.com^
 ||a8cv.isuzu-rinji.com^
 ||collect.iteam-dress.com^
 ||p-events.ivideosmart.com^
@@ -93147,7 +93143,6 @@
 ||utklhk.kojima.net^
 ||js.medi-8.net^
 ||adv.mxmcdn.net^
-|adres.myaora.net^
 ||app.mybigc.net^
 ||mlfolu.nabava.net^
 ||banstat.nadavi.net^
@@ -99426,7 +99421,6 @@
 ||cpro.zol.com.cn^
 ||stat.zol.com.cn^
 |apppv.zol.com.cn^
-|pvnapp.zol.com.cn^
 ||pvnwap.zol.com.cn^
 ||metrics.citi.com.cn^
 ||campaign.hach.com.cn^
@@ -99447,7 +99441,6 @@
 |ad2.sina.com.cn^
 |ad3.sina.com.cn^
 |ad4.sina.com.cn^
-|ad5.sina.com.cn^
 |d00.sina.com.cn^
 ||p4p.sina.com.cn^
 |pfp.sina.com.cn^
@@ -99583,8 +99576,6 @@
 |promote.biz.weibo.cn^
 ||push.mcp.weibo.cn^
 |m.game.weibo.cn^
-|mdrecv.app.cntvwb.cn^
-|vdapprecv.app.cntvwb.cn^
 ||www2.info.renesas.cn^
 ||open.e.kuaishou.cn^
 |lcs.dev.surepush.cn^
@@ -103337,7 +103328,6 @@
 |btrace.video.qq.com^
 |wxsmsdy.video.qq.com^
 |sdkconfig.video.qq.com^
-|huatuocode.huatuo.qq.com^
 ||ad.weixin.qq.com^
 |dns.weixin.qq.com^
 ||log1.wtlogin.qq.com^
@@ -103469,7 +103459,7 @@
 ||a.ads2.msn.com^
 ||live.rads.msn.com^
 ||analytics.msnbc.msn.com^
-|catalog.video.msn.com^
+||catalog.video.msn.com^
 ||app.link.nba.com^
 ||metrics.watch.nba.com^
 ||smetrics.watch.nba.com^
@@ -103754,7 +103744,6 @@
 |log.music.baidu.com^
 ||baifen.music.baidu.com^
 ||as1.wenku.baidu.com^
-|ad.player.baidu.com^
 |river.zhidao.baidu.com^
 ||mountain.zhidao.baidu.com^
 ||plugin.mobopay.baidu.com^
@@ -103955,11 +103944,9 @@
 |push.m.youku.com^
 |dev-push.m.youku.com^
 |hudong.pl.youku.com^
-|huodong.pl.youku.com^
 |das.api.youku.com^
 |val.api.youku.com^
 |test.ott.youku.com^
-|huodong.vip.youku.com^
 |c.yes.youku.com^
 |ad.mobile.youku.com^
 |das.mobile.youku.com^
@@ -105293,7 +105280,6 @@
 ||a8clk.www.ka-nabell.com^
 ||images.newsletter.larksuite.com^
 ||analytics-zone-1.api.leadfamly.com^
-|api.game.letvstore.com^
 ||dev.go.levelbank.com^
 ||alpha.go.levelbank.com^
 ||prealpha.go.levelbank.com^
@@ -107448,7 +107434,6 @@
 |adm.leju.sina.com.cn^
 |staticadm.leju.sina.com.cn^
 |mg.games.sina.com.cn^
-|count.video.sina.com.cn^
 |stnetsdk.appstore.vivo.com.cn^
 ||eap.big5.enorth.com.cn^
 ||idm.api.autohome.com.cn^
