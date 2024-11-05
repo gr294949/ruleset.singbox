@@ -1,5 +1,5 @@
 === base ===
-cloudfront.net                                                                                      1224
+cloudfront.net                                                                                      1226
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
@@ -112,6 +112,7 @@ tajawal.com                                                                     
 zijieapi.com                                                                                        14
 apple.com                                                                                           13
 avaya.com                                                                                           13
+cdn77.org                                                                                           13
 discoveryplus.com                                                                                   13
 groc.press                                                                                          13
 inhaabit.com                                                                                        13
@@ -141,7 +142,6 @@ yandex.net                                                                      
 agilent.com                                                                                         11
 averydennison.com                                                                                   11
 byteoversea.com                                                                                     11
-cdn77.org                                                                                           11
 com.se                                                                                              11
 coniferhealth.com                                                                                   11
 cresa.com                                                                                           11
@@ -193,7 +193,7 @@ zmzfile.com                                                                     
 ebutudan.com                                                                                        78
 adkoffer.fr                                                                                         77
 awicksin.com                                                                                        67
-pages.dev                                                                                           64
+pages.dev                                                                                           65
 netspend.com                                                                                        63
 bravenet.com                                                                                        54
 plus.com                                                                                            51
@@ -204,14 +204,14 @@ adktrack30.xyz                                                                  
 wpenginepowered.com                                                                                 46
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
+vercel.app                                                                                          43
 wixstudio.io                                                                                        43
-vercel.app                                                                                          41
 supplypoland.com                                                                                    40
 aimedia.lk                                                                                          38
 covidvcfund.com                                                                                     37
+framer.app                                                                                          37
 msn.com                                                                                             37
 dfirma.pl                                                                                           36
-framer.app                                                                                          36
 unenoteunjour.fr                                                                                    36
 adbureau.net                                                                                        33
 luxxeeu.com                                                                                         32
@@ -221,12 +221,12 @@ aesthetise.com                                                                  
 hut1.ru                                                                                             30
 adktrack34.xyz                                                                                      29
 baidu.com                                                                                           29
+cloudfront.net                                                                                      29
 newzgames.com                                                                                       29
 klewmedia.com                                                                                       27
 kmotrack.xyz                                                                                        27
 ropescoursesinc.com                                                                                 27
 unixofficeequipment.com                                                                             27
-wixsite.com                                                                                         27
 lcef.com                                                                                            26
 adkplan.fr                                                                                          25
 asmucol.com                                                                                         25
@@ -239,8 +239,9 @@ beblon.com                                                                      
 hostingkampanya.com                                                                                 24
 mhi.co.jp                                                                                           24
 bonnelectureatous.fr                                                                                23
-github.io                                                                                           23
 pantheonsite.io                                                                                     23
+wixsite.com                                                                                         23
+github.io                                                                                           22
 duckdns.org                                                                                         21
 eliteoftokens.com                                                                                   21
 epinlock.com                                                                                        21
@@ -254,7 +255,6 @@ anticrsss1-ep.xyz                                                               
 b66t.top                                                                                            19
 bitupes.xyz                                                                                         19
 bloxg.top                                                                                           19
-eucharisticjesus.net                                                                                19
 facst.xyz                                                                                           19
 gamemods.com.tr                                                                                     19
 irza.lat                                                                                            19
@@ -270,7 +270,6 @@ baltez-offic.xyz                                                                
 borden-carleton.ca                                                                                  18
 cashhs-news.top                                                                                     18
 cftvpinheiro.com.br                                                                                 18
-cloudfront.net                                                                                      18
 deptesp.com                                                                                         18
 duums.xyz                                                                                           18
 gkru.skin                                                                                           18
@@ -311,6 +310,7 @@ redsistem.site                                                                  
 rutradersxprod.com                                                                                  17
 treasurendtrovedeals.com                                                                            17
 umeng.com                                                                                           17
+univer.se                                                                                           17
 valuevaultmarkets.com                                                                               17
 vcdau.top                                                                                           17
 wf74.top                                                                                            17
@@ -320,6 +320,7 @@ comfirty.top                                                                    
 coocoldini.xyz                                                                                      16
 elmachif.com                                                                                        16
 emergencepsychservices.com                                                                          16
+eucharisticjesus.net                                                                                16
 eutrty.top                                                                                          16
 formhh.top                                                                                          16
 gertrader.xyz                                                                                       16
@@ -333,7 +334,6 @@ sextracker.be                                                                   
 startone.top                                                                                        16
 supplypoland.company                                                                                16
 tune2u.com                                                                                          16
-univer.se                                                                                           16
 waonlineprogram.top                                                                                 16
 xtnew.click                                                                                         16
 2hzr.icu                                                                                            15
@@ -470,6 +470,7 @@ szczur.warszawa.pl                                                              
 theseasonalhaven.com                                                                                13
 topplid.site                                                                                        13
 trdepl.xyz                                                                                          13
+uhhokker.top                                                                                        13
 wodmell.top                                                                                         13
 xdsmh.lat                                                                                           13
 xpowwerful.top                                                                                      13
@@ -491,7 +492,6 @@ dvxd.lat                                                                        
 ferreta.xyz                                                                                         12
 intuit.com                                                                                          12
 krakowiak.org.pl                                                                                    12
-lincang.cfd                                                                                         12
 ltnk.skin                                                                                           12
 masler.xyz                                                                                          12
 maxinvo.xyz                                                                                         12
@@ -519,7 +519,6 @@ tineda.xyz                                                                      
 torgsystem.space                                                                                    12
 tp2-axz.xyz                                                                                         12
 troove.top                                                                                          12
-uhhokker.top                                                                                        12
 versuts.top                                                                                         12
 visite-vendee.com                                                                                   12
 wegn.top                                                                                            12
@@ -597,6 +596,7 @@ workers.dev                                                                     
 wxru.lat                                                                                            11
 x07o.cfd                                                                                            11
 x24hr.com                                                                                           11
+zl.ge                                                                                               11
 0ij.cc                                                                                              10
 1drv.com                                                                                            10
 1nnoflare.sbs                                                                                       10
@@ -623,6 +623,7 @@ au-income933.online                                                             
 au-income936.online                                                                                 10
 au-income938.online                                                                                 10
 blog3maxi.site                                                                                      10
+boostteen.top                                                                                       10
 boundkbuq.top                                                                                       10
 brushccm.cyou                                                                                       10
 bugaros.com                                                                                         10
@@ -666,8 +667,8 @@ mazsina.warszawa.pl                                                             
 meelou.top                                                                                          10
 mirekkaminskimk.pl                                                                                  10
 ner9.top                                                                                            10
+netlify.app                                                                                         10
 newprif.site                                                                                        10
-ngrok.app                                                                                           10
 oceanvd.life                                                                                        10
 officialbalticpipe.space                                                                            10
 ofisls-pro.xyz                                                                                      10
@@ -703,6 +704,7 @@ trioprofit3.online                                                              
 trioprofit4.online                                                                                  10
 trioprofit5.online                                                                                  10
 ufl.edu                                                                                             10
+us.kg                                                                                               10
 vab5.cfd                                                                                            10
 valhaalla.xyz                                                                                       10
 vgml.lat                                                                                            10
