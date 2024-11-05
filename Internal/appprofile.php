@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-05T15:40:34.643Z
+// # Build 2024-11-05T15:44:56.767Z
 
 declare(strict_types=1);
 
@@ -2050,6 +2050,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,kisscos.net,Global',
         'DOMAIN-SUFFIX,nhentai.net,Global',
         'DOMAIN-SUFFIX,threads.net,Global',
+        'DOMAIN-SUFFIX,waifu2x.net,Global',
         'DOMAIN-SUFFIX,windows.net,Global',
         'DOMAIN-SUFFIX,akamaihd.net,Global',
         'DOMAIN-SUFFIX,cachefly.net,Global',
