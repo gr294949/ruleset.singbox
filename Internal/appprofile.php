@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-07T15:52:03.695Z
+// # Build 2024-11-07T15:58:52.067Z
 
 declare(strict_types=1);
 
@@ -2189,6 +2189,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,line.naver.jp,Global',
         'DOMAIN-SUFFIX,mega.co.nz,Global',
         'DOMAIN-SUFFIX,zaobao.com.sg,Global',
+        'DOMAIN-SUFFIX,ithome.com.tw,Global',
         'DOMAIN-SUFFIX,linefriends.com.tw,Global',
         'DOMAIN-SUFFIX,bbc.co.uk,Global',
         'DOMAIN-SUFFIX,dailymail.co.uk,Global',

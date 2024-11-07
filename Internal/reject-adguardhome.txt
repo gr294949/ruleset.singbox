@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-07T15:52:08.210Z
-# Size: 108713
+# Last Updated: 2024-11-07T15:58:54.740Z
+# Size: 108712
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -69569,7 +69569,6 @@
 |dmapp.youku.com^
 |lstat.youku.com^
 |ykrec.youku.com^
-|actives.youku.com^
 |mobilemsg.youku.com^
 ||ykad-data.youku.com^
 |apiv4-iyes.youku.com^
