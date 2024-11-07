@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-07T08:08:23.684Z
-# Size: 2617
+# Last Updated: 2024-11-07T11:56:46.820Z
+# Size: 2618
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2027,6 +2027,7 @@ app.groovefunnels.com
 sig.grumpybumpers.com
 img3.lltaohuaxiang.com
 asset.mansionglobal.com
+3dna.nationbuilder.com
 assets.nationbuilder.com
 +.agechecker.northern-apps.com
 +.cdn.printfriendly.com
