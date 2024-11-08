@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-08T19:35:33.872Z
-# Size: 2622
+# Last Updated: 2024-11-08T19:58:42.327Z
+# Size: 2624
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -667,6 +667,7 @@ i.snap.as
 +.ipfs.greyh.at
 +.newscdn.com.au
 +.abc-cdn.net.au
+static.k2s.cc
 static-cache.k2s.cc
 images.ptt.cc
 pic.imge.cc
@@ -907,6 +908,7 @@ img.xjh.me
 media.e4le.me
 pic.7mmtv.me
 emoji-css.afeld.me
+static.fboom.me
 static-cache.fboom.me
 cdn.judge.me
 cdn.rauno.me
