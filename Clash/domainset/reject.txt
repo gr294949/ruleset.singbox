@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-08T16:00:37.915Z
-# Size: 107778
+# Last Updated: 2024-11-08T18:39:12.825Z
+# Size: 107785
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2784,7 +2784,6 @@
 +.smi24.kz
 +.51.la
 +.aly.la
-+.qxs.la
 +.macoms.la
 +.quanta.la
 +.bitbank.la
@@ -42629,6 +42628,7 @@ samsungcloudsolution.net
 +.storehighlystrongtheproduct.vip
 +.updatecompletelyfreetheproduct.vip
 +.updateadvancedgreatlytheproduct.vip
++.cbro.win
 +.clmm.win
 +.cdnaz.win
 +.a5game.win
@@ -52029,6 +52029,7 @@ game.weibo.cn
 +.hi.xiunm.cn
 +.bdm.ye-su.cn
 +.11.yiqig.cn
+doh.zjurl.cn
 +.5mm.zxfw5.cn
 +.hjkhxfh.360doc.cn
 +.1.51sxue.cn
@@ -67913,6 +67914,7 @@ yiliao.hupan.com
 +.iwa.iplsc.com
 +.vpdyyz.iqair.com
 +.ckm.iqiyi.com
+doh.iqiyi.com
 +.game.iqiyi.com
 +.cupid.iqiyi.com
 yuedu.iqiyi.com
@@ -68004,6 +68006,7 @@ hotchat-im.iqiyi.com
 +.axp.kron4.com
 +.ssc.krymr.com
 +.share.ksedi.com
+hdns.ksyun.com
 +.kingdata.ksyun.com
 +.js.kt250.com
 +.isu.kthlw.com
@@ -71426,6 +71429,7 @@ hydra.alibaba.com
 +.al.bath-ec.com
 +.tshuxi.bbqguys.com
 +.smetrics.bbvacib.com
+httpdns.bcelive.com
 +.analyse.bcovery.com
 +.www.bdg001a.com
 +.service.bechtle.com
@@ -102856,6 +102860,7 @@ btrace.video.qq.com
 sdkconfig.video.qq.com
 +.ad.weixin.qq.com
 dns.weixin.qq.com
+aedns.weixin.qq.com
 +.log1.wtlogin.qq.com
 +.app.dreambox.ru.com
 +.app.connections.te.com
@@ -102865,6 +102870,7 @@ dns.weixin.qq.com
 +.smetrix.avon.uk.com
 +.marketing.teamspirit.uk.com
 +.app.go.xo.com
+httpdns.gslb.yy.com
 httpdns-v6.gslb.yy.com
 union-httpdns.gslb.yy.com
 yyapp-httpdns.gslb.yy.com
@@ -103577,6 +103583,7 @@ links.services.disqus.com
 +.ads-chunks.prod.ihrhls.com
 +.images.go.impinj.com
 +.email.everyonesocial.indeed.com
+httpdns.kwd.inkuai.com
 +.go.dp.intuit.com
 +.rum.api.intuit.com
 +.logging.api.intuit.com

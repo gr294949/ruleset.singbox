@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-08T16:00:43.607Z
-# Size: 108830
+# Last Updated: 2024-11-08T18:39:16.940Z
+# Size: 108837
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3750,7 +3750,6 @@
 ||smi24.kz^
 ||51.la^
 ||aly.la^
-||qxs.la^
 ||macoms.la^
 ||quanta.la^
 ||bitbank.la^
@@ -43595,6 +43594,7 @@
 ||storehighlystrongtheproduct.vip^
 ||updatecompletelyfreetheproduct.vip^
 ||updateadvancedgreatlytheproduct.vip^
+||cbro.win^
 ||clmm.win^
 ||cdnaz.win^
 ||a5game.win^
@@ -52995,6 +52995,7 @@
 ||hi.xiunm.cn^
 ||bdm.ye-su.cn^
 ||11.yiqig.cn^
+|doh.zjurl.cn^
 ||5mm.zxfw5.cn^
 ||hjkhxfh.360doc.cn^
 ||1.51sxue.cn^
@@ -68879,6 +68880,7 @@
 ||iwa.iplsc.com^
 ||vpdyyz.iqair.com^
 ||ckm.iqiyi.com^
+|doh.iqiyi.com^
 ||game.iqiyi.com^
 ||cupid.iqiyi.com^
 |yuedu.iqiyi.com^
@@ -68970,6 +68972,7 @@
 ||axp.kron4.com^
 ||ssc.krymr.com^
 ||share.ksedi.com^
+|hdns.ksyun.com^
 ||kingdata.ksyun.com^
 ||js.kt250.com^
 ||isu.kthlw.com^
@@ -72392,6 +72395,7 @@
 ||al.bath-ec.com^
 ||tshuxi.bbqguys.com^
 ||smetrics.bbvacib.com^
+|httpdns.bcelive.com^
 ||analyse.bcovery.com^
 ||www.bdg001a.com^
 ||service.bechtle.com^
@@ -103822,6 +103826,7 @@
 |sdkconfig.video.qq.com^
 ||ad.weixin.qq.com^
 |dns.weixin.qq.com^
+|aedns.weixin.qq.com^
 ||log1.wtlogin.qq.com^
 ||app.dreambox.ru.com^
 ||app.connections.te.com^
@@ -103831,6 +103836,7 @@
 ||smetrix.avon.uk.com^
 ||marketing.teamspirit.uk.com^
 ||app.go.xo.com^
+|httpdns.gslb.yy.com^
 |httpdns-v6.gslb.yy.com^
 |union-httpdns.gslb.yy.com^
 |yyapp-httpdns.gslb.yy.com^
@@ -104543,6 +104549,7 @@
 ||ads-chunks.prod.ihrhls.com^
 ||images.go.impinj.com^
 ||email.everyonesocial.indeed.com^
+|httpdns.kwd.inkuai.com^
 ||go.dp.intuit.com^
 ||rum.api.intuit.com^
 ||logging.api.intuit.com^

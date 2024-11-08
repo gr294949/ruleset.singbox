@@ -6,7 +6,7 @@ llnw.net                                                                        
 xiaomi.com                                                                                          98
 adobe.com                                                                                           95
 baidu.com                                                                                           89
-qq.com                                                                                              79
+qq.com                                                                                              80
 eccocar.com                                                                                         51
 taobao.com                                                                                          47
 flourishpath.online                                                                                 45
@@ -85,6 +85,7 @@ cisco.com                                                                       
 en25.com                                                                                            15
 hotdoc.com.au                                                                                       15
 ignite.technology                                                                                   15
+iqiyi.com                                                                                           15
 isnssdk.com                                                                                         15
 pwc.fr                                                                                              15
 yahoo.co.jp                                                                                         15
@@ -100,7 +101,6 @@ go.com                                                                          
 hostcontent.li                                                                                      14
 informa.com                                                                                         14
 intel.com                                                                                           14
-iqiyi.com                                                                                           14
 jd.com                                                                                              14
 letv.com                                                                                            14
 mi.com                                                                                              14
