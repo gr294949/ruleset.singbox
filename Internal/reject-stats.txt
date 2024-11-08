@@ -200,8 +200,8 @@ plus.com                                                                        
 qq.com                                                                                              49
 rciadventure.com                                                                                    49
 adktrack30.xyz                                                                                      46
+wixstudio.io                                                                                        46
 wpenginepowered.com                                                                                 46
-wixstudio.io                                                                                        45
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
 pages.dev                                                                                           40
@@ -296,7 +296,6 @@ bonnytondesigns.com                                                             
 cas-program.site                                                                                    17
 clead.xyz                                                                                           17
 euclasco.xyz                                                                                        17
-freewebhostmost.com                                                                                 17
 infoprog.xyz                                                                                        17
 lidoks.xyz                                                                                          17
 newaistar.top                                                                                       17
@@ -369,6 +368,7 @@ polprogramm1.xyz                                                                
 polskadep.xyz                                                                                       15
 prog-max1pro0g.site                                                                                 15
 progictpro.top                                                                                      15
+replit.dev                                                                                          15
 rewol-ucja-gazowa.com                                                                               15
 runeww1.site                                                                                        15
 sa.com                                                                                              15
@@ -405,6 +405,7 @@ m7nw.icu                                                                        
 malangg.xyz                                                                                         14
 mastt.xyz                                                                                           14
 miliomp.xyz                                                                                         14
+mytemp.website                                                                                      14
 njrrs.com                                                                                           14
 phtmedia.com                                                                                        14
 propl.top                                                                                           14
@@ -448,7 +449,6 @@ maxi-bl0g.site                                                                  
 mediacrss.com                                                                                       13
 metregplt.top                                                                                       13
 myshopify.com                                                                                       13
-mytemp.website                                                                                      13
 neuru.top                                                                                           13
 nev1evesplt.site                                                                                    13
 newappco.xyz                                                                                        13
@@ -464,7 +464,6 @@ programaticeu.xyz                                                               
 ptrn-official.xyz                                                                                   13
 quzu.skin                                                                                           13
 redustenes.xyz                                                                                      13
-replit.dev                                                                                          13
 szczur.warszawa.pl                                                                                  13
 theseasonalhaven.com                                                                                13
 topplid.site                                                                                        13
@@ -556,6 +555,7 @@ im3q.icu                                                                        
 iu4r.top                                                                                            11
 kaminski.info.pl                                                                                    11
 kasienkakonla.pl                                                                                    11
+kesug.com                                                                                           11
 maxfakt.xyz                                                                                         11
 maxtradefx.info                                                                                     11
 maxuziz.xyz                                                                                         11
@@ -589,6 +589,7 @@ tradwzorce.top                                                                  
 trom-so.com                                                                                         11
 tsqwz.xyz                                                                                           11
 upnf.cfd                                                                                            11
+us.kg                                                                                               11
 uxtu.skin                                                                                           11
 vicdesmidt.com                                                                                      11
 well-beingandstability.com                                                                          11
@@ -653,7 +654,6 @@ invbalp.site                                                                    
 jasewr.site                                                                                         10
 jerat.top                                                                                           10
 jgik.lat                                                                                            10
-kesug.com                                                                                           10
 kioskmgg.icu                                                                                        10
 knr7.skin                                                                                           10
 kqfd.lat                                                                                            10
@@ -703,7 +703,6 @@ trioprofit3.online                                                              
 trioprofit4.online                                                                                  10
 trioprofit5.online                                                                                  10
 ufl.edu                                                                                             10
-us.kg                                                                                               10
 vab5.cfd                                                                                            10
 valhaalla.xyz                                                                                       10
 vgml.lat                                                                                            10
