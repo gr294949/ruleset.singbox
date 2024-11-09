@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-09T12:34:59.277Z
-# Size: 108859
+# Last Updated: 2024-11-09T17:31:09.437Z
+# Size: 108877
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -14393,6 +14393,7 @@
 ||axjndvucr.com^
 ||azartcash.com^
 ||azartplay.com^
+||azcmcacuc.com^
 ||b57dqedu4.com^
 ||backlinks.com^
 ||backupcat.com^
@@ -16017,6 +16018,7 @@
 ||saworbpox.com^
 ||scanscout.com^
 ||scarefowl.com^
+||schizypdq.com^
 ||scootloor.com^
 ||scopefile.com^
 ||scripts21.com^
@@ -18270,6 +18272,7 @@
 ||gzqihxnfhq.com^
 ||h5r2dzdwqk.com^
 ||hadseaside.com^
+||hakqkhtlav.com^
 ||handyfield.com^
 ||hardynylon.com^
 ||haresmodus.com^
@@ -19101,6 +19104,7 @@
 ||psistaghuz.com^
 ||psistaugli.com^
 ||psomsoorsa.com^
+||psoroumukr.com^
 ||psunseewhu.com^
 ||psurigrabi.com^
 ||psurouptoa.com^
@@ -19881,6 +19885,7 @@
 ||wkqcnkstso.com^
 ||wmail-blog.com^
 ||wmail-chat.com^
+||wmptengate.com^
 ||wnjjhksaue.com^
 ||wolqundera.com^
 ||womadsmart.com^
@@ -21427,6 +21432,7 @@
 ||napxquanhuy.com^
 ||narenrosrow.com^
 ||naufistuwha.com^
+||naupsakiwhy.com^
 ||navelfletch.com^
 ||nboclympics.com^
 ||ncubadmavfp.com^
@@ -23442,6 +23448,7 @@
 ||flaweyesight.com^
 ||flimsycircle.com^
 ||floatingbile.com^
+||flockexecute.com^
 ||floitcarites.com^
 ||fluencymedia.com^
 ||fluentmobile.com^
@@ -23938,6 +23945,7 @@
 ||lukeexposure.com^
 ||lumberamount.com^
 ||lustasserted.com^
+||lutoorgourgi.com^
 ||lvietcombank.com^
 ||m0hcppadsnq8.com^
 ||mabtcaraqdho.com^
@@ -24052,6 +24060,7 @@
 ||morestamping.com^
 ||morionlochus.com^
 ||morningdigit.com^
+||morsalurluch.com^
 ||mossyiapyges.com^
 ||motionretire.com^
 ||mourncohabit.com^
@@ -25105,6 +25114,7 @@
 ||vedropeamwou.com^
 ||vekseptaufin.com^
 ||velvetquasar.com^
+||vemtoutcheeg.com^
 ||vengeful-egg.com^
 ||venomouslife.com^
 ||venusfritter.com^
@@ -25247,6 +25257,7 @@
 ||wokm8isd4zit.com^
 ||wollycanoing.com^
 ||wonderhsjnsd.com^
+||woodieababua.com^
 ||wordmonetize.com^
 ||workedworlds.com^
 ||worldgravity.com^
@@ -26499,6 +26510,7 @@
 ||metavertising.com^
 ||metredesculic.com^
 ||metricsdirect.com^
+||mhndfpbssfcsr.com^
 ||mhvllvgrefplg.com^
 ||michealmoyite.com^
 ||midas-network.com^
@@ -27687,6 +27699,7 @@
 ||baloneyunraked.com^
 ||bangtyranclank.com^
 ||bankingconcede.com^
+||baobabsruesome.com^
 ||baptisttop1000.com^
 ||barbarousnerve.com^
 ||barnabaslinger.com^
@@ -32821,6 +32834,7 @@
 ||trustedcpmrevenue.com^
 ||tryzens-analytics.com^
 ||tsiwqtng8huauw30n.com^
+||turndynamicforbes.com^
 ||twelvemissionjury.com^
 ||twelvethighpostal.com^
 ||twentydruggeddumb.com^
@@ -35206,6 +35220,7 @@
 ||compasspenitenthollow.com^
 ||compresssavvydetected.com^
 ||concealmentbrainpower.com^
+||concedederaserskyline.com^
 ||confinehindrancethree.com^
 ||confrontationwanderer.com^
 ||constructionrejection.com^
@@ -37255,6 +37270,7 @@
 ||compromiseadaptedspecialty.com^
 ||concentrationmajesticshoot.com^
 ||consessionconsessiontimber.com^
+||consolationgratitudeunwise.com^
 ||consternationmysticalstuff.com^
 ||consultantpatientslaughter.com^
 ||containssubordinatecologne.com^
@@ -40940,6 +40956,7 @@
 ||noowoochuveb.net^
 ||oagroucestou.net^
 ||oavurognaurd.net^
+||oolsutsougri.net^
 ||orbitnetwork.net^
 ||paiglumousty.net^
 ||peephoogruku.net^
@@ -43308,6 +43325,7 @@
 ||tunnelbuilder.top^
 ||unbeardgorraf.top^
 ||urocyoncabrit.top^
+||valetsangoise.top^
 ||vaqykqeoeaywm.top^
 ||vbozbkzvyzloy.top^
 ||vectorsnearby.top^
@@ -46913,6 +46931,7 @@
 ||fydapcrujhguy.xyz^
 ||gaibjhicxrkng.xyz^
 ||gdbtlmsihonev.xyz^
+||gkrtgrcquwttq.xyz^
 ||gofecuhxltcqj.xyz^
 ||gpfaquowxnaum.xyz^
 ||grqjpukbyvypq.xyz^
@@ -85683,7 +85702,6 @@
 ||tr.mondevis-b2b.com^
 ||tr.mondevis-pro.com^
 ||vpedkp.moneyforward.com^
-||le.morsalurluch.com^
 ||data-e9b83554f9.moserholding.com^
 ||ax.mousmeetrike.com^
 ||t-s.msimmunology.com^
