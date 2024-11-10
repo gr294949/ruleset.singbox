@@ -3,7 +3,7 @@ cloudfront.net                                                                  
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
-xiaomi.com                                                                                          98
+xiaomi.com                                                                                          99
 adobe.com                                                                                           95
 baidu.com                                                                                           89
 qq.com                                                                                              80
@@ -79,6 +79,7 @@ smu.edu.sg                                                                      
 topya.com                                                                                           16
 xiaomi.net                                                                                          16
 zing.vn                                                                                             16
+163.com                                                                                             15
 alicdn.com                                                                                          15
 att.com                                                                                             15
 cisco.com                                                                                           15
@@ -92,7 +93,6 @@ yahoo.co.jp                                                                     
 younited-credit.com                                                                                 15
 zadn.vn                                                                                             15
 zaloapp.com                                                                                         15
-163.com                                                                                             14
 adp.com                                                                                             14
 cdn77.org                                                                                           14
 chip.de                                                                                             14
@@ -156,6 +156,7 @@ realmadrid.com                                                                  
 sedgwick.com                                                                                        11
 shutterstock.com                                                                                    11
 tiktokv.com                                                                                         11
+uc.cn                                                                                               11
 uyybde07w.com                                                                                       11
 yandex.ru                                                                                           11
 youdao.com                                                                                          11
@@ -183,7 +184,6 @@ readingpartners.org                                                             
 ricoh.ch                                                                                            10
 ricoh.fr                                                                                            10
 ringcentral.com                                                                                     10
-uc.cn                                                                                               10
 westernunion.com                                                                                    10
 xhamster.com                                                                                        10
 xunlei.com                                                                                          10
