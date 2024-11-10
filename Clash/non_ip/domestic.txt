@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-11-10T09:02:53.356Z
+# Last Updated: 2024-11-10T11:17:11.900Z
 # Size: 753
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -760,5 +760,5 @@ DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,media.cdn.queniuqe.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.qhimgs[a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[\w.-]*?\.qhimgs[\w.-]\.com$
 ################## EOF ##################
