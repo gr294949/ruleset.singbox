@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-10T09:02:53.303Z
-# Size: 107838
+# Last Updated: 2024-11-10T12:34:50.309Z
+# Size: 107840
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -8522,6 +8522,7 @@
 +.dqjkzrx.com
 +.dqxifbm.com
 +.dragnag.com
++.drihmae.com
 +.drjs123.com
 +.drydrum.com
 +.drzgtli.com
@@ -49559,6 +49560,7 @@ nmbr.info
 +.go2click.online
 +.guarda4k.online
 +.hallaert.online
++.hotrovay.online
 +.junoshop.online
 +.momomini.online
 +.moonvids.online
