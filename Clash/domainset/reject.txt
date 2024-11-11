@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-11T01:35:51.895Z
-# Size: 107899
+# Last Updated: 2024-11-11T03:26:20.651Z
+# Size: 107902
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -712,6 +712,7 @@
 +.cuvtnzv.cn
 +.czouthy.cn
 +.czresus.cn
++.dchdmhf.cn
 +.ddaixdz.cn
 +.dfejqmh.cn
 +.dmclick.cn
@@ -866,6 +867,7 @@
 +.sltbjrf.cn
 +.smxflvz.cn
 +.soorbka.cn
++.sopqvhe.cn
 +.splfnok.cn
 +.spsfupq.cn
 +.srldkqj.cn
@@ -78964,6 +78966,7 @@ strip.taobaocdn.com
 +.l.thumbtack.com
 +.open.ticketbro.com
 +.tracking.tidalhifi.com
+log.tidbcloud.com
 +.privacy.tigerbeer.com
 +.link.tigerhall.com
 +.go.tigertool.com

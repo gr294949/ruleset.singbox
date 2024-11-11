@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-11T01:35:57.364Z
-# Size: 108950
+# Last Updated: 2024-11-11T03:26:24.363Z
+# Size: 108953
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1677,6 +1677,7 @@
 ||cuvtnzv.cn^
 ||czouthy.cn^
 ||czresus.cn^
+||dchdmhf.cn^
 ||ddaixdz.cn^
 ||dfejqmh.cn^
 ||dmclick.cn^
@@ -1831,6 +1832,7 @@
 ||sltbjrf.cn^
 ||smxflvz.cn^
 ||soorbka.cn^
+||sopqvhe.cn^
 ||splfnok.cn^
 ||spsfupq.cn^
 ||srldkqj.cn^
@@ -79929,6 +79931,7 @@
 ||l.thumbtack.com^
 ||open.ticketbro.com^
 ||tracking.tidalhifi.com^
+|log.tidbcloud.com^
 ||privacy.tigerbeer.com^
 ||link.tigerhall.com^
 ||go.tigertool.com^
