@@ -6,12 +6,12 @@ llnw.net                                                                        
 xiaomi.com                                                                                          100
 adobe.com                                                                                           95
 baidu.com                                                                                           91
-qq.com                                                                                              80
+qq.com                                                                                              81
 eccocar.com                                                                                         51
 taobao.com                                                                                          48
 flourishpath.online                                                                                 46
+miui.com                                                                                            45
 pandasuite.io                                                                                       45
-miui.com                                                                                            44
 experian.com                                                                                        43
 sina.com.cn                                                                                         43
 nespresso.com                                                                                       39

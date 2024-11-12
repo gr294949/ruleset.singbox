@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Blocklist for AdGuardHome
-# Last Updated: 2024-11-12T12:39:20.617Z
-# Size: 110264
+# Last Updated: 2024-11-12T14:16:04.193Z
+# Size: 110277
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -68063,6 +68063,7 @@
 ||som.cbsi.com^
 ||intent.cbsi.com^
 ||ad.cctv.com^
+|httpdns.cctv.com^
 ||mdws.cdcu.com^
 ||smetrics.cfox.com^
 ||analytic.cibc.com^
@@ -72856,6 +72857,7 @@
 ||ssp.zryydi.com^
 ||link.zulily.com^
 ||cdn.zxclan.com^
+|httpdns.zybang.com^
 ||ck.zzipps.com^
 ||asg.zzipps.com^
 ||cdn.007moms.com^
@@ -84625,6 +84627,7 @@
 ||rtb-apac.houseofpubs.com^
 ||rtb-useast.houseofpubs.com^
 ||smetrics.howifightms.com^
+|httpdns.huaweicloud.com^
 ||cdn.hunteryvely.com^
 |emma-414870e223.huodonghezi.com^
 ||nzqrfa.hushpuppies.com^
@@ -101354,6 +101357,7 @@
 ||ubacollect-drcn.cloud.dbankcloud.cn^
 ||dnkeeper.platform.dbankcloud.cn^
 ||logservice-dre.platform.dbankcloud.cn^
+|httpdns-browser.platform.dbankcloud.cn^
 ||cookies.jll.com.co^
 ||email-am.jll.com.co^
 ||email-em.jll.com.co^
@@ -103997,6 +104001,7 @@
 ||analitik.bik.gov.tr^
 ||tr.email.d8.tv^
 ||tr.email.d17.tv^
+|doh.ptqy.gitv.tv^
 ||cupid.ptqy.gitv.tv^
 ||streamstats.prd.dlive.tv^
 ||api.cid.samba.tv^
@@ -105179,6 +105184,7 @@
 ||up-hl.3g.qq.com^
 ||yun-hl.3g.qq.com^
 |activeqq.3g.qq.com^
+|httpdns.kg.qq.com^
 |adv.app.qq.com^
 |adpm.app.qq.com^
 ||beacon.cdn.qq.com^
@@ -105522,6 +105528,7 @@
 ||r.browser.miui.com^
 |hot.browser.miui.com^
 |qsb.browser.miui.com^
+|httpdns.browser.miui.com^
 |security.browser.miui.com^
 |mp.huangye.miui.com^
 ||images.fans.mlse.com^
@@ -106071,6 +106078,7 @@
 ||images.stanleyhealthcare.sbdinc.com^
 ||tr.recouvrement.seeric.com^
 ||jpaasne.e.shifen.com^
+|httpdns.n.shifen.com^
 ||click.em.soothe.com^
 ||link.email.soothe.com^
 ||t2.click.subway.com^
@@ -106263,6 +106271,7 @@
 ||images.e.brother.com^
 ||tracking.server.bytecon.com^
 |httpdns.c.cdnhwc2.com^
+|httpdns1.cc.cdnhwc5.com^
 ||s.info.cemexgo.com^
 ||app.global.certain.com^
 ||tr.newsletter.chandon.com^
@@ -106516,6 +106525,7 @@
 ||6519114.automated.tajawal.com^
 ||19035955.automated.tajawal.com^
 ||a8cv.store.tavenal.com^
+|httpdns.danuoyi.tbcache.com^
 ||images.info.telogis.com^
 ||content.wire.telstra.com^
 ||forms.businessnews.telstra.com^
@@ -107378,6 +107388,7 @@
 |adx-dra.op.dbankcloud.com^
 |adx-dre.op.dbankcloud.com^
 |adx-drru.op.dbankcloud.com^
+|httpdns.platform.dbankcloud.com^
 ||openlocation-drcn.platform.dbankcloud.com^
 ||mit.researchlog.dbresearch.com^
 ||trck.internalnews.dbschenker.com^
@@ -107417,6 +107428,7 @@
 ||tms.hft.hellofresh.com^
 ||trk.discover.herculesrx.com^
 |httpdns.push.heytapmobi.com^
+|httpdns.ocloud.heytapmobi.com^
 ||pages.feedback.hofvillage.com^
 ||images.mailaway.homelidays.com^
 ||data.emails.imaginbank.com^
@@ -107490,6 +107502,7 @@
 ||dragate.dc.oppomobile.com^
 ||stat-in.dc.oppomobile.com^
 |httpdns.push.oppomobile.com^
+|httpdns.ocloud.oppomobile.com^
 ||a8clk.cart.ordersupli.com^
 ||tracking.ent.oviahealth.com^
 ||images.link.pentonauto.com^
