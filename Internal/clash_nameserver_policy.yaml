@@ -22,6 +22,7 @@ dns:
     +.alibaba-inc.com: quic://dns.alidns.com:853
     "*.alibabausercontent.com": quic://dns.alidns.com:853
     "*.alibabadns.com": quic://dns.alidns.com:853
+    +.alibabachengdun.com: quic://dns.alidns.com:853
     +.alicloudccp.com: quic://dns.alidns.com:853
     +.alipan.com: quic://dns.alidns.com:853
     +.aliyundrive.com: quic://dns.alidns.com:853
@@ -44,6 +45,7 @@ dns:
     "*.taobaocdn.com": quic://dns.alidns.com:853
     "*.tbcache.com": quic://dns.alidns.com:853
     +.tmall.com: quic://dns.alidns.com:853
+    +.goofish.com: quic://dns.alidns.com:853
     +.xiami.com: quic://dns.alidns.com:853
     +.xiami.net: quic://dns.alidns.com:853
     "*.ykimg.com": quic://dns.alidns.com:853

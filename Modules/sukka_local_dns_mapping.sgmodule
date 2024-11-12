@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-11-07T13:17:34.932Z
+#!desc=Last Updated: 2024-11-12T13:38:21.077Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -31,6 +31,8 @@ alibaba-inc.com = server:quic://dns.alidns.com:853
 *.alibaba-inc.com = server:quic://dns.alidns.com:853
 *.alibabausercontent.com = server:quic://dns.alidns.com:853
 *.alibabadns.com = server:quic://dns.alidns.com:853
+alibabachengdun.com = server:quic://dns.alidns.com:853
+*.alibabachengdun.com = server:quic://dns.alidns.com:853
 alicloudccp.com = server:quic://dns.alidns.com:853
 *.alicloudccp.com = server:quic://dns.alidns.com:853
 alipan.com = server:quic://dns.alidns.com:853
@@ -73,6 +75,8 @@ taobao.com = server:quic://dns.alidns.com:853
 *.tbcache.com = server:quic://dns.alidns.com:853
 tmall.com = server:quic://dns.alidns.com:853
 *.tmall.com = server:quic://dns.alidns.com:853
+goofish.com = server:quic://dns.alidns.com:853
+*.goofish.com = server:quic://dns.alidns.com:853
 xiami.com = server:quic://dns.alidns.com:853
 *.xiami.com = server:quic://dns.alidns.com:853
 xiami.net = server:quic://dns.alidns.com:853
