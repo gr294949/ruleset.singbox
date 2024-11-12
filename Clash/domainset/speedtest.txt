@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-11-10T13:07:12.455Z
-# Size: 479
+# Last Updated: 2024-11-12T12:39:15.360Z
+# Size: 481
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -133,6 +133,7 @@ speedtest2.niutk.com
 +.ststcatharineswireless.rogers.com
 +.stsaultstemariewireless.rogers.com
 +.stwellandpelhamwireless.rogers.com
+speedtest.139play.com
 +.speedtest.alastyr.com
 +.spt-ist.edgeuno.com
 +.spt-mia.edgeuno.com
@@ -399,6 +400,7 @@ hizistanbul1.durunet.com.tr
 +.speedtest.kentwifi.com.tr
 speedtest.lodosnet.com.tr
 +.speedtest.rekornet.com.tr
+speedtest.sahilnet.com.tr
 +.speedtest.teknosos.com.tr
 zdt-iptv.highspeed.com.tr
 adn1speedtest.turktelekom.com.tr
