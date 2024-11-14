@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-14T05:33:43.835Z
+// # Build 2024-11-14T07:44:36.438Z
 
 declare(strict_types=1);
 
@@ -1333,7 +1333,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,atv-ps.amazon.com,Stream',
         'DOMAIN-SUFFIX,fls-na.amazon.com,Stream',
         'DOMAIN,hbounify-prod.evergent.com,Stream',
-        'DOMAIN,s3-ap-southeast-1.amazonaws.com,Stream',
         'DOMAIN,hbolb.onwardsmg.com,Stream',
         'DOMAIN,youtube.googleapis.com,Stream',
         'DOMAIN,youtubei.googleapis.com,Stream',
@@ -3955,7 +3954,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.243.24.0/22,Domestic',
         'IP-CIDR,103.243.136.0/22,Domestic',
         'IP-CIDR,103.243.252.0/22,Domestic',
-        'IP-CIDR,103.244.26.0/23,Domestic',
         'IP-CIDR,103.244.59.0/24,Domestic',
         'IP-CIDR,103.244.64.0/22,Domestic',
         'IP-CIDR,103.244.80.0/22,Domestic',
@@ -5354,7 +5352,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.232.13.0/24,Domestic',
         'IP-CIDR,156.236.119.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
-        'IP-CIDR,156.239.64.0/18,Domestic',
+        'IP-CIDR,156.239.96.0/19,Domestic',
         'IP-CIDR,156.239.224.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',

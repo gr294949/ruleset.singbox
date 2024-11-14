@@ -318,6 +318,7 @@ projsite.site                                                                   
 prossaud.top                                                                                        17
 qvelo.top                                                                                           17
 redsistem.site                                                                                      17
+replit.dev                                                                                          17
 rutradersxprod.com                                                                                  17
 treasurendtrovedeals.com                                                                            17
 umeng.com                                                                                           17
@@ -380,7 +381,6 @@ polprogramm1.xyz                                                                
 polskadep.xyz                                                                                       15
 prog-max1pro0g.site                                                                                 15
 progictpro.top                                                                                      15
-replit.dev                                                                                          15
 rewol-ucja-gazowa.com                                                                               15
 runeww1.site                                                                                        15
 sa.com                                                                                              15
@@ -698,6 +698,7 @@ profitactiv1.top                                                                
 profitcsh.site                                                                                      10
 proflivee.top                                                                                       10
 quantresear.ch                                                                                      10
+replit.app                                                                                          10
 riverffsa.cloud                                                                                     10
 saigow.top                                                                                          10
 sanital.xyz                                                                                         10

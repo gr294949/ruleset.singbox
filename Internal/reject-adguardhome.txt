@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 14 Nov 2024 05:33:49 GMT
+! Last modified: Thu, 14 Nov 2024 07:44:41 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10798,6 +10798,7 @@
 ||bzniungh.com^
 ||c1d8i3p6.com^
 ||cadbitff.com^
+||cagitfiz.com^
 ||cahxpivu.com^
 ||caigobou.com^
 ||cailegra.com^
@@ -16646,6 +16647,7 @@
 ||bxacmsvmxb.com^
 ||bycelebian.com^
 ||byhoppipan.com^
+||bynamebosh.com^
 ||bytogeticr.com^
 ||byzoruator.com^
 ||bzgmcqqfxd.com^
@@ -19612,6 +19614,7 @@
 ||countertrck.com^
 ||cousingypsy.com^
 ||covettunica.com^
+||coyureviral.com^
 ||cozeswracks.com^
 ||cpmadvisors.com^
 ||crackedlink.com^
@@ -24335,6 +24338,7 @@
 ||websanalytic.com^
 ||websitesdude.com^
 ||webspectator.com^
+||weensydudler.com^
 ||wefoonsaidoo.com^
 ||wehaveinourd.com^
 ||welfaremarsh.com^
@@ -27746,6 +27750,7 @@
 ||orlandowaggons.com^
 ||ornatecomputer.com^
 ||osissmistlytrk.com^
+||osmeticjewlike.com^
 ||osmoticupbound.com^
 ||osshydreigonan.com^
 ||ounceanalogous.com^
@@ -28893,6 +28898,7 @@
 ||enlargementwolf.com^
 ||enmusubimail000.com^
 ||enquirysavagely.com^
+||entail-insights.com^
 ||enterombacerick.com^
 ||enthusiasticdad.com^
 ||entitledbalcony.com^
@@ -48334,6 +48340,7 @@
 ||cunealfume.shop^
 ||dapcerevis.shop^
 ||dceuhnpc57.shop^
+||dingerhoes.shop^
 ||donateyowl.shop^
 ||dutyhopers.shop^
 ||egywbps748.shop^
@@ -48605,6 +48612,7 @@
 ||senitijanghey.shop^
 ||shaperswhorts.shop^
 ||shardycacalia.shop^
+||sharondemurer.shop^
 ||slangysulkies.shop^
 ||sosslereglair.shop^
 ||splayermosque.shop^
@@ -65602,6 +65610,7 @@
 ||pixel.innocom.vn^
 ||ads.kiemsat.vn^
 ||analytics.mobiedu.vn^
+||analytics-cds.mobiedu.vn^
 ||openx.motgame.vn^
 ||apilog.mytvnet.vn^
 ||apilogduration.mytvnet.vn^
