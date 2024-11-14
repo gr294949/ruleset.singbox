@@ -6,7 +6,7 @@ llnw.net                                                                        
 xiaomi.com                                                                                          100
 adobe.com                                                                                           95
 baidu.com                                                                                           91
-qq.com                                                                                              81
+qq.com                                                                                              79
 eccocar.com                                                                                         51
 taobao.com                                                                                          48
 flourishpath.online                                                                                 46
@@ -96,6 +96,7 @@ younited-credit.com                                                             
 zadn.vn                                                                                             15
 zaloapp.com                                                                                         15
 adp.com                                                                                             14
+apple.com                                                                                           14
 chip.de                                                                                             14
 go.com                                                                                              14
 hostcontent.li                                                                                      14
@@ -111,7 +112,6 @@ siemensplmevents.com                                                            
 sogou.com                                                                                           14
 tajawal.com                                                                                         14
 zijieapi.com                                                                                        14
-apple.com                                                                                           13
 avaya.com                                                                                           13
 discoveryplus.com                                                                                   13
 groc.press                                                                                          13
@@ -201,7 +201,7 @@ wixstudio.io                                                                    
 wpenginepowered.com                                                                                 52
 plus.com                                                                                            51
 rciadventure.com                                                                                    50
-qq.com                                                                                              49
+qq.com                                                                                              47
 pages.dev                                                                                           46
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43

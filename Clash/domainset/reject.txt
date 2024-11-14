@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-14T14:52:29.674Z
-# Size: 109292
+# Last Updated: 2024-11-14T16:01:51.648Z
+# Size: 109302
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -41911,6 +41911,7 @@ samsungcloudsolution.net
 +.juresda.top
 +.justapp.top
 +.jwatera.top
++.jweisia.top
 +.jwerioa.top
 +.jyisloa.top
 +.jyuwkba.top
@@ -61735,6 +61736,7 @@ s.maketheweb.io
 +.starget.intel.la
 +.1.xuexi.la
 +.tt.biquge.la
++.union.maccms.la
 +.pixel.carambo.la
 +.route.carambo.la
 +.logging.carambo.la
@@ -66292,6 +66294,7 @@ ta.qq.com
 +.qzs.qq.com
 +.rqd.qq.com
 +.wxs.qq.com
++.imtt.qq.com
 +.push.qq.com
 +.tajs.qq.com
 +.tcss.qq.com
@@ -68037,6 +68040,7 @@ ads.95516.com
 securemetrics.apple.com
 +.api-adservices.apple.com
 +.supportmetrics.apple.com
+events-analytics.apple.com
 +.books-analytics-events.apple.com
 +.notes-analytics-events.apple.com
 +.stocks-analytics-events.apple.com
@@ -68958,6 +68962,7 @@ tongji.meizu.com
 +.info.netec.com
 +.metrics.nexmo.com
 +.smetrics.nexmo.com
+analytics.nexon.com
 +.data.nexxt.com
 +.metrics.nfluk.com
 +.tag.nifty.com
@@ -71821,6 +71826,7 @@ sdkinit.taobao.com
 +.s.wlink2.com
 +.app.wonder.com
 +.axp.woodtv.com
+analytics.workos.com
 +.axp.wowktv.com
 +.smetrics.wsib2b.com
 +.axp.wvnstv.com
@@ -76454,6 +76460,7 @@ click.qianqian.com
 +.app.radixdlt.com
 +.cdn.raekdata.com
 +.inviso.rampanel.com
++.free.ranklet4.com
 +.tracking.rapidape.com
 +.website-security.rapidssl.com
 +.go.rapidtrc.com
@@ -83860,7 +83867,7 @@ emma-414870e223.huodonghezi.com
 +.gazelle.laurenagray.com
 +.display.lawbulletin.com
 +.stats.laxallstars.com
-+.plausible.leaningtech.com
+plausible.leaningtech.com
 +.privacy.learcapital.com
 +.enews.learninga-z.com
 +.stats.legendofnom.com
@@ -86927,6 +86934,7 @@ stat.zuimeitianqi.com
 +.metrics.doppiostreams.com
 +.ii.dorothycanzos.com
 +.fn.dowagerbeurre.com
++.union.dplayerstatic.com
 +.hs.drewitecossic.com
 +.a8clk.driver-island.com
 +.trace21.dsb-ebusiness.com
@@ -93747,6 +93755,7 @@ www-analytics.ripe.net
 +.vatrack.hinet.net
 +.abc.hkepc.net
 +.ads-yallo-production.imgix.net
+front-perf.imoim.net
 +.aa-metrics.jalan.net
 +.analytics.jazel.net
 +.share.jobeo.net
@@ -93810,6 +93819,8 @@ iflow.uczzd.net
 +.analytics.vodgc.net
 +.a.vturb.net
 +.stat-ssl.webcg.net
++.tcp.whoer.net
++.whrq.whoer.net
 +.a8clk.wi-ho.net
 +.txvoin.with2.net
 +.data.wptag.net
@@ -97965,6 +97976,7 @@ tag.safary.club
 +.track.naturalvida.site
 +.blimberwham.quaggletwix.site
 +.quivvlewag389.shimmerglow.site
+bad.third-party.site
 +.search.valuehunter.site
 +.v1.venterapide.site
 +.lp.viavelsaude.site
@@ -104290,9 +104302,6 @@ adpm.app.qq.com
 +.beacon.cdn.qq.com
 +.analytics.map.qq.com
 +.log.tbs.qq.com
-+.cfg.imtt.qq.com
-wup.imtt.qq.com
-adfilter.imtt.qq.com
 +.mqqad.html5.qq.com
 +.uplog.inews.qq.com
 +.monitor.music.qq.com
@@ -105949,6 +105958,7 @@ cdn-ads.oss-cn-shanghai.aliyuncs.com
 +.data.em.linkedin.com
 +.analytics.pointdrive.linkedin.com
 +.a8clk.ap.livede55.com
++.atsod.launch.liveramp.com
 +.app.link.livibank.com
 +.data.crm.lizearle.com
 +.tr.communication.lvmhdare.com

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 14 Nov 2024 14:54:07 GMT
+! Last modified: Thu, 14 Nov 2024 16:01:57 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -41889,6 +41889,7 @@
 ||juresda.top^
 ||justapp.top^
 ||jwatera.top^
+||jweisia.top^
 ||jwerioa.top^
 ||jyisloa.top^
 ||jyuwkba.top^
@@ -61713,6 +61714,7 @@
 ||starget.intel.la^
 ||1.xuexi.la^
 ||tt.biquge.la^
+||union.maccms.la^
 ||pixel.carambo.la^
 ||route.carambo.la^
 ||logging.carambo.la^
@@ -66270,6 +66272,7 @@
 ||qzs.qq.com^
 ||rqd.qq.com^
 ||wxs.qq.com^
+||imtt.qq.com^
 ||push.qq.com^
 ||tajs.qq.com^
 ||tcss.qq.com^
@@ -68015,6 +68018,7 @@
 |securemetrics.apple.com^
 ||api-adservices.apple.com^
 ||supportmetrics.apple.com^
+|events-analytics.apple.com^
 ||books-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
 ||stocks-analytics-events.apple.com^
@@ -68936,6 +68940,7 @@
 ||info.netec.com^
 ||metrics.nexmo.com^
 ||smetrics.nexmo.com^
+|analytics.nexon.com^
 ||data.nexxt.com^
 ||metrics.nfluk.com^
 ||tag.nifty.com^
@@ -71799,6 +71804,7 @@
 ||s.wlink2.com^
 ||app.wonder.com^
 ||axp.woodtv.com^
+|analytics.workos.com^
 ||axp.wowktv.com^
 ||smetrics.wsib2b.com^
 ||axp.wvnstv.com^
@@ -76432,6 +76438,7 @@
 ||app.radixdlt.com^
 ||cdn.raekdata.com^
 ||inviso.rampanel.com^
+||free.ranklet4.com^
 ||tracking.rapidape.com^
 ||website-security.rapidssl.com^
 ||go.rapidtrc.com^
@@ -83838,7 +83845,7 @@
 ||gazelle.laurenagray.com^
 ||display.lawbulletin.com^
 ||stats.laxallstars.com^
-||plausible.leaningtech.com^
+|plausible.leaningtech.com^
 ||privacy.learcapital.com^
 ||enews.learninga-z.com^
 ||stats.legendofnom.com^
@@ -86905,6 +86912,7 @@
 ||metrics.doppiostreams.com^
 ||ii.dorothycanzos.com^
 ||fn.dowagerbeurre.com^
+||union.dplayerstatic.com^
 ||hs.drewitecossic.com^
 ||a8clk.driver-island.com^
 ||trace21.dsb-ebusiness.com^
@@ -93725,6 +93733,7 @@
 ||vatrack.hinet.net^
 ||abc.hkepc.net^
 ||ads-yallo-production.imgix.net^
+|front-perf.imoim.net^
 ||aa-metrics.jalan.net^
 ||analytics.jazel.net^
 ||share.jobeo.net^
@@ -93788,6 +93797,8 @@
 ||analytics.vodgc.net^
 ||a.vturb.net^
 ||stat-ssl.webcg.net^
+||tcp.whoer.net^
+||whrq.whoer.net^
 ||a8clk.wi-ho.net^
 ||txvoin.with2.net^
 ||data.wptag.net^
@@ -97943,6 +97954,7 @@
 ||track.naturalvida.site^
 ||blimberwham.quaggletwix.site^
 ||quivvlewag389.shimmerglow.site^
+|bad.third-party.site^
 ||search.valuehunter.site^
 ||v1.venterapide.site^
 ||lp.viavelsaude.site^
@@ -104268,9 +104280,6 @@
 ||beacon.cdn.qq.com^
 ||analytics.map.qq.com^
 ||log.tbs.qq.com^
-||cfg.imtt.qq.com^
-|wup.imtt.qq.com^
-|adfilter.imtt.qq.com^
 ||mqqad.html5.qq.com^
 ||uplog.inews.qq.com^
 ||monitor.music.qq.com^
@@ -105927,6 +105936,7 @@
 ||data.em.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
 ||a8clk.ap.livede55.com^
+||atsod.launch.liveramp.com^
 ||app.link.livibank.com^
 ||data.crm.lizearle.com^
 ||tr.communication.lvmhdare.com^
