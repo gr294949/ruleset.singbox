@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-14T14:19:20.383Z
+// # Build 2024-11-14T14:40:56.816Z
 
 declare(strict_types=1);
 
@@ -1341,6 +1341,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net,Stream',
         'DOMAIN,itvpnpmobile-a.akamaihd.net,Stream',
         'DOMAIN,bcbolt446c5271-a.akamaihd.net,Stream',
+        'DOMAIN,dashasiafox.akamaized.net,Stream',
         'DOMAIN-SUFFIX,dcalivedazn.akamaized.net,Stream',
         'DOMAIN-SUFFIX,dcblivedazn.akamaized.net,Stream',
         'DOMAIN-SUFFIX,spotify-com.akamaized.net,Stream',
@@ -1363,7 +1364,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,d3196yreox78o9.cloudfront.net,Stream',
         'DOMAIN,d349g9zuie06uo.cloudfront.net,Stream',
         'DOMAIN,d3c7rimkq79yfu.cloudfront.net,Stream',
-        'DOMAIN,dashasiafox.akamaized.netflix,Stream',
         'DOMAIN,cdn.registerdisney.go.com,Stream',
         'DOMAIN,linear.tv.apple.com,Stream',
         'DOMAIN,hls.itunes.apple.com,Stream',

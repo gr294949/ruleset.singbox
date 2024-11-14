@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-11-14T09:39:56.723Z
+# Last Updated: 2024-11-14T14:40:56.599Z
 # Size: 272
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -258,6 +258,7 @@ DOMAIN,apm-misaka.biliapi.net
 DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,dashasiafox.akamaized.net
 DOMAIN-SUFFIX,dcalivedazn.akamaized.net
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 DOMAIN-SUFFIX,spotify-com.akamaized.net
@@ -280,7 +281,6 @@ DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,d3196yreox78o9.cloudfront.net
 DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
-DOMAIN,dashasiafox.akamaized.netflix
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,linear.tv.apple.com
 DOMAIN,hls.itunes.apple.com
