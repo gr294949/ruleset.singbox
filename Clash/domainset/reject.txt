@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-14T12:40:12.643Z
-# Size: 109282
+# Last Updated: 2024-11-14T14:19:20.071Z
+# Size: 109291
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13622,6 +13622,7 @@ lgtvsdp.com
 +.bushesbag.com
 +.buuftxcii.com
 +.bux1le001.com
++.buxfmookn.com
 +.buzffovvq.com
 +.bwtcilgll.com
 +.byyanmaor.com
@@ -18811,6 +18812,7 @@ samsungqbe.com
 +.ultrabetas.com
 +.ultravalid.com
 +.ulyvjty4rd.com
++.umtchdhkrx.com
 +.unablehope.com
 +.uncastnork.com
 +.uncleffaan.com
@@ -32943,6 +32945,7 @@ samsungqbe.com
 +.05ee3a24ed11df058c8.com
 +.ablybeastssarcastic.com
 +.abruptlyretortedbat.com
++.absentmissingaccept.com
 +.absorptionsuspended.com
 +.abstractedauthority.com
 +.accentneglectporter.com
@@ -40376,6 +40379,7 @@ samsungcloudsolution.com
 +.oatsegnickeez.net
 +.oocmangamsaih.net
 +.ossmightyenar.net
++.outseethoozet.net
 +.paidonresults.net
 +.phurdoutchouz.net
 +.privateseiten.net
@@ -45930,6 +45934,7 @@ samsungcloudsolution.net
 +.quick-date.xyz
 +.ragsbxhchr.xyz
 +.reyswrloef.xyz
++.rhoxbneasg.xyz
 +.rollserver.xyz
 +.rolsoupouh.xyz
 +.rqbqlwhlui.xyz
@@ -46172,6 +46177,7 @@ samsungcloudsolution.net
 +.glomtipagrou.xyz
 +.glouftarussa.xyz
 +.glounugeepse.xyz
++.glousoonomsy.xyz
 +.gocheewimtie.xyz
 +.gonairoomsoo.xyz
 +.google-js-01.xyz
@@ -57313,6 +57319,7 @@ p.cloudcraft.co
 +.www.jqassets.do
 +.smetrics.bayer.dz
 +.tk.airfrance.dz
++.fail.adr.ec
 +.target.pwc.ec
 +.smetrics.pwc.ec
 +.lib.rus.ec
@@ -64176,6 +64183,7 @@ x.o2.pl
 +.tagging-service.tv4.se
 +.tracking.vlt.se
 +.brycys.24mx.se
++.t.adii.se
 +.secureanalytics.avis.se
 +.mopub-win-us-east.bksn.se
 +.bhcfpo.elfa.se
@@ -83851,6 +83859,7 @@ emma-414870e223.huodonghezi.com
 +.gazelle.laurenagray.com
 +.display.lawbulletin.com
 +.stats.laxallstars.com
++.plausible.leaningtech.com
 +.privacy.learcapital.com
 +.enews.learninga-z.com
 +.stats.legendofnom.com
