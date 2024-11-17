@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 16 Nov 2024 12:37:12 GMT
+! Last modified: Sun, 17 Nov 2024 07:08:17 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -5349,6 +5349,7 @@
 ||gapp1.com^
 ||gdd08.com^
 ||gdyjs.com^
+||ge189.com^
 ||gelhp.com^
 ||geozo.com^
 ||get35.com^
@@ -11326,6 +11327,7 @@
 ||grootcho.com^
 ||grurawho.com^
 ||grvmedia.com^
+||gtsgeoyb.com^
 ||guandads.com^
 ||gurynyce.com^
 ||guysfair.com^
@@ -12788,6 +12790,7 @@
 ||usergrid.com^
 ||userlook.com^
 ||userwave.com^
+||usgowell.com^
 ||ushoofop.com^
 ||usounoul.com^
 ||uthounie.com^
@@ -12908,6 +12911,7 @@
 ||vpbankvn.com^
 ||vpuaklat.com^
 ||vreqnait.com^
+||vscinyke.com^
 ||vsesumki.com^
 ||vsojfsoj.com^
 ||vssidgov.com^
@@ -14307,6 +14311,7 @@
 ||jmt7mbwce.com^
 ||joagroamy.com^
 ||joblouder.com^
+||jojqyxrmh.com^
 ||jollylens.com^
 ||jonaspair.com^
 ||joudauhee.com^
@@ -14987,6 +14992,7 @@
 ||rankpeers.com^
 ||ravalamin.com^
 ||ravaynore.com^
+||rbropocxt.com^
 ||rclsnaips.com^
 ||rdrceting.com^
 ||reachmode.com^
@@ -15930,6 +15936,7 @@
 ||39irqwnzlv.com^
 ||3a17d27bf9.com^
 ||3ac1b30a18.com^
+||3ad2ae645c.com^
 ||3b1ac6ca25.com^
 ||3bc9b1b89c.com^
 ||3cb9b57efc.com^
@@ -17367,6 +17374,7 @@
 ||hbloveinfo.com^
 ||hbplatform.com^
 ||hcpvkcznxj.com^
+||hcvjvmunax.com^
 ||hdsaisonvn.com^
 ||headerlift.com^
 ||heardsoppy.com^
@@ -20311,6 +20319,7 @@
 ||largeharass.com^
 ||lator308aoe.com^
 ||lawishkukri.com^
+||laxpanvzelz.com^
 ||layermutual.com^
 ||lazadabrand.com^
 ||lazadamallc.com^
@@ -24038,6 +24047,7 @@
 ||teracreative.com^
 ||tercelangary.com^
 ||terrasdsdstd.com^
+||terrificdark.com^
 ||tetrdracausa.com^
 ||textilewhine.com^
 ||texturetrick.com^
@@ -25370,6 +25380,7 @@
 ||hitsprocessor.com^
 ||hitwebcounter.com^
 ||hiynquvlrevli.com^
+||hmfxgjcxhwuix.com^
 ||hoaxbasesalad.com^
 ||hoggetforfend.com^
 ||hola-shopping.com^
@@ -25823,6 +25834,7 @@
 ||oversolosisor.com^
 ||overturechina.com^
 ||oxmopobypviuy.com^
+||oyxkrulpwculq.com^
 ||pacquetmuysca.com^
 ||pajamasguests.com^
 ||paletteantler.com^
@@ -27453,6 +27465,7 @@
 ||hotterenvisage.com^
 ||howeverdipping.com^
 ||hrxjqyxvdqidpv.com^
+||hsklyftbctlrud.com^
 ||htkcggbgzinlmh.com^
 ||hugfromoctopus.com^
 ||humdrumhobbies.com^
@@ -30337,6 +30350,7 @@
 ||getfreebacklinks.com^
 ||giaythethaonuhcm.com^
 ||gifcode-lienquan.com^
+||girlfriendwisely.com^
 ||givememmastreams.com^
 ||glamorousmixture.com^
 ||globalsellingads.com^
@@ -31221,6 +31235,7 @@
 ||bloodlessarchives.com^
 ||blushbuiltonboard.com^
 ||boarshrubforemost.com^
+||bottledchagrinfry.com^
 ||bottledfriendship.com^
 ||boundlessargument.com^
 ||boyishdetrimental.com^
@@ -37638,6 +37653,7 @@
 ||y0mwy.icu^
 ||yj2nf.icu^
 ||z3zex.icu^
+||zfwgn.icu^
 ||zjib0.icu^
 ||zvtnj.icu^
 ||aaknmt.icu^
@@ -38049,6 +38065,7 @@
 ||yugqqqq.icu^
 ||yvwuesh.icu^
 ||ywokwlx.icu^
+||yxjcyxy.icu^
 ||yxrmbjw.icu^
 ||yxvyqyy.icu^
 ||zcypmsp.icu^
@@ -38065,6 +38082,7 @@
 ||bujlmitd.icu^
 ||ccobksxz.icu^
 ||ddlmsoyo.icu^
+||dmevejjt.icu^
 ||dqlrfmwp.icu^
 ||fgnfpnae.icu^
 ||fnjoomqa.icu^
@@ -40141,6 +40159,7 @@
 ||trafficwave.net^
 ||twinkle-fun.net^
 ||vaynganhang.net^
+||veezudeedou.net^
 ||vietcredit1.net^
 ||vkanalytics.net^
 ||vouwhowhaca.net^
@@ -40774,6 +40793,7 @@
 ||linkeasy.org^
 ||loadtime.org^
 ||masklink.org^
+||mlgowell.org^
 ||multibux.org^
 ||naptheff.org^
 ||pushflow.org^
@@ -40782,6 +40802,7 @@
 ||smarttds.org^
 ||surv2you.org^
 ||tikimall.org^
+||usgowell.org^
 ||videocap.org^
 ||winvideo.org^
 ||xnqwuwlq.org^
@@ -41018,11 +41039,13 @@
 ||orldwhoisquite.org^
 ||prodregistryv2.org^
 ||scormationwind.org^
+||sionscormation.org^
 ||sitymirableabo.org^
 ||sjsmartcontent.org^
 ||solaranalytics.org^
 ||typicalstudent.org^
 ||unblocktheship.org^
+||alfelixstownrus.org^
 ||besucherzaehler.org^
 ||bobabillydirect.org^
 ||commercialvalue.org^
@@ -41993,6 +42016,7 @@
 ||qsyliey.top^
 ||qtyusiy.top^
 ||quresdy.top^
+||qweisiy.top^
 ||qwerioy.top^
 ||qwoofao.top^
 ||qwsanan.top^
@@ -42059,6 +42083,7 @@
 ||wsyliee.top^
 ||wtyusie.top^
 ||wuresde.top^
+||wweisie.top^
 ||wwerioe.top^
 ||wyisloe.top^
 ||wyuwkbe.top^
@@ -44688,6 +44713,7 @@
 ||yhlzadr.xyz^
 ||yjxzvqy.xyz^
 ||ynfxxbp.xyz^
+||youaixx.xyz^
 ||ytjzqde.xyz^
 ||yxrxsov.xyz^
 ||yzfrapd.xyz^
@@ -45533,6 +45559,7 @@
 ||uymahuxv.xyz^
 ||uzelzfnj.xyz^
 ||uznizrhd.xyz^
+||vawk0ap3.xyz^
 ||vcjczwnc.xyz^
 ||vghkncbu.xyz^
 ||vgjaxnuw.xyz^
@@ -46399,6 +46426,7 @@
 ||cjnktmhcukfdcq.xyz^
 ||ckiepxrgriwvbv.xyz^
 ||clkslvmiwadfsx.xyz^
+||coojohoaboapee.xyz^
 ||cshbglcfcmirnm.xyz^
 ||cxafxdkmusqxsa.xyz^
 ||dark-utilities.xyz^
@@ -46487,6 +46515,7 @@
 ||avucugkccpavsxv.xyz^
 ||avupdrojsytrnej.xyz^
 ||bnhnkbknlfnniug.xyz^
+||bsvhxfxckrmixla.xyz^
 ||cdbqmlngkmwkpvo.xyz^
 ||cgpnhjatakwqnjd.xyz^
 ||cryptooexchange.xyz^
@@ -46677,6 +46706,7 @@
 ||malay.buzz^
 ||qrubv.buzz^
 ||quedo.buzz^
+||tjpzz.buzz^
 ||zfp32.buzz^
 ||zflfoy.buzz^
 ||zflylg.buzz^
@@ -46827,6 +46857,7 @@
 ||datacluster.club^
 ||empirelayer.club^
 ||giftandmore.club^
+||hfdfyrqj-ws.club^
 ||itphanpytor.club^
 ||lehemhavita.club^
 ||movies-flix.club^
@@ -48493,6 +48524,7 @@
 ||allegro-task.shop^
 ||ambariafraid.shop^
 ||ambulianuque.shop^
+||antralhokier.shop^
 ||b3mccglf4zqz.shop^
 ||barhalunkist.shop^
 ||beanedbounds.shop^
@@ -48533,6 +48565,7 @@
 ||olenidpalter.shop^
 ||pardaoboccia.shop^
 ||pekansrefait.shop^
+||petrosunnier.shop^
 ||pianistclomp.shop^
 ||pigmycensing.shop^
 ||pilapilkelps.shop^
@@ -79602,6 +79635,7 @@
 ||tracking.smartbets.com^
 |stun.smartgslb.com^
 ||go.smartjobr.com^
+||pixel.smartnews.com^
 ||branch-io.smartr365.com^
 ||smetrics.sofygirls.com^
 ||www.soil5hear.com^
@@ -106402,6 +106436,7 @@
 |static.m.sjzhushou.com^
 |sousuo.xm.sjzhushou.com^
 ||app.mail.skillsoft.com^
+||pixel.dev.smartnews.com^
 ||web.e.soakaways.com^
 ||a8cv.shop.solve-grp.com^
 ||info.engage.solventum.com^
