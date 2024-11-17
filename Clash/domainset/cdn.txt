@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-17T07:08:12.428Z
-# Size: 2674
+# Last Updated: 2024-11-17T10:32:56.650Z
+# Size: 2679
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -593,6 +593,7 @@ vuejs.org
 +.nodejs.org
 +.rawgit.org
 +.f-droid.org
++.lsposed.org
 +.reactjs.org
 +.typedoc.org
 +.ziglang.org
@@ -762,6 +763,7 @@ adkit.9pub.io
 assets.bwbx.io
 badge.fury.io
 static.itch.io
+cdn.nolt.io
 dl.nwjs.io
 dl2.nwjs.io
 cdn.plyr.io
@@ -1348,7 +1350,7 @@ cdn.tracxn.com
 cdn.ttloli.com
 cdn2.ttloli.com
 +.media.tumblr.com
-assets.tumblr.com
++.assets.tumblr.com
 static.tumblr.com
 +.cdn.turner.com
 +.assets.ubuntu.com
@@ -1645,6 +1647,7 @@ cdn.skymavis.com
 +.static.skymavis.com
 static.snapchat.com
 rv-assets.softonic.com
+img.sparemin.com
 assets.stickpng.com
 cdn.substack.com
 cdn1.sysgears.com
@@ -2010,6 +2013,8 @@ widgets.zohosalesiq.com
 cdn.9to5terminal.com
 photos5.appleinsider.com
 +.ipfs.arching-kaos.com
+img.atlasobscura.com
+assets.atlasobscura.com
 cdn.axieinfinity.com
 axiecdn.axieinfinity.com
 cdnjs.buymeacoffee.com

@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-17T07:11:35.217Z
+// # Build 2024-11-17T10:32:56.705Z
 
 declare(strict_types=1);
 
@@ -1576,6 +1576,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tgstat.ru,Global',
         'DOMAIN-SUFFIX,yandex.ru,Global',
         'DOMAIN-SUFFIX,annas-archive.se,Global',
+        'DOMAIN-SUFFIX,crt.sh,Global',
         'DOMAIN-SUFFIX,ouo.si,Global',
         'DOMAIN-SUFFIX,nyaa.si,Global',
         'DOMAIN-SUFFIX,notion.so,Global',
@@ -5336,7 +5337,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,154.205.87.0/24,Domestic',
         'IP-CIDR,154.205.112.0/21,Domestic',
         'IP-CIDR,154.205.124.0/22,Domestic',
-        'IP-CIDR,154.223.96.0/19,Domestic',
         'IP-CIDR,155.126.176.0/23,Domestic',
         'IP-CIDR,156.0.92.0/22,Domestic',
         'IP-CIDR,156.107.160.0/24,Domestic',
@@ -5352,7 +5352,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.236.119.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
         'IP-CIDR,156.239.64.0/18,Domestic',
-        'IP-CIDR,156.239.224.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',
