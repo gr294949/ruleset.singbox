@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-18T08:16:00.837Z
+// # Build 2024-11-18T08:18:08.408Z
 
 declare(strict_types=1);
 
@@ -2179,6 +2179,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bgp.tools,Global',
         'DOMAIN-SUFFIX,dnscheck.tools,Global',
         'DOMAIN-SUFFIX,fb.watch,Global',
+        'DOMAIN-SUFFIX,ant.design,Global',
         'DOMAIN-SUFFIX,mastodon.social,Global',
         'DOMAIN-SUFFIX,x.company,Global',
         'DOMAIN-SUFFIX,bsky.network,Global',
