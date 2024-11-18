@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 17 Nov 2024 14:14:18 GMT
+! Last modified: Mon, 18 Nov 2024 08:16:05 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -37602,6 +37602,7 @@
 ||lwvrv.icu^
 ||mapss.icu^
 ||mdhv3.icu^
+||mhwy6.icu^
 ||mm1qj.icu^
 ||moqdy.icu^
 ||mymap.icu^
@@ -37885,6 +37886,7 @@
 ||hwymoyv.icu^
 ||ibaglhc.icu^
 ||ieymhkx.icu^
+||iflucav.icu^
 ||ifmccdn.icu^
 ||ifxqubw.icu^
 ||ihssdas.icu^
@@ -38121,6 +38123,7 @@
 ||vrdfxioe.icu^
 ||vzdkngmf.icu^
 ||wenoolgo.icu^
+||wsgnihbh.icu^
 ||xbbhwggj.icu^
 ||xjtosdof.icu^
 ||xnbuapwp.icu^
@@ -39794,6 +39797,7 @@
 ||contexthub.net^
 ||cpaconvtrk.net^
 ||crosspixel.net^
+||crypto-ads.net^
 ||dainouluph.net^
 ||dasistnews.net^
 ||datesspace.net^
@@ -42051,6 +42055,7 @@
 ||toublii.top^
 ||ttgbnmk.top^
 ||turesdi.top^
+||tweisii.top^
 ||twerioi.top^
 ||tyisloi.top^
 ||tyretui.top^
@@ -42066,6 +42071,7 @@
 ||urtlist.top^
 ||usyliet.top^
 ||uuresdt.top^
+||uweisit.top^
 ||uweriot.top^
 ||uyislot.top^
 ||uyretut.top^
@@ -42234,6 +42240,7 @@
 ||ys3e965d.top^
 ||aliexshop.top^
 ||ama-zmart.top^
+||ao1118kas.top^
 ||arcedcoss.top^
 ||baovietcv.top^
 ||baovietin.top^
@@ -53016,7 +53023,6 @@
 ||tarsier.webcrafters.co^
 ||mandrill.yellowfruit.co^
 ||s.everydayporn.co^
-||serve.everydayporn.co^
 ||478789.everydayporn.co^
 ||61serve.everydayporn.co^
 ||usaoptimizedby.increasingly.co^
@@ -83243,7 +83249,6 @@
 ||analytic.buoyweather.com^
 ||analytics.buoyweather.com^
 ||s.bussyhunter.com^
-||serve.bussyhunter.com^
 ||33serve.bussyhunter.com^
 ||app.butterflymx.com^
 ||xbyovz.button-blue.com^
@@ -84881,7 +84886,6 @@
 ||static-ssp.yidianzixun.com^
 ||log.yougameover.com^
 ||a9o.youlikeboys.com^
-||serve.yourporngod.com^
 ||25serve.yourporngod.com^
 ||get.yugengamers.com^
 ||share.yugengamers.com^
