@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-19T02:36:23.128Z
-# Size: 2686
+# Last Updated: 2024-11-19T11:35:23.829Z
+# Size: 2683
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1112,7 +1112,6 @@ static-cdn.123rf.com
 e3.365dm.com
 wwwimages2.adobe.com
 pba.apple.com
-ocsp2.apple.com
 events-live.apple.com
 lcdn-locator.apple.com
 events-delivery.apple.com
@@ -1844,8 +1843,6 @@ dam.freshworks.com
 widget.freshworks.com
 euc-widget.freshworks.com
 sync.getpublica.com
-ocsp.globalsign.com
-ocsp2.globalsign.com
 ajax.googleapis.com
 chart.googleapis.com
 fonts.googleapis.com
