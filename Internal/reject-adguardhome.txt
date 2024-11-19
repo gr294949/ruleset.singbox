@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 19 Nov 2024 02:36:27 GMT
+! Last modified: Tue, 19 Nov 2024 11:30:47 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11642,6 +11642,7 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
+||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -37548,6 +37549,7 @@
 ||cloudcdn.gdn^
 ||cloudmedia.gdn^
 ||xoilactv123.gdn^
+||4t6u.icu^
 ||0pdsa.icu^
 ||1cecn.icu^
 ||1dki0.icu^
@@ -70011,6 +70013,7 @@
 ||console.adspmg.com^
 ||cdn.adt356.com^
 ||cdn.adt361.com^
+||cdn.adt512.com^
 ||cdn.adt532.com^
 ||fpa-api.adweek.com^
 ||fpa-cdn.adweek.com^
@@ -70600,7 +70603,6 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -98300,6 +98302,7 @@
 ||stat.wanted.jobs^
 ||data-927768f668.pharmastellen.jobs^
 ||smetrics.home.kpmg^
+||stats.amur.life^
 ||v.cdn4.life^
 ||afi.iino.life^
 ||cv.nell.life^
