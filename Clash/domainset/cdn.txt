@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-18T08:18:08.350Z
-# Size: 2682
+# Last Updated: 2024-11-19T02:36:23.128Z
+# Size: 2686
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -669,6 +669,8 @@ vanilla-extract.style
 bot.ivy.ai
 +.cdn.s7s.ai
 assets.dify.ai
+widget.kapa.ai
+metrics.kapa.ai
 media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
@@ -1749,6 +1751,7 @@ img.picacomic.com
 storage-b.picacomic.com
 +.assets.pinterest.com
 js.qualified.com
+jfe-cdn.qualtrics.com
 +.siteintercept.qualtrics.com
 img.represent.com
 img.riskified.com
@@ -1770,6 +1773,7 @@ static.spankbang.com
 +.eu-proxy.startpage.com
 +.eu-browse.startpage.com
 +.a.storyblok.com
++.media.strapiapp.com
 events.tableplus.com
 static.test-beta.com
 hawk.tomsguide.com
