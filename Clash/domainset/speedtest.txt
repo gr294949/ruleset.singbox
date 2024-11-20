@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-11-19T02:36:22.964Z
-# Size: 486
+# Last Updated: 2024-11-20T06:40:27.262Z
+# Size: 488
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -238,6 +238,7 @@ sp7.atcc-gns.net
 speedtest.uzmansoft.net
 +.lon-hex-speedtest.cloudconnx.net
 +.lg-ams.fdcservers.net
+lg-lax.fdcservers.net
 +.lg-sea.fdcservers.net
 +.lg-syd.fdcservers.net
 lg-tok.fdcservers.net
@@ -263,6 +264,7 @@ teste.oriontelecom.link
 +.speedtest.optitel.com.au
 +.speedtest-adl.optusnet.com.au
 +.speedtest-bla.optusnet.com.au
+speedtest-bri.optusnet.com.au
 +.speedtest-ebw.optusnet.com.au
 +.speedtest-syd.optusnet.com.au
 +.speedtest-darwin-nt.optusnet.com.au
