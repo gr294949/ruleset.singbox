@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-20T11:52:22.170Z
-# Size: 2686
+# Last Updated: 2024-11-20T14:37:40.322Z
+# Size: 2687
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1605,6 +1605,7 @@ img.jsdelivr.com
 data.jsdelivr.com
 cdn.jwplayer.com
 img.kbhgames.com
+cdn.leandata.com
 assets.leetcode.com
 static-lccn.leetcode.com
 services.linkfire.com
