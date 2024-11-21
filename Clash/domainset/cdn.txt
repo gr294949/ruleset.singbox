@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-21T14:58:55.628Z
-# Size: 2700
+# Last Updated: 2024-11-21T15:01:25.745Z
+# Size: 2701
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1199,6 +1199,7 @@ static-production.npmjs.com
 static.oomol.com
 i.pcmag.com
 cdn.plaid.com
+cdn1.plesk.com
 s.plurk.com
 emos.plurk.com
 imgs.plurk.com
