@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 20 Nov 2024 14:37:45 GMT
+! Last modified: Thu, 21 Nov 2024 02:45:53 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -22,6 +22,7 @@
 ||vdo.ai^
 ||clrt.ai^
 ||wknd.ai^
+||cunda.ai^
 ||nrich.ai^
 ||spiny.ai^
 ||hybrid.ai^
@@ -690,6 +691,7 @@
 ||cuvtnzv.cn^
 ||czouthy.cn^
 ||czresus.cn^
+||daiitmk.cn^
 ||dchdmhf.cn^
 ||ddaixdz.cn^
 ||dfejqmh.cn^
@@ -853,6 +855,7 @@
 ||sugilip.cn^
 ||svhdbmp.cn^
 ||svncowt.cn^
+||syfgtby.cn^
 ||szapaqi.cn^
 ||tdhserg.cn^
 ||trpyceq.cn^
@@ -1814,6 +1817,7 @@
 ||counteronline.de^
 ||counterserver.de^
 ||directcounter.de^
+||fairanalytics.de^
 ||gameover-shop.de^
 ||haymarketstat.de^
 ||klamm-counter.de^
@@ -2347,6 +2351,7 @@
 ||bitcoadz.io^
 ||bitmedia.io^
 ||bitspush.io^
+||caerulus.io^
 ||cdnspace.io^
 ||chainads.io^
 ||click360.io^
@@ -3805,6 +3810,7 @@
 ||seobloger.ru^
 ||sniperlog.ru^
 ||svivqrhrh.ru^
+||tapulsads.ru^
 ||targetman.ru^
 ||teasernet.ru^
 ||tgel2ebtx.ru^
@@ -3993,6 +3999,7 @@
 ||promoblocks.ru^
 ||rctfgrazkha.ru^
 ||reklamaizer.ru^
+||richlifeads.ru^
 ||rustrackers.ru^
 ||securemoney.ru^
 ||startscript.ru^
@@ -7191,6 +7198,7 @@
 ||oijkse.com^
 ||oiycak.com^
 ||okanjo.com^
+||olgrae.com^
 ||olibes.com^
 ||omheth.com^
 ||onacao.com^
@@ -12262,6 +12270,7 @@
 ||qfavlkgf.com^
 ||qgwjydxo.com^
 ||qhemphox.com^
+||qhestrad.com^
 ||qhocciks.com^
 ||qhupdate.com^
 ||qichexin.com^
@@ -14246,6 +14255,7 @@
 ||iloacmoam.com^
 ||imagiflex.com^
 ||imamictra.com^
+||imcounter.com^
 ||imgcdnbet.com^
 ||imghst-de.com^
 ||imgsniper.com^
@@ -14410,6 +14420,7 @@
 ||lairauque.com^
 ||landelcut.com^
 ||landingpg.com^
+||lanky-bar.com^
 ||laserstat.com^
 ||latinwayy.com^
 ||laughdrum.com^
@@ -37590,6 +37601,7 @@
 ||cloudmedia.gdn^
 ||xoilactv123.gdn^
 ||1buo.icu^
+||3sas.icu^
 ||4t6u.icu^
 ||7aey.icu^
 ||0pdsa.icu^
@@ -38186,6 +38198,7 @@
 ||tqanmatx.icu^
 ||tuxpfiok.icu^
 ||uaqdgrfr.icu^
+||vkbxaixl.icu^
 ||vrdfxioe.icu^
 ||vzdkngmf.icu^
 ||wenoolgo.icu^
@@ -41946,6 +41959,7 @@
 ||curesdf.top^
 ||cwaterf.top^
 ||cweisif.top^
+||cweizaf.top^
 ||cweriof.top^
 ||cyjqgpf.top^
 ||cyretuf.top^
@@ -44669,6 +44683,7 @@
 ||nlfbdgr.xyz^
 ||nljrvdh.xyz^
 ||nnrbyty.xyz^
+||nois5gj.xyz^
 ||npjvgug.xyz^
 ||npnpxoz.xyz^
 ||npnzfri.xyz^
@@ -74629,7 +74644,6 @@
 ||rtlog.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||xlog-va.tiktokv.com^
-||log-boot.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
 ||mcs-va-useast2a.tiktokv.com^
 ||tjnffp.tilebar.com^
@@ -110099,6 +110113,7 @@
 ||imagenes.marketing.calidad.pucp.edu.pe^
 ||ivzplytl9nqc6ex2.a.asg.maxx.ddac.ru^
 ||uat.smetrics.globalcommon.citibank.com.sg^
+||tracker.prod.ams3.k8s.hyperia.sk^
 ||phpmyadmin.toolmonger.net.jumia.co.tz^
 ||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
 ||data.email.yourmessage.aviva.co.uk^
