@@ -197,7 +197,7 @@ ebutudan.com                                                                    
 b-cdn.net                                                                                           75
 awicksin.com                                                                                        67
 netspend.com                                                                                        60
-wpenginepowered.com                                                                                 57
+wpenginepowered.com                                                                                 58
 bravenet.com                                                                                        54
 plus.com                                                                                            51
 rciadventure.com                                                                                    50
@@ -254,7 +254,6 @@ gkag.top                                                                        
 globaltradruv.com                                                                                   20
 lixprog.click                                                                                       20
 pixipl.xyz                                                                                          20
-replit.dev                                                                                          20
 treespl.site                                                                                        20
 westmom.site                                                                                        20
 zpetna.top                                                                                          20
@@ -274,6 +273,7 @@ milldrop.xyz                                                                    
 neaio.top                                                                                           19
 orogdq1.xyz                                                                                         19
 peoplexftrade.top                                                                                   19
+replit.dev                                                                                          19
 rign.top                                                                                            19
 vxfc.lat                                                                                            19
 waagge.top                                                                                          19
@@ -340,6 +340,7 @@ iqiyi.com                                                                       
 jokivest1.site                                                                                      16
 meetttaa-prog.top                                                                                   16
 met-esm.top                                                                                         16
+mytemp.website                                                                                      16
 poland-plpro.site                                                                                   16
 schooldocu.com                                                                                      16
 sextracker.be                                                                                       16
@@ -375,13 +376,13 @@ maxi9blog.xyz                                                                   
 maxipl-system.xyz                                                                                   15
 mlnone.top                                                                                          15
 mmtsa.top                                                                                           15
-mytemp.website                                                                                      15
 newcrew.site                                                                                        15
 odbnk.space                                                                                         15
 okkwi.site                                                                                          15
 onliprog.site                                                                                       15
 polprogramm1.xyz                                                                                    15
 polskadep.xyz                                                                                       15
+polstow.top                                                                                         15
 prog-max1pro0g.site                                                                                 15
 progictpro.top                                                                                      15
 rewol-ucja-gazowa.com                                                                               15
@@ -480,7 +481,6 @@ osik.skin                                                                       
 pantheonsite.io                                                                                     13
 peqwik.site                                                                                         13
 pokut.xyz                                                                                           13
-polstow.top                                                                                         13
 pro1wrld.top                                                                                        13
 programaticeu.xyz                                                                                   13
 ptrn-official.xyz                                                                                   13
@@ -579,6 +579,7 @@ goxsite.top                                                                     
 greensorrow.com                                                                                     11
 gzpr.xyz                                                                                            11
 im3q.icu                                                                                            11
+isttopsd.com                                                                                        11
 iu4r.top                                                                                            11
 kaminski.info.pl                                                                                    11
 kasienkakonla.pl                                                                                    11
@@ -674,7 +675,6 @@ innovappl.xyz                                                                   
 innplats.top                                                                                        10
 installprofi.nl                                                                                     10
 invbalp.site                                                                                        10
-isttopsd.com                                                                                        10
 jasewr.site                                                                                         10
 jerat.top                                                                                           10
 jgik.lat                                                                                            10
@@ -718,7 +718,6 @@ soulcar.pl                                                                      
 takilon.top                                                                                         10
 telichkakol.xyz                                                                                     10
 tigernnal.cyou                                                                                      10
-tobixpro.com                                                                                        10
 transprt.info.pl                                                                                    10
 trapiconto.com                                                                                      10
 trdingplatform.xyz                                                                                  10
