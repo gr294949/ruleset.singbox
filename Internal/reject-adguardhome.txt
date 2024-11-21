@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 21 Nov 2024 07:08:36 GMT
+! Last modified: Thu, 21 Nov 2024 12:41:23 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -8189,6 +8189,7 @@
 ||aniview.com^
 ||antcixn.com^
 ||antoiew.com^
+||aomsitf.com^
 ||apeidol.com^
 ||apex-ad.com^
 ||apexcdn.com^
@@ -8268,6 +8269,7 @@
 ||bhcumsc.com^
 ||bhqfnuq.com^
 ||bidgear.com^
+||bidjora.com^
 ||bidsopt.com^
 ||bigbolz.com^
 ||bigrstr.com^
@@ -9122,6 +9124,7 @@
 ||lumitos.com^
 ||lumtest.com^
 ||luuming.com^
+||luunels.com^
 ||lvsnmgg.com^
 ||lxnkuie.com^
 ||lxtrack.com^
@@ -44740,6 +44743,7 @@
 ||pzphmkf.xyz^
 ||qbhjokk.xyz^
 ||qbhzghb.xyz^
+||qcixkb1.xyz^
 ||qdtjjxr.xyz^
 ||qdtzbbh.xyz^
 ||qhbhlii.xyz^
@@ -55605,6 +55609,7 @@
 ||data-ba9232a07a.nuernberg.de^
 ||data-6345746ba5.nwzonline.de^
 ||data-bc58d40c93.nwzonline.de^
+||matomo.oekoloewe.de^
 ||data-3069017f33.oldenburg.de^
 ||d.omsnative.de^
 ||data-d4db30a18b.on-online.de^
@@ -59706,6 +59711,7 @@
 ||smetrics.goindigo.in^
 ||lnk.joinpopp.in^
 ||js.kakuyomu.in^
+||utics.nodejibi.in^
 ||download.poolking.in^
 ||9984342.reddoorz.in^
 ||link.shopview.in^
@@ -66287,6 +66293,7 @@
 ||link.wix.app^
 ||carp.acda.app^
 ||open.ailo.app^
+||events.bsky.app^
 ||go.calo.app^
 ||hop.dttd.app^
 ||share.dusk.app^
@@ -99855,7 +99862,6 @@
 ||smetrics.ten.com.au^
 ||antelope.u3a.com.au^
 ||get.ukg.com.au^
-||stream.9now.com.au^
 ||assets1.aami.com.au^
 ||assets2.aami.com.au^
 ||activate.aami.com.au^
