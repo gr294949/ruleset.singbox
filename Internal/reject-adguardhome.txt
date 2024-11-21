@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 21 Nov 2024 12:57:56 GMT
+! Last modified: Thu, 21 Nov 2024 13:51:38 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11390,6 +11390,7 @@
 ||heymatic.com^
 ||heystaks.com^
 ||hgfsdzfs.com^
+||hhndmpql.com^
 ||hibids10.com^
 ||highnets.com^
 ||hihashop.com^
@@ -11536,6 +11537,7 @@
 ||jiubuhua.com^
 ||jiupaozi.com^
 ||jiusudie.com^
+||jjvpbstg.com^
 ||joastaca.com^
 ||joathath.com^
 ||joopaish.com^
@@ -18992,6 +18994,7 @@
 ||websiteceo.com^
 ||webstats4u.com^
 ||webtraffiq.com^
+||wedauspicy.com^
 ||weeblysite.com^
 ||wegotmedia.com^
 ||welfarefit.com^
@@ -23020,6 +23023,7 @@
 ||koakoucaisho.com^
 ||kraoqsvumatd.com^
 ||ksnbiepnvjdi.com^
+||kspmaaiayadg.com^
 ||ktikpuruxasq.com^
 ||kubachigugal.com^
 ||kuqgrelpiamw.com^
@@ -25669,6 +25673,7 @@
 ||mabelasateens.com^
 ||maddenparrots.com^
 ||madlyexcavate.com^
+||mafflerplaids.com^
 ||magnetairport.com^
 ||main-card-vib.com^
 ||majorhalfmoon.com^
@@ -26024,6 +26029,7 @@
 ||pubimageboard.com^
 ||publisherride.com^
 ||pubtagmanager.com^
+||pudicalnablus.com^
 ||puldhukelpmet.com^
 ||pumpedpancake.com^
 ||pumpedpurpose.com^
@@ -26118,6 +26124,7 @@
 ||retinaesprent.com^
 ||revenuemantra.com^
 ||revenuestripe.com^
+||reverercowier.com^
 ||reviewdollars.com^
 ||reviveservers.com^
 ||rfuqsrnllqlmv.com^
@@ -26740,6 +26747,7 @@
 ||zationsuchasr.com^
 ||zemydreamsauk.com^
 ||zilchesmoated.com^
+||zinniafianced.com^
 ||zpgetworker11.com^
 ||20dollars2surf.com^
 ||25662zubo23739.com^
@@ -27437,6 +27445,7 @@
 ||gnashesfanfare.com^
 ||gnatterjingall.com^
 ||go-to-zlibrary.com^
+||goeducklactase.com^
 ||golden-gateway.com^
 ||goldfishgrowth.com^
 ||googleanalytcs.com^
@@ -36659,6 +36668,7 @@
 ||platinum-ruttientindung247.com^
 ||playwrightsovietcommentary.com^
 ||preachbacteriadisingenuous.com^
+||privilegedmansfieldvaguely.com^
 ||probablyrespectivelyadhere.com^
 ||pronouncedgetawayetiquette.com^
 ||providingcrechepartnership.com^
@@ -37477,6 +37487,7 @@
 ||apathyjav128.fun^
 ||arrestjav182.fun^
 ||birthday3452.fun^
+||bumaqblyqviw.fun^
 ||changejav128.fun^
 ||choosejav182.fun^
 ||colonyjav182.fun^
@@ -40208,6 +40219,7 @@
 ||phanmemfree.net^
 ||phockukoagu.net^
 ||phoosaurgap.net^
+||phouckusogh.net^
 ||portkingric.net^
 ||primedirect.net^
 ||pseeltaimpu.net^
@@ -40262,6 +40274,7 @@
 ||webtrekk-us.net^
 ||whainsairgi.net^
 ||wheegaulrie.net^
+||wheelsetsur.net^
 ||whoisonline.net^
 ||whoulikaihe.net^
 ||whouptoomsy.net^
@@ -40275,6 +40288,7 @@
 ||adworldmedia.net^
 ||ahomsoalsoah.net^
 ||aigniltosesh.net^
+||aimaunongeez.net^
 ||analytically.net^
 ||asiantraffic.net^
 ||auneechuksee.net^
@@ -40470,6 +40484,7 @@
 ||getconversion.net^
 ||glashampouksy.net^
 ||globaladmedia.net^
+||grashaksoudry.net^
 ||greckoaghoate.net^
 ||hauraiwaurulu.net^
 ||hougriwhabool.net^
@@ -40568,6 +40583,7 @@
 ||maugrewuthigeb.net^
 ||muchooltoarsie.net^
 ||napthelienquan.net^
+||neewouwoafisha.net^
 ||nijaultuweftie.net^
 ||nonstoppartner.net^
 ||odeecmoothaith.net^
@@ -40580,6 +40596,7 @@
 ||servicegetbook.net^
 ||shoadessuglouz.net^
 ||shoathuftussux.net^
+||sholraidsoalro.net^
 ||smartadnetwork.net^
 ||snapmobileasia.net^
 ||softwareplanet.net^
@@ -42440,6 +42457,7 @@
 ||lizijing12.top^
 ||lolacorded.top^
 ||matsuderat.top^
+||mollesscar.top^
 ||morneminim.top^
 ||nexaapptwp.top^
 ||olmnvbgufy.top^
@@ -42815,6 +42833,7 @@
 ||ropablegaliot.top^
 ||rqyebojlaawzj.top^
 ||salmiacforked.top^
+||sawdustreives.top^
 ||sheoguekibosh.top^
 ||shoalsestrepe.top^
 ||sieusalegiare.top^
@@ -44072,6 +44091,7 @@
 ||phjtxx.xyz^
 ||phtivr.xyz^
 ||phwrju.xyz^
+||piotyo.xyz^
 ||pjdthz.xyz^
 ||pjzxdl.xyz^
 ||pklujb.xyz^
@@ -44728,6 +44748,7 @@
 ||phcrjth.xyz^
 ||photo07.xyz^
 ||phvfevk.xyz^
+||pjb9gv9.xyz^
 ||plnrkgc.xyz^
 ||postaoz.xyz^
 ||ppvpmrt.xyz^
@@ -46176,6 +46197,7 @@
 ||gdktgkjfyvd.xyz^
 ||generalebad.xyz^
 ||getsozoaque.xyz^
+||gleloamseft.xyz^
 ||gloohozedoa.xyz^
 ||gomtdatacom.xyz^
 ||guxdjfuuhey.xyz^
@@ -49176,6 +49198,7 @@
 ||paht.tech^
 ||regi.tech^
 ||adiam.tech^
+||eehir.tech^
 ||ijtlu.tech^
 ||pcqze.tech^
 ||pegah.tech^
