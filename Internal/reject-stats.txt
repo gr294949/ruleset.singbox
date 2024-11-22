@@ -53,6 +53,7 @@ bestinterestings.com                                                            
 epoise.com                                                                                          21
 fupa.net                                                                                            21
 happ.social                                                                                         21
+herokuapp.com                                                                                       21
 hicloud.com                                                                                         21
 moethennessy.com                                                                                    21
 ogrt80r65.com                                                                                       21
@@ -60,7 +61,6 @@ seponews.com                                                                    
 unity3d.com                                                                                         21
 adpinfo.com                                                                                         20
 coca-cola.com                                                                                       20
-herokuapp.com                                                                                       20
 omniture.com                                                                                        20
 focus.de                                                                                            19
 pwc.com                                                                                             19
