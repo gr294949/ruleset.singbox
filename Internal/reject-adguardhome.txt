@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 21 Nov 2024 15:01:28 GMT
+! Last modified: Fri, 22 Nov 2024 05:06:27 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -5453,6 +5453,7 @@
 ||ixiaa.com^
 ||iyfnz.com^
 ||iygke.com^
+||izuts.com^
 ||jab88.com^
 ||jbtul.com^
 ||jddaw.com^
@@ -6512,6 +6513,7 @@
 ||ctrtrk.com^
 ||ctsdwm.com^
 ||ctxtfl.com^
+||cuteab.com^
 ||cwchmb.com^
 ||cwyxyw.com^
 ||cxjrsb.com^
@@ -23174,6 +23176,7 @@
 ||mbbkh-canhan.com^
 ||mcloudglobal.com^
 ||measlymiddle.com^
+||medbroadcast.com^
 ||medfoodspace.com^
 ||mediadstream.com^
 ||mediaforgews.com^
@@ -31083,6 +31086,7 @@
 ||trianvangthang12.com^
 ||triplescrubjenny.com^
 ||truegifstandmore.com^
+||trusting-produce.com^
 ||ttgmjfgldgv9ed10.com^
 ||tumultuserscheek.com^
 ||turmoilragcrutch.com^
@@ -37617,6 +37621,7 @@
 ||xoilactv123.gdn^
 ||1buo.icu^
 ||1jok.icu^
+||31up.icu^
 ||3sas.icu^
 ||4t6u.icu^
 ||7aey.icu^
@@ -38201,6 +38206,7 @@
 ||ngxzkaxf.icu^
 ||nlxgjwye.icu^
 ||ntpnfyga.icu^
+||oqipegjz.icu^
 ||pdnwbwyf.icu^
 ||plfwxtgu.icu^
 ||pwrgcxaj.icu^
@@ -42062,6 +42068,7 @@
 ||justapp.top^
 ||jwatera.top^
 ||jweisia.top^
+||jweizaa.top^
 ||jwerioa.top^
 ||jyisloa.top^
 ||jyuwkba.top^
@@ -42362,6 +42369,7 @@
 ||ama-zmart.top^
 ||ao1118kas.top^
 ||ao1120kas.top^
+||ao1122kas.top^
 ||arcedcoss.top^
 ||baovietcv.top^
 ||baovietin.top^
@@ -42788,6 +42796,7 @@
 ||kelownajapers.top^
 ||lactantsurety.top^
 ||lazarsunthank.top^
+||legiblyosmols.top^
 ||llboqevyavvjy.top^
 ||llozybovlozvk.top^
 ||lmqvowevzlwbr.top^
