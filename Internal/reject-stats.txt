@@ -197,12 +197,12 @@ ebutudan.com                                                                    
 b-cdn.net                                                                                           75
 awicksin.com                                                                                        67
 netspend.com                                                                                        60
-wpenginepowered.com                                                                                 58
+wpenginepowered.com                                                                                 57
 bravenet.com                                                                                        54
 pages.dev                                                                                           52
 plus.com                                                                                            51
 rciadventure.com                                                                                    50
-wixstudio.io                                                                                        49
+wixstudio.io                                                                                        48
 adktrack30.xyz                                                                                      47
 qq.com                                                                                              47
 taxility.com                                                                                        44
@@ -211,9 +211,9 @@ kanuassociates.com                                                              
 supplypoland.com                                                                                    40
 aimedia.lk                                                                                          38
 covidvcfund.com                                                                                     37
-framer.app                                                                                          37
 msn.com                                                                                             37
 dfirma.pl                                                                                           36
+framer.app                                                                                          35
 blogspot.com                                                                                        34
 adbureau.net                                                                                        33
 unenoteunjour.fr                                                                                    33
@@ -248,6 +248,7 @@ eliteoftokens.com                                                               
 epinlock.com                                                                                        21
 3u84.icu                                                                                            20
 acfdigital.site                                                                                     20
+choyoga.com                                                                                         20
 endiim.com                                                                                          20
 everadpro.click                                                                                     20
 gkag.top                                                                                            20
@@ -265,7 +266,6 @@ b66t.top                                                                        
 bitupes.xyz                                                                                         19
 bloxg.top                                                                                           19
 buddaa.xyz                                                                                          19
-choyoga.com                                                                                         19
 deptesp.com                                                                                         19
 facst.xyz                                                                                           19
 gamemods.com.tr                                                                                     19
