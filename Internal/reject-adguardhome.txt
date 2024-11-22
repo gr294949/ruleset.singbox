@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 22 Nov 2024 09:49:42 GMT
+! Last modified: Fri, 22 Nov 2024 12:40:21 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -60157,6 +60157,7 @@
 ||1amehwchx31.bloxdhop.io^
 ||api.bytebrew.io^
 ||core.centotag.io^
+||apps-pbd.ctraffic.io^
 ||broker.datazoom.io^
 ||pubsrv.devhints.io^
 ||cattle.driftbot.io^
@@ -72784,7 +72785,6 @@
 ||ads.betfair.com^
 ||ads.bethard.com^
 ||ensighten.bhphoto.com^
-||creative.bidease.com^
 ||track-us.bidease.com^
 ||track-resource.bidease.com^
 ||ad.bidrich.com^
