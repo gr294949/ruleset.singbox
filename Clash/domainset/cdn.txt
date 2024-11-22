@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-22T05:06:22.422Z
-# Size: 2702
+# Last Updated: 2024-11-22T09:49:37.168Z
+# Size: 2704
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1708,6 +1708,7 @@ badge.buildkite.com
 doppler-config.cbsivideo.com
 cdn.ceres9350.com
 js.chargebee.com
+js1.chargebee.com
 assets.coingecko.com
 static.coingecko.com
 cdn.configcat.com
@@ -2326,6 +2327,7 @@ spoppe-b.azureedge.net
 ni-assets.azureedge.net
 edgestatic.azureedge.net
 typescript.azureedge.net
+decart-oasis.azureedge.net
 mobilecenter.azureedge.net
 claritystatic.azureedge.net
 xpaywalletcdn.azureedge.net
