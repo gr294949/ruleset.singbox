@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 23 Nov 2024 09:45:40 GMT
+! Last modified: Sat, 23 Nov 2024 12:37:05 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -303,6 +303,7 @@
 ||ringier-advertising.ch^
 ||pema.cl^
 ||rove.cl^
+||gosrv.cl^
 ||howhow.cl^
 ||pirat2.cl^
 ||pirateproxy.cl^
@@ -15537,6 +15538,7 @@
 ||tumblebit.com^
 ||tumordied.com^
 ||tuneshave.com^
+||twewmykfe.com^
 ||twinadsrv.com^
 ||twinrdack.com^
 ||twinrdsrv.com^
@@ -16069,6 +16071,7 @@
 ||6179b859b8.com^
 ||62ca04e27a.com^
 ||63912b9175.com^
+||639c909d45.com^
 ||65bfba9ad0.com^
 ||65f249bd43.com^
 ||65spy7rgcu.com^
@@ -25662,6 +25665,7 @@
 ||links2revenue.com^
 ||literatelight.com^
 ||llyighaboveth.com^
+||lmeegwxcasdyo.com^
 ||localsnaughty.com^
 ||lockerdomecdn.com^
 ||lockerstagger.com^
@@ -34407,6 +34411,7 @@
 ||victoryrugbyumbrella.com^
 ||viewerwhateversavour.com^
 ||vigorouslyflamboyant.com^
+||vigorouslymicrophone.com^
 ||violentelitistbakery.com^
 ||visioncriticalpanels.com^
 ||vnpay-quetthetindung.com^
@@ -41186,6 +41191,7 @@
 ||officetablntry.org^
 ||oldndalltheold.org^
 ||orldwhoisquite.org^
+||paintydevelela.org^
 ||prodregistryv2.org^
 ||scormationwind.org^
 ||sionscormation.org^
@@ -41219,6 +41225,7 @@
 ||myachievementhub.org^
 ||ozationsuchasric.org^
 ||rldwideorganizat.org^
+||strangineersalyl.org^
 ||therplungestrang.org^
 ||townrusisedpriva.org^
 ||trackersimulator.org^
@@ -42790,6 +42797,7 @@
 ||debonerscroop.top^
 ||derateissuant.top^
 ||diobolazafran.top^
+||dreyntbynames.top^
 ||ductedcestoid.top^
 ||eeywmvwaqqrrl.top^
 ||elyvbqklmamkb.top^
@@ -42834,6 +42842,7 @@
 ||lvojjayaaoqym.top^
 ||macomaenteria.top^
 ||managesrimery.top^
+||maniconfiscal.top^
 ||medullapreppy.top^
 ||mifsirnhvvrps.top^
 ||momzersatorii.top^
@@ -42861,6 +42870,7 @@
 ||qrkwvoomrbbrj.top^
 ||qrkwvoomrbroo.top^
 ||ramrodsmorals.top^
+||rboyqkyrwrvkq.top^
 ||reeqqkeweaemj.top^
 ||refeelparolee.top^
 ||reseenpeytrel.top^
@@ -47428,6 +47438,7 @@
 ||emailsnow.info^
 ||fitthings.info^
 ||giacatloi.info^
+||go-static.info^
 ||ightsapph.info^
 ||ilikethis.info^
 ||iresandal.info^
@@ -50004,6 +50015,7 @@
 ||szreismz.world^
 ||vietlott.world^
 ||greedseed.world^
+||ixtbiwi-jf.world^
 ||refpasrasw.world^
 ||tagd-otmhf.world^
 ||zcck60eqyw.world^
