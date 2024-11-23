@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-22T16:43:58.059Z
-# Size: 2706
+# Last Updated: 2024-11-23T06:18:51.264Z
+# Size: 2709
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2276,6 +2276,8 @@ js.hsforms.net
 js-eu1.hsforms.net
 +.cdn2.hubspot.net
 avatars.hubspot.net
+file.izanmei.net
+static.izanmei.net
 pg2dhpc3p5ec22g3.jkforum.net
 opt.moovweb.net
 +.cdn.mozilla.net
@@ -2567,6 +2569,7 @@ media.cmx.edu.kg
 s3.m.0x.mk
 secure.fanboy.co.nz
 static.zaobao.com.sg
+imgcdn.cna.com.tw
 j.udn.com.tw
 s.udn.com.tw
 static.cnbeta.com.tw
