@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-23T06:37:22.059Z
-# Size: 2712
+# Last Updated: 2024-11-23T09:42:48.135Z
+# Size: 2713
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2634,6 +2634,7 @@ static.iris.informa.com
 +.push.services.mozilla.com
 stubdownloader.services.mozilla.com
 app-static.eu.posthog.com
+ton.local.twitter.com
 widgets.media.weather.com
 widgets-red.media.weather.com
 static.community.workday.com
