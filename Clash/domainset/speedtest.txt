@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-11-23T12:37:01.038Z
-# Size: 494
+# Last Updated: 2024-11-24T12:37:06.597Z
+# Size: 498
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -82,6 +82,7 @@ speedtest2.niutk.com
 +.lax1a-speedtest.webnx.com
 +.speedtest.dchost.com
 +.speedtest.macpaw.com
+stajax.rogers.com
 +.stguelph.rogers.com
 +.stlondon.rogers.com
 +.stmilton.rogers.com
@@ -97,6 +98,7 @@ speedtest2.niutk.com
 +.stetobicoke.rogers.com
 +.stkitchener.rogers.com
 +.stnorthyork.rogers.com
+stpickering.rogers.com
 +.ststratford.rogers.com
 +.stwoodstock.rogers.com
 +.stmississauga.rogers.com
@@ -147,6 +149,7 @@ spt-sjo1.edgeuno.com
 speedtest.sercomm.com
 +.speedtest.starhub.com
 +.speedtest01.wowrack.com
+digital.babeltik.com
 +.ookla.ddnsgeek.com
 +.speedtest.frontier.com
 +.speedtest.hostabil.com
@@ -246,6 +249,7 @@ lg-lax.fdcservers.net
 +.lg-syd.fdcservers.net
 lg-tok.fdcservers.net
 +.lg-tor.fdcservers.net
+spd-tr-istanbul.hostlayici.net
 +.speedtest.windstream.net
 +.speedtest.centurylink.net
 +.speedtest.cmcnetworks.net
