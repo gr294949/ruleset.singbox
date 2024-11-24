@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 23 Nov 2024 12:37:05 GMT
+! Last modified: Sun, 24 Nov 2024 04:59:16 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -9088,6 +9088,7 @@
 ||limurol.com^
 ||linkmyc.com^
 ||linkyar.com^
+||lipheak.com^
 ||liracdn.com^
 ||litiumo.com^
 ||livecam.com^
@@ -9595,6 +9596,7 @@
 ||rar-vpn.com^
 ||rausfml.com^
 ||rayjump.com^
+||razzweb.com^
 ||rbcxttd.com^
 ||rcvlink.com^
 ||rdtrck2.com^
@@ -13085,6 +13087,7 @@
 ||yamanoha.com^
 ||yamstamp.com^
 ||yathmoth.com^
+||ybnksajy.com^
 ||yeahmobi.com^
 ||yektanet.com^
 ||yellowjm.com^
@@ -22155,6 +22158,7 @@
 ||besmeargleor.com^
 ||best-vpn-app.com^
 ||bestboundary.com^
+||bestfuckapps.com^
 ||bestfunnyads.com^
 ||bestreceived.com^
 ||bestunfollow.com^
@@ -24537,6 +24541,7 @@
 ||yxjsibeugmmj.com^
 ||yy9s51b2u05z.com^
 ||zaiveeneefol.com^
+||zcaappcthktx.com^
 ||zealousfield.com^
 ||zeepteestaub.com^
 ||zelatorpukka.com^
@@ -37650,6 +37655,7 @@
 ||3sas.icu^
 ||4t6u.icu^
 ||7aey.icu^
+||dt0j.icu^
 ||wi1f.icu^
 ||0pdsa.icu^
 ||1cecn.icu^
@@ -38253,6 +38259,7 @@
 ||wenoolgo.icu^
 ||wsgnihbh.icu^
 ||xbbhwggj.icu^
+||xcwdcynb.icu^
 ||xjtosdof.icu^
 ||xnbuapwp.icu^
 ||xufyxhiu.icu^
@@ -42041,6 +42048,7 @@
 ||euresdw.top^
 ||ewaterw.top^
 ||eweisiw.top^
+||eweizaw.top^
 ||eweriow.top^
 ||eyislow.top^
 ||eyuwkbw.top^
@@ -42253,6 +42261,7 @@
 ||wtyusie.top^
 ||wuresde.top^
 ||wweisie.top^
+||wweizae.top^
 ||wwerioe.top^
 ||wyisloe.top^
 ||wyuwkbe.top^
@@ -48996,6 +49005,7 @@
 ||vingroupventures.shop^
 ||tindungonline-evn.shop^
 ||sieukhuyenmaii2023.shop^
+||expressmealdelivery.shop^
 ||d3c.site^
 ||295c.site^
 ||3a2e.site^
