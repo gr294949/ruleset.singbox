@@ -3,10 +3,10 @@ cloudfront.net                                                                  
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
-adobe.com                                                                                           100
 xiaomi.com                                                                                          100
 baidu.com                                                                                           91
 qq.com                                                                                              79
+adobe.com                                                                                           62
 eccocar.com                                                                                         51
 taobao.com                                                                                          48
 flourishpath.online                                                                                 45
@@ -86,9 +86,7 @@ zing.vn                                                                         
 163.com                                                                                             15
 att.com                                                                                             15
 cisco.com                                                                                           15
-en25.com                                                                                            15
 hotdoc.com.au                                                                                       15
-ignite.technology                                                                                   15
 iqiyi.com                                                                                           15
 isnssdk.com                                                                                         15
 pwc.fr                                                                                              15
@@ -204,7 +202,7 @@ plus.com                                                                        
 rciadventure.com                                                                                    50
 adktrack30.xyz                                                                                      47
 qq.com                                                                                              47
-wixstudio.io                                                                                        47
+wixstudio.io                                                                                        46
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
 pages.dev                                                                                           41
@@ -276,6 +274,7 @@ neaio.top                                                                       
 orogdq1.xyz                                                                                         19
 peoplexftrade.top                                                                                   19
 rign.top                                                                                            19
+us.kg                                                                                               19
 vxfc.lat                                                                                            19
 waagge.top                                                                                          19
 aliyuncs.com                                                                                        18
@@ -600,7 +599,6 @@ prof-stat.site                                                                  
 profit-activ.site                                                                                   11
 program-pro1.site                                                                                   11
 projectprog.click                                                                                   11
-replit.app                                                                                          11
 riamor.xyz                                                                                          11
 roonss.xyz                                                                                          11
 savek.xyz                                                                                           11
@@ -704,6 +702,7 @@ profitactiv1.top                                                                
 profitcsh.site                                                                                      10
 proflivee.top                                                                                       10
 quantresear.ch                                                                                      10
+replit.app                                                                                          10
 riverffsa.cloud                                                                                     10
 saigow.top                                                                                          10
 sanital.xyz                                                                                         10
