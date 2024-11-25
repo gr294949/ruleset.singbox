@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-24T07:11:28.355Z
-# Size: 2716
+# Last Updated: 2024-11-25T09:14:44.781Z
+# Size: 2718
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1501,6 +1501,7 @@ cdn.shopify.com
 sdk.snapkit.com
 static.srcspot.com
 assets.st-note.com
+cdn.svgator.com
 wpmedia.tealium.com
 cdn.termius.com
 autoupdate.termius.com
@@ -1571,6 +1572,7 @@ downloads.coindesk.com
 crt.comodoca.com
 cds.connatix.com
 img.connatix.com
+assets.controld.com
 cdn.credible.com
 cdn.datacamp.com
 api.dicebear.com
