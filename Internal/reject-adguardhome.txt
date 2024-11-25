@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 25 Nov 2024 12:41:44 GMT
+! Last modified: Mon, 25 Nov 2024 13:34:11 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -23414,6 +23414,7 @@
 ||yxjsibeugmmj.com^
 ||yy9s51b2u05z.com^
 ||zaiveeneefol.com^
+||zayac2volk11.com^
 ||zcaappcthktx.com^
 ||zeepteestaub.com^
 ||zelatorpukka.com^
@@ -60347,6 +60348,7 @@
 ||clohzp.hifi.lu^
 ||sstats.seat.lu^
 ||smetrics.sony.lu^
+|a.tool.lu^
 ||saa.dyson.lu^
 ||campaign.mazda.lu^
 ||dialogue.mazda.lu^
@@ -68648,6 +68650,7 @@
 ||go.cheerz.com^
 ||link.cheerz.com^
 ||ahsmpt.cheerz.com^
+||my.chinaz.com^
 ||a2put.chinaz.com^
 ||adebis.chojyu.com^
 ||lmfsga.chojyu.com^
@@ -76880,6 +76883,7 @@
 ||analytics.erepublic.com^
 ||www7.erogewiki.com^
 ||ao-marketing.essendant.com^
+|eas.etherscan.com^
 ||kta.etherscan.com^
 ||nasi.etherscan.com^
 ||www.etym6cero.com^
@@ -81612,6 +81616,7 @@
 ||giraffe.talktalent.com^
 ||sda.tamdiem247.com^
 ||stats.tamdiem247.com^
+|ackee.tangly1024.com^
 ||sfzpql.tateossian.com^
 ||efuxqe.tatilbudur.com^
 ||communications.taylorcorp.com^

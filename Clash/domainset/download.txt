@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-25T07:44:16.301Z
-# Size: 619
+# Last Updated: 2024-11-25T13:34:08.019Z
+# Size: 620
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -502,6 +502,7 @@ download.visualstudio.microsoft.com
 +.s3.us-west-002.backblazeb2.com
 update.code.visualstudio.com
 az764295.vo.msecnd.net
+download-installer.cdn.mozilla.net
 download-core.sys.truenas.net
 +.content.cdp.bethesda.net
 +.download.cdp.bethesda.net
