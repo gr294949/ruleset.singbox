@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-25T03:12:51.550Z
+// # Build 2024-11-25T03:22:12.946Z
 
 declare(strict_types=1);
 
@@ -2114,6 +2114,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dweb.link,Global',
         'DOMAIN-SUFFIX,page.link,Global',
         'DOMAIN-SUFFIX,vercel.live,Global',
+        'DOMAIN-SUFFIX,notion.site,Global',
         'DOMAIN-SUFFIX,sketch.cloud,Global',
         'DOMAIN-SUFFIX,discourse.group,Global',
         'DOMAIN-SUFFIX,telegram.space,Global',
