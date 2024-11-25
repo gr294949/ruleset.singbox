@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-11-24T12:37:06.597Z
-# Size: 498
+# Last Updated: 2024-11-25T12:41:38.571Z
+# Size: 499
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -282,6 +282,7 @@ speedtest-bri.optusnet.com.au
 +.test.gslnetworks.com.au
 +.speedtest.gslnetworks.com.au
 +.speedtest.aarnet.net.au
+speedtest.aquitelecom.tv.br
 +.velocimetro-spt.akto.com.br
 +.velocidade.4wnet.com.br
 +.spd33.claro.com.br
