@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 24 Nov 2024 12:37:11 GMT
+! Last modified: Mon, 25 Nov 2024 03:12:56 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10049,6 +10049,7 @@
 ||ukdtzkc.com^
 ||ukskxmh.com^
 ||ukzoweq.com^
+||uldaens.com^
 ||ulesxbo.com^
 ||ulsmcdn.com^
 ||umamdmo.com^
@@ -10595,6 +10596,7 @@
 ||airairgu.com^
 ||aitrades.com^
 ||aitsatho.com^
+||aizhantj.com^
 ||ajgffcat.com^
 ||ajoosheg.com^
 ||ak0gsh40.com^
@@ -24522,6 +24524,7 @@
 ||xucashntaghy.com^
 ||xxxblackbook.com^
 ||xxxnewvideos.com^
+||yandexmetric.com^
 ||yankbecoming.com^
 ||yeggscuvette.com^
 ||yesmessenger.com^
@@ -37659,6 +37662,7 @@
 ||7aey.icu^
 ||az5i.icu^
 ||dt0j.icu^
+||g41i.icu^
 ||wi1f.icu^
 ||0pdsa.icu^
 ||1cecn.icu^
@@ -38247,6 +38251,7 @@
 ||plfwxtgu.icu^
 ||pwrgcxaj.icu^
 ||pwxlbsie.icu^
+||qidzwhfp.icu^
 ||roxwusak.icu^
 ||rvnaxwqe.icu^
 ||rvtfwryz.icu^
@@ -42194,6 +42199,7 @@
 ||qtyusiy.top^
 ||quresdy.top^
 ||qweisiy.top^
+||qweizay.top^
 ||qwerioy.top^
 ||qwoofao.top^
 ||qwsanan.top^
@@ -110277,7 +110283,7 @@
 |*ad.ixigua.com^
 |tracking.*.miui.com^
 ||tracking.*.miui.com^
-/.estream./
+/\.estream\./
 /jshosting/
 /hostingcloud/
 /flightsy/
@@ -110285,17 +110291,17 @@
 /gettate/
 /mighbest/
 /nimiqpool/
-/.freecontent./
+/\.freecontent\./
 /sunnimiq/
-/.nimiq./
-/anybest./
-/dubester./
-/fb-restriction-case/
-/fb-restriction-appeal/
-/fb-community-standards/
-/fb-business-appeal/
-/cp-home-pl-/
-/track.tiara/
+/\.nimiq\./
+/anybest\./
+/dubester\./
+/fb\x2drestriction\x2dcase/
+/fb\x2drestriction\x2dappeal/
+/fb\x2dcommunity\x2dstandards/
+/fb\x2dbusiness\x2dappeal/
+/cp\x2dhome\x2dpl\x2d/
+/track\.tiara/
 /umeng/
 /adsby/
 /adsdk/
@@ -110306,26 +110312,26 @@
 /adspace/
 /advertmarket/
 /adsyndication/
-/doubleclick./
-/adjust./
+/doubleclick\./
+/adjust\./
 /appsflyer/
 /dnserror/
-/marketing.net/
+/marketing\.net/
 /adktrack/
-/_vmind.qqvideo.tc.qq.com/
-/-logging.nextmedia.com/
-/-spiky.clevertap-prod.com/
-/.engage.3m./
-/telemetry.officeapps.live.com/
-/-launches.appsflyersdk.com/
-/-s2s.sensic.net/
-/.net.daraz./
-/.zooplus./
-/smetrics.marketing./
+/_vmind\.qqvideo\.tc\.qq\.com/
+/\x2dlogging\.nextmedia\.com/
+/\x2dspiky\.clevertap\x2dprod\.com/
+/\.engage\.3m\./
+/telemetry\.officeapps\.live\.com/
+/\x2dlaunches\.appsflyersdk\.com/
+/\x2ds2s\.sensic\.net/
+/\.net\.daraz\./
+/\.zooplus\./
+/smetrics\.marketing\./
 /wxsnsdy/
 /adwords/
-/-tracker.biliapi.net/
-||203.107..*
+/\x2dtracker\.biliapi\.net/
+||203.107.1.0/24^
 ||186.76.76.200
 ||101.124.19.122
 ||103.224.222.208
