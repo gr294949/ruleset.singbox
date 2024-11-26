@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-11-26T12:41:43.910Z
+// # Build 2024-11-26T13:22:41.851Z
 
 declare(strict_types=1);
 
@@ -1526,6 +1526,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,rip,Global',
         'DOMAIN-SUFFIX,xxx,Global',
         'DOMAIN-SUFFIX,blog,Global',
+        'DOMAIN-SUFFIX,cafe,Global',
         'DOMAIN-SUFFIX,goog,Global',
         'DOMAIN-SUFFIX,party,Global',
         'DOMAIN-SUFFIX,tools,Global',

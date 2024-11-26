@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain": [
+        "################## EOF ##################",
+        "#########################################",
         "babeltik.com",
         "383-2speedtest.wightman.ca",
         "ookla3.1und1-mobilfunk.de",

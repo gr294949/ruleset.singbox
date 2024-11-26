@@ -1,12 +1,14 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-11-26T12:49:36.526Z
-# Size: 500
+# Last Updated: 2024-11-26T13:22:41.640Z
+# Size: 502
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
+#########################################
+################## EOF ##################
 #########################################
 +.wifiman.me
 +.twincher.ru
