@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 29 Nov 2024 09:26:58 GMT
+! Last modified: Fri, 29 Nov 2024 10:54:58 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -77877,6 +77877,7 @@
 ||trx3.famousfix.com^
 ||ab.fanatical.com^
 ||ef.fanatical.com^
+||gh.fanatical.com^
 ||tracking.fanbridge.com^
 ||link-dev.fandompay.com^
 ||omapi.fangraphs.com^
