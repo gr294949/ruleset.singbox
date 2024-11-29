@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 29 Nov 2024 10:54:58 GMT
+! Last modified: Fri, 29 Nov 2024 12:41:16 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10061,6 +10061,7 @@
 ||vidsrev.com^
 ||viediil.com^
 ||vietinb.com^
+||vietpub.com^
 ||vietret.com^
 ||vietviv.com^
 ||viewclc.com^
@@ -12728,6 +12729,7 @@
 ||vfvdsati.com^
 ||vfyhwapi.com^
 ||vhducnso.com^
+||vhkgzudn.com^
 ||vi-serve.com^
 ||viaklera.com^
 ||vib-bank.com^
@@ -13390,6 +13392,7 @@
 ||betendads.com^
 ||betriolua.com^
 ||beyanmaan.com^
+||bhigziaww.com^
 ||bidderads.com^
 ||bidderrtb.com^
 ||bideo-cdn.com^
@@ -15688,6 +15691,7 @@
 ||0b0db57b5f.com^
 ||0b7741a902.com^
 ||0b85c2f9bb.com^
+||0cc29a3ac1.com^
 ||0d076be0f4.com^
 ||0eade9dd8d.com^
 ||0sntp7dnrr.com^
@@ -15753,6 +15757,7 @@
 ||2b9957041a.com^
 ||2bd1f18377.com^
 ||2c5d30b6f1.com^
+||2cba2742a4.com^
 ||2d1f81ac8e.com^
 ||2d283cecd5.com^
 ||2d439ab93e.com^
@@ -16544,6 +16549,7 @@
 ||cavebummer.com^
 ||cazaakeake.com^
 ||cb-content.com^
+||cb3251add6.com^
 ||cb61190372.com^
 ||cb7f35d82c.com^
 ||cba6182add.com^
@@ -18892,6 +18898,7 @@
 ||zoeaegyral.com^
 ||zogrepsili.com^
 ||zoozishooh.com^
+||zuclcijzua.com^
 ||zufubulsee.com^
 ||zujibumlgc.com^
 ||zuqalzajno.com^
@@ -19720,6 +19727,7 @@
 ||fosiecajeta.com^
 ||fozoothezou.com^
 ||fpctraffic2.com^
+||fqrwtrkgbun.com^
 ||fqtadpehoqx.com^
 ||fraagesport.com^
 ||framebanana.com^
@@ -19797,6 +19805,7 @@
 ||givedressed.com^
 ||givesthtosb.com^
 ||gkencyarcoc.com^
+||gkumbcmntra.com^
 ||glaikrolsoa.com^
 ||gleamingcow.com^
 ||gleaminsist.com^
@@ -22644,6 +22653,7 @@
 ||junkieswudge.com^
 ||justrelevant.com^
 ||justwebcards.com^
+||jycrmvvyplmq.com^
 ||jyzguserothn.com^
 ||jzeapwlruols.com^
 ||kadrawheerga.com^
@@ -23428,6 +23438,7 @@
 ||samuraiclick.com^
 ||sandtheircle.com^
 ||santonpardal.com^
+||sasseselytra.com^
 ||satoripedary.com^
 ||saucebuttons.com^
 ||saulsgullish.com^
@@ -24601,6 +24612,7 @@
 ||coursebonfire.com^
 ||coveredstress.com^
 ||coxiesthubble.com^
+||cplhpdxbdeyvy.com^
 ||crackyunfence.com^
 ||crakedquartin.com^
 ||crawledlikely.com^
@@ -25312,6 +25324,7 @@
 ||mediocrecount.com^
 ||medusasglance.com^
 ||megadeliveryn.com^
+||melamedwindel.com^
 ||mellowmailbox.com^
 ||melongetplume.com^
 ||memberscrisis.com^
@@ -25694,6 +25707,7 @@
 ||requinsenroot.com^
 ||requirestwine.com^
 ||research-tool.com^
+||reservoirvine.com^
 ||residentshove.com^
 ||resignedsauna.com^
 ||resinkaristos.com^
@@ -27194,6 +27208,7 @@
 ||localedgemedia.com^
 ||locallycompare.com^
 ||locandintestrk.com^
+||locrinelongish.com^
 ||logicorganized.com^
 ||lokalleads-cci.com^
 ||lonerprevailed.com^
@@ -29070,6 +29085,7 @@
 ||ruthlessawfully.com^
 ||ruttienf3credit.com^
 ||ruttientaihanoi.com^
+||rxcihltrqjvdeus.com^
 ||safelinktracker.com^
 ||safelistextreme.com^
 ||sailorlanceslap.com^
@@ -29327,6 +29343,7 @@
 ||typicalairplane.com^
 ||ufiuhnyydllpaed.com^
 ||uldlikukemyfueu.com^
+||umbrellaepisode.com^
 ||unarmedindustry.com^
 ||unclesnewspaper.com^
 ||uncoveredexpert.com^
@@ -31016,6 +31033,7 @@
 ||hotrotaichinh247g.com^
 ||hoursencirclepeel.com^
 ||hubbabu2bb8anys09.com^
+||hubbyobjectedhugo.com^
 ||humplollipopsalts.com^
 ||hycantyoubeliketh.com^
 ||hyistkechaukrguke.com^
@@ -31025,6 +31043,7 @@
 ||iliketomakingpics.com^
 ||illegallyrailroad.com^
 ||illegallyshoulder.com^
+||imitateupsettweak.com^
 ||immigrantpavement.com^
 ||immigrationcrayon.com^
 ||important-notices.com^
@@ -32444,6 +32463,7 @@
 ||attestationaudience.com^
 ||attestcribaccording.com^
 ||attractiveafternoon.com^
+||attributedbroadcast.com^
 ||audiencebellowmimic.com^
 ||auditoriumgiddiness.com^
 ||austeritylegitimate.com^
@@ -32792,6 +32812,7 @@
 ||navigateiriswilliam.com^
 ||nebulouslostpremium.com^
 ||negotiationmajestic.com^
+||nervessharehardness.com^
 ||network-marketing24.com^
 ||neverthelessamazing.com^
 ||newbornprayerseagle.com^
@@ -33627,6 +33648,7 @@
 ||strungglancedrunning.com^
 ||subsideagainstforbes.com^
 ||substantialcarpenter.com^
+||suburbanabolishflare.com^
 ||succeedingpeacefully.com^
 ||suggestedasstrategic.com^
 ||sukienlienquanthang8.com^
@@ -33893,6 +33915,7 @@
 ||displaycontentnetwork.com^
 ||displaynetworkcontent.com^
 ||disquietstumpreducing.com^
+||disquietwokesupersede.com^
 ||dissemblebendnormally.com^
 ||distressedsoultabloid.com^
 ||divertbywordinjustice.com^
@@ -34096,6 +34119,7 @@
 ||observedbrainpowerweb.com^
 ||observerdispleasejune.com^
 ||obstaclemuzzlepitfall.com^
+||offenseshabbyrestless.com^
 ||offergate-apps-pubrel.com^
 ||officiallyflabbyperch.com^
 ||omitcalculategalactic.com^
@@ -34368,6 +34392,7 @@
 ||baileybenedictionphony.com^
 ||baitu3lllqubyqmttdkjsv.com^
 ||ballastaccommodaterapt.com^
+||bedevilantibiotictoken.com^
 ||beetrootsquirtexamples.com^
 ||behavedforciblecashier.com^
 ||bellamyawardinfallible.com^
@@ -35758,6 +35783,7 @@
 ||sciadopi5tysverticil1lata.com^
 ||searchrespectivelypotency.com^
 ||seedlingpenknifecambridge.com^
+||sensationtwigpresumptuous.com^
 ||shaderadioactivepoisonous.com^
 ||shepherdalmightyretaliate.com^
 ||shieldspecificationedible.com^
@@ -35940,6 +35966,7 @@
 ||providingcrechepartnership.com^
 ||publisherperformancewatery.com^
 ||purchaserdisgustingwrestle.com^
+||putrescentpremonitionspoon.com^
 ||quamemberthang9-freefirevn.com^
 ||questioningsanctifypuberty.com^
 ||quetthetindungvn-thanhtoan.com^
@@ -36097,6 +36124,7 @@
 ||putrescentheadstoneyoungest.com^
 ||quarterbackanimateappointed.com^
 ||recordingadventurouswildest.com^
+||rememberinfertileeverywhere.com^
 ||rentingimmoderatereflecting.com^
 ||resourcefulauthorizeelevate.com^
 ||respectfulofficiallydoorway.com^
@@ -39349,6 +39377,7 @@
 ||whautchaup.net^
 ||whoumpouks.net^
 ||wigrooglie.net^
+||woapimaugu.net^
 ||worldfilia.net^
 ||wunderloop.net^
 ||xmindchina.net^
@@ -39827,6 +39856,7 @@
 ||zexardoussesa.net^
 ||zireemilsoude.net^
 ||zoaneeptaithe.net^
+||aloatchuraimti.net^
 ||auckodsailtoas.net^
 ||bauwonaujouloo.net^
 ||centralnervous.net^
@@ -39904,6 +39934,7 @@
 ||want-some-push.net^
 ||wauglauthoawoa.net^
 ||whoodiksaglels.net^
+||wouhikeelichoo.net^
 ||xianshangzixun.net^
 ||aurirdikseewhoo.net^
 ||avecmessougnauy.net^
@@ -39911,6 +39942,7 @@
 ||bestbitcoinbank.net^
 ||cheedroumsoaphu.net^
 ||chicheecmaungee.net^
+||coashoohathaija.net^
 ||conversionlogic.net^
 ||datamarketplace.net^
 ||dexoucheekripsu.net^
@@ -40046,6 +40078,7 @@
 ||fqtjp.one^
 ||fquyv.one^
 ||kmupo.one^
+||uiphk.one^
 ||azenka.one^
 ||pubadx.one^
 ||routeit.one^
@@ -40440,6 +40473,7 @@
 ||compteur-gratuit.org^
 ||eagainedamerican.org^
 ||eckonturricalsbu.org^
+||edconsideundence.org^
 ||kmspico-official.org^
 ||myachievementhub.org^
 ||ozationsuchasric.org^
@@ -40453,6 +40487,7 @@
 ||yjustingexcelele.org^
 ||airproxyunblocked.org^
 ||bitdefenderupdate.org^
+||curyrentattributo.org^
 ||dichvunhantien-eu.org^
 ||elasticalsdebatic.org^
 ||forrealzpiratebay.org^
@@ -40916,6 +40951,7 @@
 ||impartial-steal.pro^
 ||incompleteshock.pro^
 ||joyfulassistant.pro^
+||jumbo-insurance.pro^
 ||loose-chemistry.pro^
 ||misguidedfriend.pro^
 ||plainphilosophy.pro^
@@ -41720,6 +41756,7 @@
 ||ivemjdir-g.top^
 ||kinedivast.top^
 ||kstorybank.top^
+||lawnsacing.top^
 ||leetdyeing.top^
 ||leggymomme.top^
 ||lizijing12.top^
@@ -41832,6 +41869,7 @@
 ||baothanhnien.top^
 ||bewperspiths.top^
 ||borakmolests.top^
+||boreusorgans.top^
 ||builtrussism.top^
 ||cachuadirked.top^
 ||canopusacrux.top^
@@ -41887,6 +41925,7 @@
 ||ogvaqxjzfm-n.top^
 ||orgueapropos.top^
 ||paintednarra.top^
+||palpedcahows.top^
 ||paularexarch.top^
 ||petrovietnam.top^
 ||pinionsmamry.top^
@@ -42069,6 +42108,7 @@
 ||wkmorvzqjmqbj.top^
 ||wkwqljwykoamr.top^
 ||wlzzwzekkbkaj.top^
+||wmeqobozarbjm.top^
 ||wwaeljajwvlrw.top^
 ||wwwwzeraqvrej.top^
 ||zhangqifeng12.top^
@@ -47307,6 +47347,7 @@
 ||vipcaptcha.live^
 ||beltarklate.live^
 ||captchafine.live^
+||cardano-ada.live^
 ||dawndadmark.live^
 ||dealgodsafe.live^
 ||headcaptcha.live^
@@ -47662,6 +47703,7 @@
 ||bodlediarch.shop^
 ||boomspomard.shop^
 ||borablejoky.shop^
+||breardsfyce.shop^
 ||btyhnbmn289.shop^
 ||btyhnraw653.shop^
 ||bulbousloth.shop^
@@ -47726,6 +47768,7 @@
 ||antralhokier.shop^
 ||arcossinsion.shop^
 ||b3mccglf4zqz.shop^
+||backinghinge.shop^
 ||beanedbounds.shop^
 ||bergletiphis.shop^
 ||buticiodized.shop^
@@ -47854,6 +47897,7 @@
 ||niblicfabrics.shop^
 ||nuttedmoireed.shop^
 ||nuttishstromb.shop^
+||octroinewings.shop^
 ||oophyteaparai.shop^
 ||oxamateborrel.shop^
 ||paiwariaroids.shop^
@@ -47911,6 +47955,7 @@
 ||cutlipsdanelaw.shop^
 ||deavelydragees.shop^
 ||dwelledfaunist.shop^
+||dynamosbakongo.shop^
 ||eleazarfilasse.shop^
 ||emptieskischen.shop^
 ||eserinemersion.shop^
@@ -47999,6 +48044,7 @@
 ||belom.site^
 ||cdnic.site^
 ||croni.site^
+||dripe.site^
 ||endod.site^
 ||f4nfg.site^
 ||fedot.site^
@@ -49013,6 +49059,7 @@
 ||kpgks.online^
 ||luwcp.online^
 ||map-s.online^
+||midlk.online^
 ||msdns.online^
 ||optmz.online^
 ||ovykq.online^
