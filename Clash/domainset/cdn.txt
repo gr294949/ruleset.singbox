@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-29T10:54:53.936Z
-# Size: 2735
+# Last Updated: 2024-11-29T13:25:13.411Z
+# Size: 2736
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1660,6 +1660,7 @@ cdn2.onlyfans.com
 cdn3.onlyfans.com
 static.onlyfans.com
 thumbs.onlyfans.com
+static2.onlyfans.com
 +.i.optimole.com
 cdn.osxdaily.com
 widgets.outbrain.com
