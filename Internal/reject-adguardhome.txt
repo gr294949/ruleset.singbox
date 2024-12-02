@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 02 Dec 2024 08:17:13 GMT
+! Last modified: Mon, 02 Dec 2024 09:59:37 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -20784,6 +20784,7 @@
 ||samestretch.com^
 ||samplecomfy.com^
 ||samplesamba.com^
+||samuraibots.com^
 ||sap-traffic.com^
 ||sasinsetuid.com^
 ||satisfycork.com^
@@ -28138,6 +28139,7 @@
 ||wholehugewords.com^
 ||whomspreadbeep.com^
 ||wigglyindustry.com^
+||wildwoodavenue.com^
 ||wildxxxparties.com^
 ||williamfaxarts.com^
 ||willtissuetank.com^
@@ -36993,6 +36995,7 @@
 ||1jok.icu^
 ||31up.icu^
 ||3sas.icu^
+||4cx5.icu^
 ||4t6u.icu^
 ||7aey.icu^
 ||96rj.icu^
@@ -96733,6 +96736,7 @@
 ||mp-pop.barryto.one^
 ||link.million.one^
 ||track.sexbule.one^
+||ctent.povvverz.one^
 ||cn.vercount.one^
 ||events.vercount.one^
 ||data-557fc65a33.coachingz.one^
