@@ -173,7 +173,6 @@ engie.fr                                                                        
 fastly.net                                                                                          10
 harmonie-mutuelle.fr                                                                                10
 hilton.com                                                                                          10
-ifeng.com                                                                                           10
 insights.md                                                                                         10
 labcorp.com                                                                                         10
 lenovo.com                                                                                          10
