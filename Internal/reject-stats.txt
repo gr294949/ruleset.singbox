@@ -120,7 +120,6 @@ inhaabit.com                                                                    
 mgtv.com                                                                                            13
 optum.com                                                                                           13
 powzers.lol                                                                                         13
-snssdk.com                                                                                          13
 verintsystemsinc.com                                                                                13
 zalo.me                                                                                             13
 360safe.com                                                                                         12
@@ -135,6 +134,7 @@ palladiumhotelgroup.com                                                         
 ricoh.de                                                                                            12
 riteaid.com                                                                                         12
 samsungcloudsolution.com                                                                            12
+snssdk.com                                                                                          12
 thomsonreuters.com                                                                                  12
 uyybde07w.com                                                                                       12
 vivo.com.cn                                                                                         12
