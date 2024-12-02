@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-11-30T12:37:54.184Z
-# Size: 507
+# Last Updated: 2024-12-02T12:43:34.796Z
+# Size: 510
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -31,8 +31,10 @@ babeltik.com
 +.speedtest.myaccess.ca
 383-2speedtest.wightman.ca
 +.speedtest.execulink.ca
+stmontreal.netcrawler.ca
 +.speedtest01.fibernetics.ca
 +.west-speedtest.frontiernetworks.ca
+speed.data.cr
 +.speedtest.tigo.cr
 +.speedtest-net.mk.de
 +.speedtest.ropa.de
@@ -299,6 +301,7 @@ speedtest.aquitelecom.tv.br
 +.f1.netfast.com.br
 +.teste.wsfibra.com.br
 speedtest.apnet-rr.com.br
+speedtest.jetspeed.com.br
 +.speedtest.linkamos.com.br
 +.speedtest.orixinet.com.br
 +.speedtest-vsbu.rolimnet.com.br
