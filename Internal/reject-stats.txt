@@ -194,30 +194,33 @@ adkoffer.fr                                                                     
 ebutudan.com                                                                                        78
 b-cdn.net                                                                                           72
 awicksin.com                                                                                        67
-wpenginepowered.com                                                                                 65
+wpenginepowered.com                                                                                 64
 netspend.com                                                                                        59
 bravenet.com                                                                                        54
 plus.com                                                                                            51
 adktrack30.xyz                                                                                      50
 rciadventure.com                                                                                    49
 qq.com                                                                                              47
-wixstudio.io                                                                                        46
-pages.dev                                                                                           45
+pages.dev                                                                                           46
+wixstudio.io                                                                                        45
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
+serverpower.net                                                                                     43
 github.io                                                                                           42
 supplypoland.com                                                                                    40
 vercel.app                                                                                          40
+duckdns.org                                                                                         39
 aimedia.lk                                                                                          38
 covidvcfund.com                                                                                     37
 msn.com                                                                                             37
 adkplan.fr                                                                                          36
 dfirma.pl                                                                                           36
-blogspot.com                                                                                        34
-duckdns.org                                                                                         34
+blogspot.com                                                                                        35
+bitember.com                                                                                        34
+ddns.net                                                                                            34
+wixsite.com                                                                                         34
 adbureau.net                                                                                        33
 linkomo.fr                                                                                          33
-wixsite.com                                                                                         33
 luxxeeu.com                                                                                         32
 baidu.com                                                                                           31
 shengen.ru                                                                                          31
@@ -253,8 +256,10 @@ endiim.com                                                                      
 everadpro.click                                                                                     20
 gkag.top                                                                                            20
 globaltradruv.com                                                                                   20
+inhhome.top                                                                                         20
 lixprog.click                                                                                       20
 pixipl.xyz                                                                                          20
+spectare.top                                                                                        20
 treespl.site                                                                                        20
 westmom.site                                                                                        20
 zpetna.top                                                                                          20
@@ -272,6 +277,7 @@ gamemods.com.tr                                                                 
 irza.lat                                                                                            19
 milldrop.xyz                                                                                        19
 neaio.top                                                                                           19
+nimiq.ag                                                                                            19
 orogdq1.xyz                                                                                         19
 peoplexftrade.top                                                                                   19
 replit.dev                                                                                          19
@@ -285,7 +291,6 @@ cashhs-news.top                                                                 
 cftvpinheiro.com.br                                                                                 18
 duums.xyz                                                                                           18
 gkru.skin                                                                                           18
-inhhome.top                                                                                         18
 investtraderxreh.com                                                                                18
 lisanse.com                                                                                         18
 mytemp.website                                                                                      18
@@ -322,7 +327,6 @@ qvelo.top                                                                       
 redsistem.site                                                                                      17
 rutradersxprod.com                                                                                  17
 socalpocis.org                                                                                      17
-spectare.top                                                                                        17
 treasurendtrovedeals.com                                                                            17
 umeng.com                                                                                           17
 valuevaultmarkets.com                                                                               17
@@ -371,6 +375,7 @@ franksistem.site                                                                
 getinge.com                                                                                         15
 ggaf.pl                                                                                             15
 histtory.top                                                                                        15
+hopto.org                                                                                           15
 improvetrd.xyz                                                                                      15
 imptradecan.site                                                                                    15
 jhom.lat                                                                                            15
@@ -400,6 +405,7 @@ tx1tx.click                                                                     
 waonline.site                                                                                       15
 wetss.xyz                                                                                           15
 zabadn.site                                                                                         15
+zapto.org                                                                                           15
 aglt.lat                                                                                            14
 ahnq.top                                                                                            14
 anonline.site                                                                                       14
@@ -425,6 +431,7 @@ malangg.xyz                                                                     
 mastt.xyz                                                                                           14
 miliomp.xyz                                                                                         14
 njrrs.com                                                                                           14
+pe-nf.top                                                                                           14
 phtmedia.com                                                                                        14
 propl.top                                                                                           14
 reviss.site                                                                                         14
@@ -443,6 +450,7 @@ adktrack37.xyz                                                                  
 advance.net                                                                                         13
 aiiegros40.pl                                                                                       13
 ayxh.top                                                                                            13
+beget.tech                                                                                          13
 blogspot.hu                                                                                         13
 cddo.lat                                                                                            13
 dasms.xyz                                                                                           13
@@ -476,7 +484,6 @@ newplx.site                                                                     
 objectop.xyz                                                                                        13
 openmbot.xyz                                                                                        13
 osik.skin                                                                                           13
-pe-nf.top                                                                                           13
 peblla.app                                                                                          13
 peqwik.site                                                                                         13
 pokut.xyz                                                                                           13
@@ -485,6 +492,7 @@ programaticeu.xyz                                                               
 ptrn-official.xyz                                                                                   13
 quzu.skin                                                                                           13
 redustenes.xyz                                                                                      13
+ru.com                                                                                              13
 szczur.warszawa.pl                                                                                  13
 theseasonalhaven.com                                                                                13
 topplid.site                                                                                        13
@@ -532,7 +540,6 @@ prepci.pl                                                                       
 progrr.top                                                                                          12
 redusketo.xyz                                                                                       12
 revoprogramxzsed.com                                                                                12
-ru.com                                                                                              12
 stormo.site                                                                                         12
 tataras.com.pl                                                                                      12
 tes1aprodj.click                                                                                    12
@@ -691,6 +698,7 @@ meelou.top                                                                      
 mirekkaminskimk.pl                                                                                  10
 ner9.top                                                                                            10
 newprif.site                                                                                        10
+ngrok.io                                                                                            10
 oceanvd.life                                                                                        10
 officialbalticpipe.space                                                                            10
 ofisls-pro.xyz                                                                                      10
@@ -714,6 +722,7 @@ sist-eurp.xyz                                                                   
 slwiastore.pl                                                                                       10
 snvq.top                                                                                            10
 soulcar.pl                                                                                          10
+sytes.net                                                                                           10
 takilon.top                                                                                         10
 telichkakol.xyz                                                                                     10
 tigernnal.cyou                                                                                      10
@@ -725,6 +734,7 @@ trioprofit2.online                                                              
 trioprofit3.online                                                                                  10
 trioprofit4.online                                                                                  10
 trioprofit5.online                                                                                  10
+us.kg                                                                                               10
 vab5.cfd                                                                                            10
 valhaalla.xyz                                                                                       10
 vgml.lat                                                                                            10
