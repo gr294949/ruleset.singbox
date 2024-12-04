@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 03 Dec 2024 12:41:47 GMT
+! Last modified: Wed, 04 Dec 2024 06:38:21 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11569,6 +11569,7 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
+||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -12316,6 +12317,7 @@
 ||sconvtrk.com^
 ||scriptil.com^
 ||scrollye.com^
+||scroscoi.com^
 ||sdk4push.com^
 ||seaofads.com^
 ||seedoupo.com^
@@ -14617,6 +14619,7 @@
 ||numbninth.com^
 ||nummobile.com^
 ||nutiipwkk.com^
+||nuvaioqds.com^
 ||nv3tosjqd.com^
 ||nvtvssczb.com^
 ||nwwrtbbit.com^
@@ -28943,6 +28946,7 @@
 ||netapplications.com^
 ||new-vietcombank.com^
 ||newsforyourmood.com^
+||newtabextension.com^
 ||nganhang-vpbank.com^
 ||ngaytetlienquan.com^
 ||nglestpeoplesho.com^
@@ -29750,6 +29754,7 @@
 ||competemerriment.com^
 ||compileformality.com^
 ||comprehendpaying.com^
+||concealmentmimic.com^
 ||conceivedtowards.com^
 ||conduit-services.com^
 ||confessioneurope.com^
@@ -36975,6 +36980,8 @@
 ||cloudcdn.gdn^
 ||cloudmedia.gdn^
 ||xoilactv123.gdn^
+||d5r.icu^
+||fo0.icu^
 ||0dwm.icu^
 ||1buo.icu^
 ||1gtp.icu^
@@ -36999,6 +37006,7 @@
 ||g41i.icu^
 ||k5uj.icu^
 ||oo3z.icu^
+||q1bp.icu^
 ||w59g.icu^
 ||wi1f.icu^
 ||xa7j.icu^
@@ -37588,6 +37596,7 @@
 ||lfrdskwj.icu^
 ||ljzcawea.icu^
 ||locpikbb.icu^
+||lumvkebr.icu^
 ||nbfsvreu.icu^
 ||ngxzkaxf.icu^
 ||nlxgjwye.icu^
@@ -41527,6 +41536,7 @@
 ||kweriod.top^
 ||kyislod.top^
 ||kyuwkbd.top^
+||ldamcsl.top^
 ||ldoshbl.top^
 ||letlwsl.top^
 ||lewrutl.top^
@@ -41561,6 +41571,7 @@
 ||nitsche.top^
 ||now-dns.top^
 ||oaiqksi.top^
+||odamcsk.top^
 ||oewrutk.top^
 ||ofjslik.top^
 ||okiterk.top^
@@ -44876,6 +44887,7 @@
 ||oophoame.xyz^
 ||oopoawee.xyz^
 ||ootchaig.xyz^
+||op3xdork.xyz^
 ||ophophiz.xyz^
 ||opsoudaw.xyz^
 ||oqejupqb.xyz^
@@ -63635,6 +63647,7 @@
 ||alt-ad.mail.ru^
 ||showbiz.mail.ru^
 ||top-fwz1.mail.ru^
+||media-stat.mail.ru^
 ||top-staging.mail.ru^
 ||analytics.move.ru^
 ||analytics.msk1.ru^
@@ -63868,6 +63881,7 @@
 ||statistics.fppressa.ru^
 ||radar.imgsmail.ru^
 ||mediator.imgsmail.ru^
+||media-advcycle.imgsmail.ru^
 ||ads.imovideo.ru^
 ||ads-gdl.imovideo.ru^
 ||ads.interfax.ru^
@@ -70302,7 +70316,6 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^

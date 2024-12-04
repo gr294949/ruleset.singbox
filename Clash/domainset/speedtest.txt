@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-12-02T12:43:34.796Z
-# Size: 510
+# Last Updated: 2024-12-04T06:38:16.305Z
+# Size: 514
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -72,6 +72,7 @@ speed2.fiberlink.pl
 +.speedtest.pni.tw
 +.speedtest.octaplus.uk
 +.speedtest.w-net.us
+btestmcp.vocetelecom.vc
 +.ookla-speedtest.fsr.com
 +.speedtest.upp.com
 +.ookla-speedtests.e2ro.com
@@ -181,6 +182,7 @@ speedtest-ank1.atasunucum.com
 speedtest.hizhosting.com
 +.speedlon.hyperoptic.com
 +.speedsin.phoenixnap.com
+speedtest.coopesantos.com
 +.speedtest.gslnetworks.com
 ooklaspeedtest-cdb.quebeccloud.com
 +.speedtest-obd.redeconecta.com
@@ -389,6 +391,7 @@ teste.dstelecom.net.br
 +.velocimetro.esolution.srv.br
 +.teste.jsnet.manaus.br
 +.speedtest.syscom.manaus.br
+t4y-tor-sts1.ser.tek4you.ca
 +.wiwan66.seattle.westnet.ca
 +.falcon.its.utoronto.ca
 +.speedtest.bmcc.com.cn
@@ -428,6 +431,7 @@ speedtest.sahilnet.com.tr
 +.speedtest.teknosos.com.tr
 zdt-iptv.highspeed.com.tr
 sp.merkurnet.com.tr
+speedtest1.atlantisnet.com.tr
 speedtest.nidatelekom.com.tr
 adn1speedtest.turktelekom.com.tr
 +.aks1speedtest.turktelekom.com.tr
