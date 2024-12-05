@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 05 Dec 2024 09:50:52 GMT
+! Last modified: Thu, 05 Dec 2024 12:42:35 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -19652,6 +19652,7 @@
 ||epailseptox.com^
 ||epfcfhtjxqd.com^
 ||epicgameads.com^
+||epilinserts.com^
 ||eplndhtrobl.com^
 ||equatorroom.com^
 ||era67hfo92w.com^
@@ -19778,6 +19779,7 @@
 ||frpiksdeygy.com^
 ||frutwafiwah.com^
 ||fsijngnfsfk.com^
+||ftajryaltna.com^
 ||fuckermedia.com^
 ||fuckyoucash.com^
 ||fuegodevida.com^
@@ -20659,6 +20661,7 @@
 ||rabbitrifle.com^
 ||rabidamoral.com^
 ||racedinvict.com^
+||rafikfangas.com^
 ||rajatraffic.com^
 ||rakiblinger.com^
 ||ramieuretal.com^
@@ -23283,6 +23286,7 @@
 ||pretrackings.com^
 ||prevuesthurl.com^
 ||prime-hunage.com^
+||prinksdammit.com^
 ||printaugment.com^
 ||printerswear.com^
 ||prmtracking3.com^
@@ -23868,6 +23872,7 @@
 ||torpidtongue.com^
 ||totalwowblog.com^
 ||totalwownews.com^
+||totersoutpay.com^
 ||touchclarity.com^
 ||towersresent.com^
 ||townlife-aff.com^
@@ -26811,6 +26816,7 @@
 ||cpmrevenuegate.com^
 ||cpxinteractive.com^
 ||craziesprelaty.com^
+||createsgummous.com^
 ||creative-bars1.com^
 ||creative-stat1.com^
 ||creditbitesize.com^
@@ -28420,6 +28426,7 @@
 ||chickensstation.com^
 ||chieflyquantity.com^
 ||childtruantpaul.com^
+||chioursorspolia.com^
 ||chipmanksmochus.com^
 ||choreinevitable.com^
 ||chovaytiengopsg.com^
@@ -39948,6 +39955,7 @@
 ||free-counters.net^
 ||fuksaighetchy.net^
 ||fumtartujilse.net^
+||gaimauroogrou.net^
 ||ganalyticshub.net^
 ||getconversion.net^
 ||glashampouksy.net^
@@ -40106,6 +40114,7 @@
 ||whoodiksaglels.net^
 ||wouhikeelichoo.net^
 ||xianshangzixun.net^
+||zishezetchadsi.net^
 ||aurirdikseewhoo.net^
 ||avecmessougnauy.net^
 ||baihoagleewhaum.net^
@@ -40153,6 +40162,7 @@
 ||mimtelurdeghaul.net^
 ||new-vietcombank.net^
 ||nunsourdaultozy.net^
+||oaraiwephoursou.net^
 ||odalrevaursartu.net^
 ||oogneroopsoorta.net^
 ||oughoaghushouru.net^
@@ -42327,6 +42337,7 @@
 ||wkamwqkbaomev.top^
 ||wkmorvzqjmqbj.top^
 ||wkwqljwykoamr.top^
+||wkwqljwykorov.top^
 ||wlzzwzekkbkaj.top^
 ||wmeqobozarbjm.top^
 ||wmlollmokyaak.top^
@@ -45975,6 +45986,7 @@
 ||ocgbexwybtjrai.xyz^
 ||ohmyanotherone.xyz^
 ||oijorfkfwtdswv.xyz^
+||oovoonganeegry.xyz^
 ||oqddkgixmqhovv.xyz^
 ||oqkucsxfrcjtho.xyz^
 ||otabciukwurojh.xyz^
@@ -47997,6 +48009,7 @@
 ||megmhokluck.shop^
 ||mestmoanful.shop^
 ||moutcoverer.shop^
+||niveausatan.shop^
 ||nolduniques.shop^
 ||pertlythurl.shop^
 ||pettyachras.shop^
@@ -88846,7 +88859,6 @@
 ||mdt.crateandbarrel.com^
 ||metric.crateandbarrel.com^
 ||metrics.crateandbarrel.com^
-||sz.createsgummous.com^
 ||marketing.credoreference.com^
 ||cqaipi.cristaiscadoro.com^
 ||haxddr.crocieraonline.com^

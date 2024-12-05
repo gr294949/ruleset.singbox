@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-05T09:50:46.243Z
-# Size: 110456
+# Last Updated: 2024-12-05T12:42:29.323Z
+# Size: 110468
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19674,6 +19674,7 @@ samsungqbe.com
 +.epailseptox.com
 +.epfcfhtjxqd.com
 +.epicgameads.com
++.epilinserts.com
 +.eplndhtrobl.com
 +.equatorroom.com
 +.era67hfo92w.com
@@ -19800,6 +19801,7 @@ samsungqbe.com
 +.frpiksdeygy.com
 +.frutwafiwah.com
 +.fsijngnfsfk.com
++.ftajryaltna.com
 +.fuckermedia.com
 +.fuckyoucash.com
 +.fuegodevida.com
@@ -20681,6 +20683,7 @@ samsungqbe.com
 +.rabbitrifle.com
 +.rabidamoral.com
 +.racedinvict.com
++.rafikfangas.com
 +.rajatraffic.com
 +.rakiblinger.com
 +.ramieuretal.com
@@ -23305,6 +23308,7 @@ samsungqbe.com
 +.pretrackings.com
 +.prevuesthurl.com
 +.prime-hunage.com
++.prinksdammit.com
 +.printaugment.com
 +.printerswear.com
 +.prmtracking3.com
@@ -23890,6 +23894,7 @@ samsungqbe.com
 +.torpidtongue.com
 +.totalwowblog.com
 +.totalwownews.com
++.totersoutpay.com
 +.touchclarity.com
 +.towersresent.com
 +.townlife-aff.com
@@ -26833,6 +26838,7 @@ samsungqbe.com
 +.cpmrevenuegate.com
 +.cpxinteractive.com
 +.craziesprelaty.com
++.createsgummous.com
 +.creative-bars1.com
 +.creative-stat1.com
 +.creditbitesize.com
@@ -28442,6 +28448,7 @@ samsungqbe.com
 +.chickensstation.com
 +.chieflyquantity.com
 +.childtruantpaul.com
++.chioursorspolia.com
 +.chipmanksmochus.com
 +.choreinevitable.com
 +.chovaytiengopsg.com
@@ -39970,6 +39977,7 @@ samsungcloudsolution.com
 +.free-counters.net
 +.fuksaighetchy.net
 +.fumtartujilse.net
++.gaimauroogrou.net
 +.ganalyticshub.net
 +.getconversion.net
 +.glashampouksy.net
@@ -40128,6 +40136,7 @@ samsungcloudsolution.com
 +.whoodiksaglels.net
 +.wouhikeelichoo.net
 +.xianshangzixun.net
++.zishezetchadsi.net
 +.aurirdikseewhoo.net
 +.avecmessougnauy.net
 +.baihoagleewhaum.net
@@ -40175,6 +40184,7 @@ samsungcloudsolution.com
 +.mimtelurdeghaul.net
 +.new-vietcombank.net
 +.nunsourdaultozy.net
++.oaraiwephoursou.net
 +.odalrevaursartu.net
 +.oogneroopsoorta.net
 +.oughoaghushouru.net
@@ -42349,6 +42359,7 @@ samsungcloudsolution.net
 +.wkamwqkbaomev.top
 +.wkmorvzqjmqbj.top
 +.wkwqljwykoamr.top
++.wkwqljwykorov.top
 +.wlzzwzekkbkaj.top
 +.wmeqobozarbjm.top
 +.wmlollmokyaak.top
@@ -45997,6 +46008,7 @@ samsungcloudsolution.net
 +.ocgbexwybtjrai.xyz
 +.ohmyanotherone.xyz
 +.oijorfkfwtdswv.xyz
++.oovoonganeegry.xyz
 +.oqddkgixmqhovv.xyz
 +.oqkucsxfrcjtho.xyz
 +.otabciukwurojh.xyz
@@ -48019,6 +48031,7 @@ nmbr.info
 +.megmhokluck.shop
 +.mestmoanful.shop
 +.moutcoverer.shop
++.niveausatan.shop
 +.nolduniques.shop
 +.pertlythurl.shop
 +.pettyachras.shop
@@ -88868,7 +88881,6 @@ httpdns.volcengineapi.com
 +.mdt.crateandbarrel.com
 +.metric.crateandbarrel.com
 +.metrics.crateandbarrel.com
-+.sz.createsgummous.com
 +.marketing.credoreference.com
 +.cqaipi.cristaiscadoro.com
 +.haxddr.crocieraonline.com

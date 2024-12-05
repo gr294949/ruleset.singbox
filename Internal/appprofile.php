@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-12-05T09:50:46.473Z
+// # Build 2024-12-05T12:42:29.549Z
 
 declare(strict_types=1);
 
@@ -1732,6 +1732,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,sketch.com,Global',
         'DOMAIN-SUFFIX,sophos.com,Global',
         'DOMAIN-SUFFIX,supjav.com,Global',
+        'DOMAIN-SUFFIX,talkcc.com,Global',
         'DOMAIN-SUFFIX,thisav.com,Global',
         'DOMAIN-SUFFIX,tineye.com,Global',
         'DOMAIN-SUFFIX,tumblr.com,Global',
@@ -1915,6 +1916,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,javtrailers.com,Global',
         'DOMAIN-SUFFIX,jumpdesktop.com,Global',
         'DOMAIN-SUFFIX,linefriends.com,Global',
+        'DOMAIN-SUFFIX,list-manage.com,Global',
         'DOMAIN-SUFFIX,raspberrypi.com,Global',
         'DOMAIN-SUFFIX,redditmedia.com,Global',
         'DOMAIN-SUFFIX,redditspace.com,Global',
@@ -1923,6 +1925,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tradingview.com,Global',
         'DOMAIN-SUFFIX,updownradar.com,Global',
         'DOMAIN-SUFFIX,uptimerobot.com,Global',
+        'DOMAIN-SUFFIX,usertesting.com,Global',
         'DOMAIN-SUFFIX,webpkgcache.com,Global',
         'DOMAIN-SUFFIX,xvideos-cdn.com,Global',
         'DOMAIN-SUFFIX,browserleaks.com,Global',
@@ -2084,6 +2087,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wikipedia.org,Global',
         'DOMAIN-SUFFIX,wikiquote.org,Global',
         'DOMAIN-SUFFIX,wireshark.org,Global',
+        'DOMAIN-SUFFIX,wordpress.org,Global',
         'DOMAIN-SUFFIX,ampproject.org,Global',
         'DOMAIN-SUFFIX,getoutline.org,Global',
         'DOMAIN-SUFFIX,greasyfork.org,Global',
@@ -2138,6 +2142,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,x.company,Global',
         'DOMAIN-SUFFIX,c.mi.com,Global',
         'DOMAIN,wego.here.com,Global',
+        'DOMAIN,help.ubnt.com,Global',
         'DOMAIN,ccmdl.adobe.com,Global',
         'DOMAIN-SUFFIX,edns.ip-api.com,Global',
         'DOMAIN,ees.elsevier.com,Global',
@@ -2870,7 +2875,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.150.236.0/23,Domestic',
         'IP-CIDR,45.153.128.0/22,Domestic',
         'IP-CIDR,45.157.70.0/23,Domestic',
-        'IP-CIDR,45.192.64.0/19,Domestic',
         'IP-CIDR,45.199.167.0/24,Domestic',
         'IP-CIDR,45.204.112.0/20,Domestic',
         'IP-CIDR,45.248.8.0/22,Domestic',
@@ -5234,6 +5238,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,149.87.240.0/23,Domestic',
         'IP-CIDR,149.87.239.0/24,Domestic',
         'IP-CIDR,149.87.242.0/24,Domestic',
+        'IP-CIDR,149.115.224.0/24,Domestic',
         'IP-CIDR,149.115.227.0/24,Domestic',
         'IP-CIDR,149.115.228.0/24,Domestic',
         'IP-CIDR,149.115.234.0/23,Domestic',
@@ -5310,8 +5315,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.232.13.0/24,Domestic',
         'IP-CIDR,156.236.119.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
-        'IP-CIDR,156.239.96.0/19,Domestic',
-        'IP-CIDR,156.239.224.0/19,Domestic',
+        'IP-CIDR,156.239.64.0/18,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',
