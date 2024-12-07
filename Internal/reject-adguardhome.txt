@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 07 Dec 2024 09:35:30 GMT
+! Last modified: Sat, 07 Dec 2024 12:38:47 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -6065,7 +6065,6 @@
 ||644446.com^
 ||6651tp.com^
 ||6699uu.com^
-||66vang.com^
 ||6788vn.com^
 ||68yscw.com^
 ||692881.com^
@@ -6474,6 +6473,7 @@
 ||cmtrkg.com^
 ||cncptx.com^
 ||cngcpy.com^
+||cnstrc.com^
 ||cnxweb.com^
 ||cococx.com^
 ||coguan.com^
@@ -7581,7 +7581,6 @@
 ||tfosrv.com^
 ||tgaqxo.com^
 ||thanot.com^
-||thao88.com^
 ||thaqne.com^
 ||theadx.com^
 ||thevtk.com^
@@ -10126,7 +10125,6 @@
 ||vvehvch.com^
 ||vxorjza.com^
 ||vztlivv.com^
-||w88banh.com^
 ||waardex.com^
 ||wamcash.com^
 ||wapbaze.com^
@@ -10290,6 +10288,7 @@
 ||zferral.com^
 ||zgsqnyb.com^
 ||zhugeio.com^
+||zikeke7.com^
 ||zimpolo.com^
 ||zirdrax.com^
 ||zjpwrpo.com^
@@ -11101,7 +11100,6 @@
 ||fatheemt.com^
 ||fauphesh.com^
 ||fazanppq.com^
-||fb88viet.com^
 ||fbviet88.com^
 ||fcwlctdg.com^
 ||fearfowl.com^
@@ -11520,6 +11518,7 @@
 ||kotzzdwl.com^
 ||koucerie.com^
 ||kqhgjmap.com^
+||krinkred.com^
 ||kuaiyiad.com^
 ||kuaizhan.com^
 ||kueezrtb.com^
@@ -12323,7 +12322,6 @@
 ||sb-stat1.com^
 ||sbbanner.com^
 ||sbcpower.com^
-||sbetviet.com^
 ||scanfang.com^
 ||sconvtrk.com^
 ||scriptil.com^
@@ -16452,7 +16450,6 @@
 ||bitterbear.com^
 ||bizrotator.com^
 ||bjxiangcao.com^
-||bk8vietnam.com^
 ||bkjhqkohal.com^
 ||bl0uxepb4o.com^
 ||bl230126pb.com^
@@ -17410,7 +17407,6 @@
 ||jacwkbauzs.com^
 ||jangleachy.com^
 ||jarsoalton.com^
-||jbovietnam.com^
 ||jdiekknmcb.com^
 ||jecoglegru.com^
 ||jennyunfit.com^
@@ -18102,7 +18098,6 @@
 ||qibkkioqqw.com^
 ||qituduwios.com^
 ||qlfqkjluvz.com^
-||qq8788viet.com^
 ||qr-captcha.com^
 ||quaintlake.com^
 ||qualityt56.com^
@@ -19137,7 +19132,6 @@
 ||ashturfchap.com^
 ||asiabayshop.com^
 ||asiashop666.com^
-||asiashop888.com^
 ||asiashop999.com^
 ||askdomainad.com^
 ||aspaceloach.com^
@@ -22145,7 +22139,6 @@
 ||dajswiacllfy.com^
 ||dampapproach.com^
 ||dancemistake.com^
-||dangkythabet.com^
 ||dangnhaphoso.com^
 ||dannyuncoach.com^
 ||datacaciques.com^
@@ -39055,7 +39048,6 @@
 ||web-stat.net^
 ||webtrekk.net^
 ||weedazou.net^
-||wellviet.net^
 ||whaudsur.net^
 ||wheceelt.net^
 ||wheeptit.net^
@@ -42584,7 +42576,6 @@
 ||tiki333.vip^
 ||tiki444.vip^
 ||tiki886.vip^
-||trungso.vip^
 ||vebo123.vip^
 ||vn-tiki.vip^
 ||vnsendo.vip^
@@ -42669,7 +42660,6 @@
 ||xanalytics.vip^
 ||yl-sooippd.vip^
 ||aagmmrktriz.vip^
-||dangkykubet.vip^
 ||fecguzhzeia.vip^
 ||fv-bpmnrzkv.vip^
 ||insurancdsc.vip^
@@ -42681,7 +42671,6 @@
 ||nhgpidvhdzm.vip^
 ||puvj-qvbjol.vip^
 ||rifjynxoj-k.vip^
-||thanquay247.vip^
 ||vietcapital.vip^
 ||hdsaison-app.vip^
 ||nowaoutujm-u.vip^
@@ -45426,7 +45415,6 @@
 ||qjrhacxxk.xyz^
 ||qrwkkcyih.xyz^
 ||qtdopwuau.xyz^
-||quatanthu.xyz^
 ||red-track.xyz^
 ||regnicmow.xyz^
 ||rexadvert.xyz^
@@ -46409,7 +46397,6 @@
 ||megmobpoi.club^
 ||performit.club^
 ||playerseo.club^
-||quatanthu.club^
 ||reenginee.club^
 ||shopeetro.club^
 ||vietthanh.club^
@@ -47832,7 +47819,6 @@
 ||88vin.shop^
 ||ebuyy.shop^
 ||fq010.shop^
-||gs360.shop^
 ||hi-go.shop^
 ||hrbgw.shop^
 ||igoda.shop^
@@ -49056,7 +49042,6 @@
 ||dirty.games^
 ||naptheplaytogether.games^
 ||bid.glass^
-||quatanthu.group^
 ||testda.homes^
 ||cdn.house^
 ||push.house^
@@ -49568,7 +49553,6 @@
 ||nhanqua60.online^
 ||ninkorant.online^
 ||press2win.online^
-||quatanthu.online^
 ||selunemtr.online^
 ||shopeehub.online^
 ||vaygap365.online^
