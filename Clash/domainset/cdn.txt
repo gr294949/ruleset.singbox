@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-08T13:35:36.419Z
-# Size: 2761
+# Last Updated: 2024-12-08T13:54:23.215Z
+# Size: 2763
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2336,6 +2336,8 @@ t.nhentai.net
 static.nhentai.net
 cdn.perfops.net
 img.perfops.net
+devnull.perfops.net
+rum-cdn.perfops.net
 siloh-ns1.plutotv.net
 p.typekit.net
 use.typekit.net
