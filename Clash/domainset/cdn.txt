@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-08T13:54:23.215Z
-# Size: 2763
+# Last Updated: 2024-12-09T07:27:12.315Z
+# Size: 2765
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -686,6 +686,7 @@ media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
 r2.leadsy.ai
+static.netify.ai
 prod-cdn.webtune.ai
 assets.cloudpilot.ai
 pplx-next-static-public.perplexity.ai
@@ -1510,6 +1511,7 @@ static.moegoat.com
 static.moonpay.com
 iframe.nbcnews.com
 nodeassets.nbcnews.com
+assets.nflxext.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
