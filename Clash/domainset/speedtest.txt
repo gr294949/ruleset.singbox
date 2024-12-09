@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-12-06T12:41:36.610Z
-# Size: 519
+# Last Updated: 2024-12-09T12:44:18.291Z
+# Size: 522
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -189,6 +189,7 @@ ooklaspeedtest-cdb.quebeccloud.com
 +.speedtest-stm.redeconecta.com
 +.speedtest.springfibre.com
 +.speedtestnyc.telebermuda.com
+miaspeedtest.blackburn-pr.com
 sp1.campanaworks.com
 +.speedtestldn.grainconnect.com
 +.moscow-speedtest-1.hostingswift.com
@@ -262,6 +263,7 @@ spd-tr-istanbul.hostlayici.net
 +.speedtest.cmcnetworks.net
 +.speed.googlefiber.net
 +.speedtest.packetworks.net
+speedtest-ad-1.zoominternet.net
 speedtest.whiteprovider.net
 +.speedtest.voip-unlimited.net
 +.speed.misaka.one
@@ -518,6 +520,7 @@ stosat-rvlt-01.sys.comcast.net
 +.ams-speedtest.isp.htb.systems
 +.ookla-speedtest-central.hgconair.hgc.com.hk
 +.sosimhk.datapath.three.com.hk
+speedtest.singapore.atharva.co.id
 speedtest-1.london.network.youfibre.com
 +.speedtest.seattle.wa.limewave.net
 +.speedtest.mirror.mel1.digitalpacific.com.au

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-09T07:27:12.138Z
-# Size: 110612
+# Last Updated: 2024-12-09T12:44:18.236Z
+# Size: 110613
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11605,6 +11605,7 @@ lgtvsdp.com
 +.linkfars.com
 +.linkmepu.com
 +.linkmink.com
++.linksprf.com
 +.list-ads.com
 +.liverail.com
 +.livestat.com
@@ -14773,6 +14774,7 @@ lgtvsdp.com
 +.pgjt26tsm.com
 +.phabycebe.com
 +.phaikrouh.com
++.phainoirs.com
 +.phaitaghy.com
 +.pharmcash.com
 +.pheedsoan.com
@@ -70532,7 +70534,6 @@ sapi.edgedb.com
 +.1.feihua.com
 +.cash.femjoy.com
 +.links.fennel.com
-+.hub.fghtem.com
 +.go.fhlbny.com
 +.join.fhlbny.com
 +.learn.fhlbny.com

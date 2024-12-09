@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 09 Dec 2024 10:19:32 GMT
+! Last modified: Mon, 09 Dec 2024 12:44:23 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11583,6 +11583,7 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
+||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -14751,6 +14752,7 @@
 ||pgjt26tsm.com^
 ||phabycebe.com^
 ||phaikrouh.com^
+||phainoirs.com^
 ||phaitaghy.com^
 ||pharmcash.com^
 ||pheedsoan.com^
@@ -70510,7 +70512,6 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
