@@ -490,7 +490,6 @@ programaticeu.xyz                                                               
 ptrn-official.xyz                                                                                   13
 quzu.skin                                                                                           13
 redustenes.xyz                                                                                      13
-replit.app                                                                                          13
 replit.dev                                                                                          13
 szczur.warszawa.pl                                                                                  13
 theseasonalhaven.com                                                                                13
@@ -539,6 +538,7 @@ pop6.com                                                                        
 prepci.pl                                                                                           12
 progrr.top                                                                                          12
 redusketo.xyz                                                                                       12
+replit.app                                                                                          12
 revoprogramxzsed.com                                                                                12
 stormo.site                                                                                         12
 tataras.com.pl                                                                                      12
@@ -551,7 +551,6 @@ univer.se                                                                       
 visite-vendee.com                                                                                   12
 wegn.top                                                                                            12
 welerpro.com                                                                                        12
-wixstudio.com                                                                                       12
 worldfxlife.top                                                                                     12
 worldtrades.top                                                                                     12
 xmediar.com                                                                                         12
@@ -626,6 +625,7 @@ uxtu.skin                                                                       
 vicdesmidt.com                                                                                      11
 well-beingandstability.com                                                                          11
 whatpoliklin.xyz                                                                                    11
+wixstudio.com                                                                                       11
 wxru.lat                                                                                            11
 x07o.cfd                                                                                            11
 0ij.cc                                                                                              10
