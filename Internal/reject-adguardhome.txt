@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 10 Dec 2024 09:48:05 GMT
+! Last modified: Tue, 10 Dec 2024 11:03:16 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -9115,6 +9115,7 @@
 ||mainclc.com^
 ||mairuan.com^
 ||mallcom.com^
+||malokgr.com^
 ||maploco.com^
 ||marazma.com^
 ||marinsm.com^
@@ -12263,6 +12264,7 @@
 ||ribsaiji.com^
 ||richpays.com^
 ||richthof.com^
+||riemutmh.com^
 ||riftharp.com^
 ||rigelink.com^
 ||rigorlab.com^
@@ -21984,6 +21986,7 @@
 ||bubblekraken.com^
 ||bugsattended.com^
 ||bulbofficial.com^
+||bulkagetufas.com^
 ||bulky-battle.com^
 ||bulletprofit.com^
 ||bullionyield.com^
@@ -22411,6 +22414,7 @@
 ||fluentmobile.com^
 ||fluidallobar.com^
 ||fluidsurveys.com^
+||flungsnibble.com^
 ||flyerseafood.com^
 ||flyingadvert.com^
 ||fmlabsonline.com^
@@ -23306,6 +23310,7 @@
 ||plinksplanet.com^
 ||plqbxvnjxq92.com^
 ||pluckypocket.com^
+||plummychewer.com^
 ||plumssponsor.com^
 ||plungecarbon.com^
 ||pluralpeachy.com^
@@ -23379,6 +23384,7 @@
 ||puczuxqijadg.com^
 ||puffingtiffs.com^
 ||puffypurpose.com^
+||pugmarktagua.com^
 ||pugsgivehugs.com^
 ||pulpreferred.com^
 ||pulpybizarre.com^
@@ -23821,6 +23827,7 @@
 ||sutiletoroid.com^
 ||suxoxmnwolun.com^
 ||swagtraffcom.com^
+||swailssourer.com^
 ||swankysquare.com^
 ||swansinksnow.com^
 ||swarfamlikar.com^
@@ -25233,6 +25240,7 @@
 ||hundredshands.com^
 ||husbandnights.com^
 ||hydraulzonure.com^
+||hygricurceole.com^
 ||hyperactivate.com^
 ||hyphenatedion.com^
 ||hypnoticwound.com^
@@ -26366,6 +26374,7 @@
 ||violentinduce.com^
 ||virginiasibyl.com^
 ||visiblejoseph.com^
+||visiterpoints.com^
 ||visithaunting.com^
 ||visitor-track.com^
 ||visitstreamer.com^
@@ -27388,6 +27397,7 @@
 ||lokalleads-cci.com^
 ||lonerprevailed.com^
 ||longinglettuce.com^
+||loobilysubdebs.com^
 ||lookshouldthin.com^
 ||looktotheright.com^
 ||lopsideddebate.com^
@@ -39825,6 +39835,7 @@
 ||stoagnejums.net^
 ||stoobsugree.net^
 ||superfolder.net^
+||tagruglegni.net^
 ||tangankanan.net^
 ||taucaphoful.net^
 ||teasermedia.net^
@@ -42390,6 +42401,7 @@
 ||debonerscroop.top^
 ||derateissuant.top^
 ||diobolazafran.top^
+||disdeinrechar.top^
 ||donmehalumnal.top^
 ||dreyntbynames.top^
 ||ductedcestoid.top^
@@ -42399,6 +42411,7 @@
 ||favoredkuwait.top^
 ||flousecuprate.top^
 ||fondueoutwish.top^
+||gridedloamily.top^
 ||hagdenlupulic.top^
 ||hakeemmuffled.top^
 ||hdbankfinancc.top^
@@ -46252,6 +46265,7 @@
 ||seedouptoanapsy.xyz^
 ||shdegtbokshipns.xyz^
 ||soglaptaicmaurg.xyz^
+||stoaglauksargoo.xyz^
 ||thevanghanhphuc.xyz^
 ||uhwwrtoesislugj.xyz^
 ||unixfilesystem2.xyz^
@@ -85774,7 +85788,6 @@
 ||marketing.buffalojeans.com^
 ||smetrics.buffalotrace.com^
 ||bear.builtbyborda.com^
-||uk.bulkagetufas.com^
 ||adn.bursadabugun.com^
 ||cts.businesswire.com^
 ||trk.buyearthwash.com^
@@ -86077,7 +86090,6 @@
 ||sxjfhh.floridatoday.com^
 ||repdata.floridatoday.com^
 ||track.fluffyfalcon.com^
-||bj.flungsnibble.com^
 ||fna.fnainsurance.com^
 ||sentry.footballiapp.com^
 ||a8clk.for-customer.com^

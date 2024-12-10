@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Taiwan
-# Last Updated: 2024-11-14T09:39:56.723Z
+# Last Updated: 2024-12-10T11:03:11.887Z
 # Size: 23
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -22,12 +22,12 @@ DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,viblast.com
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN,hbounify-prod.evergent.com
 DOMAIN,hbolb.onwardsmg.com
 DOMAIN,players.brightcove.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,ani.gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
