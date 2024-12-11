@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 10 Dec 2024 12:43:35 GMT
+! Last modified: Wed, 11 Dec 2024 06:48:23 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10545,6 +10545,7 @@
 ||alikearm.com^
 ||alkemics.com^
 ||altastat.com^
+||altolsqy.com^
 ||altpubli.com^
 ||alxwltrk.com^
 ||amavalet.com^
@@ -11584,6 +11585,7 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
+||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -11615,6 +11617,7 @@
 ||luronews.com^
 ||lusaisso.com^
 ||luvaihoo.com^
+||lvbaeugc.com^
 ||lvhcqaku.com^
 ||lzrikate.com^
 ||m2k3j7x8.com^
@@ -12845,6 +12848,7 @@
 ||vugpakba.com^
 ||vukhhjzd.com^
 ||vupoupay.com^
+||vuqcteyi.com^
 ||vvshopee.com^
 ||vwagkipi.com^
 ||vwioxxra.com^
@@ -14103,6 +14107,7 @@
 ||hp1mufjhk.com^
 ||hpeaxbmuh.com^
 ||hpqalsqjr.com^
+||hrihfiocc.com^
 ||htmonster.com^
 ||htobficta.com^
 ||hturnshal.com^
@@ -14190,6 +14195,7 @@
 ||itweedler.com^
 ||iutur-ixp.com^
 ||iwebtrack.com^
+||iwmavidtg.com^
 ||ixspublic.com^
 ||iystorage.com^
 ||izearanks.com^
@@ -17124,6 +17130,7 @@
 ||fvohyywkbc.com^
 ||fvpvietnam.com^
 ||fxrbsadtui.com^
+||fxsvifnkts.com^
 ||fyresumefo.com^
 ||fzgrpqktmq.com^
 ||g0-g3t-msg.com^
@@ -18215,6 +18222,7 @@
 ||rkymfevzeq.com^
 ||roajaiwoul.com^
 ||rodejessie.com^
+||rofxiufqch.com^
 ||roikingdom.com^
 ||roiservice.com^
 ||rollercoin.com^
@@ -19120,6 +19128,7 @@
 ||amjoltiktor.com^
 ||amjsiksirkh.com^
 ||amlumineona.com^
+||amunlhntxou.com^
 ||anacampaign.com^
 ||analystrati.com^
 ||analyticsq1.com^
@@ -21276,6 +21285,7 @@
 ||uadexchange.com^
 ||uejntsxdffp.com^
 ||uel-uel-fie.com^
+||ufvxiyewsyi.com^
 ||uingroundhe.com^
 ||ujmkqrnhfio.com^
 ||umpedshumal.com^
@@ -22067,6 +22077,7 @@
 ||cestibegster.com^
 ||chaipoodrort.com^
 ||chairsdonkey.com^
+||champerwatts.com^
 ||charitypaste.com^
 ||charsbabiana.com^
 ||chauinubbins.com^
@@ -29880,6 +29891,7 @@
 ||combia-tellector.com^
 ||commissionlounge.com^
 ||committeeoutcome.com^
+||comparepoisonous.com^
 ||competemerriment.com^
 ||compileformality.com^
 ||comprehendpaying.com^
@@ -33850,6 +33862,7 @@
 ||springraptureimprove.com^
 ||squeaknicheentangled.com^
 ||stackprotectnational.com^
+||staffdisgustedducked.com^
 ||standardresourcebank.com^
 ||stepchateautolerance.com^
 ||stickerchapelsailing.com^
@@ -36937,6 +36950,7 @@
 ||switch1266.fun^
 ||tqeferty33.fun^
 ||treferty33.fun^
+||tteferty33.fun^
 ||turkey1266.fun^
 ||virtue1266.fun^
 ||advocate420.fun^
@@ -37141,6 +37155,8 @@
 ||u6u.icu^
 ||vh8.icu^
 ||wt6.icu^
+||x4d.icu^
+||xu6.icu^
 ||0dwm.icu^
 ||1buo.icu^
 ||1gtp.icu^
@@ -37737,6 +37753,7 @@
 ||eatnontf.icu^
 ||feubgzfx.icu^
 ||fgnfpnae.icu^
+||fkjdiefz.icu^
 ||fnjoomqa.icu^
 ||fzjbsvgz.icu^
 ||fzpzrqou.icu^
@@ -39479,6 +39496,7 @@
 ||espmp-pofr.net^
 ||eyeviewads.net^
 ||fauphoaglu.net^
+||fawhotoads.net^
 ||filetarget.net^
 ||finnan2you.net^
 ||fipopashis.net^
@@ -41766,6 +41784,7 @@
 ||odamcsk.top^
 ||oewrutk.top^
 ||ofjslik.top^
+||ojimtyk.top^
 ||okiterk.top^
 ||omenkid.top^
 ||onalzlk.top^
@@ -41845,6 +41864,7 @@
 ||uetlwst.top^
 ||uewrutt.top^
 ||ufjslit.top^
+||ujimtyt.top^
 ||ukitert.top^
 ||unalzlt.top^
 ||uoublit.top^
@@ -66063,6 +66083,7 @@
 ||logs.thethaovanhoa.vn^
 ||thongke.thethaovanhoa.vn^
 ||adclient.vietnamnetjsc.vn^
+||log.daibieunhandan.vn^
 ||s.giaoducthoidai.vn^
 ||log.giaoducthoidai.vn^
 ||adm.phunuvagiadinh.vn^
@@ -70563,7 +70584,6 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -71531,6 +71551,7 @@
 ||alb.reddit.com^
 ||pixel.reddit.com^
 ||events.reddit.com^
+||pixel-config.reddit.com^
 ||w3-reporting.reddit.com^
 ||error-tracking.reddit.com^
 ||w3-reporting-nel.reddit.com^
@@ -74408,6 +74429,7 @@
 ||log2.spotify.com^
 ||pixels.spotify.com^
 |analytics.spotify.com^
+||pixel-static.spotify.com^
 ||adeventtracker.spotify.com^
 ||adeventtrackermonitoring.spotify.com^
 ||js.spreton.com^
@@ -79577,6 +79599,7 @@
 ||som.newenergy.com^
 ||stms.newline53.com^
 ||bxumze.news-star.com^
+||event.newsbreak.com^
 ||prebid-server.newsbreak.com^
 ||customer.newsflare.com^
 ||w740.newstimes.com^
@@ -93060,6 +93083,7 @@
 ||qjxizo.covertcommunication.com^
 ||marketing.crawford-industries.com^
 ||ttn.culinaryhealthguide.com^
+||continue.dasboard184-account.com^
 ||trk.datacenterknowledge.com^
 ||lungfish.datadividendproject.com^
 ||marketing.decisioninvestments.com^
@@ -95493,6 +95517,7 @@
 ||stats.vk-portal.net^
 ||elogs.vnexpress.net^
 ||logperf.vnexpress.net^
+||s-logperf.vnexpress.net^
 ||tracking-amp.vnexpress.net^
 ||rdr.wargaming.net^
 ||trck.wargaming.net^
