@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 11 Dec 2024 11:11:30 GMT
+! Last modified: Wed, 11 Dec 2024 12:43:17 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -8491,6 +8491,7 @@
 ||domfehu.com^
 ||doo888x.com^
 ||doonedo.com^
+||dosawes.com^
 ||dougale.com^
 ||downlon.com^
 ||dpahlsm.com^
@@ -14423,6 +14424,7 @@
 ||luolitang.com^
 ||lushaseex.com^
 ||lushcrush.com^
+||lusupodum.com^
 ||luxupadva.com^
 ||luxupcdna.com^
 ||luxupcdnb.com^
@@ -16663,6 +16665,7 @@
 ||cityadspix.com^
 ||cjmakeding.com^
 ||cjxomyilmv.com^
+||clairpixum.com^
 ||clamcelery.com^
 ||clammytree.com^
 ||claritytag.com^
@@ -42812,6 +42815,7 @@
 ||vietcapital.vip^
 ||hdsaison-app.vip^
 ||nowaoutujm-u.vip^
+||playgooglevn.vip^
 ||screenstudio.vip^
 ||travelokeaaa.vip^
 ||vietsovpetro.vip^
@@ -66920,6 +66924,7 @@
 ||ows.ihs.com^
 ||owss.ihs.com^
 ||images.ihs.com^
+||f793.inc.com^
 ||m.irl.com^
 ||ct.irl.com^
 ||lets-dev.irl.com^
@@ -83417,6 +83422,7 @@
 ||events.turbosquid.com^
 ||webmetrics.turnwrench.com^
 ||s1.tuzhaozhao.com^
+||f703.twincities.com^
 ||android.txtsmarter.com^
 ||l.typesquare.com^
 ||exhibit.ubm-events.com^
@@ -93084,7 +93090,19 @@
 ||qjxizo.covertcommunication.com^
 ||marketing.crawford-industries.com^
 ||ttn.culinaryhealthguide.com^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||trk.datacenterknowledge.com^
 ||lungfish.datadividendproject.com^
 ||marketing.decisioninvestments.com^
@@ -104099,6 +104117,7 @@
 ||0.code.cotsta.ru^
 ||log.strm.yandex.ru^
 ||sentry01.zerg.rambler.ru^
+||mytop.live.vkvideo.ru^
 ||stat.rum.cdnvideo.ru^
 ||svi.online.sberbank.ru^
 |grs.platform.dbankcloud.ru^
