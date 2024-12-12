@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-12T15:40:30.911Z
-# Size: 110830
+# Last Updated: 2024-12-12T15:54:50.247Z
+# Size: 110828
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -69904,7 +69904,6 @@ myes.youku.com
 dmapp.youku.com
 lstat.youku.com
 ykrec.youku.com
-mobilemsg.youku.com
 +.ykad-data.youku.com
 apiv4-iyes.youku.com
 guanggaoad.youku.com
@@ -70147,7 +70146,6 @@ device-metrics-us-2.amazon.com
 +.aopcoms.aoptec.com
 +.dsp.aparat.com
 +.track.apexhq.com
-file.apicvn.com
 +.apcdp.apnews.com
 +.cqz6fn6aox.aporia.com
 +.rtb.appbid.com
