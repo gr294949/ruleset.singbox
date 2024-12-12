@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 11 Dec 2024 16:40:29 GMT
+! Last modified: Thu, 12 Dec 2024 12:59:19 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11784,6 +11784,7 @@
 ||neegreez.com^
 ||neehoose.com^
 ||negolist.com^
+||neldatsy.com^
 ||nepoamoo.com^
 ||nepohita.com^
 ||nerdolac.com^
@@ -12217,6 +12218,7 @@
 ||rawoarsy.com^
 ||rcvlinks.com^
 ||rdsa2012.com^
+||rdtlnutu.com^
 ||rdtracer.com^
 ||reactful.com^
 ||readpeak.com^
@@ -12959,6 +12961,7 @@
 ||xlovecam.com^
 ||xlviirdr.com^
 ||xmllover.com^
+||xoceonsl.com^
 ||xshellcn.com^
 ||xskttd5d.com^
 ||xtrackme.com^
@@ -15939,6 +15942,7 @@
 ||60739ebc42.com^
 ||61598081d6.com^
 ||6179b859b8.com^
+||62a77005fb.com^
 ||62ca04e27a.com^
 ||63912b9175.com^
 ||639c909d45.com^
@@ -20175,6 +20179,7 @@
 ||lakinarmure.com^
 ||lameletters.com^
 ||lamjpiarmas.com^
+||lamrissmyol.com^
 ||laneyounger.com^
 ||lapnicjaqxu.com^
 ||largeharass.com^
@@ -25826,6 +25831,7 @@
 ||qubitproducts.com^
 ||quellyawncoke.com^
 ||quicklymuseum.com^
+||quwsncrlcwjpj.com^
 ||qzetnversitym.com^
 ||rabbitcounter.com^
 ||racticalwhich.com^
@@ -29005,6 +29011,7 @@
 ||m73lae5cpmgrv38.com^
 ||maddeningpowder.com^
 ||madeupdependant.com^
+||madlysuccessful.com^
 ||madrogueindulge.com^
 ||magnificentmist.com^
 ||maimcatssystems.com^
@@ -35697,6 +35704,7 @@
 ||propositiondisinterested.com^
 ||prosperitysemiimpediment.com^
 ||protectorincorporatehush.com^
+||proteininnovationpioneer.com^
 ||proverbnoncommittalvault.com^
 ||prowlenthusiasticcongest.com^
 ||prudentfailingcomplicate.com^
@@ -37148,6 +37156,7 @@
 ||4sq.icu^
 ||7hb.icu^
 ||a7c.icu^
+||d0m.icu^
 ||d5r.icu^
 ||e9h.icu^
 ||f7j.icu^
@@ -37816,6 +37825,7 @@
 ||xufyxhiu.icu^
 ||xuldtcip.icu^
 ||xytcboyz.icu^
+||yqlzccxn.icu^
 ||zmbmoxij.icu^
 ||zmvopcio.icu^
 ||zthxobgk.icu^
@@ -41610,6 +41620,7 @@
 ||bdoshbv.top^
 ||bewrutv.top^
 ||bfjsliv.top^
+||bjimtyv.top^
 ||bkiterv.top^
 ||bnalzlv.top^
 ||boubliv.top^
@@ -41754,6 +41765,7 @@
 ||letlwsl.top^
 ||lewrutl.top^
 ||lfjslil.top^
+||ljimtyl.top^
 ||lkiterl.top^
 ||lnalzll.top^
 ||loublil.top^
@@ -71508,7 +71520,6 @@
 ||ws-goguardian.pusher.com^
 ||sockjs-goguardian.pusher.com^
 ||cdn.puyjjq.com^
-||g086.puzzmo.com^
 ||ptarmigan.q-free.com^
 ||xml.q32167.com^
 ||filter.q32167.com^
@@ -76052,7 +76063,6 @@
 ||smetrics.hdfcbank.com^
 ||tmetrics.hdfcbank.com^
 ||secure-e.healthiq.com^
-||v706.hearstnp.com^
 ||metrics.heathrow.com^
 ||smetrics.heathrow.com^
 ||smetrics.hebdebit.com^
@@ -78177,7 +78187,9 @@
 ||rdtk.camrabbit.com^
 ||snr4.canalplus.com^
 ||cv.cante-gym.com^
+||mon-boot.capcutapi.com^
 ||log-va-us-looki.capcutapi.com^
+||mon-va-us-looki.capcutapi.com^
 ||forms.capitaliq.com^
 ||metrics.caracoltv.com^
 ||travel.caradonna.com^
@@ -82247,7 +82259,6 @@
 ||education.greatbatch.com^
 ||rtb-useast.greedygame.com^
 ||ads.greengeeks.com^
-||s860.greenstate.com^
 ||smetrics.greenstate.com^
 ||analytics.groupe-seb.com^
 ||applink.groupthera.com^
@@ -87099,7 +87110,6 @@
 ||go.thesavingshq.com^
 ||sp.thestarpress.com^
 ||ahzygy.thesteelshop.com^
-||p116.thetelegraph.com^
 ||metrics.thetrainline.com^
 ||app.thetriviabar.com^
 ||first.thetrustnest.com^
@@ -87614,7 +87624,6 @@
 ||activate.columbiaflier.com^
 ||info.columninfosec.com^
 ||sc.comedycentral.com^
-||g010.comicskingdom.com^
 ||sp.companychouan.com^
 ||chat.compassshield.com^
 ||go.computacenter.com^
@@ -91502,7 +91511,6 @@
 ||agentcomm.mercuryinsurance.com^
 ||trk.metronetbusiness.com^
 ||info.metronetbusiness.com^
-||e642.midlanddailynews.com^
 ||metric.millenniumhotels.com^
 ||smetric.millenniumhotels.com^
 ||kxtqgp.mistermenuiserie.com^
@@ -94197,7 +94205,6 @@
 ||tr.events-europa-organisation.com^
 ||engage.informaconstructionmarkets.com^
 ||metrics.internationalwinechallenge.com^
-||i595.jacksonvillejournalcourier.com^
 ||metrics.kunilexusofcoloradosprings.com^
 ||rt.livingthegoodlifenaturally.com^
 ||vision.neurobiocomportementalisme.com^
@@ -101095,6 +101102,7 @@
 ||analytics.spun.com.br^
 ||tracking.ssab.com.br^
 ||tvuaeb.taqi.com.br^
+||tiktok.tray.com.br^
 ||pageviews.tray.com.br^
 ||lpzxed.vrum.com.br^
 ||rc.vtex.com.br^
