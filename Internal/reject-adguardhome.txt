@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 13 Dec 2024 12:41:44 GMT
+! Last modified: Fri, 13 Dec 2024 15:17:43 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11718,6 +11718,7 @@
 ||mobstrks.com^
 ||mobytrks.com^
 ||mochibot.com^
+||moengage.com^
 ||moguldom.com^
 ||mohengdu.com^
 ||moilizoi.com^
@@ -12797,6 +12798,7 @@
 ||viivedun.com^
 ||viiyblva.com^
 ||vilmgins.com^
+||vimaxckc.com^
 ||viptizer.com^
 ||viral481.com^
 ||viral782.com^
@@ -13919,6 +13921,7 @@
 ||freestats.com^
 ||freetrckr.com^
 ||frfetchme.com^
+||frfsjjtis.com^
 ||friendbuy.com^
 ||frompilis.com^
 ||fronthlpr.com^
@@ -18076,6 +18079,7 @@
 ||prime-ever.com^
 ||primeleech.com^
 ||printsmull.com^
+||prioraslop.com^
 ||priselapse.com^
 ||privateadx.com^
 ||pro-pro-go.com^
@@ -37202,6 +37206,7 @@
 ||wt6.icu^
 ||x4d.icu^
 ||xu6.icu^
+||zr3.icu^
 ||0dwm.icu^
 ||1buo.icu^
 ||1gtp.icu^
@@ -39621,6 +39626,7 @@
 ||onclickads.net^
 ||onfluencer.net^
 ||onmarketer.net^
+||oomsurtour.net^
 ||oubsooceen.net^
 ||ouglauster.net^
 ||pagnawhouk.net^
@@ -41724,6 +41730,7 @@
 ||houbliu.top^
 ||hrtlisu.top^
 ||hsylieu.top^
+||htimiyu.top^
 ||htyusiu.top^
 ||huresdu.top^
 ||hwateru.top^
@@ -48448,6 +48455,7 @@
 ||kamahiunvisor.shop^
 ||karaiterather.shop^
 ||khazardungeon.shop^
+||knubletupgrow.shop^
 ||lantchaupbear.shop^
 ||leachysubarch.shop^
 ||logresempales.shop^
@@ -76613,8 +76621,6 @@
 ||marketing.modalife.com^
 ||metrics.modcloth.com^
 ||odepcf.modetour.com^
-||apiv2.moengage.com^
-||sdk-04.moengage.com^
 ||applink.mojilala.com^
 ||stats.mokeedev.com^
 ||analytics.molistar.com^
@@ -107027,7 +107033,6 @@
 |httpdns-sdk.n.netease.com^
 |ad.bn.netease.com^
 ||pr.nss.netease.com^
-||internal.dradis.netflix.com^
 ||saadata.career.netjets.com^
 ||images.info.newhope.com^
 ||us.tags.newscgp.com^
