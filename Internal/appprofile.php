@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-12-14T12:30:26.099Z
+// # Build 2024-12-14T13:15:17.904Z
 
 declare(strict_types=1);
 
@@ -1158,6 +1158,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pscdn.co,Stream',
         'DOMAIN-SUFFIX,spoti.fi,Stream',
         'DOMAIN-SUFFIX,overcast.fm,Stream',
+        'DOMAIN-SUFFIX,hbogoasia.hk,Stream',
         'DOMAIN-SUFFIX,discoveryplus.in,Stream',
         'DOMAIN-SUFFIX,kfs.io,Stream',
         'DOMAIN-SUFFIX,abema.io,Stream',
@@ -1253,6 +1254,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cbsivideo.com,Stream',
         'DOMAIN-SUFFIX,disco-api.com,Stream',
         'DOMAIN-SUFFIX,encoretvb.com,Stream',
+        'DOMAIN-SUFFIX,hbogoasia.com,Stream',
         'DOMAIN-SUFFIX,hbomaxcdn.com,Stream',
         'DOMAIN-SUFFIX,ibytedtos.com,Stream',
         'DOMAIN-SUFFIX,indaznlab.com,Stream',
@@ -2889,6 +2891,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.150.236.0/23,Domestic',
         'IP-CIDR,45.153.128.0/22,Domestic',
         'IP-CIDR,45.157.70.0/23,Domestic',
+        'IP-CIDR,45.192.64.0/19,Domestic',
         'IP-CIDR,45.199.167.0/24,Domestic',
         'IP-CIDR,45.248.8.0/22,Domestic',
         'IP-CIDR,45.248.110.0/24,Domestic',
@@ -5334,7 +5337,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.232.9.0/24,Domestic',
         'IP-CIDR,156.232.13.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
-        'IP-CIDR,156.239.64.0/18,Domestic',
+        'IP-CIDR,156.239.96.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',

@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "rules.ac",
         "vetted.ai",
         "pengtu.cc",
@@ -1942,10 +1943,10 @@
         "static-resource.np.community.playstation.net",
         "gfx-data.news-engineering.aws.wapo.pub",
         "cdn.rex.contents.rakuten.co.jp",
-        "jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net",
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
+        "jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "shortpixel.ai",
         "pztv.ca",
         "1passwordusercontent.ca",

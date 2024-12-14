@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-14T12:30:25.858Z
-# Size: 110866
+# Last Updated: 2024-12-14T13:15:17.683Z
+# Size: 110939
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -27,6 +27,7 @@
 #  - https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt
 #  - https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
 #########################################
+this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.say.ac
 +.tube.ac
 +.script.ac
@@ -105,6 +106,7 @@
 +.g-content.bi
 +.djfhwosjck.bi
 +.vcfs6ip5h6.bi
++.freecontent.bi
 +.advmedia.by
 +.mediameter.by
 +.call-tracking.by
@@ -3060,6 +3062,7 @@
 +.trafikkfondet.no
 +.kortfilmfestivalen.no
 +.crutop.nu
++.estream.nu
 +.megaad.nz
 +.hodlers.pa
 +.aservices.pa
@@ -4206,6 +4209,7 @@
 +.datafa.st
 +.digitru.st
 +.minexmr.st
++.freecontent.st
 +.webassembly.st
 +.ban.su
 +.yip.su
@@ -4681,6 +4685,7 @@
 +.static-cnt.bid
 +.vcfs6ip5h6.bid
 +.avualrhg9p0.bid
++.freecontent.bid
 +.wisokykulas.bid
 +.reichelcormier.bid
 +.smenqskfmpfxnb.bid
@@ -19862,6 +19867,7 @@ samsungqbe.com
 +.freakyglass.com
 +.fredmoresco.com
 +.free4faucet.com
++.freecontent.com
 +.freefromads.com
 +.freepccrack.com
 +.freerotator.com
@@ -38122,6 +38128,7 @@ samsungcloudsolution.com
 +.napkc.net
 +.neqty.net
 +.ngmco.net
++.nimiq.net
 +.nster.net
 +.ogfba.net
 +.ogfbb.net
@@ -39824,6 +39831,7 @@ samsungcloudsolution.com
 +.feltatchaiz.net
 +.finreporter.net
 +.free-domain.net
++.freecontent.net
 +.fulltraffic.net
 +.g0-get-s0me.net
 +.gcaothushop.net
@@ -42956,6 +42964,7 @@ samsungcloudsolution.net
 +.whatismyip.win
 +.checkerviet.win
 +.clickandbuy.win
++.freecontent.win
 +.swiftmining.win
 +.trackpshgoto.win
 +.hdbankfinance.win
@@ -46794,6 +46803,7 @@ samsungcloudsolution.net
 +.clickwith.date
 +.statistic.date
 +.yqaywudifu.date
++.freecontent.date
 +.d8acddffe978b5dfcae6.date
 +.vietcombank.fund
 +.syndicatedsearch.goog
@@ -47181,6 +47191,7 @@ nmbr.info
 +.esumedadele.info
 +.ethmedialab.info
 +.fixdynamics.info
++.freecontent.info
 +.gandmotivat.info
 +.herslenderw.info
 +.hildrenasth.info
@@ -47906,6 +47917,7 @@ nmbr.info
 +.cardano-ada.live
 +.dawndadmark.live
 +.dealgodsafe.live
++.freecontent.live
 +.headcaptcha.live
 +.hostcontent.live
 +.keenmagwife.live
@@ -47923,6 +47935,7 @@ nmbr.info
 +.allsports4free.live
 +.cfcdist.loan
 +.pdheuryopd.loan
++.freecontent.loan
 +.bxbkh.love
 +.exrzo.love
 +.phtpy.love
@@ -49303,6 +49316,7 @@ nmbr.info
 +.log.dance
 +.new-incoming.email
 +.hodling.faith
++.freecontent.faith
 +.dirty.games
 +.naptheplaytogether.games
 +.bid.glass
@@ -49356,6 +49370,7 @@ nmbr.info
 +.aservices.party
 +.bsyauqwerd.party
 +.goredirect.party
++.freecontent.party
 +.blockchained.party
 +.coinhive-proxy.party
 +.clickthis.photo
@@ -49583,12 +49598,14 @@ nmbr.info
 +.rtb.trade
 +.ccvwtdtwyu.trade
 +.tazm9p7tso.trade
++.freecontent.trade
 +.worldtraffic.trade
 +.moe.video
 +.skyad.video
 +.googles.video
 +.spearad.video
 +.playmatic.video
++.nimiq.watch
 +.pixel.watch
 +.nreg.world
 +.usenet.world
@@ -49629,6 +49646,7 @@ nmbr.info
 +.trk.agency
 +.advg.agency
 +.deema.agency
++.nimiq.agency
 +.mm-api.agency
 +.momo4d.agency
 +.skymobi.agency
@@ -50016,6 +50034,7 @@ nmbr.info
 +.chamsockhachhang-uudaithecanhan-tructuyen.online
 +.chamsockhachhang-uudaithetructuyen-thang8.online
 +.farantitid.racing
++.freecontent.racing
 +.buyandfun.review
 +.fooluminou.review
 +.iaheyftbsn.review
@@ -50025,6 +50044,7 @@ nmbr.info
 +.ibclick.stream
 +.minexmr.stream
 +.zndaowjdnf.stream
++.freecontent.stream
 +.moneroocean.stream
 +.webassembly.stream
 +.tainiesonline.stream
@@ -50070,6 +50090,7 @@ nmbr.info
 +.admax.network
 +.gushi.network
 +.monad.network
++.nimiq.network
 +.trkad.network
 +.yoads.network
 +.adcheap.network
@@ -50085,6 +50106,7 @@ nmbr.info
 +.cleanbrowser.network
 +.pascal3.science
 +.chainblock.science
++.freecontent.science
 +.icloud.support
 +.browsers.support
 +.email-apple.support
@@ -51472,6 +51494,7 @@ bitanalytics.casperverswijvelt.be
 +.mr.homedepot.ca
 +.wasc.homedepot.ca
 +.swasc.homedepot.ca
++.nimiq.icemining.ca
 +.mdws.icsavings.ca
 +.smetrics.jumpradio.ca
 +.otr.kaspersky.ca
@@ -61979,6 +62002,7 @@ s.maketheweb.io
 +.s100.hostcontent.li
 +.referral.upay.lk
 +.testreferral.upay.lk
++.net.daraz.lk
 +.app.moneta.lk
 +.a.pickme.lk
 +.b.pickme.lk
@@ -74658,6 +74682,7 @@ analytics.spotify.com
 +.marketing.tenoapp.com
 +.marketing.ternian.com
 +.mine.terorie.com
++.nimiq.terorie.com
 +.elqfscookie.test-pe.com
 +.forms.testoil.com
 +.info.tetravx.com
@@ -100410,6 +100435,7 @@ comments.gazo.space
 +.afi.sougou.web-marketing.ai
 +.tk.airfrance.co.ao
 +.stbg.standardbank.co.ao
++.engage.3m.com.ar
 +.cookies.jll.com.ar
 +.email-am.jll.com.ar
 +.email-ap.jll.com.ar
@@ -100455,6 +100481,7 @@ comments.gazo.space
 +.www.metrics.bankaustria.at
 +.trk.business.westernunion.at
 +.crawdad.craiga.id.au
++.engage.3m.com.au
 +.metrics.bt.com.au
 +.smetrics.bt.com.au
 +.metrics.gq.com.au
@@ -101160,6 +101187,7 @@ comments.gazo.space
 +.tracking.coact.org.au
 +.t.auditedmedia.org.au
 +.url6933.email.marcon.au
++.net.daraz.com.bd
 +.info.esribangladesh.com.bd
 +.analytics.portal.gov.bd
 +.get.nl.ukg.be
@@ -101207,9 +101235,11 @@ comments.gazo.space
 +.data.emails.metro.bg
 +.web.mapp.ozone.bg
 +.info.services.vivacom.bg
++.engage.3m.com.bo
 +.tags.igeo.com.bo
 +.securetags.igeo.com.bo
 +.descargar.telocompro.com.bo
++.engage.3m.com.br
 +.smetrics.aa.com.br
 +.lpzxed.em.com.br
 +.pxbnou.ig.com.br
@@ -101707,6 +101737,7 @@ aicleaner.shouji.360.cn
 commercial.shouji.360.cn
 api.shuaji.360.cn
 ad.gamebox.360.cn
++.engage.3m.com.cn
 +.apiwmda.58.com.cn
 +.whfpbc.99.com.cn
 +.tracking.ti.com.cn
@@ -101889,6 +101920,7 @@ adx-drcn.op.dbankcloud.cn
 +.dnkeeper.platform.dbankcloud.cn
 +.logservice-dre.platform.dbankcloud.cn
 httpdns-browser.platform.dbankcloud.cn
++.engage.3m.com.co
 +.cookies.jll.com.co
 +.email-am.jll.com.co
 +.email-em.jll.com.co
@@ -101957,6 +101989,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.link.test.stickybeak.co
 +.app-qa.rnd.thronelabs.co
 +.play.dsd.everydayporn.co
++.engage.3m.co.cr
 +.digital.adt.co.cr
 +.bfntkv.icon.co.cr
 +.smetrics.sony.co.cr
@@ -102140,13 +102173,17 @@ httpdns-browser.platform.dbankcloud.cn
 +.data.events.pokerstars.dk
 +.web.info.varelotteriet.dk
 +.js.evtr.nordiskemedier.dk
++.engage.3m.com.do
 +.smetrics.sony.com.do
++.engage.3m.com.dz
++.engage.3m.com.ec
 +.smetrics.sony.com.ec
 +.trk.bonella.com.ec
 +.trk.blueband.com.ec
 +.vyvenv.movistar.com.ec
 +.crm.toyotago.com.ec
 +.trk.info.puntonet.ec
++.engage.3m.com.ee
 +.saa.dyson.com.ee
 +.ablink.ae.linktr.ee
 +.ablink.ma.linktr.ee
@@ -102156,6 +102193,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.metric.vodafone.com.eg
 +.metrics.vodafone.com.eg
 +.spt.ahram.org.eg
++.engage.3m.com.es
 +.digital.adt.com.es
 +.track.docusign.com.es
 +.trkgbm.business.hsbc.es
@@ -102584,6 +102622,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.stbg.stanbicbank.com.gh
 +.trk.altis.com.gr
 +.tr.news.prosfora-mou.gr
++.engage.3m.com.gt
 +.contacto.gtc.com.gt
 +.info.banrural.com.gt
 +.negocio.banrural.com.gt
@@ -102592,6 +102631,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.smetrics.elgallomasgallo.com.gt
 +.info.unis.edu.gt
 +.info.gtc.net.gt
++.engage.3m.com.hk
 +.cookies.jll.com.hk
 +.email-am.jll.com.hk
 +.email-ap.jll.com.hk
@@ -102624,6 +102664,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.snalytics.allianz-travel.com.hk
 +.trail.thomsonreuters.com.hk
 +.msbainfo.fbe.hku.hk
++.engage.3m.com.hn
 +.smetrics.sony.com.hn
 +.smetrics.amway.com.hn
 +.smetrics.elgallomasgallo.com.hn
@@ -102632,11 +102673,13 @@ httpdns-browser.platform.dbankcloud.cn
 +.go.info.solvenza.hn
 +.data.info.solvenza.hn
 +.data.comunicaciones.solvenza.hn
++.engage.3m.com.hr
 +.sw88.24kitchen.com.hr
 +.heartbeat.pmd.444.hu
 +.track.analytics.novafam.hu
 +.2829i2p88jx.www.csaladinet.hu
 +.analytics.unand.ac.id
++.engage.3m.co.id
 +.ibnads.xl.co.id
 +.cookies.jll.co.id
 +.email-ap.jll.co.id
@@ -102876,6 +102919,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.tr.partners.younited-credit.it
 +.tr.offerte.migliorifornitori.it
 +.web.mapp.ilgiardinodeilibri.it
++.engage.3m.com.jm
 +.smetrics.ris.ac.jp
 +.smp.tus.ac.jp
 +.smetrics.ferris.ac.jp
@@ -103545,6 +103589,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.a8clk.www.solar-partners.jp
 +.a8clk.cv.syukatsu-kaigi.jp
 +.a8clk.www.gaihekitosou-partners.jp
++.engage.3m.co.ke
 +.smetrics.kone.co.ke
 +.pixel.tuko.co.ke
 +.xsrzqh.the-star.co.ke
@@ -103558,6 +103603,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.refer.dragonfly.com.kh
 +.dl.wooribank.com.kh
 +.dldev.wooribank.com.kh
++.engage.3m.co.kr
 +.adreal.dt.co.kr
 +.outbanner.hu.co.kr
 +.ngghll.me.co.kr
@@ -103864,10 +103910,12 @@ httpdns-browser.platform.dbankcloud.cn
 +.qpielh.kfhi.or.kr
 +.weblog.dema.mil.kr
 +.somni.chemicals.thermofisher.kr
++.engage.3m.com.kw
 +.saa.dyson.com.kw
 +.fdgfrr.mothercare.com.kw
 +.ggduzx.potterybarn.com.kw
 +.sepkyu.bathandbodyworks.com.kw
++.engage.3m.com.kz
 +.analytics.metro.com.kz
 +.link.hello.unum.la
 +.link.design.unum.la
@@ -103883,6 +103931,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.images.news.auchan.lu
 +.data.outbound.luxair.lu
 +.subscriptions.outbound.luxair.lu
++.engage.3m.com.lv
 +.176.net.jumia.ma
 +.71-177.net.jumia.ma
 +.ablink.rider.li.me
@@ -103917,6 +103966,7 @@ log.star.ele.me
 +.email-ap.jll.com.mo
 +.smetrics.seat.com.mt
 +.stbg.standardbank.co.mw
++.engage.3m.com.mx
 +.dc.vw.com.mx
 +.digital.adt.com.mx
 +.cookies.jll.com.mx
@@ -103967,6 +104017,7 @@ log.star.ele.me
 +.images.dm.itesm.mx
 +.smetrics.i22.nadro.mx
 +.trk.salud.christus.mx
++.engage.3m.com.my
 +.cookies.jll.com.my
 +.email-ap.jll.com.my
 +.email-cm.jll.com.my
@@ -103999,6 +104050,7 @@ log.star.ele.me
 +.stbg.standardbank.co.mz
 +.stbg.standardbank.com.na
 +.hiuplq.flashscore.com.ng
++.engage.3m.com.ni
 +.info.banpronicaragua.com.ni
 +.smetrics.elgallomasgallo.com.ni
 +.k.brandalley.co.nl
@@ -104179,10 +104231,12 @@ log.star.ele.me
 +.smetrics.eclipse.kiwi.nz
 +.ablink.info.themarket.nz
 +.ablink.emails.themarket.nz
++.engage.3m.com.pa
 +.smetrics.sony.com.pa
 +.lio8.destinia.com.pa
 +.publicidad.davivienda.com.pa
 +.comunicaciones.davivienda.com.pa
++.engage.3m.com.pe
 +.soejzg.efe.com.pe
 +.marketing.one.com.pe
 +.dcf.espn.com.pe
@@ -104216,6 +104270,7 @@ log.star.ele.me
 +.smetrics.babycenter.com.ph
 +.engage.3mphilippines.com.ph
 +.matomo.shoppersguide.com.ph
++.engage.3m.com.pk
 +.smetrics.pwc.com.pk
 +.scriptproxy.pie.net.pk
 +.rek.www.wp.pl
@@ -104249,6 +104304,8 @@ log.star.ele.me
 +.img.system.netsalesmedia.pl
 +.stats.staging.hex.pm
 +.stats.staging.hexdocs.pm
++.engage.3m.com.pr
++.engage.3m.com.pt
 +.secureanalytics.avis.com.pt
 +.mgtrbd.pixartprinting.com.pt
 +.data.emails.makro.pt
@@ -104260,16 +104317,20 @@ log.star.ele.me
 +.tr.boletim.meu-orcamento.pt
 +.tr.marketing.younited-credit.pt
 +.play.anyname.zelfo.pw
++.engage.3m.com.py
 +.link.mangoapp.com.py
 +.link.plazahogar.com.py
 +.smetrics.intactarr2pro.com.py
++.engage.3m.com.qa
 +.smetrics.qatarairways.com.qa
 +.g.staging.pathsha.re
 +.rvz9.destinia.co.ro
++.engage.3m.com.ro
 +.saa.dyson.com.ro
 +.getmln.penti.com.ro
 +.data.emails.metro.ro
 +.tr.news.companeo.ro
++.engage.3m.co.rs
 +.analytics.metafox.bmw.rs
 +.banner.lbs.km.ru
 +.sw88.marvel.com.ru
@@ -104298,6 +104359,7 @@ log.star.ele.me
 grs.platform.dbankcloud.ru
 +.startup-mobile.ap.yandex-net.ru
 +.tracking.m.mercedes-benz.ru
++.engage.3m.com.sa
 +.dev-business.stc.com.sa
 +.qmoyfh.xcite.com.sa
 +.o.catalyst.com.sa
@@ -104386,6 +104448,7 @@ grs.platform.dbankcloud.ru
 +.tracking.etidning.tidningenharjedalen.se
 +.tracking.etidning.skaraborgslanstidning.se
 +.tracking.etidning.tidningenangermanland.se
++.engage.3m.com.sg
 +.smetrics.m1.com.sg
 +.cookies.jll.com.sg
 +.email-ap.jll.com.sg
@@ -104447,9 +104510,11 @@ grs.platform.dbankcloud.ru
 +.69-74.net.jumia.sn
 +.analytics.pgncs.notion.so
 +.play.play.tainiesonline.st
++.engage.3m.com.sv
 +.smetrics.prado.com.sv
 +.vwakpz.vidri.com.sv
 +.stbg.standardbank.co.sz
++.engage.3m.co.th
 +.email-am.jll.co.th
 +.email-ap.jll.co.th
 +.email-cm.jll.co.th
@@ -104474,9 +104539,11 @@ grs.platform.dbankcloud.ru
 +.tracker.stats.in.th
 +.truehits1.gits.net.th
 +.truehits3.gits.net.th
++.engage.3m.com.tn
 +.mobilelog.ws.pho.to
 +.analitik.pendik.bel.tr
 +.reklam1.akhisar.bel.tr
++.engage.3m.com.tr
 +.igfjkh.vw.com.tr
 +.smetric.vw.com.tr
 +.swwcyk.atv.com.tr
@@ -104601,6 +104668,7 @@ grs.platform.dbankcloud.ru
 +.sanalytics.cartoonnetwork.com.tr
 +.zhcmli.ayakkabidunyasi.com.tr
 +.analitik.bik.gov.tr
++.engage.3m.com.tt
 +.tr.email.d8.tv
 +.tr.email.d17.tv
 doh.ptqy.gitv.tv
@@ -104621,6 +104689,7 @@ doh.ptqy.gitv.tv
 +.hol.dir.tvsmiles.tv
 +.tr.emailing.tvcaraibes.tv
 +.tr.newsletter.cuisine-plus.tv
++.engage.3m.com.tw
 +.applink.cw.com.tw
 +.doabqu.s3.com.tw
 +.tracking.gvm.com.tw
@@ -104667,6 +104736,7 @@ doh.ptqy.gitv.tv
 +.smetrics.pwc.co.tz
 +.stbg.stanbicbank.co.tz
 +.top-js-metrics.top.my.ua
++.engage.3m.com.ua
 +.a.ava.com.ua
 +.ads.go2net.com.ua
 +.tracker.novage.com.ua
@@ -104700,6 +104770,7 @@ doh.ptqy.gitv.tv
 +.metrics.nhm.ac.uk
 +.sgtm.open.ac.uk
 +.smetrics.nottingham.ac.uk
++.engage.3m.co.uk
 +.smetrics.aa.co.uk
 +.metrics.ee.co.uk
 +.smetrics.ee.co.uk
@@ -105501,6 +105572,7 @@ doh.ptqy.gitv.tv
 +.analytics.code.dccouncil.us
 +.oca.telemetry.microsoft.us
 +.umwatsonc.telemetry.microsoft.us
++.engage.3m.com.uy
 +.digital.adt.com.uy
 +.target.pwc.com.uy
 +.smetrics.pwc.com.uy
@@ -105514,6 +105586,7 @@ doh.ptqy.gitv.tv
 +.pmssrv.mercadolibre.com.ve
 +.sanalytics.cartoonnetwork.com.ve
 +.ff.memberships-garena.id.vn
++.engage.3m.com.vn
 +.ad-ndtv.3s.com.vn
 +.ad.24h.com.vn
 +.adver.24h.com.vn
@@ -105628,6 +105701,7 @@ doh.ptqy.gitv.tv
 +.ff.member.garenae.vn
 +.matomo.quan.hoabinh.vn
 +.banner.etargeting.mobifone.vn
++.engage.3m.co.za
 +.dc.vw.co.za
 +.cookies.jll.co.za
 +.email-am.jll.co.za
@@ -110892,5 +110966,4 @@ adx-dre.op.dbankcloud.com.edgekey.net
 +.server2.www1.dr.goldenserviceawards.net.jumia.co.ke
 +.ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com
 +.origin.www.images.2.forms.healthcare.philips.com
-this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################

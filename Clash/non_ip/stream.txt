@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-12-10T11:03:11.886Z
-# Size: 272
+# Last Updated: 2024-12-14T13:15:17.754Z
+# Size: 274
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,abema.io
@@ -166,6 +167,7 @@ DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,indaznlab.com
