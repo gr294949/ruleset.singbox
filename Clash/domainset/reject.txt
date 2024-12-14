@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-13T16:59:11.920Z
-# Size: 110849
+# Last Updated: 2024-12-14T11:39:57.000Z
+# Size: 110865
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5090,6 +5090,7 @@
 +.3lift.com
 +.3myad.com
 +.44629.com
++.4armn.com
 +.4dtrk.com
 +.4l903.com
 +.4oney.com
@@ -11608,7 +11609,6 @@ lgtvsdp.com
 +.linkfars.com
 +.linkmepu.com
 +.linkmink.com
-+.linksprf.com
 +.list-ads.com
 +.liverail.com
 +.livestat.com
@@ -12692,6 +12692,7 @@ lgtvsdp.com
 +.trokemar.com
 +.trummomo.com
 +.truoptik.com
++.truxedku.com
 +.ttzmedia.com
 +.tubberlo.com
 +.tubecorp.com
@@ -15749,6 +15750,7 @@ lgtvsdp.com
 +.zubajuroo.com
 +.zuyejecgb.com
 +.00d84987c0.com
++.00f8c4bb25.com
 +.0127c96640.com
 +.01jud3v55z.com
 +.02ce917efd.com
@@ -15763,6 +15765,7 @@ lgtvsdp.com
 +.059e71004b.com
 +.05e11c9f6f.com
 +.06a21eff24.com
++.06cffaae87.com
 +.0760571ca9.com
 +.07a1624bd7.com
 +.095f2fc218.com
@@ -16823,6 +16826,7 @@ lgtvsdp.com
 +.d0p21g2fep.com
 +.d15a035f27.com
 +.d1a0c6affa.com
++.d1f76eb5a4.com
 +.d26e83b697.com
 +.d2e3e68fb3.com
 +.d36f31688a.com
@@ -24238,6 +24242,7 @@ samsungqbe.com
 +.waxapushlite.com
 +.wayfgwbipgiz.com
 +.wazctigribhy.com
++.wcigmepzygad.com
 +.wcuolmojkzir.com
 +.wdohhlagnjzi.com
 +.wdt9iaspfv3o.com
@@ -26635,6 +26640,7 @@ samsungqbe.com
 +.aerialmistaken.com
 +.aerobiabassing.com
 +.affinitymatrix.com
++.afilliatetraff.com
 +.afraidlanguage.com
 +.africaewgrhdtb.com
 +.afterdownloads.com
@@ -37222,6 +37228,7 @@ samsungcloudsolution.com
 +.jo4.icu
 +.m6d.icu
 +.q8q.icu
++.qm2.icu
 +.t7t.icu
 +.u6u.icu
 +.vh8.icu
@@ -37830,6 +37837,7 @@ samsungcloudsolution.com
 +.fzjbsvgz.icu
 +.fzpzrqou.icu
 +.gokrafxr.icu
++.hcznaubp.icu
 +.herzotph.icu
 +.hkjzkrqz.icu
 +.hkpeghqu.icu
@@ -40680,6 +40688,7 @@ samsungcloudsolution.net
 +.videocap.org
 +.winvideo.org
 +.xnqwuwlq.org
++.xupalace.org
 +.aclicktds.org
 +.advancets.org
 +.allcracks.org
@@ -41775,6 +41784,7 @@ samsungcloudsolution.net
 +.ioublio.top
 +.irtliso.top
 +.isylieo.top
++.itimiyo.top
 +.ityusio.top
 +.iuresdo.top
 +.iwatero.top
@@ -44568,6 +44578,7 @@ samsungcloudsolution.net
 +.vxdpmxw.xyz
 +.wbnbocz.xyz
 +.wbnlwyj.xyz
++.wlouqsz.xyz
 +.wlzlrlp.xyz
 +.wnllmyw.xyz
 +.wrtjojn.xyz
@@ -47923,6 +47934,7 @@ nmbr.info
 +.rbvgaetqsk.love
 +.rviqayltwu.love
 +.x-zjxfhysb.love
++.cpngiubbcnq.love
 +.k-oggwkhhxt.love
 +.adjmntesdsoi.love
 +.rtuinrjezwkj.love
@@ -48791,6 +48803,7 @@ nmbr.info
 +.vongquay88.site
 +.vpn-access.site
 +.whchsvlxch.site
++.xwzbpkku-i.site
 +.alfa-track2.site
 +.aqxme-eorex.site
 +.cfzrh-xqwrv.site
@@ -70684,6 +70697,7 @@ sapi.edgedb.com
 +.1.feihua.com
 +.cash.femjoy.com
 +.links.fennel.com
++.hub.fghtem.com
 +.go.fhlbny.com
 +.join.fhlbny.com
 +.learn.fhlbny.com
@@ -95467,6 +95481,7 @@ rt.funshion.net
 +.a8cv.ioo-sofa.net
 +.www.ip-route.net
 +.asg.irontube.net
++.b10.justacdn.net
 +.etrader.kalahari.net
 +.a8cv.kamurogi.net
 +.a.kantotin.net
@@ -104655,6 +104670,7 @@ doh.ptqy.gitv.tv
 +.ads.go2net.com.ua
 +.tracker.novage.com.ua
 +.bderbn.foxtrot.com.ua
++.afl.rozetka.com.ua
 +.api-analytics.rozetka.com.ua
 +.ssy7.destinia.com.ua
 +.bigdata.riamedia.com.ua
