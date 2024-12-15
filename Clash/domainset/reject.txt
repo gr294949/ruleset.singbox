@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-14T13:15:17.683Z
-# Size: 110939
+# Last Updated: 2024-12-15T12:38:54.399Z
+# Size: 110950
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6432,6 +6432,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.bronto.com
 +.brsrvr.com
 +.bryond.com
++.bservr.com
 +.bshrdr.com
 +.btdnav.com
 +.btpnav.com
@@ -9755,6 +9756,7 @@ lgtvsdp.com
 +.sibergy.com
 +.sibulla.com
 +.siccash.com
++.siconoi.com
 +.sidebyx.com
 +.sifuwei.com
 +.sirrors.com
@@ -11497,6 +11499,7 @@ lgtvsdp.com
 +.joudotee.com
 +.jouzoapi.com
 +.joxaviri.com
++.jp1media.com
 +.jpshopes.com
 +.jqueryoi.com
 +.jriortnf.com
@@ -11614,7 +11617,6 @@ lgtvsdp.com
 +.linkfars.com
 +.linkmepu.com
 +.linkmink.com
-+.linksprf.com
 +.list-ads.com
 +.liverail.com
 +.livestat.com
@@ -13608,6 +13610,7 @@ lgtvsdp.com
 +.chaubseet.com
 +.cherylssb.com
 +.choconart.com
++.chonaesor.com
 +.chourdain.com
 +.chozipeem.com
 +.cishantao.com
@@ -18874,6 +18877,7 @@ samsungqbe.com
 +.wansultoud.com
 +.wantedjeff.com
 +.warmquiver.com
++.warped-bus.com
 +.washbanana.com
 +.wastecaleb.com
 +.waterywave.com
@@ -37220,12 +37224,14 @@ samsungcloudsolution.com
 +.xoilactv123.gdn
 +.1yj.icu
 +.2wt.icu
++.3lo.icu
 +.3ni.icu
 +.3ts.icu
 +.4i1.icu
 +.4sq.icu
 +.7hb.icu
 +.8et.icu
++.a5t.icu
 +.a7c.icu
 +.d0m.icu
 +.d5r.icu
@@ -37537,6 +37543,7 @@ samsungcloudsolution.com
 +.xeazoj.icu
 +.xklrsj.icu
 +.xkrnud.icu
++.xpicj0.icu
 +.ycgkol.icu
 +.ycmgeb.icu
 +.ykujch.icu
@@ -37824,6 +37831,7 @@ samsungcloudsolution.com
 +.zqgixxp.icu
 +.zrkksps.icu
 +.zzohucf.icu
++.aigfednd.icu
 +.batcrack.icu
 +.bebxhcip.icu
 +.behvgsik.icu
@@ -40698,7 +40706,6 @@ samsungcloudsolution.net
 +.videocap.org
 +.winvideo.org
 +.xnqwuwlq.org
-+.xupalace.org
 +.aclicktds.org
 +.advancets.org
 +.allcracks.org
@@ -41817,6 +41824,7 @@ samsungcloudsolution.net
 +.jrtlisa.top
 +.jsqygwl.top
 +.jsyliea.top
++.jtimiya.top
 +.jtyusia.top
 +.jubbkon.top
 +.juresda.top
@@ -41840,6 +41848,7 @@ samsungcloudsolution.net
 +.kreisis.top
 +.krtlisd.top
 +.ksylied.top
++.ktimiyd.top
 +.ktyusid.top
 +.kuresdd.top
 +.kwaterd.top
@@ -54584,6 +54593,7 @@ p.cloudcraft.co
 +.data-fdf4690b14.trauer.de
 +.smetrics.tuneup.de
 +.data-8b242b85ce.twjobs.de
++.vyrqhmdy.unbrws.de
 +.vgo.vegaoo.de
 +.cvzvun.vidaxl.de
 +.jdgtgb.watson.de
@@ -70723,6 +70733,7 @@ sapi.edgedb.com
 +.1.feihua.com
 +.cash.femjoy.com
 +.links.fennel.com
++.hub.fghtem.com
 +.go.fhlbny.com
 +.join.fhlbny.com
 +.learn.fhlbny.com
