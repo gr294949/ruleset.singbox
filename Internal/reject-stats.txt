@@ -208,7 +208,7 @@ duckdns.org                                                                     
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
 serverpower.net                                                                                     43
-wixstudio.io                                                                                        43
+wixstudio.io                                                                                        42
 supplypoland.com                                                                                    40
 aimedia.lk                                                                                          38
 covidvcfund.com                                                                                     37
