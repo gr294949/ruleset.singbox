@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 15 Dec 2024 16:58:24 GMT
+! Last modified: Mon, 16 Dec 2024 09:24:23 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10895,6 +10895,7 @@
 ||cpmspace.com^
 ||cpmterra.com^
 ||cpxdeliv.com^
+||craegvin.com^
 ||crazyit8.com^
 ||crbbgate.com^
 ||crengate.com^
@@ -37229,6 +37230,7 @@
 ||ii3.icu^
 ||jo4.icu^
 ||m6d.icu^
+||n7a.icu^
 ||q8q.icu^
 ||qm2.icu^
 ||t7t.icu^
@@ -37873,6 +37875,7 @@
 ||pwrgcxaj.icu^
 ||pwxlbsie.icu^
 ||qidzwhfp.icu^
+||qonbibff.icu^
 ||roxwusak.icu^
 ||rvnaxwqe.icu^
 ||rvtfwryz.icu^
@@ -60831,6 +60834,7 @@
 ||webtest.lpio.jp^
 ||analytics.mbga.jp^
 ||bmodjx.mgos.jp^
+||axesslove.mixh.jp^
 ||static.mopo.jp^
 ||stats.mora.jp^
 ||sstats.mora.jp^
@@ -78144,6 +78148,7 @@
 ||info.avantiplc.com^
 ||sp.aviasales.com^
 ||secured.avon-news.com^
+||kaomanko.axesslove.com^
 ||ssc.azathabar.com^
 ||sp.azcentral.com^
 ||sxjfhh.azcentral.com^
