@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 16 Dec 2024 12:44:02 GMT
+! Last modified: Mon, 16 Dec 2024 14:40:15 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -21616,6 +21616,7 @@
 ||xxxxmopcldm.com^
 ||xylomavivat.com^
 ||xzezapozghp.com^
+||yackvidette.com^
 ||ybhyziittfg.com^
 ||ydenknowled.com^
 ||yellsurpass.com^
@@ -22412,6 +22413,7 @@
 ||escortlarbul.com^
 ||escy55gxubl6.com^
 ||eshoohasteeg.com^
+||espleestrick.com^
 ||essaycoupons.com^
 ||ethaistoothi.com^
 ||ethelbrimtoe.com^
@@ -37243,6 +37245,7 @@
 ||jo4.icu^
 ||m6d.icu^
 ||n7a.icu^
+||nm2.icu^
 ||q8q.icu^
 ||qm2.icu^
 ||t7t.icu^
