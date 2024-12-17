@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 17 Dec 2024 03:24:47 GMT
+! Last modified: Tue, 17 Dec 2024 12:43:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11599,6 +11599,7 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
+||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -12351,6 +12352,7 @@
 ||sbcpower.com^
 ||scanfang.com^
 ||sconvtrk.com^
+||screspoy.com^
 ||scriptil.com^
 ||scrollye.com^
 ||scroscoi.com^
@@ -37233,6 +37235,7 @@
 ||3ni.icu^
 ||3ts.icu^
 ||4i1.icu^
+||4jc.icu^
 ||4sq.icu^
 ||7hb.icu^
 ||8et.icu^
@@ -41942,6 +41945,7 @@
 ||qnalzly.top^
 ||qoubliy.top^
 ||qsyliey.top^
+||qtimiyy.top^
 ||qtyusiy.top^
 ||quresdy.top^
 ||qweisiy.top^
@@ -57977,6 +57981,7 @@
 ||data-a2c8256a75.radiosaw.eu^
 ||campaigns.technics.eu^
 ||myprofile.technics.eu^
+||service.techzine.eu^
 ||www.bcaeurope.eu^
 ||stats.cremashop.eu^
 ||mole.energizer.eu^
@@ -70767,7 +70772,6 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
