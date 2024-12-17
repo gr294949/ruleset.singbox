@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-12-17T16:25:54.041Z
+// # Build 2024-12-17T16:48:15.441Z
 
 declare(strict_types=1);
 
@@ -2023,6 +2023,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,naixi.net,Global',
         'DOMAIN-SUFFIX,pixiv.net,Global',
         'DOMAIN-SUFFIX,pximg.net,Global',
+        'DOMAIN-SUFFIX,quad9.net,Global',
         'DOMAIN-SUFFIX,tfbnw.net,Global',
         'DOMAIN-SUFFIX,whoer.net,Global',
         'DOMAIN-SUFFIX,akamai.net,Global',
