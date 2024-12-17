@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 16 Dec 2024 14:40:15 GMT
+! Last modified: Tue, 17 Dec 2024 03:24:47 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11070,6 +11070,7 @@
 ||entterto.com^
 ||epitrack.com^
 ||epsaivuz.com^
+||epvjljye.com^
 ||eqhadccx.com^
 ||ereportz.com^
 ||erniphiq.com^
@@ -11388,6 +11389,7 @@
 ||ifdnzact.com^
 ||ignslkgs.com^
 ||igqtdvxb.com^
+||ihearsoh.com^
 ||ihkybtde.com^
 ||iicheewi.com^
 ||ijinshan.com^
@@ -37871,6 +37873,7 @@
 ||jcwlsofn.icu^
 ||jgntjtyf.icu^
 ||jrjtibez.icu^
+||juutckrt.icu^
 ||jwhjqjfl.icu^
 ||lbjekygz.icu^
 ||lfrdskwj.icu^
@@ -40389,6 +40392,7 @@
 ||xianshangzixun.net^
 ||zishezetchadsi.net^
 ||zoowhausairoun.net^
+||ageetsaimouphih.net^
 ||aurirdikseewhoo.net^
 ||avecmessougnauy.net^
 ||baihoagleewhaum.net^
@@ -40454,6 +40458,7 @@
 ||shudoufunguptie.net^
 ||smarttargetting.net^
 ||statsadvance-01.net^
+||stikroltiltoowi.net^
 ||stoagouruzostee.net^
 ||teestoagloupaza.net^
 ||thesearchagency.net^
@@ -41025,6 +41030,7 @@
 ||adsilo.pro^
 ||adsyou.pro^
 ||adtags.pro^
+||cedrt6.pro^
 ||click4.pro^
 ||edpl9v.pro^
 ||forads.pro^
@@ -43784,6 +43790,7 @@
 ||mvirkw.xyz^
 ||mvmqos.xyz^
 ||mvmzlg.xyz^
+||mvwitz.xyz^
 ||mxcmwk.xyz^
 ||myiryc.xyz^
 ||mymqcy.xyz^
@@ -73401,6 +73408,7 @@
 ||research.gartner.com^
 ||tracking.gartner.com^
 ||gdmelqact.gartner.com^
+||d077.gazette.com^
 ||a8cv.gb-chat.com^
 ||log.geetest.com^
 ||smetrics.genarts.com^
@@ -85924,6 +85932,7 @@
 ||br.baculatowser.com^
 ||smetric.bahamabreeze.com^
 ||sp.ballsdigroup.com^
+||d250.baltimoresun.com^
 ||activate.baltimoresun.com^
 ||smetrics.bancsabadell.com^
 ||newsletters.bancsabadell.com^
@@ -87897,6 +87906,7 @@
 ||ifbmqi.dental-worker.com^
 ||metrics.dentalcompare.com^
 ||track.dentalnhygene.com^
+||w890.denvergazette.com^
 ||marketing.destinationdc.com^
 ||vlgstb.destinationxl.com^
 ||info.dfinsolutions.com^
@@ -89234,6 +89244,7 @@
 ||ea.camping-and-co.com^
 ||creative.camsplanetlive.com^
 ||cueohf.canadian-forum.com^
+||d485.capitalgazette.com^
 ||activate.capitalgazette.com^
 ||marketing.capsasolutions.com^
 ||gtm.careercontessa.com^
@@ -91431,6 +91442,7 @@
 ||track.codigodotigrinho.com^
 ||sst.colemanfurniture.com^
 ||marketing.cologuardclassic.com^
+||co932.coloradopolitics.com^
 ||analytics.combatefreestyle.com^
 ||sanalytics.combatefreestyle.com^
 ||go.comcastspectacor.com^
@@ -99164,6 +99176,7 @@
 ||trk.appliedintelligence.live^
 ||log.cleanertoolboxonline.live^
 ||log.pdfviewerscannerstore.live^
+||log.documentmanagerpdfdocxlssale.live^
 ||dog.orbit.love^
 ||track.arleam.love^
 ||bovid.neural.love^
