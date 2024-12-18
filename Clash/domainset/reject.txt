@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-18T08:22:34.268Z
-# Size: 110970
+# Last Updated: 2024-12-18T12:41:05.689Z
+# Size: 110973
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12557,6 +12557,7 @@ lgtvsdp.com
 +.steessay.com
 +.sthoutte.com
 +.stilaikr.com
++.stongors.com
 +.stookoth.com
 +.stoorgel.com
 +.storners.com
@@ -15198,6 +15199,7 @@ lgtvsdp.com
 +.sitethree.com
 +.sitewithg.com
 +.skewserer.com
++.skhmjezzj.com
 +.skinected.com
 +.slimelump.com
 +.slimspots.com
@@ -17599,6 +17601,7 @@ lgtvsdp.com
 +.lazada7788.com
 +.lcfooiqhro.com
 +.ldbqxwbqdz.com
++.ldjyvegage.com
 +.leadfeeder.com
 +.leadforce1.com
 +.leadsecnow.com
