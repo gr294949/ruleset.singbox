@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-12-17T16:25:53.897Z
-# Size: 361
+# Last Updated: 2024-12-19T06:40:32.973Z
+# Size: 364
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -170,6 +170,7 @@ speedtest.quadro.net
 speedtest.anksoft.net
 spt-nyc.as13786.net
 +.speedtest.contabo.net
+speedtest.lekloud.net
 ookla.lunoxia.net
 speedtest.telerys.net
 +.speedtest.telstra.net
@@ -195,6 +196,7 @@ spd-tr-istanbul.hostlayici.net
 +.speedtest.cmcnetworks.net
 +.speed.googlefiber.net
 speedtest.packetworks.net
+speedtest-ad-1.zoominternet.net
 hkthspeedtest02.telstraglobal.net
 speedtest.voip-unlimited.net
 +.speed.misaka.one
@@ -357,6 +359,7 @@ tc1.chtm.hinet.net
 tn1.chtm.hinet.net
 ntp1.chtm.hinet.net
 speedtest.sjc.sonic.net
+speedtest.lax.hivelocity.net
 speedtest.mia.hivelocity.net
 speedtest.ams1.hivelocity.net
 speedtest.b2.mhn.cloud
