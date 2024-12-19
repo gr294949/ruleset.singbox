@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-19T13:03:49.441Z
-# Size: 109955
+# Last Updated: 2024-12-19T14:30:53.323Z
+# Size: 109956
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26900,6 +26900,7 @@ samsungqbe.com
 +.highfalutinbox.com
 +.highrevenuecpm.com
 +.historicalbeam.com
++.hitchprivilege.com
 +.hithertodeform.com
 +.hkdbitexchange.com
 +.hnyishidengbao.com
