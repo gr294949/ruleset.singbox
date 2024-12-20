@@ -192,32 +192,34 @@ zip.co                                                                          
 === extra ===
 adkoffer.fr                                                                                         93
 ebutudan.com                                                                                        78
-b-cdn.net                                                                                           75
+b-cdn.net                                                                                           74
 tggame.xyz                                                                                          68
 awicksin.com                                                                                        67
-wpenginepowered.com                                                                                 63
-pages.dev                                                                                           61
+wpenginepowered.com                                                                                 62
 netspend.com                                                                                        59
 bravenet.com                                                                                        54
+pages.dev                                                                                           52
 plus.com                                                                                            51
 adktrack30.xyz                                                                                      50
 rciadventure.com                                                                                    49
-duckdns.org                                                                                         47
 qq.com                                                                                              47
+duckdns.org                                                                                         45
 taxility.com                                                                                        44
 kanuassociates.com                                                                                  43
 serverpower.net                                                                                     43
 wixstudio.io                                                                                        42
+wixsite.com                                                                                         41
 supplypoland.com                                                                                    40
 aimedia.lk                                                                                          38
 blogspot.com                                                                                        38
+vercel.app                                                                                          38
 covidvcfund.com                                                                                     37
 msn.com                                                                                             37
 adkplan.fr                                                                                          36
 dfirma.pl                                                                                           36
 on-fleek.app                                                                                        36
 ddns.net                                                                                            35
-workers.dev                                                                                         35
+github.io                                                                                           35
 aliyuncs.com                                                                                        34
 bitember.com                                                                                        34
 adbureau.net                                                                                        33
@@ -226,7 +228,6 @@ luxxeeu.com                                                                     
 baidu.com                                                                                           31
 cloudfront.net                                                                                      31
 shengen.ru                                                                                          31
-vercel.app                                                                                          31
 aesthetise.com                                                                                      30
 hut1.ru                                                                                             30
 newzgames.com                                                                                       29
@@ -249,10 +250,8 @@ kmotrack.xyz                                                                    
 autograalmann.de                                                                                    23
 lcef.com                                                                                            23
 mhi.co.jp                                                                                           23
-us.kg                                                                                               23
 eliteoftokens.com                                                                                   21
 epinlock.com                                                                                        21
-wixsite.com                                                                                         21
 3u84.icu                                                                                            20
 acfdigital.site                                                                                     20
 bonnelectureatous.fr                                                                                20
@@ -279,7 +278,6 @@ buddaa.xyz                                                                      
 deptesp.com                                                                                         19
 facst.xyz                                                                                           19
 gamemods.com.tr                                                                                     19
-github.io                                                                                           19
 irza.lat                                                                                            19
 meelou.top                                                                                          19
 milldrop.xyz                                                                                        19
@@ -290,6 +288,7 @@ orogdq1.xyz                                                                     
 peoplexftrade.top                                                                                   19
 rign.top                                                                                            19
 vxfc.lat                                                                                            19
+workers.dev                                                                                         19
 aposiiz.com                                                                                         18
 avtprogsystt.xyz                                                                                    18
 baltez-offic.xyz                                                                                    18
@@ -310,6 +309,7 @@ sunyclouds.com                                                                  
 tayki.site                                                                                          18
 techwwwpl.site                                                                                      18
 tess1.top                                                                                           18
+us.kg                                                                                               18
 wertas.xyz                                                                                          18
 2r5d.icu                                                                                            17
 a5x7.icu                                                                                            17
@@ -344,7 +344,6 @@ worldkolf.info                                                                  
 8hwo.pro                                                                                            16
 comfirty.top                                                                                        16
 coocoldini.xyz                                                                                      16
-dweb.link                                                                                           16
 elmachif.com                                                                                        16
 eutrty.top                                                                                          16
 formhh.top                                                                                          16
@@ -417,7 +416,6 @@ aglt.lat                                                                        
 ahnq.top                                                                                            14
 anonline.site                                                                                       14
 beatbox365.com                                                                                      14
-beget.tech                                                                                          14
 beneffit.top                                                                                        14
 cnn.com                                                                                             14
 coinplat.xyz                                                                                        14
@@ -459,6 +457,7 @@ adktrack37.xyz                                                                  
 advance.net                                                                                         13
 aiiegros40.pl                                                                                       13
 ayxh.top                                                                                            13
+beget.tech                                                                                          13
 cddo.lat                                                                                            13
 dasms.xyz                                                                                           13
 deharina.com                                                                                        13
@@ -486,6 +485,7 @@ metregplt.top                                                                   
 mtradi.top                                                                                          13
 mtradinfo.top                                                                                       13
 myshopify.com                                                                                       13
+netlify.app                                                                                         13
 neuru.top                                                                                           13
 nev1evesplt.site                                                                                    13
 newappco.xyz                                                                                        13
@@ -525,6 +525,7 @@ dimsolo.com                                                                     
 dis-my.eu                                                                                           12
 dns.army                                                                                            12
 dvxd.lat                                                                                            12
+dweb.link                                                                                           12
 ferreta.xyz                                                                                         12
 intuit.com                                                                                          12
 krakowiak.org.pl                                                                                    12
@@ -533,7 +534,6 @@ masler.xyz                                                                      
 maxinvo.xyz                                                                                         12
 moonyalfa.pl                                                                                        12
 nbpx.lat                                                                                            12
-netlify.app                                                                                         12
 neuro1.xyz                                                                                          12
 newchhance.top                                                                                      12
 newtrd.xyz                                                                                          12

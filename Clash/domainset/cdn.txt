@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-19T13:03:49.642Z
+# Last Updated: 2024-12-20T12:39:49.810Z
 # Size: 2849
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1060,7 +1060,7 @@ st3.zoom.us
 eu01ccistatic.zoom.us
 us01ccistatic.zoom.us
 cdn.donmai.us
-cdn.bsky.app
++.cdn.bsky.app
 cdn.rive.app
 e.linear.app
 public.linear.app
