@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-20T13:02:49.744Z
-# Size: 2852
+# Last Updated: 2024-12-20T14:11:50.444Z
+# Size: 2857
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -362,6 +362,7 @@ thumbsnap.com
 +.imgikuncdn.com
 +.liangzipic.com
 +.media-imdb.com
++.msftstatic.com
 +.myfilebase.com
 +.myshopapps.com
 +.netdna-ssl.com
@@ -495,6 +496,7 @@ conversiongorilla.com
 +.googleusercontent.com
 navismithapis-cdn.com
 +.notionusercontent.com
++.scorecardresearch.com
 +.ssl-images-amazon.com
 +.storjipfs-gateway.com
 +.yammerusercontent.com
@@ -1114,6 +1116,7 @@ m3.gab.com
 certona.gap.com
 sm.ign.com
 ovp.itv.com
+ntp.msn.com
 assets.msn.com
 +.cfcdn.mux.com
 image.mux.com
@@ -1613,6 +1616,7 @@ api.weather.com
 mparticle.weather.com
 screenshots.webflow.com
 +.uploads-ssl.webflow.com
+time.windows.com
 static.workday.com
 i.xgroovy.com
 cdn.xgroovy.com
@@ -2828,6 +2832,7 @@ cdn.graph.office.net
 support.content.office.net
 avatars.mds.yandex.net
 +.crash-reports.browser.yandex.net
+edgecdn-embza6g8cacagcbn.z01.azurefd.net
 interactive-examples.mdn.mozilla.net
 +.blob.core.windows.net
 +.file.core.windows.net

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-20T12:38:12.523Z
-# Size: 109396
+# Last Updated: 2024-12-20T14:11:50.251Z
+# Size: 109399
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5364,6 +5364,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.qange.com
 +.qdmil.com
 +.qgerr.com
++.qimaf.com
 +.qirnz.com
 +.qkffv.com
 +.qlnkt.com
@@ -25168,6 +25169,7 @@ samsungqbe.com
 +.relievedgeoff.com
 +.remainnovicei.com
 +.remarketstats.com
++.renrenkanpian.com
 +.rentalrebuild.com
 +.repeatresolve.com
 +.repeatsweater.com
@@ -36280,6 +36282,7 @@ samsungcloudsolution.com
 +.ee5.icu
 +.f7j.icu
 +.fo0.icu
++.gi0.icu
 +.h0d.icu
 +.ii3.icu
 +.jo4.icu
