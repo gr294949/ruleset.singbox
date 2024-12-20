@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-12-20T14:11:50.492Z
+// # Build 2024-12-20T14:24:56.370Z
 
 declare(strict_types=1);
 
@@ -2149,6 +2149,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,certificate-transparency.org,Global',
         'DOMAIN-SUFFIX,huobi.pro,Global',
         'DOMAIN-SUFFIX,18comic.vip,Global',
+        'DOMAIN-SUFFIX,activated.win,Global',
         'DOMAIN-SUFFIX,abc.xyz,Global',
         'DOMAIN-SUFFIX,bikaa.xyz,Global',
         'DOMAIN-SUFFIX,bikac.xyz,Global',
