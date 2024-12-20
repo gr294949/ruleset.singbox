@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-20T12:39:49.810Z
-# Size: 2849
+# Last Updated: 2024-12-20T13:02:49.744Z
+# Size: 2852
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -751,6 +751,7 @@ previews.fleek.co
 storageapi.fleek.co
 storageapi2.fleek.co
 app-static.turtl.co
+us-js.zonka.co
 +.widget.clutch.co
 img.ifunny.co
 static.ifunny.co
@@ -1061,6 +1062,7 @@ eu01ccistatic.zoom.us
 us01ccistatic.zoom.us
 cdn.donmai.us
 +.cdn.bsky.app
+video.bsky.app
 cdn.rive.app
 e.linear.app
 public.linear.app
@@ -2273,6 +2275,7 @@ images.blackmagicdesign.com
 jslibs.blackmagicdesign.com
 js.braintreegateway.com
 assets.braintreegateway.com
+static.captcha-delivery.com
 pkg.cloudflareclient.com
 assets4.mist-train-girls.com
 oss-binaries.phusionpassenger.com
