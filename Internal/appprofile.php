@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-12-20T14:24:56.370Z
+// # Build 2024-12-20T15:41:24.106Z
 
 declare(strict_types=1);
 
@@ -1983,6 +1983,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cloudflare-dns.com,Global',
         'DOMAIN-SUFFIX,line-apps-beta.com,Global',
         'DOMAIN-SUFFIX,redtubepremium.com,Global',
+        'DOMAIN-SUFFIX,smartmailcloud.com,Global',
         'DOMAIN-SUFFIX,steamcommunity.com,Global',
         'DOMAIN-SUFFIX,washingtonpost.com,Global',
         'DOMAIN-SUFFIX,businessinsider.com,Global',
@@ -2918,6 +2919,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.157.70.0/23,Domestic',
         'IP-CIDR,45.192.64.0/19,Domestic',
         'IP-CIDR,45.199.167.0/24,Domestic',
+        'IP-CIDR,45.204.112.0/20,Domestic',
         'IP-CIDR,45.248.8.0/22,Domestic',
         'IP-CIDR,45.248.110.0/24,Domestic',
         'IP-CIDR,45.249.212.0/22,Domestic',
