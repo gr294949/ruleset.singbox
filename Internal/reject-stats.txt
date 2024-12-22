@@ -204,6 +204,7 @@ pages.dev                                                                       
 adktrack30.xyz                                                                                      54
 bravenet.com                                                                                        54
 plus.com                                                                                            51
+on-fleek.app                                                                                        49
 rciadventure.com                                                                                    48
 qq.com                                                                                              47
 duckdns.org                                                                                         45
@@ -218,7 +219,6 @@ adkplan.fr                                                                      
 blogspot.com                                                                                        37
 covidvcfund.com                                                                                     37
 msn.com                                                                                             37
-on-fleek.app                                                                                        37
 dfirma.pl                                                                                           36
 linkomo.fr                                                                                          36
 ddns.net                                                                                            35
@@ -233,9 +233,9 @@ cloudfront.net                                                                  
 shengen.ru                                                                                          31
 aesthetise.com                                                                                      30
 hut1.ru                                                                                             30
-us.kg                                                                                               30
 clead.xyz                                                                                           29
 newzgames.com                                                                                       29
+us.kg                                                                                               29
 ropescoursesinc.com                                                                                 28
 klewmedia.com                                                                                       27
 unixofficeequipment.com                                                                             27
@@ -257,6 +257,7 @@ wixsite.com                                                                     
 bonnelectureatous.fr                                                                                21
 eliteoftokens.com                                                                                   21
 epinlock.com                                                                                        21
+mytemp.website                                                                                      21
 3u84.icu                                                                                            20
 acfdigital.site                                                                                     20
 endiim.com                                                                                          20
@@ -265,11 +266,11 @@ gkag.top                                                                        
 globaltradruv.com                                                                                   20
 inhhome.top                                                                                         20
 lixprog.click                                                                                       20
-mytemp.website                                                                                      20
 pixipl.xyz                                                                                          20
 traswi.pl                                                                                           20
 treespl.site                                                                                        20
 westmom.site                                                                                        20
+wixstudio.com                                                                                       20
 zpetna.top                                                                                          20
 3t0g.icu                                                                                            19
 4asx.icu                                                                                            19
@@ -292,7 +293,6 @@ peoplexftrade.top                                                               
 rign.top                                                                                            19
 schroders.com                                                                                       19
 vxfc.lat                                                                                            19
-wixstudio.com                                                                                       19
 aposiiz.com                                                                                         18
 avtprogsystt.xyz                                                                                    18
 baltez-offic.xyz                                                                                    18
@@ -620,6 +620,8 @@ profit-activ.site                                                               
 program-pro1.site                                                                                   11
 projectprog.click                                                                                   11
 quantresear.ch                                                                                      11
+replit.app                                                                                          11
+replit.dev                                                                                          11
 riamor.xyz                                                                                          11
 roonss.xyz                                                                                          11
 savek.xyz                                                                                           11
@@ -681,7 +683,6 @@ eccocar.com                                                                     
 europaclicx.com                                                                                     10
 europeanoracle.xyz                                                                                  10
 expressre.cyou                                                                                      10
-ezra-ai.com                                                                                         10
 ezxz.lat                                                                                            10
 firewallzoqe.cyou                                                                                   10
 fivupsit.top                                                                                        10
@@ -724,7 +725,6 @@ poland-money.fun                                                                
 profitactiv1.top                                                                                    10
 profitcsh.site                                                                                      10
 proflivee.top                                                                                       10
-replit.app                                                                                          10
 riverffsa.cloud                                                                                     10
 sa.com                                                                                              10
 saigow.top                                                                                          10
