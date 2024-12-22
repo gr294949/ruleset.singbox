@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-22T04:31:26.079Z
-# Size: 109900
+# Last Updated: 2024-12-22T12:35:28.931Z
+# Size: 109943
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11331,6 +11331,7 @@ lgtvsdp.com
 +.nglmedia.com
 +.nicheads.com
 +.nichools.com
++.niecarsg.com
 +.nilipuyn.com
 +.ninaning.com
 +.ninthfad.com
@@ -11391,6 +11392,7 @@ lgtvsdp.com
 +.oaxoulro.com
 +.oaxpcohp.com
 +.obouckie.com
++.obqaxzon.com
 +.ocoaksib.com
 +.octobird.com
 +.odoscope.com
@@ -12036,6 +12038,7 @@ lgtvsdp.com
 +.steessay.com
 +.sthoutte.com
 +.stilaikr.com
++.stjpezyt.com
 +.stongors.com
 +.stookoth.com
 +.stoorgel.com
@@ -13374,6 +13377,7 @@ lgtvsdp.com
 +.fckmedate.com
 +.fd5orie8e.com
 +.fdiirjong.com
++.fdmmgwlcg.com
 +.feacbookk.com
 +.fecabookk.com
 +.feewostoo.com
@@ -16317,6 +16321,7 @@ lgtvsdp.com
 +.divolution.com
 +.dizzyporno.com
 +.dj-updates.com
++.dlgeebfbcp.com
 +.dlmonitize.com
 +.dn3hksy6kf.com
 +.doappcloud.com
@@ -18434,6 +18439,7 @@ samsungqbe.com
 +.aarghclothy.com
 +.abadit5rckb.com
 +.abbankquick.com
++.abbotsgalen.com
 +.abdedenneer.com
 +.abelestheca.com
 +.abelinentrk.com
@@ -22236,6 +22242,7 @@ samsungqbe.com
 +.lettucelimit.com
 +.leukemiaruns.com
 +.lfeaqcozlbki.com
++.lgjtvyurnivf.com
 +.lhioqxkralmy.com
 +.liambafaying.com
 +.lienquanches.com
@@ -22597,6 +22604,7 @@ samsungqbe.com
 +.ownzzohggdfb.com
 +.oxidemustard.com
 +.oxynticarkab.com
++.oyaoknzgoqkq.com
 +.oysterfoxfoe.com
 +.ozbkfuhpuolf.com
 +.padsdelivery.com
@@ -23596,6 +23604,7 @@ samsungqbe.com
 +.winterolivia.com
 +.withdrawdose.com
 +.withholdrise.com
++.withyouryret.com
 +.wittypopcorn.com
 +.wka4jursurf6.com
 +.wkpgetvhidtj.com
@@ -24215,6 +24224,7 @@ samsungqbe.com
 +.digitaloptout.com
 +.digyniahuffle.com
 +.diingsinspiri.com
++.diltqdxecyicf.com
 +.dimedoncywydd.com
 +.dinhdanhcutru.com
 +.diplomahawaii.com
@@ -24270,6 +24280,7 @@ samsungqbe.com
 +.dvdienmayxanh.com
 +.dwydqnclgflug.com
 +.dynamicoxygen.com
++.dzinzafogdpog.com
 +.e5asyhilodice.com
 +.eagainedameri.com
 +.eagle-insight.com
@@ -24619,6 +24630,7 @@ samsungqbe.com
 +.illfatedsnail.com
 +.illocalvetoes.com
 +.ilovecheating.com
++.imbarkfrailty.com
 +.imidicsecular.com
 +.imitationname.com
 +.imminentshake.com
@@ -24943,6 +24955,7 @@ samsungqbe.com
 +.nothingmethod.com
 +.nowsubmission.com
 +.noxaffiliates.com
++.nsftrmxwehcsm.com
 +.nudgehydrogen.com
 +.nurhagstackup.com
 +.nutantvirific.com
@@ -25142,6 +25155,7 @@ samsungqbe.com
 +.puzzlepursued.com
 +.pvwtkxcpsrcsd.com
 +.qfaqwxkclrwel.com
++.qnowyhbtjqvyn.com
 +.qrprobopassor.com
 +.qtkjqmxhmgspb.com
 +.quacksquirrel.com
@@ -25617,6 +25631,7 @@ samsungqbe.com
 +.trigs-sockets.com
 +.trk-consulatu.com
 +.truculentrate.com
++.trunchsubnect.com
 +.trutheyesstab.com
 +.truthvexedben.com
 +.tubeadnetwork.com
@@ -25817,6 +25832,7 @@ samsungqbe.com
 +.yourlustmedia.com
 +.yourniceposts.com
 +.youthfulnoise.com
++.yqghjejqlhbsv.com
 +.yresumeformor.com
 +.yuintbradshed.com
 +.zaphakesleigh.com
@@ -26580,6 +26596,7 @@ samsungqbe.com
 +.hotro-garenavn.com
 +.hotrotaichinhh.com
 +.howeverdipping.com
++.hpskiqiafxshdf.com
 +.hsklyftbctlrud.com
 +.hugfromoctopus.com
 +.humdrumhobbies.com
@@ -27064,6 +27081,7 @@ samsungqbe.com
 +.realhumandeals.com
 +.realitytraffic.com
 +.reasoncharmsin.com
++.reasoninstruct.com
 +.reauksoffyrikm.com
 +.receivedachest.com
 +.recentlywishes.com
@@ -27737,6 +27755,7 @@ samsungqbe.com
 +.ballroomswimmer.com
 +.banetabbeetroot.com
 +.bangedzipperbet.com
++.barricadecourse.com
 +.baseballletters.com
 +.bastarduponupon.com
 +.bathepoliteness.com
@@ -28381,6 +28400,7 @@ samsungqbe.com
 +.nondescriptnote.com
 +.nonesleepbridle.com
 +.nonestolesantes.com
++.notablefaxfloss.com
 +.notebookbesiege.com
 +.nothingpetwring.com
 +.notifydisparage.com
@@ -29419,6 +29439,7 @@ samsungqbe.com
 +.herbalbreedphase.com
 +.highfalutinhoney.com
 +.hilarioustasting.com
++.hiletterismypers.com
 +.hiprofitnetworks.com
 +.hoardpastimegolf.com
 +.hockeysacredbond.com
@@ -30781,6 +30802,7 @@ samsungqbe.com
 +.providedovernight.com
 +.prowesscourtsouth.com
 +.prunestownpostman.com
++.pubertybloatgrief.com
 +.publisher-network.com
 +.publishercounting.com
 +.puppyderisiverear.com
@@ -31628,6 +31650,7 @@ samsungqbe.com
 +.quetthe-tindung24h.com
 +.rageagainstthesoap.com
 +.railroadmanytwitch.com
++.railroadunofficial.com
 +.railwayboringnasal.com
 +.rambunctiousvoyage.com
 +.rankonefoldonefold.com
@@ -33070,6 +33093,7 @@ samsungcloudsolution.com
 +.sidegeographycondole.com
 +.sierrasectormacaroni.com
 +.sieuthivemaybaygiare.com
++.significantdoubloons.com
 +.signingdebauchunpack.com
 +.simplebrutedigestive.com
 +.siteimproveanalytics.com
@@ -34570,6 +34594,7 @@ samsungcloudsolution.com
 +.quarantinedisappearhive.com
 +.questioningexperimental.com
 +.quetthe-tindungtieudung.com
++.rashseedlingexpenditure.com
 +.recantgetawayassimilate.com
 +.receiverunfaithfulsmelt.com
 +.recitedocumentaryhaunch.com
@@ -35282,6 +35307,7 @@ samsungcloudsolution.com
 +.apostropheammunitioninjure.com
 +.appealingyouthfulhaphazard.com
 +.appendixbureaucracycommand.com
++.approbationoutwardconstrue.com
 +.assertnourishingconnection.com
 +.auxiliaryspokenrationalize.com
 +.backseatabundantpickpocket.com
@@ -35659,6 +35685,7 @@ samsungcloudsolution.com
 +.physicallyshillingattentions.com
 +.pinprickverificationdecember.com
 +.poignantsensitivenessforming.com
++.positivelyassertappreciation.com
 +.precipitationepisodevanished.com
 +.projectscupcakeinternational.com
 +.questioningtosscontradiction.com
@@ -38798,6 +38825,7 @@ samsungcloudsolution.com
 +.rirtoojoaw.net
 +.roi-rocket.net
 +.rutchauthe.net
++.sacedoamte.net
 +.sackeelroy.net
 +.savefromad.net
 +.sellaction.net
@@ -38863,6 +38891,7 @@ samsungcloudsolution.com
 +.viperotika.net
 +.viral4buzz.net
 +.vn-express.net
++.voopsookie.net
 +.vooptikoph.net
 +.vothongeey.net
 +.wazoceckoo.net
@@ -39282,6 +39311,7 @@ samsungcloudsolution.com
 +.worldhotnews.net
 +.yieldmanager.net
 +.zaiteegraity.net
++.zeksaugaunes.net
 +.8020solutions.net
 +.admarketplace.net
 +.agroupsaineph.net
@@ -39301,6 +39331,7 @@ samsungcloudsolution.com
 +.cakangautchus.net
 +.caulicuzooque.net
 +.cedexis-radar.net
++.chitchaudsoax.net
 +.come-get-s0me.net
 +.contentspread.net
 +.contentsquare.net
@@ -39413,6 +39444,7 @@ samsungcloudsolution.com
 +.donecperficiam.net
 +.doubleclick-cn.net
 +.download-ready.net
++.eebuksaicmirte.net
 +.emaxudrookrora.net
 +.faiphoawheepur.net
 +.foogloufoopoog.net
@@ -41281,6 +41313,7 @@ samsungcloudsolution.net
 +.mbbank247.top
 +.mepupr486.top
 +.millustry.top
++.mobcardel.top
 +.momidrovy.top
 +.montangop.top
 +.montkyodo.top
@@ -41666,6 +41699,7 @@ samsungcloudsolution.net
 +.qywjvlaoyeavv.top
 +.ramrodsmorals.top
 +.rboyqkyrwrvkq.top
++.rbweljjeqvevy.top
 +.reseenpeytrel.top
 +.rewaawoyamvky.top
 +.runklessubact.top
@@ -41696,6 +41730,7 @@ samsungcloudsolution.net
 +.vyebzzbovvorz.top
 +.watchmytopapp.top
 +.weayrvveooomw.top
++.wjljwqbmmjaqz.top
 +.wkwqljwykorov.top
 +.wlzzwzekkbkaj.top
 +.wmeqobozarbjm.top
@@ -46949,6 +46984,7 @@ nmbr.info
 +.pardyprofer.shop
 +.pertlythurl.shop
 +.pettyachras.shop
++.picturescil.shop
 +.pisehiation.shop
 +.pulpphlegma.shop
 +.rancheslava.shop
@@ -46993,6 +47029,7 @@ nmbr.info
 +.carolpresume.shop
 +.cawquawwoldy.shop
 +.cometappetit.shop
++.comoideludes.shop
 +.crawlerjamie.shop
 +.cs1olr0so31y.shop
 +.decaysskeery.shop
@@ -47058,6 +47095,7 @@ nmbr.info
 +.unleanmyrrhs.shop
 +.unleantaurid.shop
 +.unlockmelted.shop
++.unluredtawgi.shop
 +.unovertdomes.shop
 +.vib-solution.shop
 +.virgenomisms.shop
@@ -47144,6 +47182,7 @@ nmbr.info
 +.saurelwithsaw.shop
 +.schizorecooks.shop
 +.sendleinsects.shop
++.setworkgoloka.shop
 +.shaperswhorts.shop
 +.shardycacalia.shop
 +.sharondemurer.shop
@@ -47163,6 +47202,7 @@ nmbr.info
 +.verneukdottle.shop
 +.vib-gold-card.shop
 +.vitrealresewn.shop
++.weighssloughs.shop
 +.wrinkleinworn.shop
 +.zombistinfuls.shop
 +.38fbsbhhg0702m.shop
@@ -47205,6 +47245,7 @@ nmbr.info
 +.molokerpterion.shop
 +.morgenskenotic.shop
 +.numericprosapy.shop
++.obesityvanmost.shop
 +.obeyingdecrier.shop
 +.ocypetediplont.shop
 +.outtellhebenon.shop
@@ -47401,6 +47442,7 @@ nmbr.info
 +.igwatrsthg.site
 +.instadrama.site
 +.itrustzone.site
++.kczu-ohhuf.site
 +.km-kryxqvt.site
 +.mcafeescan.site
 +.morganbank.site
@@ -47714,6 +47756,7 @@ nmbr.info
 +.foutenaphtho.click
 +.germainnappy.click
 +.gharryronier.click
++.keiztimzdbjt.click
 +.khangalenten.click
 +.lillytrowman.click
 +.limneraminic.click
