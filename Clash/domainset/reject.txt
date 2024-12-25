@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-25T09:26:58.591Z
-# Size: 110135
+# Last Updated: 2024-12-25T12:37:29.994Z
+# Size: 110137
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -96427,6 +96427,7 @@ plausible.astexplorer.net
 +.europe-west1-bonnier-big-data.cloudfunctions.net
 +.europe-west1-sonorous-dragon-276210.cloudfunctions.net
 +.basilisk.community-arts.net
++.mobile-production.content-square.net
 +.a8cv.contents-sales.net
 +.track.coveredseniors.net
 +.stats.devetkomentara.net
@@ -96615,6 +96616,7 @@ plausible.astexplorer.net
 +.info.pbs.org
 +.microsite.pbs.org
 +.s.pie.org
++.t.pie.org
 +.adobe.pmi.org
 +.adobes.pmi.org
 +.metrics.ppt.org
