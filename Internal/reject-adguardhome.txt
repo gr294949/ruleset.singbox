@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 24 Dec 2024 13:57:57 GMT
+! Last modified: Wed, 25 Dec 2024 09:27:10 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -12349,6 +12349,7 @@
 ||vpuaklat.com^
 ||vqfumxea.com^
 ||vreqnait.com^
+||vriesziy.com^
 ||vscinyke.com^
 ||vsesumki.com^
 ||vsojfsoj.com^
@@ -36439,12 +36440,14 @@
 ||ix4.icu^
 ||jo4.icu^
 ||k9u.icu^
+||m51.icu^
 ||m6d.icu^
 ||n7a.icu^
 ||nm2.icu^
 ||nx8.icu^
 ||q8q.icu^
 ||qm2.icu^
+||r4u.icu^
 ||t7t.icu^
 ||u6u.icu^
 ||ua2.icu^
@@ -36693,6 +36696,7 @@
 ||rktjxj.icu^
 ||rmduuv.icu^
 ||ruqwgb.icu^
+||rwdjrn.icu^
 ||sacvmb.icu^
 ||sakguz.icu^
 ||seutop.icu^
@@ -37009,6 +37013,7 @@
 ||behvgsik.icu^
 ||biirmjnw.icu^
 ||bmhtwefv.icu^
+||bpxxgkoj.icu^
 ||btvbnrwo.icu^
 ||bujlmitd.icu^
 ||ccobksxz.icu^
@@ -41142,6 +41147,7 @@
 ||qweisiy.top^
 ||qweizay.top^
 ||qwerioy.top^
+||qwilmiy.top^
 ||qwoofao.top^
 ||qwsanan.top^
 ||qyisloy.top^
@@ -41186,6 +41192,7 @@
 ||tweisii.top^
 ||tweizai.top^
 ||twerioi.top^
+||twilmii.top^
 ||tyisloi.top^
 ||tyretui.top^
 ||tyuwkbi.top^
@@ -41615,6 +41622,7 @@
 ||garotedwhiff.top^
 ||gifturealdol.top^
 ||gigsmanhowls.top^
+||gmso12251oka.top^
 ||goonsphiltra.top^
 ||grigsreshown.top^
 ||gustyalumnal.top^
@@ -42066,6 +42074,7 @@
 ||vn-ebayn.vip^
 ||vnshopee.vip^
 ||aliexshop.vip^
+||cdn-gw-dv.vip^
 ||kaiyuantp.vip^
 ||myshopee7.vip^
 ||n55ylc001.vip^
@@ -68953,6 +68962,7 @@
 ||fpa-events.adweek.com^
 ||xml.adwooo.com^
 ||filter.adwooo.com^
+||cf.adxcel.com^
 ||management.adxnow.com^
 ||fuooms.aetrex.com^
 ||email.agfuse.com^
@@ -76962,6 +76972,7 @@
 ||trk.anthology.com^
 ||forms.anthology.com^
 ||learn.anthology.com^
+||statsig.anthropic.com^
 ||9kz9cttz76.antonsten.com^
 ||shop.anu-cosme.com^
 ||marketing.aod-cloud.com^
