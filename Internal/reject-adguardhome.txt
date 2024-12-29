@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 28 Dec 2024 12:36:03 GMT
+! Last modified: Sun, 29 Dec 2024 04:34:27 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10888,6 +10888,7 @@
 ||idreamed.com^
 ||ie3wisa4.com^
 ||ie8eamus.com^
+||iemhotqk.com^
 ||ifdnzact.com^
 ||ignslkgs.com^
 ||ihearsoh.com^
@@ -11101,7 +11102,6 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
-||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -11256,6 +11256,7 @@
 ||mtadvert.com^
 ||muaacccf.com^
 ||mucinyak.com^
+||murolwsi.com^
 ||mxp00338.com^
 ||myadcash.com^
 ||mybestdc.com^
@@ -11753,6 +11754,7 @@
 ||rekipion.com^
 ||relappro.com^
 ||relestar.com^
+||relgrads.com^
 ||reluraun.com^
 ||remaysky.com^
 ||reminews.com^
@@ -12295,6 +12297,7 @@
 ||vidustal.com^
 ||viettel6.com^
 ||viiavjpe.com^
+||viibmmqc.com^
 ||viicylmb.com^
 ||viiczfvm.com^
 ||viidsyej.com^
@@ -14265,6 +14268,7 @@
 ||phaitaghy.com^
 ||pharmcash.com^
 ||pheedsoan.com^
+||phjsnwuzj.com^
 ||phoawhoax.com^
 ||phraa-lby.com^
 ||picnewsss.com^
@@ -14939,6 +14943,7 @@
 ||upalytics.com^
 ||upclipper.com^
 ||uptimecdn.com^
+||urhjoqudc.com^
 ||urtirepor.com^
 ||usbanners.com^
 ||usebutton.com^
@@ -15420,10 +15425,12 @@
 ||64580df84b.com^
 ||65spy7rgcu.com^
 ||665166e5a9.com^
+||6657e4f5c2.com^
 ||666aa777bb.com^
 ||666bb777ww.com^
 ||666hh999gg.com^
 ||66a3413a7e.com^
+||66a5e92d66.com^
 ||68069795d1.com^
 ||6863fd0afc.com^
 ||68d6b65e65.com^
@@ -15892,6 +15899,7 @@
 ||bd33500074.com^
 ||bd51static.com^
 ||be30660063.com^
+||be51586160.com^
 ||bea988787c.com^
 ||beachlinkz.com^
 ||bealafulup.com^
@@ -16525,6 +16533,7 @@
 ||fc29334d79.com^
 ||fc7c8be451.com^
 ||fc861ba414.com^
+||fceedf7652.com^
 ||fcepahafyq.com^
 ||fd2cd5c351.com^
 ||fd39024d2a.com^
@@ -17910,6 +17919,7 @@
 ||spiralstab.com^
 ||spiraltrot.com^
 ||spn-twr-14.com^
+||spokanchap.com^
 ||spongecell.com^
 ||sponsormob.com^
 ||sponsorpay.com^
@@ -18263,6 +18273,7 @@
 ||vstvst8toc.com^
 ||vstvst9toc.com^
 ||vulcan-bit.com^
+||vxfxkhzdaa.com^
 ||vyfrxuytzn.com^
 ||vzigttqgqx.com^
 ||w4vecl1cks.com^
@@ -19977,6 +19988,7 @@
 ||paidforfree.com^
 ||painlightly.com^
 ||pajamasgnat.com^
+||palliwaklgz.com^
 ||pallorirony.com^
 ||palvanquish.com^
 ||panaservers.com^
@@ -21332,6 +21344,7 @@
 ||beestuneglon.com^
 ||behaviorbald.com^
 ||behindextend.com^
+||beingajoytow.com^
 ||believemefly.com^
 ||believeradar.com^
 ||bemadsonline.com^
@@ -22394,6 +22407,7 @@
 ||mendedrefuel.com^
 ||mentorsticks.com^
 ||mercadoclics.com^
+||messyadvance.com^
 ||messyoranges.com^
 ||metamask-app.com^
 ||metavertizer.com^
@@ -23895,6 +23909,7 @@
 ||ataiyalstrays.com^
 ||athitmontopon.com^
 ||athletethrong.com^
+||athyimemediat.com^
 ||atinsolutions.com^
 ||atmetagrossan.com^
 ||atriblethetch.com^
@@ -24646,6 +24661,7 @@
 ||hospitablehat.com^
 ||hotdealshopee.com^
 ||hotro0nline28.com^
+||hottedholster.com^
 ||hsvchnsvncvvd.com^
 ||hubristambacs.com^
 ||humiliatemoot.com^
@@ -25002,6 +25018,7 @@
 ||nowsubmission.com^
 ||noxaffiliates.com^
 ||nsftrmxwehcsm.com^
+||nubileforward.com^
 ||nudgehydrogen.com^
 ||nurhagstackup.com^
 ||nutantvirific.com^
@@ -25855,6 +25872,7 @@
 ||wundercounter.com^
 ||wviietcombank.com^
 ||wvvietcombank.com^
+||wxzjxasvczjoh.com^
 ||x4pollyxxpush.com^
 ||xacnhanvay247.com^
 ||xalienstreamx.com^
@@ -27124,6 +27142,7 @@
 ||rankingpartner.com^
 ||rankstarvation.com^
 ||raphidewakener.com^
+||rapidfoxengine.com^
 ||rapidhunchback.com^
 ||rasurescaribou.com^
 ||ratebilaterdea.com^
@@ -28216,6 +28235,7 @@
 ||heavyplayground.com^
 ||hedgehoghugsyou.com^
 ||heliumwinebluff.com^
+||helmethomicidal.com^
 ||helpingnauseous.com^
 ||hemhiveoccasion.com^
 ||hencemakesheavy.com^
@@ -36421,6 +36441,7 @@
 ||3ni.icu^
 ||3ts.icu^
 ||3vp.icu^
+||3xl.icu^
 ||4fr.icu^
 ||4i1.icu^
 ||4jc.icu^
@@ -36429,6 +36450,7 @@
 ||5ik.icu^
 ||6cs.icu^
 ||7hb.icu^
+||8cp.icu^
 ||8et.icu^
 ||a5t.icu^
 ||a7c.icu^
@@ -36708,6 +36730,7 @@
 ||rktjxj.icu^
 ||rmduuv.icu^
 ||ruqwgb.icu^
+||rvxmlj.icu^
 ||rwdjrn.icu^
 ||sacvmb.icu^
 ||sakguz.icu^
@@ -37091,6 +37114,7 @@
 ||tuxpfiok.icu^
 ||uaqdgrfr.icu^
 ||ugajiwft.icu^
+||vjzvgvgz.icu^
 ||vkbxaixl.icu^
 ||vokzqgjp.icu^
 ||vrdfxioe.icu^
@@ -41001,6 +41025,7 @@
 ||eyuwkbw.top^
 ||fabu333.top^
 ||h5lwvwj.top^
+||hclimiu.top^
 ||hdamcsu.top^
 ||hdickeu.top^
 ||hdoshbu.top^
@@ -41025,6 +41050,7 @@
 ||hyjqgpu.top^
 ||hyretuu.top^
 ||hyuwkbu.top^
+||iclimio.top^
 ||idamcso.top^
 ||idickeo.top^
 ||iditero.top^
@@ -41781,6 +41807,7 @@
 ||ductedcestoid.top^
 ||embeamratline.top^
 ||equiptmullein.top^
+||ethylicestops.top^
 ||favoredkuwait.top^
 ||flousecuprate.top^
 ||fondueoutwish.top^
@@ -41797,6 +41824,7 @@
 ||hoickedfoamer.top^
 ||impofobulimic.top^
 ||jbbyyryezqqvq.top^
+||jbvoejzamqjzl.top^
 ||jbzmwqmqwowaz.top^
 ||jelokeryevbyy.top^
 ||jkzakzalzorvb.top^
@@ -41838,6 +41866,7 @@
 ||qazrvobkmqvmr.top^
 ||qbkrawrkzeyez.top^
 ||qerkbejqwqjkr.top^
+||qmrelvezolbrv.top^
 ||qmyzawzjkrrjb.top^
 ||qrkwvoomrbroo.top^
 ||quasarcouhage.top^
@@ -44048,6 +44077,7 @@
 ||kjappzvz.xyz^
 ||kjrspnbf.xyz^
 ||kkbbjtfp.xyz^
+||klh3j19w.xyz^
 ||kltmjevd.xyz^
 ||kmrnkjer.xyz^
 ||knfhxszj.xyz^
@@ -44225,6 +44255,7 @@
 ||shomsouw.xyz^
 ||shoojouh.xyz^
 ||sirdushi.xyz^
+||skvxbool.xyz^
 ||skyxqbbv.xyz^
 ||soawousa.xyz^
 ||souraivo.xyz^
@@ -44650,6 +44681,7 @@
 ||joastoopsu.xyz^
 ||jpmldwvjqd.xyz^
 ||jyfirjqojg.xyz^
+||kaarheciqa.xyz^
 ||kfpicimage.xyz^
 ||kiftajojuy.xyz^
 ||kqiivrxlal.xyz^
@@ -47202,6 +47234,7 @@
 ||bemolintrans.shop^
 ||bergletiphis.shop^
 ||brodieoccurs.shop^
+||busedsoccage.shop^
 ||buticiodized.shop^
 ||bwozo9iqg75l.shop^
 ||carolpresume.shop^
@@ -48383,6 +48416,7 @@
 ||x-jmezfjpjt.today^
 ||ceaankluwuov.today^
 ||cjuzydnvklnq.today^
+||news-bbipasu.today^
 ||xx-umomfzqik.today^
 ||zdkgxeeykuhs.today^
 ||nhantienquocte.today^
@@ -48671,6 +48705,7 @@
 ||demowebcode.online^
 ||eunpprzdlkf.online^
 ||hospitalsky.online^
+||hpilzison-r.online^
 ||jetkingncsc.online^
 ||ladyvietnam.online^
 ||letterslamp.online^
@@ -63585,6 +63620,7 @@
 ||pr.rusmed.ru^
 ||rot.rusoul.ru^
 ||log.rutube.ru^
+||ssp.rutube.ru^
 ||yast.rutube.ru^
 ||c.sibnet.ru^
 ||vst.sibnet.ru^
@@ -65286,6 +65322,7 @@
 ||taikhoanvps.com.vn^
 ||taichinhbank.com.vn^
 ||thegiodidong.com.vn^
+||thuekhachsan.com.vn^
 ||shinhanonline.com.vn^
 ||vaythinhvuong.com.vn^
 ||vieclamlazada.com.vn^
@@ -70258,6 +70295,7 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
+||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -71145,6 +71183,7 @@
 ||get.plural.com^
 ||go.plygem.com^
 ||track.plygem.com^
+||sentry.pnblab.com^
 ||click.pockee.com^
 ||get.pockit.com^
 ||join.pockit.com^
@@ -80940,7 +80979,6 @@
 ||7dd9b32ed6.65566a6ab6.com^
 ||657376d1f1.65a95a9d2b.com^
 ||www.66-trk-srv.com^
-||de597327a9.6657e4f5c2.com^
 ||af07fa0ce8.6662a5efa0.com^
 ||9179ef7ec3.6778056ac3.com^
 ||9eeb47afec.678aea51c0.com^
@@ -94397,6 +94435,7 @@
 ||tracker.xgen.dev^
 ||limpet.yago.dev^
 ||plausible.zest.dev^
+||matomo.akbal.dev^
 ||link.bambu.dev^
 ||bandicoot.mohit.dev^
 ||al.mtrxs.dev^
