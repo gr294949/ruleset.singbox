@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-30T12:15:36.595Z
-# Size: 2868
+# Last Updated: 2024-12-30T13:05:39.158Z
+# Size: 2870
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2313,6 +2313,8 @@ mastodon-static.miao.dev
 cdn.pika.dev
 p.sda1.dev
 npm.antfu.dev
+p.depot.dev
+k-cdn.depot.dev
 fonts.upset.dev
 plugins.dprint.dev
 fiddle.fastly.dev

@@ -1502,6 +1502,8 @@
         "cdn.pika.dev",
         "p.sda1.dev",
         "npm.antfu.dev",
+        "p.depot.dev",
+        "k-cdn.depot.dev",
         "fonts.upset.dev",
         "plugins.dprint.dev",
         "fiddle.fastly.dev",
