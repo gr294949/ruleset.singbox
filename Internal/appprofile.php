@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-12-31T17:10:30.911Z
+// # Build 2024-12-31T17:35:46.010Z
 
 declare(strict_types=1);
 
@@ -1355,6 +1355,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dcblivedazn.akamaized.net,Stream',
         'DOMAIN-SUFFIX,spotify-com.akamaized.net,Stream',
         'DOMAIN,staticasiafox.akamaized.net,Stream',
+        'DOMAIN,ds-linear-abematv.akamaized.net,Stream',
         'DOMAIN,upos-bstar-mirrorakam.akamaized.net,Stream',
         'DOMAIN,upos-bstar1-mirrorakam.akamaized.net,Stream',
         'DOMAIN,players.brightcove.net,Stream',
