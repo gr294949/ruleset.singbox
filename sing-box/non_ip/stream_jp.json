@@ -26,9 +26,10 @@
         "hayabusa.dev",
         "dmc.nico",
         "hayabusa.media",
-        "dmm.co.jp"
+        "dmm.co.jp",
+        "location-plus.nhk.jp"
       ],
-      "domain_keyword": ["abematv.akamaized.net"],
+      "domain_keyword": [],
       "domain_regex": [],
       "ip_cidr": [],
       "source_ip_cidr": [],

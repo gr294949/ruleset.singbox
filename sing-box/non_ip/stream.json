@@ -225,6 +225,7 @@
         "spotify.design",
         "kk.stream",
         "dmm.co.jp",
+        "location-plus.nhk.jp",
         "kktv.com.tw",
         "kkbox.com.tw",
         "bahamut.com.tw",
@@ -251,7 +252,6 @@
         "psg.cdn.hgc.com.hk"
       ],
       "domain_keyword": [
-        "abematv.akamaized.net",
         "avoddashs",
         "bbcfmt",
         "uk-live",

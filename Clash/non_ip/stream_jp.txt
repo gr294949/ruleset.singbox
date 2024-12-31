@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Japan
-# Last Updated: 2024-10-15T10:37:05.760Z
+# Last Updated: 2024-12-31T17:10:30.716Z
 # Size: 25
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -11,6 +11,7 @@
 # - niconico
 # - Hulu Japan
 # - encoreTVB JP
+# - NHK Plus
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,abema.io
@@ -36,5 +37,5 @@ DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,location-plus.nhk.jp
 ################## EOF ##################

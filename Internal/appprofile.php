@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-12-31T12:37:33.914Z
+// # Build 2024-12-31T17:10:30.911Z
 
 declare(strict_types=1);
 
@@ -1323,6 +1323,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,spotify.design,Stream',
         'DOMAIN-SUFFIX,kk.stream,Stream',
         'DOMAIN-SUFFIX,dmm.co.jp,Stream',
+        'DOMAIN-SUFFIX,location-plus.nhk.jp,Stream',
         'DOMAIN-SUFFIX,kktv.com.tw,Stream',
         'DOMAIN-SUFFIX,kkbox.com.tw,Stream',
         'DOMAIN-SUFFIX,bahamut.com.tw,Stream',
@@ -1396,7 +1397,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,Stream',
         'DOMAIN,cbsi.live.ott.irdeto.com,Stream',
         'DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Stream',
-        'DOMAIN-KEYWORD,abematv.akamaized.net,Stream',
         'DOMAIN-KEYWORD,avoddashs,Stream',
         'DOMAIN-KEYWORD,bbcfmt,Stream',
         'DOMAIN-KEYWORD,uk-live,Stream',
@@ -2920,7 +2920,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.150.236.0/23,Domestic',
         'IP-CIDR,45.153.128.0/22,Domestic',
         'IP-CIDR,45.157.70.0/23,Domestic',
-        'IP-CIDR,45.192.64.0/19,Domestic',
         'IP-CIDR,45.199.167.0/24,Domestic',
         'IP-CIDR,45.204.112.0/20,Domestic',
         'IP-CIDR,45.248.8.0/22,Domestic',
@@ -5352,7 +5351,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,154.205.96.0/20,Domestic',
         'IP-CIDR,154.205.112.0/21,Domestic',
         'IP-CIDR,154.205.124.0/22,Domestic',
-        'IP-CIDR,154.223.96.0/19,Domestic',
         'IP-CIDR,155.126.176.0/23,Domestic',
         'IP-CIDR,156.0.92.0/22,Domestic',
         'IP-CIDR,156.107.160.0/24,Domestic',
@@ -5368,7 +5366,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.232.9.0/24,Domestic',
         'IP-CIDR,156.232.10.0/23,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
-        'IP-CIDR,156.239.64.0/18,Domestic',
+        'IP-CIDR,156.239.96.0/19,Domestic',
         'IP-CIDR,156.239.224.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',

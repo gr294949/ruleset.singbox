@@ -1,5 +1,5 @@
 === base ===
-cloudfront.net                                                                                      1250
+cloudfront.net                                                                                      1251
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
@@ -210,9 +210,9 @@ qq.com                                                                          
 rciadventure.com                                                                                    46
 adktrack30.xyz                                                                                      44
 taxility.com                                                                                        44
-wixstudio.io                                                                                        44
 kanuassociates.com                                                                                  43
 serverpower.net                                                                                     43
+wixstudio.io                                                                                        43
 supplypoland.com                                                                                    40
 adkplan.fr                                                                                          39
 aimedia.lk                                                                                          38
