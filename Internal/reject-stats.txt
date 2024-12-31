@@ -117,7 +117,6 @@ discoveryplus.com                                                               
 groc.press                                                                                          13
 inhaabit.com                                                                                        13
 mgtv.com                                                                                            13
-powzers.lol                                                                                         13
 verintsystemsinc.com                                                                                13
 zalo.me                                                                                             13
 360safe.com                                                                                         12
@@ -201,8 +200,8 @@ b-cdn.net                                                                       
 mhi.co.jp                                                                                           75
 tggame.xyz                                                                                          68
 awicksin.com                                                                                        67
-wpenginepowered.com                                                                                 59
 netspend.com                                                                                        58
+wpenginepowered.com                                                                                 58
 bravenet.com                                                                                        54
 on-fleek.app                                                                                        51
 plus.com                                                                                            51
@@ -247,17 +246,16 @@ gelopro.com                                                                     
 glam.com                                                                                            25
 lakeviewcondostaug.com                                                                              25
 prosystemorgo.com                                                                                   25
-wixstudio.com                                                                                       25
 bakerstreetfinance.tv                                                                               24
 beblon.com                                                                                          24
 hostingkampanya.com                                                                                 24
+wixstudio.com                                                                                       24
 autograalmann.de                                                                                    23
 clead.xyz                                                                                           23
 lcef.com                                                                                            23
 bonnelectureatous.fr                                                                                22
 eliteoftokens.com                                                                                   21
 epinlock.com                                                                                        21
-mytemp.website                                                                                      21
 3u84.icu                                                                                            20
 acfdigital.site                                                                                     20
 endiim.com                                                                                          20
@@ -266,6 +264,7 @@ gkag.top                                                                        
 globaltradruv.com                                                                                   20
 inhhome.top                                                                                         20
 lixprog.click                                                                                       20
+mytemp.website                                                                                      20
 pixipl.xyz                                                                                          20
 schroders.com                                                                                       20
 traswi.pl                                                                                           20
@@ -281,7 +280,6 @@ b66t.top                                                                        
 bitupes.xyz                                                                                         19
 bloxg.top                                                                                           19
 buddaa.xyz                                                                                          19
-checkiteasy.com                                                                                     19
 deptesp.com                                                                                         19
 facst.xyz                                                                                           19
 gamemods.com.tr                                                                                     19
@@ -302,6 +300,7 @@ avtprogsystt.xyz                                                                
 baltez-offic.xyz                                                                                    18
 cashhs-news.top                                                                                     18
 cftvpinheiro.com.br                                                                                 18
+checkiteasy.com                                                                                     18
 duums.xyz                                                                                           18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
@@ -510,6 +509,7 @@ topplid.site                                                                    
 tradwzorce.top                                                                                      13
 trdepl.xyz                                                                                          13
 wodmell.top                                                                                         13
+workers.dev                                                                                         13
 xdsmh.lat                                                                                           13
 xpowwerful.top                                                                                      13
 zettle.com                                                                                          13
@@ -560,7 +560,6 @@ tineda.xyz                                                                      
 torgsystem.space                                                                                    12
 tp2-axz.xyz                                                                                         12
 univer.se                                                                                           12
-us.kg                                                                                               12
 visite-vendee.com                                                                                   12
 wegn.top                                                                                            12
 welerpro.com                                                                                        12
@@ -752,6 +751,7 @@ trioprofit2.online                                                              
 trioprofit3.online                                                                                  10
 trioprofit4.online                                                                                  10
 trioprofit5.online                                                                                  10
+us.kg                                                                                               10
 vab5.cfd                                                                                            10
 valhaalla.xyz                                                                                       10
 vgml.lat                                                                                            10
