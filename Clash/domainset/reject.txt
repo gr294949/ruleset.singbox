@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-12-30T12:15:36.389Z
-# Size: 112953
+# Last Updated: 2024-12-31T04:15:49.202Z
+# Size: 113018
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2178,6 +2178,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.congoro.ir
 +.farsbux.ir
 +.intrack.ir
++.mat-pnu.ir
 +.onclick.ir
 +.p30rank.ir
 +.popupdl.ir
@@ -2196,7 +2197,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.tinystat.ir
 +.backority.ir
 +.fastclick.ir
-+.meashstis.ir
 +.mitrarank.ir
 +.partclick.ir
 +.peyvandha.ir
@@ -5211,6 +5211,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.mlno6.com
 +.mlt01.com
 +.mm786.com
++.mmrtb.com
 +.mmtro.com
 +.mn1nm.com
 +.mnhjk.com
@@ -10435,6 +10436,7 @@ lgtvsdp.com
 +.creofive.com
 +.crepgate.com
 +.cretgate.com
++.crigroik.com
 +.crispads.com
 +.crjpgate.com
 +.crmentjg.com
@@ -11567,6 +11569,7 @@ lgtvsdp.com
 +.piarecdn.com
 +.picbitok.com
 +.picbucks.com
++.pictreed.com
 +.pignuwoa.com
 +.pimg2023.com
 +.pipeaota.com
@@ -11923,6 +11926,7 @@ lgtvsdp.com
 +.shinhan0.com
 +.shodaisy.com
 +.shoelace.com
++.sholphot.com
 +.shoopaem.com
 +.shootoax.com
 +.shop2727.com
@@ -15295,6 +15299,7 @@ lgtvsdp.com
 +.222aa333bb.com
 +.2295b1e0bd.com
 +.22c29c62b3.com
++.22cbbac9cd.com
 +.22ei7q8l12.com
 +.240aca2365.com
 +.247appbank.com
@@ -15344,6 +15349,7 @@ lgtvsdp.com
 +.314b24ffc5.com
 +.3221dkf7m2.com
 +.32596c0d85.com
++.32ae2295ab.com
 +.3467b7d02e.com
 +.34d5566a50.com
 +.350c2478fb.com
@@ -15863,6 +15869,7 @@ lgtvsdp.com
 +.atsabwhkox.com
 +.auburn9819.com
 +.audienceiq.com
++.auenpiuqxw.com
 +.aulseewhie.com
 +.auroramine.com
 +.authedmine.com
@@ -16105,6 +16112,7 @@ lgtvsdp.com
 +.calmcactus.com
 +.campartner.com
 +.camptwined.com
++.canelorets.com
 +.canopylabs.com
 +.capablecup.com
 +.caphrizing.com
@@ -16160,6 +16168,7 @@ lgtvsdp.com
 +.chefattend.com
 +.chesscolor.com
 +.chesscrowd.com
++.chetahtalc.com
 +.chicoryapp.com
 +.chinsnakes.com
 +.chipleader.com
@@ -16477,6 +16486,7 @@ lgtvsdp.com
 +.electosake.com
 +.elentmatch.com
 +.elite-s001.com
++.elutesmerc.com
 +.embassykeg.com
 +.embi-media.com
 +.embodygoes.com
@@ -16565,6 +16575,7 @@ lgtvsdp.com
 +.fc29334d79.com
 +.fc7c8be451.com
 +.fc861ba414.com
++.fcc217ae84.com
 +.fceedf7652.com
 +.fcepahafyq.com
 +.fd2cd5c351.com
@@ -16896,6 +16907,7 @@ lgtvsdp.com
 +.infopicked.com
 +.infrashift.com
 +.inhanceego.com
++.injcxwircl.com
 +.inkornesto.com
 +.inmespritr.com
 +.innatecomb.com
@@ -17155,9 +17167,11 @@ lgtvsdp.com
 +.mediavenus.com
 +.mediawayss.com
 +.mediazcorp.com
++.medranquel.com
 +.meendocash.com
 +.meet-buddy.com
 +.mega-stats.com
++.melderhuzz.com
 +.mellowhush.com
 +.mepirtedic.com
 +.merequartz.com
@@ -17243,6 +17257,7 @@ lgtvsdp.com
 +.mupattbpoj.com
 +.mushywaste.com
 +.mustbehand.com
++.muthfourre.com
 +.mvfmdfsvoq.com
 +.mxmkhyrmup.com
 +.myaudioads.com
@@ -17957,6 +17972,7 @@ samsungqbe.com
 +.sponsormob.com
 +.sponsorpay.com
 +.spotstring.com
++.sprayeybxs.com
 +.sprintrade.com
 +.spunkycash.com
 +.spyluhqarm.com
@@ -18319,6 +18335,7 @@ samsungqbe.com
 +.wanodtbfif.com
 +.wansultoud.com
 +.wantedjeff.com
++.wargfybaqc.com
 +.warmquiver.com
 +.warped-bus.com
 +.washbanana.com
@@ -18858,6 +18875,7 @@ samsungqbe.com
 +.buzzonclick.com
 +.bwvofgqhmab.com
 +.byambipoman.com
++.byardoccurs.com
 +.byfoongusor.com
 +.ca-nhan-vpb.com
 +.caanalytics.com
@@ -19906,6 +19924,7 @@ samsungqbe.com
 +.normalfloat.com
 +.nothingunit.com
 +.nothycantyo.com
++.noticedbibi.com
 +.notifyglass.com
 +.notionfoggy.com
 +.notjdyincro.com
@@ -20170,6 +20189,7 @@ samsungqbe.com
 +.qatsbesagne.com
 +.qatttuluhog.com
 +.qel-qel-fie.com
++.qerestooker.com
 +.qfoodskfubk.com
 +.qglinlrtdfc.com
 +.qgxbluhsgad.com
@@ -20454,6 +20474,7 @@ samsungqbe.com
 +.slaysweater.com
 +.slimopinion.com
 +.slinkonline.com
++.slurpsbeets.com
 +.smart-below.com
 +.smartadtags.com
 +.smartlphost.com
@@ -21505,6 +21526,7 @@ samsungqbe.com
 +.cargodescent.com
 +.carloforward.com
 +.carlossteady.com
++.carnelbawrel.com
 +.cash-program.com
 +.cash4members.com
 +.casino-zilla.com
@@ -21595,6 +21617,7 @@ samsungqbe.com
 +.colanbalkily.com
 +.coldflownews.com
 +.coldhardcash.com
++.collieskelpy.com
 +.colossalcoat.com
 +.combativecar.com
 +.cometlytrack.com
@@ -21808,6 +21831,7 @@ samsungqbe.com
 +.eontappetito.com
 +.eperfectdata.com
 +.eputysolomon.com
++.equablequeue.com
 +.erotikdating.com
 +.ersislaqands.com
 +.eru5tdmbuwxm.com
@@ -22601,6 +22625,7 @@ samsungqbe.com
 +.oatchoagnoud.com
 +.oawhaursaith.com
 +.obedientrock.com
++.obeliacallay.com
 +.observantice.com
 +.observativus.com
 +.observedlily.com
@@ -22720,6 +22745,7 @@ samsungqbe.com
 +.pedropanther.com
 +.peeredgerman.com
 +.peeredstates.com
++.peevishdawed.com
 +.pelamydlours.com
 +.penniedtache.com
 +.pennynetwork.com
@@ -22989,6 +23015,7 @@ samsungqbe.com
 +.roomersgluts.com
 +.roomrentpast.com
 +.roomyreading.com
++.rootcaptawed.com
 +.rotondelibya.com
 +.rougharmless.com
 +.roughseaside.com
@@ -23314,6 +23341,7 @@ samsungqbe.com
 +.taoyinbiacid.com
 +.tapewherever.com
 +.tapinfluence.com
++.tarafnagging.com
 +.targetingnow.com
 +.tarttendency.com
 +.tasksimplify.com
@@ -23476,6 +23504,7 @@ samsungqbe.com
 +.turbanmadman.com
 +.turkeychoice.com
 +.turkhawkswig.com
++.tushiedidder.com
 +.tuvanruttien.com
 +.tuyendung203.com
 +.tvprocessing.com
@@ -23531,6 +23560,7 @@ samsungqbe.com
 +.utilizedshoe.com
 +.utm-campaign.com
 +.utmostsecond.com
++.utopiankudzu.com
 +.utterlysever.com
 +.uvphvlgtqjye.com
 +.vacaneedasap.com
@@ -23886,6 +23916,7 @@ samsungqbe.com
 +.aloudhardware.com
 +.alpangorochan.com
 +.alreadywailed.com
++.alrightcorozo.com
 +.altronopubacc.com
 +.alwhichhereal.com
 +.ambientlagoon.com
@@ -25173,6 +25204,7 @@ samsungqbe.com
 +.piquantmeadow.com
 +.piquantvortex.com
 +.pityneedsdads.com
++.pivotsforints.com
 +.pixel-tracker.com
 +.pizzasocalled.com
 +.planepleasant.com
@@ -25240,6 +25272,7 @@ samsungqbe.com
 +.protectsubrev.com
 +.protectwborcn.com
 +.proximitywars.com
++.pschentinfile.com
 +.pubimageboard.com
 +.pubtagmanager.com
 +.pudicalnablus.com
@@ -25401,6 +25434,7 @@ samsungqbe.com
 +.scdienmayxanh.com
 +.scenegaitlawn.com
 +.scenicapparel.com
++.schochedueful.com
 +.scholarsslate.com
 +.schoolunmoved.com
 +.schoonnonform.com
@@ -25578,6 +25612,7 @@ samsungqbe.com
 +.stagingjobshq.com
 +.stakingbasket.com
 +.stallionsmile.com
++.staneddivvied.com
 +.starry-galaxy.com
 +.startwebpromo.com
 +.steadfastseat.com
@@ -25714,6 +25749,7 @@ samsungqbe.com
 +.torchtrifling.com
 +.totalcoolblog.com
 +.totalnicefeed.com
++.touchytautogs.com
 +.tovespiquener.com
 +.towardsturtle.com
 +.toxonetwigger.com
@@ -25887,6 +25923,7 @@ samsungqbe.com
 +.winningorphan.com
 +.wistfulflight.com
 +.withmefeyaukn.com
++.withnimmunger.com
 +.witnessjacket.com
 +.wkcwtmsbrmbka.com
 +.wmail-service.com
@@ -26272,6 +26309,7 @@ samsungqbe.com
 +.chodraihooksar.com
 +.cholatetapalos.com
 +.chooseimmersed.com
++.chorwatcurlike.com
 +.chovayfecredit.com
 +.chroniclesugar.com
 +.chubbycreature.com
@@ -26905,6 +26943,7 @@ samsungqbe.com
 +.metrica-yandex.com
 +.mhfkleqnjlfbqe.com
 +.mickiesetheric.com
++.midtermdoozers.com
 +.midwifelangurs.com
 +.millioncounter.com
 +.mindlessslogan.com
@@ -26916,6 +26955,7 @@ samsungqbe.com
 +.missionrewards.com
 +.misspelluptown.com
 +.mistakeenforce.com
++.mitratechoiler.com
 +.mjglzzwwheqlqe.com
 +.mlnadvertising.com
 +.mmchoicehaving.com
@@ -26938,6 +26978,7 @@ samsungqbe.com
 +.muddiedbubales.com
 +.mufflercypress.com
 +.mukhtarproving.com
++.mulmullcottrel.com
 +.muricidmartins.com
 +.my-rudderjolly.com
 +.mycooljourneyz.com
@@ -27013,6 +27054,8 @@ samsungqbe.com
 +.orecticconchae.com
 +.organizerprobe.com
 +.originatecrane.com
++.orkwithcatukhy.com
++.orlandowaggons.com
 +.ornatecomputer.com
 +.osmeticjewlike.com
 +.osshydreigonan.com
@@ -27088,6 +27131,7 @@ samsungqbe.com
 +.pledgetolerate.com
 +.plentifulqueen.com
 +.ployingcurship.com
++.pluvianuruguay.com
 +.poemblotrating.com
 +.pointdigestion.com
 +.pointespassage.com
@@ -27209,6 +27253,7 @@ samsungqbe.com
 +.redstatcounter.com
 +.redundancymail.com
 +.refraintupaiid.com
++.refulgebesague.com
 +.refundlikeness.com
 +.relativelyfang.com
 +.releasedfinish.com
@@ -27290,6 +27335,7 @@ samsungqbe.com
 +.sciencerevenue.com
 +.scoopauthority.com
 +.screechcompany.com
++.screighbedfast.com
 +.scribblestring.com
 +.scubaenterdane.com
 +.sdiatesupervis.com
@@ -27481,6 +27527,7 @@ samsungqbe.com
 +.teenytinyshirt.com
 +.termerspatrice.com
 +.testifyconvent.com
++.tetheryplagues.com
 +.tetrylscullion.com
 +.tgbpdufhyqbvhx.com
 +.theekedgleamed.com
@@ -27613,6 +27660,7 @@ samsungqbe.com
 +.venturepeasant.com
 +.venueitemmagic.com
 +.venulaeriggite.com
++.vespinebarless.com
 +.vetchesthiever.com
 +.vibrantsundown.com
 +.videoplayerhub.com
@@ -27677,6 +27725,7 @@ samsungqbe.com
 +.whisperofisaak.com
 +.whistlingvowel.com
 +.whitenoisenews.com
++.whizzerrapiner.com
 +.wholecoolposts.com
 +.wholedailyfeed.com
 +.wholehugewords.com
@@ -28100,6 +28149,7 @@ samsungqbe.com
 +.earningsgrandpa.com
 +.earthquakescarf.com
 +.easyhitcounters.com
++.ediatesuperviso.com
 +.edstevermotorie.com
 +.educationalroot.com
 +.edutechlearners.com
@@ -36491,6 +36541,7 @@ samsungcloudsolution.com
 +.4sq.icu
 +.4we.icu
 +.5ik.icu
++.5yl.icu
 +.6cs.icu
 +.6ku.icu
 +.7hb.icu
@@ -36794,6 +36845,7 @@ samsungcloudsolution.com
 +.uojoqx.icu
 +.veaiyl.icu
 +.vmnlkr.icu
++.vopzhl.icu
 +.vuvnix.icu
 +.vwmjkl.icu
 +.vwsgmf.icu
@@ -37132,6 +37184,7 @@ samsungcloudsolution.com
 +.lfrdskwj.icu
 +.ljzcawea.icu
 +.locpikbb.icu
++.ltvutlyu.icu
 +.lumvkebr.icu
 +.nbfsvreu.icu
 +.ngxzkaxf.icu
@@ -39213,6 +39266,7 @@ samsungcloudsolution.com
 +.paishoonain.net
 +.parkingcrew.net
 +.partnerearn.net
++.penaikaucmu.net
 +.phanmemfree.net
 +.phautchauni.net
 +.phockukoagu.net
@@ -39305,6 +39359,7 @@ samsungcloudsolution.com
 +.bannerbridge.net
 +.bannerchange.net
 +.baotienphong.net
++.baushoaptauw.net
 +.bewhechaichi.net
 +.boostaubeehy.net
 +.buycheaphost.net
@@ -39567,6 +39622,7 @@ samsungcloudsolution.com
 +.ossmightyenar.net
 +.outseethoozet.net
 +.paidonresults.net
++.paizowheefash.net
 +.phecoungaudsi.net
 +.phurdoutchouz.net
 +.privateseiten.net
@@ -39632,6 +39688,7 @@ samsungcloudsolution.com
 +.gitsurtithauth.net
 +.gletsimtoagoab.net
 +.globalwebindex.net
++.glougloowhoumt.net
 +.gockardajaiheb.net
 +.goobefirumaupt.net
 +.goryachie-foto.net
@@ -39774,6 +39831,7 @@ samsungcloudsolution.com
 +.shopkellygaming.net
 +.shudoufunguptie.net
 +.smarttargetting.net
++.soglaiksouphube.net
 +.statsadvance-01.net
 +.stikroltiltoowi.net
 +.stoagouruzostee.net
@@ -41050,6 +41108,7 @@ samsungcloudsolution.net
 +.cyretuf.top
 +.cyuwkbf.top
 +.drivago.top
++.eclimiw.top
 +.edamcsw.top
 +.edickew.top
 +.edoshbw.top
@@ -41147,6 +41206,7 @@ samsungcloudsolution.net
 +.jwilmia.top
 +.jyisloa.top
 +.jyuwkba.top
++.kclimid.top
 +.kdamcsd.top
 +.kdicked.top
 +.kdoshbd.top
@@ -41253,6 +41313,7 @@ samsungcloudsolution.net
 +.qyisloy.top
 +.qyuwkby.top
 +.qywbslk.top
++.sclimib.top
 +.sdamcsb.top
 +.sdickeb.top
 +.sdoshbb.top
@@ -41730,6 +41791,7 @@ samsungcloudsolution.net
 +.goonsphiltra.top
 +.grigsreshown.top
 +.gustyalumnal.top
++.gytlingpaint.top
 +.haggingmasha.top
 +.hdqrswhipped.top
 +.hfkncj-qalcg.top
@@ -41840,6 +41902,7 @@ samsungcloudsolution.net
 +.cassinamawger.top
 +.caulisnombles.top
 +.cephidcoastal.top
++.chiralboutons.top
 +.colentkeruing.top
 +.cozenedkwanza.top
 +.cupulaeveinal.top
@@ -44733,6 +44796,7 @@ samsungcloudsolution.net
 +.kaarheciqa.xyz
 +.kfpicimage.xyz
 +.kiftajojuy.xyz
++.kocauthoaw.xyz
 +.kqiivrxlal.xyz
 +.ksnooastqr.xyz
 +.ksyompbwor.xyz
@@ -47119,6 +47183,7 @@ nmbr.info
 +.free-fire.shop
 +.ggttbe961.shop
 +.ggttmu853.shop
++.gishpurer.shop
 +.hajecurie.shop
 +.hhffks967.shop
 +.hhffnu135.shop
@@ -47363,6 +47428,7 @@ nmbr.info
 +.vanirausones.shop
 +.vib-solution.shop
 +.virgenomisms.shop
++.vivaxhouvari.shop
 +.webeyelaguna.shop
 +.wemmyoolakan.shop
 +.wmmbcwzd24bk.shop
@@ -47398,6 +47464,7 @@ nmbr.info
 +.dipodesoutane.shop
 +.doltishapodes.shop
 +.dufoilreslate.shop
++.dwellerfosset.shop
 +.elegantmassoy.shop
 +.enstylegantry.shop
 +.etypicthawier.shop
@@ -72493,6 +72560,7 @@ analytics.workos.com
 +.static.xeloop.com
 +.rtb-useast-v4.xeloop.com
 +.analyticswritenew.xerevo.com
++.cluster.xhspot.com
 +.b1.xiao84.com
 +.becode.xiao84.com
 +.salary.xiao84.com
@@ -81482,7 +81550,6 @@ httpdns.yunxindns.com
 +.aa7514796b.224e37d1ce.com
 +.analytics.2290online.com
 +.95d04d0751.22ad426520.com
-+.1d9c307922.22cbbac9cd.com
 +.ed956f23ae.23cc6cc4e9.com
 +.f021b63d67.2463624e63.com
 +.b37c6c9b6b.246755be17.com
@@ -81515,7 +81582,6 @@ httpdns.yunxindns.com
 +.b7ab7d0f42.30d52e951d.com
 +.fb06e67da1.30ff4cb531.com
 +.fe807f067c.3183af8c1d.com
-+.0be9f5cb61.32ae2295ab.com
 +.www.33-trk-srv.com
 +.ab823c0616.3397afa9b2.com
 +.83ec6eb409.35b889100e.com
@@ -82272,7 +82338,6 @@ httpdns.yunxindns.com
 +.cn4.cheemsporn.com
 +.analytics.chefmaison.com
 +.marketing.chemometec.com
-+.pm.chetahtalc.com
 +.bnc.chewchunks.com
 +.tracking.chilipiper.com
 +.fyzlfpjn.chillblast.com
