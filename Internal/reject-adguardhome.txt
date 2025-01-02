@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 02 Jan 2025 14:26:53 GMT
+! Last modified: Thu, 02 Jan 2025 15:43:05 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10283,6 +10283,7 @@
 ||bycarver.com^
 ||bytemgdd.com^
 ||bzniungh.com^
+||caapuxmi.com^
 ||cadvztrk.com^
 ||cahxpivu.com^
 ||caigobou.com^
@@ -11157,6 +11158,7 @@
 ||makeding.com^
 ||malljazz.com^
 ||manbycus.com^
+||manompas.com^
 ||mapamnni.com^
 ||mapbasin.com^
 ||maquiags.com^
@@ -15286,6 +15288,7 @@
 ||1f6bf6f5a3.com^
 ||1f84e33459.com^
 ||1f98dc1262.com^
+||1fcf60d54c.com^
 ||2122aaa0e5.com^
 ||222aa333bb.com^
 ||2295b1e0bd.com^
@@ -15575,6 +15578,7 @@
 ||9d2cca15e4.com^
 ||9d603009eb.com^
 ||9dccbda825.com^
+||9e3810a418.com^
 ||9eb0538646.com^
 ||9efc2a7246.com^
 ||9xob25oszs.com^
@@ -16307,6 +16311,7 @@
 ||d37914770f.com^
 ||d44501d9f7.com^
 ||d483501b04.com^
+||d49ae3cc10.com^
 ||d52a6b131d.com^
 ||d56cfcfcab.com^
 ||d592971f36.com^
@@ -19608,6 +19613,7 @@
 ||jcedzifarqa.com^
 ||jennyvisits.com^
 ||jestinquire.com^
+||jewdombenin.com^
 ||jgfuxnrloev.com^
 ||jhulubwidas.com^
 ||jiankongbao.com^
@@ -22571,6 +22577,7 @@
 ||napzingspeed.com^
 ||nastydollars.com^
 ||native-track.com^
+||ndcomemunica.com^
 ||nectarineple.com^
 ||neodatagroup.com^
 ||networkmanag.com^
@@ -25690,6 +25697,7 @@
 ||sysoutvariola.com^
 ||systemizecoat.com^
 ||t85itha3nitde.com^
+||taglockrocket.com^
 ||taichinhanbin.com^
 ||takeoverrings.com^
 ||talentedsteel.com^
@@ -27897,6 +27905,7 @@
 ||announcedseaman.com^
 ||annoynoveltyeel.com^
 ||antaresarcturus.com^
+||anyinadeditiont.com^
 ||app-measurement.com^
 ||appmateforbests.com^
 ||aralomomolachan.com^
@@ -35837,6 +35846,7 @@
 ||backseatmarmaladeconsiderate.com^
 ||chastehandkerchiefclassified.com^
 ||cho7932105co3l2ate3covere53d.com^
+||comfortablepossibilitycarlos.com^
 ||complicationpillsmathematics.com^
 ||comprehensionaccountsfragile.com^
 ||conditioneavesdroppingbarter.com^
@@ -39304,6 +39314,7 @@
 ||netgraviton.net^
 ||noapsovochu.net^
 ||nsultingcoe.net^
+||oamoameevee.net^
 ||oapsoulreen.net^
 ||offerstrack.net^
 ||ogragrugece.net^
@@ -39645,6 +39656,7 @@
 ||ganalyticshub.net^
 ||getconversion.net^
 ||glashampouksy.net^
+||glatsevudoawi.net^
 ||globaladmedia.net^
 ||grashaksoudry.net^
 ||greckoaghoate.net^
@@ -39815,6 +39827,7 @@
 ||want-s0me-push.net^
 ||want-some-push.net^
 ||wauglauthoawoa.net^
+||weesatoothoamu.net^
 ||whoodiksaglels.net^
 ||wouhikeelichoo.net^
 ||xianshangzixun.net^
@@ -41328,6 +41341,7 @@
 ||nitsche.top^
 ||now-dns.top^
 ||oaiqksi.top^
+||oclimik.top^
 ||odamcsk.top^
 ||oewrutk.top^
 ||ofjslik.top^
@@ -41867,6 +41881,7 @@
 ||jeziahkechel.top^
 ||jggegj-rtbix.top^
 ||jkyawbabvjeq.top^
+||jkyawbmyvqez.top^
 ||jnwsrqxrdqct.top^
 ||jowyylrzbamz.top^
 ||jqmebwvmbbby.top^
@@ -81535,7 +81550,6 @@
 ||4701985b0c.1e89ee9512.com^
 ||marketing.1edisource.com^
 ||98ad3707e5.1fb9ef7e8a.com^
-||86af3db2a8.1fcf60d54c.com^
 ||1c76ff71d3.1ff0de0d52.com^
 ||78847f3987.20211144a8.com^
 ||0f253aba7e.205f21070c.com^
@@ -97316,6 +97330,7 @@
 ||d22v2nmahyeg2a.cloudfront.net^
 ||d22xmn10vbouk4.cloudfront.net^
 ||d22z575k8abudv.cloudfront.net^
+||d235m8fpdlskx9.cloudfront.net^
 ||d236v5t33fsfwk.cloudfront.net^
 ||d239g0z67jcted.cloudfront.net^
 ||d23a1izvegnhq4.cloudfront.net^
@@ -111591,7 +111606,6 @@
 ||sentry.d.xiaomi.net^
 |resolver.msg.xiaomi.net^
 |api.chat.xiaomi.net^
-||app.chat.xiaomi.net^
 |mlog.search.xiaomi.net^
 |global.search.xiaomi.net^
 |sec-cdn.static.xiaomi.net^

@@ -1,5 +1,5 @@
 === base ===
-cloudfront.net                                                                                      1251
+cloudfront.net                                                                                      1252
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
@@ -81,7 +81,6 @@ headlines.pw                                                                    
 informa.com                                                                                         16
 smu.edu.sg                                                                                          16
 topya.com                                                                                           16
-xiaomi.net                                                                                          16
 zing.vn                                                                                             16
 163.com                                                                                             15
 att.com                                                                                             15
@@ -93,6 +92,7 @@ jll.com                                                                         
 nba.com                                                                                             15
 philips.com                                                                                         15
 pwc.fr                                                                                              15
+xiaomi.net                                                                                          15
 yahoo.co.jp                                                                                         15
 younited-credit.com                                                                                 15
 zadn.vn                                                                                             15
@@ -325,7 +325,6 @@ alxprogs.xyz                                                                    
 bolss.xyz                                                                                           17
 bonnytondesigns.com                                                                                 17
 cas-program.site                                                                                    17
-checkiteasy.com                                                                                     17
 euclasco.xyz                                                                                        17
 g-cointrad.top                                                                                      17
 infoprog.xyz                                                                                        17
@@ -351,6 +350,7 @@ vcdau.top                                                                       
 wf74.top                                                                                            17
 worldkolf.info                                                                                      17
 8hwo.pro                                                                                            16
+checkiteasy.com                                                                                     16
 comfirty.top                                                                                        16
 coocoldini.xyz                                                                                      16
 elmachif.com                                                                                        16
@@ -634,7 +634,6 @@ teswp.xyz                                                                       
 trom-so.com                                                                                         11
 tsqwz.xyz                                                                                           11
 upnf.cfd                                                                                            11
-us.kg                                                                                               11
 uxtu.skin                                                                                           11
 vicdesmidt.com                                                                                      11
 well-beingandstability.com                                                                          11
@@ -753,6 +752,7 @@ trioprofit2.online                                                              
 trioprofit3.online                                                                                  10
 trioprofit4.online                                                                                  10
 trioprofit5.online                                                                                  10
+us.kg                                                                                               10
 vab5.cfd                                                                                            10
 valhaalla.xyz                                                                                       10
 vgml.lat                                                                                            10
