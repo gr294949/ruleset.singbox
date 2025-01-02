@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 02 Jan 2025 13:02:01 GMT
+! Last modified: Thu, 02 Jan 2025 14:26:53 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10414,6 +10414,7 @@
 ||creofive.com^
 ||crepgate.com^
 ||cretgate.com^
+||crevainv.com^
 ||cridotty.com^
 ||crigroik.com^
 ||crispads.com^
@@ -14003,6 +14004,7 @@
 ||meet4youu.com^
 ||megatizer.com^
 ||meitustat.com^
+||melaodyle.com^
 ||meltwater.com^
 ||memopilot.com^
 ||mentrandi.com^

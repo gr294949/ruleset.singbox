@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-02T12:38:27.763Z
-# Size: 113018
+# Last Updated: 2025-01-02T14:26:48.117Z
+# Size: 113020
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10437,6 +10437,7 @@ lgtvsdp.com
 +.creofive.com
 +.crepgate.com
 +.cretgate.com
++.crevainv.com
 +.cridotty.com
 +.crigroik.com
 +.crispads.com
@@ -14026,6 +14027,7 @@ lgtvsdp.com
 +.meet4youu.com
 +.megatizer.com
 +.meitustat.com
++.melaodyle.com
 +.meltwater.com
 +.memopilot.com
 +.mentrandi.com
