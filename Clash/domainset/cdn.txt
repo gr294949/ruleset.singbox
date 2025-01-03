@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-02T15:43:00.232Z
-# Size: 2889
+# Last Updated: 2025-01-03T03:22:41.146Z
+# Size: 2903
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -508,6 +508,7 @@ navismithapis-cdn.com
 +.yammerusercontent.com
 +.firefoxusercontent.com
 +.misskeyusercontent.com
++.patreonusercontent.com
 +.w-corp-staticblitz.com
 +.sciencedirectassets.com
 +.1passwordusercontent.com
@@ -1585,6 +1586,18 @@ lc.nssurge.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
+c1.patreon.com
+c4.patreon.com
+c5.patreon.com
+c6.patreon.com
+c7.patreon.com
+c8.patreon.com
+c10.patreon.com
+c11.patreon.com
+c13.patreon.com
+c14.patreon.com
+c16.patreon.com
+c17.patreon.com
 static.pingcap.com
 cdn.pixabay.com
 www.pngmart.com
@@ -2382,6 +2395,7 @@ s3.arkjp.net
 amp.azure.net
 dh-site.b-cdn.net
 divhunt.b-cdn.net
+jsdelivr.b-cdn.net
 linuxiac.b-cdn.net
 divhunt-site.b-cdn.net
 panel-production-libs.b-cdn.net
