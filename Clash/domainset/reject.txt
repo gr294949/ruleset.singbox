@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-04T03:21:02.747Z
-# Size: 112694
+# Last Updated: 2025-01-04T12:16:30.523Z
+# Size: 112701
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19062,6 +19062,7 @@ samsungqbe.com
 +.cwuaxtqahvk.com
 +.cycleworked.com
 +.cyclopsdial.com
++.cyclstriche.com
 +.cyuyvjwyfvn.com
 +.czyoxhxufpm.com
 +.dacpibaqwsa.com
@@ -21458,6 +21459,7 @@ samsungqbe.com
 +.blissfulmass.com
 +.blockmetrics.com
 +.blueeyedblow.com
++.blueingpoori.com
 +.blueswordksh.com
 +.bmkz57b79pxk.com
 +.bnmjjwinf292.com
@@ -36612,6 +36614,7 @@ samsungcloudsolution.com
 +.94x.icu
 +.a5t.icu
 +.a7c.icu
++.cv7.icu
 +.d0m.icu
 +.d5r.icu
 +.e9h.icu
@@ -39909,6 +39912,7 @@ samsungcloudsolution.com
 +.vongquaymienphi.net
 +.vulsubsaugrourg.net
 +.wemtagoowhoohiz.net
++.whidsugnoackili.net
 +.whoaremyfriends.net
 +.winnersolutions.net
 +.wokseephishopty.net
@@ -41295,6 +41299,7 @@ samsungcloudsolution.net
 +.lyislol.top
 +.lyretul.top
 +.lyuwkbl.top
++.mclimix.top
 +.mdamcsx.top
 +.mdoshbx.top
 +.mewrutx.top
@@ -45155,6 +45160,7 @@ samsungcloudsolution.net
 +.seedouptoanapsy.xyz
 +.seelanaglashaiy.xyz
 +.shdegtbokshipns.xyz
++.soacoujusoopsoo.xyz
 +.soglaptaicmaurg.xyz
 +.stoaglauksargoo.xyz
 +.syfobtofdgbulvj.xyz
@@ -47104,6 +47110,7 @@ nmbr.info
 +.intunetossed.shop
 +.jealousstarw.shop
 +.jipperbehoot.shop
++.junkettypika.shop
 +.kaitakavixen.shop
 +.killigwessel.shop
 +.kipchakshoat.shop

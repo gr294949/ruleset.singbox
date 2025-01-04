@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 04 Jan 2025 03:38:25 GMT
+! Last modified: Sat, 04 Jan 2025 12:16:36 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -19039,6 +19039,7 @@
 ||cwuaxtqahvk.com^
 ||cycleworked.com^
 ||cyclopsdial.com^
+||cyclstriche.com^
 ||cyuyvjwyfvn.com^
 ||czyoxhxufpm.com^
 ||dacpibaqwsa.com^
@@ -21435,6 +21436,7 @@
 ||blissfulmass.com^
 ||blockmetrics.com^
 ||blueeyedblow.com^
+||blueingpoori.com^
 ||blueswordksh.com^
 ||bmkz57b79pxk.com^
 ||bnmjjwinf292.com^
@@ -36589,6 +36591,7 @@
 ||94x.icu^
 ||a5t.icu^
 ||a7c.icu^
+||cv7.icu^
 ||d0m.icu^
 ||d5r.icu^
 ||e9h.icu^
@@ -39886,6 +39889,7 @@
 ||vongquaymienphi.net^
 ||vulsubsaugrourg.net^
 ||wemtagoowhoohiz.net^
+||whidsugnoackili.net^
 ||whoaremyfriends.net^
 ||winnersolutions.net^
 ||wokseephishopty.net^
@@ -41272,6 +41276,7 @@
 ||lyislol.top^
 ||lyretul.top^
 ||lyuwkbl.top^
+||mclimix.top^
 ||mdamcsx.top^
 ||mdoshbx.top^
 ||mewrutx.top^
@@ -45132,6 +45137,7 @@
 ||seedouptoanapsy.xyz^
 ||seelanaglashaiy.xyz^
 ||shdegtbokshipns.xyz^
+||soacoujusoopsoo.xyz^
 ||soglaptaicmaurg.xyz^
 ||stoaglauksargoo.xyz^
 ||syfobtofdgbulvj.xyz^
@@ -47081,6 +47087,7 @@
 ||intunetossed.shop^
 ||jealousstarw.shop^
 ||jipperbehoot.shop^
+||junkettypika.shop^
 ||kaitakavixen.shop^
 ||killigwessel.shop^
 ||kipchakshoat.shop^
