@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 03 Jan 2025 20:02:31 GMT
+! Last modified: Sat, 04 Jan 2025 03:21:08 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -373,6 +373,7 @@
 ||nhcdn.cn^
 ||oiu09.cn^
 ||okwan.cn^
+||omxwt.cn^
 ||r528e.cn^
 ||richh.cn^
 ||ry51w.cn^
@@ -10997,6 +10998,7 @@
 ||kanoodle.com^
 ||kastafor.com^
 ||katebugs.com^
+||katoleiy.com^
 ||kaubapsy.com^
 ||kauleeci.com^
 ||kaurroot.com^
@@ -36796,6 +36798,7 @@
 ||gmxysb.icu^
 ||grmzwc.icu^
 ||hciwyv.icu^
+||hjdjfl.icu^
 ||hkbumv.icu^
 ||hsutav.icu^
 ||huatmp.icu^
@@ -37222,6 +37225,7 @@
 ||tqanmatx.icu^
 ||trjfoagf.icu^
 ||tuxpfiok.icu^
+||tztmqvga.icu^
 ||uaqdgrfr.icu^
 ||ugajiwft.icu^
 ||vjzvgvgz.icu^
@@ -44424,6 +44428,7 @@
 ||okpp01021.xyz^
 ||okpp01030.xyz^
 ||okpp01031.xyz^
+||okpp01040.xyz^
 ||okpp12311.xyz^
 ||ormoimojl.xyz^
 ||oulragart.xyz^
@@ -50282,6 +50287,7 @@
 ||wljxga.bogsfootwear.ca^
 ||stats.brandontoner.ca^
 ||omni.canadiantire.ca^
+||content.canadiantire.ca^
 ||sslomni.canadiantire.ca^
 ||sanl.champssports.ca^
 ||target.champssports.ca^
@@ -59164,6 +59170,7 @@
 ||analytics-dataplane.invideo.io^
 |events.jianshu.io^
 ||try.joonapp.io^
+||logapi.karbord.io^
 ||rhinoceros.krieger.io^
 ||boom.laravel.io^
 ||core.manatee.io^
