@@ -38,8 +38,8 @@ hsbc.com                                                                        
 wolterskluwer.com                                                                                   29
 360.cn                                                                                              28
 yahoo.com                                                                                           28
+akamaihd.net                                                                                        27
 sosqboh85.com                                                                                       27
-akamaihd.net                                                                                        26
 intuit.com                                                                                          26
 ni.com                                                                                              26
 naver.com                                                                                           25
@@ -201,6 +201,8 @@ b-cdn.net                                                                       
 mhi.co.jp                                                                                           75
 tggame.xyz                                                                                          68
 awicksin.com                                                                                        67
+expobarrio.com                                                                                      63
+hamdandates.com                                                                                     61
 netspend.com                                                                                        58
 bravenet.com                                                                                        54
 wpenginepowered.com                                                                                 54

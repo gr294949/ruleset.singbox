@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-05T13:25:30.850Z
-# Size: 2896
+# Last Updated: 2025-01-05T16:22:51.354Z
+# Size: 2895
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -988,7 +988,6 @@ cdn.glitch.me
 cdn.picrew.me
 cf.javfree.me
 api.crashguard.me
-+.ipfs.tayfundogdas.me
 s3.acg.mn
 cdn01.jotfor.ms
 cdn02.jotfor.ms
@@ -1326,7 +1325,6 @@ signal.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
 sf-flow-web-cdn.ciciai.com
-+.hey10.cjkypo.com
 image.cnbcfm.com
 static-redesign.cnbcfm.com
 static.crypto.com
@@ -1914,6 +1912,7 @@ static.spankbang.com
 +.proxy.startpage.com
 +.proxy1.startpage.com
 +.proxy2.startpage.com
++.proxy3.startpage.com
 +.eu-proxy.startpage.com
 +.eu-browse.startpage.com
 +.a.storyblok.com
