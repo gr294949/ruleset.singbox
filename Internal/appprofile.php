@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-05T09:30:16.613Z
+// # Build 2025-01-05T09:45:48.495Z
 
 declare(strict_types=1);
 
@@ -1765,6 +1765,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,vmware.com,Global',
         'DOMAIN-SUFFIX,yandex.com,Global',
         'DOMAIN-SUFFIX,4shared.com,Global',
+        'DOMAIN-SUFFIX,9to5mac.com,Global',
         'DOMAIN-SUFFIX,adguard.com,Global',
         'DOMAIN-SUFFIX,android.com,Global',
         'DOMAIN-SUFFIX,apkpure.com,Global',
@@ -1817,6 +1818,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,xvideos.com,Global',
         'DOMAIN-SUFFIX,youtube.com,Global',
         'DOMAIN-SUFFIX,zendesk.com,Global',
+        'DOMAIN-SUFFIX,9to5toys.com,Global',
         'DOMAIN-SUFFIX,autodraw.com,Global',
         'DOMAIN-SUFFIX,bandcamp.com,Global',
         'DOMAIN-SUFFIX,bitfinex.com,Global',
@@ -1958,6 +1960,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,usertesting.com,Global',
         'DOMAIN-SUFFIX,webpkgcache.com,Global',
         'DOMAIN-SUFFIX,xvideos-cdn.com,Global',
+        'DOMAIN-SUFFIX,9to5terminal.com,Global',
         'DOMAIN-SUFFIX,browserleaks.com,Global',
         'DOMAIN-SUFFIX,cdninstagram.com,Global',
         'DOMAIN-SUFFIX,chromestatus.com,Global',
