@@ -9,9 +9,7 @@ qq.com                                                                          
 adobe.com                                                                                           68
 eccocar.com                                                                                         51
 taobao.com                                                                                          48
-flourishpath.online                                                                                 47
 miui.com                                                                                            45
-pandasuite.io                                                                                       45
 experian.com                                                                                        43
 sina.com.cn                                                                                         43
 nespresso.com                                                                                       39
@@ -195,12 +193,8 @@ xunlei.com                                                                      
 zip.co                                                                                              10
 === extra ===
 webflow.io                                                                                          110
-adkoffer.fr                                                                                         96
-ebutudan.com                                                                                        78
 b-cdn.net                                                                                           77
 mhi.co.jp                                                                                           75
-tggame.xyz                                                                                          68
-awicksin.com                                                                                        67
 expobarrio.com                                                                                      63
 hamdandates.com                                                                                     61
 netspend.com                                                                                        58
@@ -234,7 +228,6 @@ luxxeeu.com                                                                     
 baidu.com                                                                                           31
 shengen.ru                                                                                          31
 vercel.app                                                                                          31
-aesthetise.com                                                                                      30
 cloudfront.net                                                                                      30
 hut1.ru                                                                                             30
 adktrack34.xyz                                                                                      29
