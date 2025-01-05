@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-05T09:45:48.495Z
+// # Build 2025-01-05T12:31:11.666Z
 
 declare(strict_types=1);
 
@@ -1889,7 +1889,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hentaifox.com,Global',
         'DOMAIN-SUFFIX,hentaipaw.com,Global',
         'DOMAIN-SUFFIX,herokuapp.com,Global',
-        'DOMAIN-SUFFIX,herokussl.com,Global',
         'DOMAIN-SUFFIX,homedepot.com,Global',
         'DOMAIN-SUFFIX,instagram.com,Global',
         'DOMAIN-SUFFIX,line-apps.com,Global',
@@ -5327,7 +5326,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,154.205.96.0/20,Domestic',
         'IP-CIDR,154.205.112.0/21,Domestic',
         'IP-CIDR,154.205.124.0/22,Domestic',
-        'IP-CIDR,154.223.96.0/19,Domestic',
         'IP-CIDR,155.126.176.0/23,Domestic',
         'IP-CIDR,156.0.92.0/22,Domestic',
         'IP-CIDR,156.107.160.0/24,Domestic',
@@ -5344,7 +5342,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.232.11.0/24,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
         'IP-CIDR,156.239.64.0/18,Domestic',
-        'IP-CIDR,156.239.224.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',

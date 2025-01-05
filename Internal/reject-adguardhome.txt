@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 05 Jan 2025 10:45:30 GMT
+! Last modified: Sun, 05 Jan 2025 12:31:17 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10268,6 +10268,7 @@
 ||bytemgdd.com^
 ||bzniungh.com^
 ||caapuxmi.com^
+||cachusrw.com^
 ||cadvztrk.com^
 ||cahxpivu.com^
 ||caigobou.com^
@@ -48582,6 +48583,7 @@
 ||vpb-nanghanmuc.online^
 ||gionghatvietnhi.online^
 ||lindasmensagens.online^
+||mistyforestolqt.online^
 ||onlinedeltazone.online^
 ||setlitescmode-4.online^
 ||shoppeflashsale.online^
@@ -64617,6 +64619,7 @@
 ||stape-server-side-container.eldabutiken.se^
 ||tracking.falukuriren.se^
 ||tlqugk.fashionette.se^
+||ads.frihetsnytt.se^
 ||stats.helsingborg.se^
 ||www.kundvisaren.se^
 ||emdtpe.leksakscity.se^

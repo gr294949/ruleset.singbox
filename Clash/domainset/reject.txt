@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-05T10:45:26.272Z
-# Size: 112707
+# Last Updated: 2025-01-05T12:31:11.352Z
+# Size: 112710
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10291,6 +10291,7 @@ lgtvsdp.com
 +.bytemgdd.com
 +.bzniungh.com
 +.caapuxmi.com
++.cachusrw.com
 +.cadvztrk.com
 +.cahxpivu.com
 +.caigobou.com
@@ -48605,6 +48606,7 @@ nmbr.info
 +.vpb-nanghanmuc.online
 +.gionghatvietnhi.online
 +.lindasmensagens.online
++.mistyforestolqt.online
 +.onlinedeltazone.online
 +.setlitescmode-4.online
 +.shoppeflashsale.online
@@ -64640,6 +64642,7 @@ stat.dns.sb
 +.stape-server-side-container.eldabutiken.se
 +.tracking.falukuriren.se
 +.tlqugk.fashionette.se
++.ads.frihetsnytt.se
 +.stats.helsingborg.se
 +.www.kundvisaren.se
 +.emdtpe.leksakscity.se
