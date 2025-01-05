@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 05 Jan 2025 12:36:19 GMT
+! Last modified: Sun, 05 Jan 2025 13:25:35 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -462,10 +462,8 @@
 ||sifufu.cn^
 ||sifuge.cn^
 ||sifugu.cn^
-||sifuhe.cn^
 ||sifuhu.cn^
 ||sifuji.cn^
-||sifuka.cn^
 ||sofseo.cn^
 ||tagtic.cn^
 ||tajdad.cn^
@@ -9701,7 +9699,6 @@
 ||wwhnjrg.com^
 ||wwllfxt.com^
 ||wwqssmg.com^
-||wx16999.com^
 ||wyeczfx.com^
 ||wymymep.com^
 ||wysasys.com^
@@ -9720,7 +9717,6 @@
 ||xktxemf.com^
 ||xkwwnle.com^
 ||xliirdr.com^
-||xlingdi.com^
 ||xlivrdr.com^
 ||xlvirdr.com^
 ||xmlgrab.com^
@@ -18170,7 +18166,6 @@
 ||trustyable.com^
 ||trustyfine.com^
 ||tsyndicate.com^
-||tuipenguin.com^
 ||tuky889900.com^
 ||tupian6666.com^
 ||tupian9999.com^
@@ -44289,7 +44284,6 @@
 ||xhsdwjes.xyz^
 ||xhubsxmg.xyz^
 ||xhzjidgc.xyz^
-||xiaohuau.xyz^
 ||xkacs5av.xyz^
 ||xldxphtg.xyz^
 ||xlgvlvbc.xyz^
