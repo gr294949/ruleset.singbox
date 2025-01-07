@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-07T15:18:24.982Z
-# Size: 112188
+# Last Updated: 2025-01-07T15:31:17.973Z
+# Size: 112195
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12875,6 +12875,7 @@ lgtvsdp.com
 +.dynsrvtbg.com
 +.dynsrvtyu.com
 +.dyptanaza.com
++.dzfilkmol.com
 +.dzijggsdx.com
 +.e-kaiseki.com
 +.eagereden.com
@@ -15161,6 +15162,7 @@ lgtvsdp.com
 +.a700fb9c8d.com
 +.a717b6d31e.com
 +.a85d43cd02.com
++.a8e8c59504.com
 +.a91e9c75f8.com
 +.a9ae7df45f.com
 +.aa2e7ea3fe.com
@@ -20827,6 +20829,7 @@ samsungqbe.com
 +.arvigorothan.com
 +.asbulbasaura.com
 +.aserverstats.com
++.ashasvsucoce.com
 +.asjknjtdthfu.com
 +.asozordoafie.com
 +.assbwaaqtaqx.com
@@ -24440,6 +24443,7 @@ samsungqbe.com
 +.lockerdomecdn.com
 +.lockerstagger.com
 +.loftersvisaya.com
++.lofvmrnpbxqbh.com
 +.logicdripping.com
 +.logsgroupknew.com
 +.lonfilliongin.com
@@ -28942,6 +28946,7 @@ samsungqbe.com
 +.deasandcomemunic.com
 +.decaytreacherous.com
 +.decoraterepaired.com
++.deditiontowritin.com
 +.deepirresistible.com
 +.degradeexpedient.com
 +.deliriousglowing.com
@@ -39561,6 +39566,7 @@ samsungcloudsolution.net
 +.dagcoin.org
 +.doomail.org
 +.dynserv.org
++.edcvsfr.org
 +.facepop.org
 +.gandrad.org
 +.go2jump.org
@@ -41437,6 +41443,7 @@ samsungcloudsolution.net
 +.legiblyosmols.top
 +.lingetunearth.top
 +.llozybovlozvk.top
++.lobatehellion.top
 +.lvojjayaaoqym.top
 +.malurusoenone.top
 +.managesrimery.top
@@ -47977,6 +47984,7 @@ nmbr.info
 +.headshot.monster
 +.progaming.monster
 +.webfreesave.monster
++.bitdragonapp.monster
 +.leardragonapp.monster
 +.opengalaxyapps.monster
 +.synchroparomologyauditable.monster
@@ -80925,7 +80933,6 @@ httpdns.yunxindns.com
 +.bae4d0f67e.a80e7ad767.com
 +.89d9c155c8.a8bd627b41.com
 +.c0090982ac.a8c4a6083a.com
-+.c83de17caf.a8e8c59504.com
 +.a371383de0.a90da947c8.com
 +.8cc514abf6.a9579899d4.com
 +.75b782b8d1.a994f63e51.com
