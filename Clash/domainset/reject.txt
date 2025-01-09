@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-09T16:52:48.214Z
-# Size: 112261
+# Last Updated: 2025-01-09T16:58:10.482Z
+# Size: 112262
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6966,6 +6966,7 @@ kma.biz
 +.vnpt99.com
 +.vnrvss.com
 +.vodxil.com
++.volces.com
 +.volyze.com
 +.voniao.com
 +.vonkol.com
