@@ -36,8 +36,8 @@ b-cdn.net                                                                       
 wolterskluwer.com                                                                                   30
 360.cn                                                                                              28
 yahoo.com                                                                                           28
-akamaihd.net                                                                                        27
 sosqboh85.com                                                                                       27
+akamaihd.net                                                                                        26
 intuit.com                                                                                          26
 ni.com                                                                                              26
 naver.com                                                                                           25
@@ -63,6 +63,7 @@ focus.de                                                                        
 fupa.net                                                                                            20
 sfr.fr                                                                                              19
 windows.net                                                                                         19
+163.com                                                                                             18
 americanexpress.co.uk                                                                               18
 mynavi.jp                                                                                           18
 np6.com                                                                                             18
@@ -78,7 +79,6 @@ att.com                                                                         
 headlines.pw                                                                                        16
 topya.com                                                                                           16
 zing.vn                                                                                             16
-163.com                                                                                             15
 cisco.com                                                                                           15
 herokuapp.com                                                                                       15
 hotdoc.com.au                                                                                       15
@@ -225,9 +225,9 @@ ropescoursesinc.com                                                             
 klewmedia.com                                                                                       27
 unixofficeequipment.com                                                                             27
 choyoga.com                                                                                         26
+github.io                                                                                           26
 asmucol.com                                                                                         25
 gelopro.com                                                                                         25
-github.io                                                                                           25
 glam.com                                                                                            25
 lakeviewcondostaug.com                                                                              25
 prosystemorgo.com                                                                                   25
@@ -379,6 +379,7 @@ masterch.top                                                                    
 maxen.top                                                                                           15
 maxi9blog.xyz                                                                                       15
 maxipl-system.xyz                                                                                   15
+metplxx.com                                                                                         15
 mlnone.top                                                                                          15
 mmtsa.top                                                                                           15
 newcrew.site                                                                                        15
@@ -466,7 +467,6 @@ lzcn.skin                                                                       
 maswwo.xyz                                                                                          13
 maxi-bl0g.site                                                                                      13
 mediacrss.com                                                                                       13
-metplxx.com                                                                                         13
 metregplt.top                                                                                       13
 mtradinfo.top                                                                                       13
 myshopify.com                                                                                       13
