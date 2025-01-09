@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-09T08:39:32.096Z
+// # Build 2025-01-09T12:39:33.856Z
 
 declare(strict_types=1);
 
@@ -2920,6 +2920,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.150.236.0/23,Domestic',
         'IP-CIDR,45.153.128.0/22,Domestic',
         'IP-CIDR,45.157.70.0/23,Domestic',
+        'IP-CIDR,45.192.64.0/19,Domestic',
         'IP-CIDR,45.199.167.0/24,Domestic',
         'IP-CIDR,45.248.8.0/22,Domestic',
         'IP-CIDR,45.248.110.0/24,Domestic',
@@ -4253,7 +4254,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,113.46.192.0/19,Domestic',
         'IP-CIDR,113.46.224.0/20,Domestic',
         'IP-CIDR,113.46.240.0/21,Domestic',
-        'IP-CIDR,113.47.128.0/18,Domestic',
         'IP-CIDR,113.47.204.0/22,Domestic',
         'IP-CIDR,113.47.220.0/22,Domestic',
         'IP-CIDR,113.47.234.0/23,Domestic',
@@ -4280,7 +4280,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,113.132.0.0/14,Domestic',
         'IP-CIDR,113.136.0.0/13,Domestic',
         'IP-CIDR,113.194.0.0/15,Domestic',
-        'IP-CIDR,113.197.101.0/24,Domestic',
         'IP-CIDR,113.197.104.0/23,Domestic',
         'IP-CIDR,113.200.0.0/15,Domestic',
         'IP-CIDR,113.204.0.0/14,Domestic',
@@ -5320,7 +5319,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,154.205.96.0/20,Domestic',
         'IP-CIDR,154.205.112.0/21,Domestic',
         'IP-CIDR,154.205.124.0/22,Domestic',
-        'IP-CIDR,154.223.96.0/19,Domestic',
         'IP-CIDR,155.126.176.0/23,Domestic',
         'IP-CIDR,156.0.92.0/22,Domestic',
         'IP-CIDR,156.107.160.0/24,Domestic',
@@ -5340,8 +5338,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,156.232.9.0/24,Domestic',
         'IP-CIDR,156.232.10.0/23,Domestic',
         'IP-CIDR,156.239.0.0/20,Domestic',
-        'IP-CIDR,156.239.64.0/18,Domestic',
-        'IP-CIDR,156.239.224.0/19,Domestic',
+        'IP-CIDR,156.239.96.0/19,Domestic',
         'IP-CIDR,156.247.8.0/22,Domestic',
         'IP-CIDR,156.247.12.0/23,Domestic',
         'IP-CIDR,156.247.14.0/24,Domestic',
