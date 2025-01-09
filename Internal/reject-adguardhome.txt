@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 08 Jan 2025 04:55:18 GMT
+! Last modified: Thu, 09 Jan 2025 02:36:49 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -12057,6 +12057,7 @@
 ||xtrackme.com^
 ||xtraserp.com^
 ||xtreff69.com^
+||xukanvyl.com^
 ||xulizui6.com^
 ||xvkimksh.com^
 ||xvpqmcgf.com^
@@ -14048,6 +14049,7 @@
 ||ruddycast.com^
 ||ruddywash.com^
 ||rumsroots.com^
+||rwoscaonf.com^
 ||rwukupjis.com^
 ||rxrczbxdc.com^
 ||s-manager.com^
@@ -15089,6 +15091,7 @@
 ||916cad6201.com^
 ||91df02fe64.com^
 ||921b6384ac.com^
+||92888e5ff3.com^
 ||92e6136b5d.com^
 ||92e703f830.com^
 ||937e30a10b.com^
@@ -15124,6 +15127,7 @@
 ||9xob25oszs.com^
 ||a-c-engine.com^
 ||a-counters.com^
+||a08387be3d.com^
 ||a0905c77de.com^
 ||a11d3c1b4d.com^
 ||a14refresh.com^
@@ -15435,6 +15439,7 @@
 ||b1dd039f40.com^
 ||b21379380e.com^
 ||b21be0a0c8.com^
+||b23010ff32.com^
 ||b3b4e76625.com^
 ||b3b526dee6.com^
 ||b3mxnuvcer.com^
@@ -15951,6 +15956,7 @@
 ||drollwharf.com^
 ||dropsclank.com^
 ||drownbossy.com^
+||drpggagxsz.com^
 ||dti-ranker.com^
 ||ducubchooa.com^
 ||dukirliaon.com^
@@ -17539,6 +17545,7 @@
 ||subendorse.com^
 ||subletyoke.com^
 ||suchroused.com^
+||sucreexpos.com^
 ||suddensoda.com^
 ||suffarilbf.com^
 ||suitedtack.com^
@@ -18948,6 +18955,7 @@
 ||gybyxsy1588.com^
 ||gypsiedjilt.com^
 ||gypsitenevi.com^
+||gyvwigvwqkm.com^
 ||gzglmoczfzf.com^
 ||gzifhovadhf.com^
 ||haderilovas.com^
@@ -19627,6 +19635,7 @@
 ||playboywere.com^
 ||playdraught.com^
 ||playjusting.com^
+||plcubmiinxa.com^
 ||pleasetrack.com^
 ||pluffdoodah.com^
 ||plumbsplash.com^
@@ -20767,6 +20776,7 @@
 ||alnzupnulzaw.com^
 ||alphagodaddy.com^
 ||alpjpyaskpiw.com^
+||alsolrocktor.com^
 ||amentsmodder.com^
 ||amfennekinom.com^
 ||amhpbhyxfgvd.com^
@@ -22058,6 +22068,7 @@
 ||myfreshposts.com^
 ||myhappy-news.com^
 ||mynewcounter.com^
+||myosoteruins.com^
 ||mytomatosoup.com^
 ||mywondertrip.com^
 ||mzuspejtuodc.com^
@@ -25508,6 +25519,7 @@
 ||yourlustmedia.com^
 ||yourniceposts.com^
 ||youthfulnoise.com^
+||yowdenfalcial.com^
 ||yqghjejqlhbsv.com^
 ||yresumeformor.com^
 ||yuintbradshed.com^
@@ -29617,6 +29629,7 @@
 ||spentjerseydelve.com^
 ||spiralextratread.com^
 ||spirited-teacher.com^
+||spokeoaffiliates.com^
 ||sponsoranimosity.com^
 ||spontaneousleave.com^
 ||spurioussquirrel.com^
@@ -36121,6 +36134,7 @@
 ||sh5.icu^
 ||sn9.icu^
 ||t7t.icu^
+||tu6.icu^
 ||u57.icu^
 ||u6u.icu^
 ||ua2.icu^
@@ -36336,6 +36350,7 @@
 ||nnfbxz.icu^
 ||nrbwzh.icu^
 ||nsjnmx.icu^
+||nyjelh.icu^
 ||oqnkur.icu^
 ||pgazaz.icu^
 ||pinjzp.icu^
@@ -36665,6 +36680,7 @@
 ||bebxhcip.icu^
 ||behvgsik.icu^
 ||biirmjnw.icu^
+||blbtibqk.icu^
 ||bmhtwefv.icu^
 ||bpxxgkoj.icu^
 ||btvbnrwo.icu^
@@ -38736,6 +38752,7 @@
 ||koocawhaido.net^
 ||korenizsemi.net^
 ||koreniztreh.net^
+||koupuchoust.net^
 ||lavanetwork.net^
 ||lazadagroup.net^
 ||leadboltads.net^
@@ -39336,6 +39353,7 @@
 ||lelruftoutufoux.net^
 ||lifeimpressions.net^
 ||liglomsoltuwhax.net^
+||loavolougloatom.net^
 ||lordeeksogoatee.net^
 ||mediaonenetwork.net^
 ||mimtelurdeghaul.net^
@@ -41139,6 +41157,7 @@
 ||refpakrtsb.top^
 ||refpamjeql.top^
 ||refparjhob.top^
+||taposalett.top^
 ||taxismaned.top^
 ||utendpacas.top^
 ||vayshinhan.top^
@@ -41206,8 +41225,10 @@
 ||stubevirger.top^
 ||sutraschina.top^
 ||taxitesgyal.top^
+||temperansar.top^
 ||tertiafrush.top^
 ||thymilogium.top^
+||unsoothippi.top^
 ||unwontcajun.top^
 ||vaynganhang.top^
 ||vietinbanki.top^
@@ -44435,6 +44456,7 @@
 ||emnucmhhyjjgoy.xyz^
 ||eqrjuxvhvclqxw.xyz^
 ||fairu-endpoint.xyz^
+||fauseepetoozuk.xyz^
 ||ftmcofsmfoebui.xyz^
 ||fwqmwyuokcyvom.xyz^
 ||get-here-click.xyz^
@@ -44581,6 +44603,7 @@
 ||xppedxgjxcajuae.xyz^
 ||xvvsnnciengskyx.xyz^
 ||xxaks01080sspao.xyz^
+||xxaks01081sspao.xyz^
 ||ydagjjgqxmrlqjj.xyz^
 ||yicixvmgmhpvbcl.xyz^
 ||ymansxfmdjhvqly.xyz^
@@ -46581,6 +46604,7 @@
 ||reekedtravels.shop^
 ||regiveshollas.shop^
 ||relockembarge.shop^
+||rewearoutwale.shop^
 ||royalshop2021.shop^
 ||sanggauchelys.shop^
 ||saurelwithsaw.shop^
@@ -80876,7 +80900,6 @@
 ||3b24d0d65d.917c626609.com^
 ||9742f9bb9f.91c8522b7b.com^
 ||a.91zhongkao.com^
-||5466dee3d9.92888e5ff3.com^
 ||2841137bfa.92afa3840a.com^
 ||cd7211716b.935eadb976.com^
 ||5bf177fbac.938b97e5ba.com^
@@ -112362,6 +112385,7 @@
 ||p2plive-ali.douyucdn.cn^
 ||p2pchunk-table.douyucdn.cn^
 ||net.mydays.de^
+||adtech.redventures.io^
 |dns.jd.com^
 ||p2p.qq.com^
 ||p2ptun.qq.com^
