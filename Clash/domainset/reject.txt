@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-10T12:03:27.630Z
-# Size: 112291
+# Last Updated: 2025-01-10T12:39:19.075Z
+# Size: 112290
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -112278,7 +112278,6 @@ api.collect.data.intl.miui.com
 +.data.ultimate-success-emea.test.ajo.adobe.com
 +.landing.ultimate-success-emea.test.ajo.adobe.com
 +.data.ajo-stage.notifications.future.smart.com
-store.tv.api.3g.youku.com
 +.data.marketing.aeptest.a.intuit.com
 +.advertising.speed.cdn.vip.xunlei.com
 +.7xi9g1.com1.z0.glb.clouddn.com
