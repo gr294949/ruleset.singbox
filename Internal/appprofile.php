@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-10T15:32:04.018Z
+// # Build 2025-01-10T15:40:12.711Z
 
 declare(strict_types=1);
 
@@ -2208,11 +2208,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,DIRECT',
         'DOMAIN-SUFFIX,lan,DIRECT',
         'DOMAIN-SUFFIX,m2m,DIRECT',
-        'DOMAIN-SUFFIX,_tcp,DIRECT',
         'DOMAIN-SUFFIX,home,DIRECT',
         'DOMAIN-SUFFIX,bogon,DIRECT',
         'DOMAIN,unifi,DIRECT',
-        'DOMAIN-SUFFIX,_msdcs,DIRECT',
         'DOMAIN-SUFFIX,router,DIRECT',
         'DOMAIN-SUFFIX,localdomain,DIRECT',
         'DOMAIN-SUFFIX,avgv.cc,DIRECT',

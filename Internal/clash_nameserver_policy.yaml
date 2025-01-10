@@ -278,15 +278,7 @@ dns:
       - system://
       - system
       - dhcp://system
-    "*._tcp":
-      - system://
-      - system
-      - dhcp://system
     "*.bogon":
-      - system://
-      - system
-      - dhcp://system
-    "*._msdcs":
       - system://
       - system
       - dhcp://system
