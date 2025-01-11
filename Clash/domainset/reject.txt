@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-10T15:32:00.340Z
-# Size: 112287
+# Last Updated: 2025-01-11T04:50:22.670Z
+# Size: 112315
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1740,6 +1740,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.wma.io
 +.1dmp.io
 +.4dex.io
++.9pub.io
 +.adbc.io
 +.adon.io
 +.adtr.io
@@ -8719,6 +8720,7 @@ lgtvsdp.com
 +.ridirre.com
 +.riiciuy.com
 +.riscati.com
++.riscats.com
 +.rivcash.com
 +.rjeruqs.com
 +.rkapghq.com
@@ -10137,6 +10139,7 @@ lgtvsdp.com
 +.dwellsew.com
 +.dynameex.com
 +.dzlndygh.com
++.dzsopgxm.com
 +.earnbaht.com
 +.easegoes.com
 +.easy-ads.com
@@ -15880,6 +15883,7 @@ lgtvsdp.com
 +.d26e83b697.com
 +.d2e3e68fb3.com
 +.d37914770f.com
++.d3edbb478c.com
 +.d44501d9f7.com
 +.d483501b04.com
 +.d49ae3cc10.com
@@ -16639,6 +16643,7 @@ lgtvsdp.com
 +.lndonclkds.com
 +.loaptaijuw.com
 +.localytics.com
++.locatejest.com
 +.lockerdome.com
 +.lodgesweet.com
 +.logcounter.com
@@ -17145,6 +17150,7 @@ lgtvsdp.com
 +.prodresell.com
 +.profitsfly.com
 +.projectpoi.com
++.proleclips.com
 +.promiseair.com
 +.promobagus.com
 +.promobenef.com
@@ -17234,6 +17240,7 @@ lgtvsdp.com
 +.rangformer.com
 +.ranggallop.com
 +.rank-power.com
++.ranmaotome.com
 +.raresummer.com
 +.raudoufoay.com
 +.ravaquinal.com
@@ -17914,6 +17921,7 @@ samsungqbe.com
 +.werdolsolt.com
 +.weremoiety.com
 +.wererxrzmp.com
++.wevechinse.com
 +.whalecloud.com
 +.whauglorga.com
 +.whilroacix.com
@@ -18842,6 +18850,7 @@ samsungqbe.com
 +.flagcounter.com
 +.flairadscpc.com
 +.flawerosion.com
++.flaxdescale.com
 +.flexterkita.com
 +.fliedridgin.com
 +.flirtingsms.com
@@ -19529,6 +19538,7 @@ samsungqbe.com
 +.oldgyhogola.com
 +.omgwowgirls.com
 +.omniconvert.com
++.omwovzodgck.com
 +.omzoroarkan.com
 +.onclickalgo.com
 +.onclickmega.com
@@ -20900,6 +20910,7 @@ samsungqbe.com
 +.awwagqorqpty.com
 +.awxgfiqifawg.com
 +.axeldivision.com
++.ayiztaefkfzs.com
 +.b014381c95cb.com
 +.b02byun5xc3s.com
 +.b58ncoa1c07f.com
@@ -23416,6 +23427,7 @@ samsungqbe.com
 +.9eb10b7a3d04a.com
 +.a1webstrategy.com
 +.abarbollidate.com
++.abbateerupted.com
 +.abclefabletor.com
 +.abeighkenches.com
 +.abgeobalancer.com
@@ -24702,6 +24714,7 @@ samsungqbe.com
 +.opvanillishan.com
 +.orientalrazor.com
 +.ormolusapiary.com
++.osminaclumber.com
 +.ospreymedialp.com
 +.ospreyorceins.com
 +.ossnidorinoom.com
@@ -25060,6 +25073,7 @@ samsungqbe.com
 +.sex-and-flirt.com
 +.sexgoesmobile.com
 +.sexualpitfall.com
++.seymourlamboy.com
 +.sfkldbkldgdgh.com
 +.shakegoldfish.com
 +.shakysurprise.com
@@ -26000,6 +26014,7 @@ samsungqbe.com
 +.curvedsquirrel.com
 +.cutecalculator.com
 +.czedgingtenges.com
++.dagassapereion.com
 +.darcycapacious.com
 +.dashingsweater.com
 +.dating-banners.com
@@ -26405,6 +26420,7 @@ samsungqbe.com
 +.jawholeminable.com
 +.jltfqoxyhytayy.com
 +.joberopolicycr.com
++.jobfukectivetr.com
 +.josieunethical.com
 +.jowlishdiviner.com
 +.joyousruthwest.com
@@ -28003,6 +28019,7 @@ samsungqbe.com
 +.jerseydisplayed.com
 +.jillbuildertuck.com
 +.jobsonationsing.com
++.joptodsougegauw.com
 +.josephineravine.com
 +.jubilantglimmer.com
 +.jubilantwhisper.com
@@ -32028,6 +32045,7 @@ samsungqbe.com
 +.majestybrightennext.com
 +.mammaclassesofficer.com
 +.manipulativegraphic.com
++.mantis-intelligence.com
 +.margaritapowerclang.com
 +.maritaltrousersidle.com
 +.marketingcloudqaops.com
@@ -35709,6 +35727,7 @@ samsungcloudsolution.com
 +.lazadal.fit
 +.vingroup.fit
 +.3uo.fun
++.bc4.fun
 +.s83.fun
 +.alty.fun
 +.ftte.fun
@@ -36371,6 +36390,7 @@ samsungcloudsolution.com
 +.huatmp.icu
 +.ibqemk.icu
 +.iqveat.icu
++.jebrhb.icu
 +.jfrrnf.icu
 +.jgmywh.icu
 +.jozbun.icu
@@ -36795,6 +36815,7 @@ samsungcloudsolution.com
 +.roxwusak.icu
 +.rvnaxwqe.icu
 +.rvtfwryz.icu
++.rvxsvwqf.icu
 +.rykhukxt.icu
 +.satfyxbt.icu
 +.sivxobpn.icu
@@ -39091,6 +39112,7 @@ samsungcloudsolution.com
 +.sysmeasuring.net
 +.taiphanmempc.net
 +.targechirtil.net
++.teewhilemath.net
 +.thaigapousty.net
 +.thaithawhokr.net
 +.thargookroge.net
@@ -39871,6 +39893,7 @@ samsungcloudsolution.net
 +.paintydevelela.org
 +.positeasysembl.org
 +.prodregistryv2.org
++.rvardsusyseinp.org
 +.scormationwind.org
 +.sionscormation.org
 +.sitymirableabo.org
@@ -41255,6 +41278,7 @@ samsungcloudsolution.net
 +.iltharidity.top
 +.inkstorulus.top
 +.jawpcowpeas.top
++.jibbahazara.top
 +.klinoclifts.top
 +.melredirnxt.top
 +.mimosaavior.top
@@ -41278,6 +41302,7 @@ samsungcloudsolution.net
 +.stubevirger.top
 +.sutraschina.top
 +.taxitesgyal.top
++.tectureclod.top
 +.temperansar.top
 +.tertiafrush.top
 +.thymilogium.top
@@ -41513,6 +41538,7 @@ samsungcloudsolution.net
 +.llozybovlozvk.top
 +.lobatehellion.top
 +.lvojjayaaoqym.top
++.lzqmjakwlllvk.top
 +.malurusoenone.top
 +.managesrimery.top
 +.maniconfiscal.top
@@ -44645,6 +44671,7 @@ samsungcloudsolution.net
 +.stoaglauksargoo.xyz
 +.syfobtofdgbulvj.xyz
 +.thevanghanhphuc.xyz
++.tougaipteehuboo.xyz
 +.uhwwrtoesislugj.xyz
 +.unixfilesystem2.xyz
 +.vflouksffoxmlnk.xyz
@@ -63272,6 +63299,7 @@ x.o2.pl
 +.t.cotsta.ru
 +.getcode.cotsta.ru
 +.matomo.datago.ru
++.stream.datago.ru
 +.ads.dfiles.ru
 +.ypcdbw.drive2.ru
 +.azxaxh.eleven.ru
