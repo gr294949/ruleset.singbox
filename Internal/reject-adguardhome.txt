@@ -1,10 +1,15 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 11 Jan 2025 14:49:19 GMT
+! Last modified: Sat, 11 Jan 2025 15:25:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
 ! Description: The domainset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 !
+||more^
+||donate^
+||license^
+||updated^
+||windowsspyblocker^
 ||say.ac^
 ||tube.ac^
 ||script.ac^
@@ -46064,6 +46069,7 @@
 ||5891344.xn--j1amh^
 ||gm-it.consulting^
 ||shopee.consulting^
+|watchdog.goodbyeads^
 ||plugin.management^
 ||dadi.technology^
 ||trkr.technology^
@@ -92639,6 +92645,7 @@
 ||marketing.paducah.travel^
 ||marketing.visitloscabos.travel^
 ||tracking.stageandscreen.travel^
+|watchdog.goodbyeads.xiaomi^
 ||stat.arzamas.academy^
 ||marketing.projectares.academy^
 ||a8.mm-digitalsales.academy^
@@ -103040,6 +103047,7 @@
 ||trk.emeadatacenter.services.global.ntt^
 ||go.e.connect.ecu.org^
 ||links.e.response.mayoclinic.org^
+|etl.xlmc.sec.miui.comm^
 ||tr.info.onboarding.corporatecards.bnpparibas^
 ||secure.info.m.seek.com.au^
 ||tracking.engineering.cloud.seek.com.au^
