@@ -1,5 +1,5 @@
 === base ===
-cloudfront.net                                                                                      1250
+cloudfront.net                                                                                      1251
 weebly.com                                                                                          117
 xiaomi.com                                                                                          99
 baidu.com                                                                                           91
@@ -30,8 +30,8 @@ samsung.com                                                                     
 360.cn                                                                                              28
 sosqboh85.com                                                                                       27
 wolterskluwer.com                                                                                   27
+yahoo.com                                                                                           27
 akamaihd.net                                                                                        26
-yahoo.com                                                                                           26
 seponews.com                                                                                        25
 autovistagroup.com                                                                                  24
 bestinterestings.com                                                                                24
@@ -153,6 +153,7 @@ ricoh.co.uk                                                                     
 ringcentral.com                                                                                     10
 smart.com                                                                                           10
 thomsonreuters.com                                                                                  10
+xhamster.com                                                                                        10
 xunlei.com                                                                                          10
 === extra ===
 mhi.co.jp                                                                                           75
