@@ -34,8 +34,8 @@ b-cdn.net                                                                       
 wolterskluwer.com                                                                                   30
 360.cn                                                                                              28
 yahoo.com                                                                                           28
-akamaihd.net                                                                                        27
 sosqboh85.com                                                                                       27
+akamaihd.net                                                                                        26
 intuit.com                                                                                          26
 ni.com                                                                                              26
 naver.com                                                                                           25
