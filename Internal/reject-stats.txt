@@ -1,8 +1,6 @@
 === base ===
 cloudfront.net                                                                                      1251
-windows.com                                                                                         118
 weebly.com                                                                                          117
-llnw.net                                                                                            101
 xiaomi.com                                                                                          99
 baidu.com                                                                                           91
 qq.com                                                                                              79
@@ -143,6 +141,7 @@ engie.fr                                                                        
 hismarttv.com                                                                                       11
 informaengage.com                                                                                   11
 kugou.com                                                                                           11
+llnw.net                                                                                            11
 mingle.com                                                                                          11
 motorolasolutions.com                                                                               11
 nab.com.au                                                                                          11
