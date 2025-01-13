@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-13T02:07:44.744Z
-# Size: 103288
+# Last Updated: 2025-01-13T09:39:02.490Z
+# Size: 103287
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -61,6 +61,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.adsquirrel.ai
 +.e-volution.ai
 +.positional.ai
++.broadstreet.ai
 +.salesbooster.ai
 +.headerbidding.ai
 +.interactiveads.ai
@@ -11213,7 +11214,6 @@ lgtvsdp.com
 +.riemutmh.com
 +.riftharp.com
 +.rigelink.com
-+.rigorlab.com
 +.rinsouxy.com
 +.riowrite.com
 +.risausso.com
@@ -21010,7 +21010,6 @@ samsungqbe.com
 +.massariuscdn.com
 +.massesnieces.com
 +.masterwanker.com
-+.mathilde-ads.com
 +.maximtoaster.com
 +.maydeception.com
 +.mayhemabjure.com
@@ -24617,7 +24616,6 @@ samsungqbe.com
 +.emulsicchacker.com
 +.enclosedsponge.com
 +.encloselavanga.com
-+.encourageshock.com
 +.encumberbiased.com
 +.engagedsmuggle.com
 +.engravetexture.com
@@ -38671,6 +38669,7 @@ samsungcloudsolution.net
 +.idamcso.top
 +.idickeo.top
 +.iditero.top
++.idomsio.top
 +.idoshbo.top
 +.ietlwso.top
 +.iewruto.top
@@ -48078,6 +48077,7 @@ bitanalytics.casperverswijvelt.be
 +.email-am.jll.cl
 +.email-cm.jll.cl
 +.email-em.jll.cl
++.realtime.bbcl.cl
 +.geo.emol.cl
 +.securetags.esri.cl
 +.smetrics.sony.cl
@@ -48359,6 +48359,7 @@ newspush.sinajs.cn
 +.tongji.xinmin.cn
 +.js.yanyue.cn
 +.bbk5921.yncjsc.cn
++.netstat.yunnan.cn
 +.cdnjs.z-face.cn
 +.guang1.zhakao.cn
 +.og.zyzjpx.cn
@@ -87066,7 +87067,6 @@ display.360totalsecurity.com
 +.stats.increasinglyfunctional.com
 +.nsqrun.incrediblerugsanddecor.com
 +.owl.indigenoushiphopawards.com
-+.secure.inventiveperception365.com
 +.sa.investigationdiscovery.com
 +.ssa.investigationdiscovery.com
 +.marketing.lakepointadvisorygroup.com
@@ -93744,7 +93744,6 @@ comments.gazo.space
 +.smetrics.pwc.com.br
 +.xvyxgy.stz.com.br
 +.lpzxed.uai.com.br
-+.dna.uol.com.br
 +.click.uol.com.br
 +.logger.uol.com.br
 +.metrics.uol.com.br

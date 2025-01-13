@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 13 Jan 2025 02:07:50 GMT
+! Last modified: Mon, 13 Jan 2025 09:39:09 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -40,6 +40,7 @@
 ||adsquirrel.ai^
 ||e-volution.ai^
 ||positional.ai^
+||broadstreet.ai^
 ||salesbooster.ai^
 ||headerbidding.ai^
 ||interactiveads.ai^
@@ -11192,7 +11193,6 @@
 ||riemutmh.com^
 ||riftharp.com^
 ||rigelink.com^
-||rigorlab.com^
 ||rinsouxy.com^
 ||riowrite.com^
 ||risausso.com^
@@ -20989,7 +20989,6 @@
 ||massariuscdn.com^
 ||massesnieces.com^
 ||masterwanker.com^
-||mathilde-ads.com^
 ||maximtoaster.com^
 ||maydeception.com^
 ||mayhemabjure.com^
@@ -24596,7 +24595,6 @@
 ||emulsicchacker.com^
 ||enclosedsponge.com^
 ||encloselavanga.com^
-||encourageshock.com^
 ||encumberbiased.com^
 ||engagedsmuggle.com^
 ||engravetexture.com^
@@ -38650,6 +38648,7 @@
 ||idamcso.top^
 ||idickeo.top^
 ||iditero.top^
+||idomsio.top^
 ||idoshbo.top^
 ||ietlwso.top^
 ||iewruto.top^
@@ -48057,6 +48056,7 @@
 ||email-am.jll.cl^
 ||email-cm.jll.cl^
 ||email-em.jll.cl^
+||realtime.bbcl.cl^
 ||geo.emol.cl^
 ||securetags.esri.cl^
 ||smetrics.sony.cl^
@@ -48338,6 +48338,7 @@
 ||tongji.xinmin.cn^
 ||js.yanyue.cn^
 ||bbk5921.yncjsc.cn^
+||netstat.yunnan.cn^
 ||cdnjs.z-face.cn^
 ||guang1.zhakao.cn^
 ||og.zyzjpx.cn^
@@ -87045,7 +87046,6 @@
 ||stats.increasinglyfunctional.com^
 ||nsqrun.incrediblerugsanddecor.com^
 ||owl.indigenoushiphopawards.com^
-||secure.inventiveperception365.com^
 ||sa.investigationdiscovery.com^
 ||ssa.investigationdiscovery.com^
 ||marketing.lakepointadvisorygroup.com^
@@ -93723,7 +93723,6 @@
 ||smetrics.pwc.com.br^
 ||xvyxgy.stz.com.br^
 ||lpzxed.uai.com.br^
-||dna.uol.com.br^
 ||click.uol.com.br^
 ||logger.uol.com.br^
 ||metrics.uol.com.br^
