@@ -1,5 +1,5 @@
 === base ===
-cloudfront.net                                                                                      1250
+cloudfront.net                                                                                      1251
 weebly.com                                                                                          117
 xiaomi.com                                                                                          99
 baidu.com                                                                                           91
@@ -34,8 +34,8 @@ b-cdn.net                                                                       
 wolterskluwer.com                                                                                   30
 360.cn                                                                                              28
 sosqboh85.com                                                                                       28
+yahoo.com                                                                                           28
 akamaihd.net                                                                                        27
-yahoo.com                                                                                           27
 intuit.com                                                                                          26
 ni.com                                                                                              26
 bestinterestings.com                                                                                25
@@ -156,6 +156,7 @@ ricoh.fr                                                                        
 sedgwick.com                                                                                        11
 shutterstock.com                                                                                    11
 uc.cn                                                                                               11
+xhamster.com                                                                                        11
 yandex.ru                                                                                           11
 youdao.com                                                                                          11
 acspubs.org                                                                                         10
@@ -185,7 +186,6 @@ smart.com                                                                       
 tiktokv.com                                                                                         10
 uol.com.br                                                                                          10
 westernunion.com                                                                                    10
-xhamster.com                                                                                        10
 xunlei.com                                                                                          10
 zip.co                                                                                              10
 === extra ===
