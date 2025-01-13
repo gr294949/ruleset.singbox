@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-13T09:39:02.564Z
-# Size: 2927
+# Last Updated: 2025-01-13T14:15:06.735Z
+# Size: 2929
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -715,6 +715,7 @@ participants.evolv.ai
 s3.masto.ai
 r2.leadsy.ai
 static.netify.ai
+widget.docsbot.ai
 prod-cdn.webtune.ai
 sdk.customfit.ai
 assets.cloudpilot.ai
@@ -932,6 +933,7 @@ uploads.codesandbox.io
 screenshots.codesandbox.io
 sandpack-cdn-v2.codesandbox.io
 prod-packager-packages.codesandbox.io
+cdn.document360.io
 badges.greenkeeper.io
 cdn.imageengine.io
 cdn.ip2location.io
