@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-13T12:40:42.026Z
-# Size: 103162
+# Last Updated: 2025-01-13T13:01:03.596Z
+# Size: 103196
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10542,7 +10542,6 @@ lgtvsdp.com
 +.linkfars.com
 +.linkmepu.com
 +.linkmink.com
-+.linksprf.com
 +.lirretsn.com
 +.list-ads.com
 +.liverail.com
@@ -15599,6 +15598,7 @@ lgtvsdp.com
 +.eanddescri.com
 +.easyhits4u.com
 +.easyinline.com
++.easylummos.com
 +.eb36c9bf12.com
 +.ebb174824f.com
 +.ebc998936c.com
@@ -18863,6 +18863,7 @@ samsungqbe.com
 +.ozelmedikal.com
 +.ozwxhoonxlm.com
 +.ozznarazdtz.com
++.packsofgood.com
 +.pagemystery.com
 +.paidforfree.com
 +.painlightly.com
@@ -24065,6 +24066,7 @@ samsungqbe.com
 +.wholenicenews.com
 +.whomsudsikaxu.com
 +.whoppercreaky.com
++.whywolveshowl.com
 +.wicopymastery.com
 +.widerdaydream.com
 +.widerperspire.com
@@ -27331,6 +27333,7 @@ samsungqbe.com
 +.fulylydevelopeds.com
 +.funneltourdreams.com
 +.furstraitsbrowse.com
++.gainingpartyyoga.com
 +.galaxydiminution.com
 +.garenaamembeship.com
 +.garenaamenbeship.com
@@ -28065,6 +28068,7 @@ samsungqbe.com
 +.advisorthrowbible.com
 +.affiliatepartners.com
 +.affiliatestonybet.com
++.aimportfoliosquid.com
 +.aintydevelelastic.com
 +.alacrityimitation.com
 +.alertlogsemployer.com
@@ -28319,6 +28323,7 @@ samsungqbe.com
 +.fictionfittinglad.com
 +.fiendpreyencircle.com
 +.fightmallowfiasco.com
++.finchoiluntainted.com
 +.find-best-datings.com
 +.findbetterresults.com
 +.findcouponspromos.com
@@ -28365,6 +28370,7 @@ samsungqbe.com
 +.grandwatchesnaive.com
 +.grantedpigsunborn.com
 +.greekunbornlouder.com
++.greenandhappiness.com
 +.groceryshootworld.com
 +.groupcohabitphoto.com
 +.growledavenuejill.com
@@ -28514,6 +28520,7 @@ samsungqbe.com
 +.mockingcolloquial.com
 +.moderategermmaria.com
 +.mommygravelyslime.com
++.mongrelonsetstray.com
 +.monthsshefacility.com
 +.monumentcountless.com
 +.mopemodelingfrown.com
@@ -28926,6 +28933,7 @@ samsungqbe.com
 +.abbotpredicateemma.com
 +.abdicatesyrupwhich.com
 +.aboveboardstunning.com
++.absurdbatchconfess.com
 +.adhostingsolutions.com
 +.adjustbedevilsweep.com
 +.affabilitydisciple.com
@@ -29002,6 +29010,7 @@ samsungqbe.com
 +.cafeteriasobwaiter.com
 +.calculateproducing.com
 +.capitalistblotbits.com
++.cashcinemaunbiased.com
 +.catchymorselguffaw.com
 +.cauliflowertoaster.com
 +.celebrationfestive.com
@@ -29055,6 +29064,7 @@ samsungqbe.com
 +.confrontationdrunk.com
 +.congdongvietnam247.com
 +.conjeller-chikemon.com
++.contentmayinterest.com
 +.convertexperiments.com
 +.coolerpassagesshed.com
 +.copyrightmonastery.com
@@ -29807,6 +29817,7 @@ samsungqbe.com
 +.contentprotectforce.com
 +.continue-installing.com
 +.coppercranberrylamp.com
++.correctdilutetrophy.com
 +.cosmeticsgenerosity.com
 +.coststunningconjure.com
 +.countybananasslogan.com
@@ -29829,6 +29840,7 @@ samsungqbe.com
 +.dauntgolfconfiscate.com
 +.decemberaccordingly.com
 +.decorationhailstone.com
++.dedicateimaginesoil.com
 +.dedicationflamecork.com
 +.deemwidowdiscourage.com
 +.defiantmotherfamine.com
@@ -29852,6 +29864,7 @@ samsungqbe.com
 +.dietarydecreewilful.com
 +.dietschoolvirtually.com
 +.differpurifymustard.com
++.dimmerlingowashable.com
 +.dingytiredfollowing.com
 +.diningconsonanthope.com
 +.discernibletickpang.com
@@ -29874,6 +29887,7 @@ samsungqbe.com
 +.dumpconfinementloaf.com
 +.duplicateallycomics.com
 +.dustywrenchdesigned.com
++.easilygreateststuff.com
 +.ediemidnightzombies.com
 +.edralintheirbrights.com
 +.effectivecpmcontent.com
@@ -29934,6 +29948,7 @@ samsungqbe.com
 +.ginnyclairvoyantapp.com
 +.gleampendulumtucker.com
 +.gloriacheeseattacks.com
++.goodandsoundcontent.com
 +.google-analytics-cn.com
 +.googleadservices-cn.com
 +.googletagmanager-cn.com
@@ -29944,6 +29959,7 @@ samsungqbe.com
 +.grn-memberships2021.com
 +.guardedtabletsgates.com
 +.handymanlipsballast.com
++.hardcoretrayversion.com
 +.hareeditoriallinked.com
 +.harrymercurydynasty.com
 +.hauntingfannyblades.com
@@ -29964,6 +29980,7 @@ samsungqbe.com
 +.housemaiddevolution.com
 +.htoptracker11072023.com
 +.hugodeservedautopsy.com
++.humoristshamrockzap.com
 +.hunchbackconebelfry.com
 +.hydrogendeadflatten.com
 +.immoderatefranzyuri.com
@@ -30116,6 +30133,7 @@ samsungqbe.com
 +.philosophydictation.com
 +.plaicealwayspanther.com
 +.playtogethervietnam.com
++.pleasantinformation.com
 +.plumagebenevolenttv.com
 +.plumpgrabbedseventy.com
 +.pocketenvironmental.com
@@ -30566,6 +30584,7 @@ samsungqbe.com
 +.excitementoppressive.com
 +.existenceprinterfrog.com
 +.explainpompeywistful.com
++.expressjustifierlent.com
 +.extension-ad-stopper.com
 +.faciliatefightpierre.com
 +.faintedtwistedlocate.com
@@ -30636,6 +30655,7 @@ samsungqbe.com
 +.hundredpercentmargin.com
 +.hysteriaethicalsewer.com
 +.identifyillustration.com
++.imagingkneelankiness.com
 +.immaculategirdlewade.com
 +.impatientliftdiploma.com
 +.imperturbableawesome.com
@@ -30665,6 +30685,7 @@ samsungqbe.com
 +.jewelstastesrecovery.com
 +.jewishcontentnetwork.com
 +.junkmildredsuffering.com
++.juryolympicsspookily.com
 +.kaleidoscopeadjacent.com
 +.kgdvs9ov3l2aasw4nuts.com
 +.kh-cn-uutien-3fv-vib.com
@@ -31000,6 +31021,7 @@ samsungcloudsolution.com
 +.addressanythingbridge.com
 +.admin-vayvonvietthanh.com
 +.admissibleconductfray.com
++.agileskincareunrented.com
 +.ahoravideo-schnellvpn.com
 +.alfredvariablecavalry.com
 +.alibisprocessessyntax.com
@@ -31009,6 +31031,7 @@ samsungcloudsolution.com
 +.amusementrehearseevil.com
 +.anaemiaperceivedverge.com
 +.anatomyabdicatenettle.com
++.angrilyanimatorcuddle.com
 +.annoyancejesustrivial.com
 +.anymoresentencevirgin.com
 +.appearzillionnowadays.com
@@ -31025,6 +31048,7 @@ samsungcloudsolution.com
 +.assertedclosureseaman.com
 +.astonishlandmassnervy.com
 +.astoundweighadjoining.com
++.astrologyflyabletruth.com
 +.astronomyfitmisguided.com
 +.autobiographysolution.com
 +.backfiremountslippery.com
@@ -31176,6 +31200,7 @@ samsungcloudsolution.com
 +.exhaustfirstlytearing.com
 +.experimentalpersecute.com
 +.extendingboundsbehave.com
++.extenuatemusketsector.com
 +.eyebrowscrambledlater.com
 +.facilitatevoluntarily.com
 +.facilityearlyimminent.com
@@ -31627,6 +31652,7 @@ samsungcloudsolution.com
 +.bookstoreforbiddeceive.com
 +.boundsinflectioncustom.com
 +.brinkprovenanceamenity.com
++.brittlesturdyunlovable.com
 +.brookredheadpowerfully.com
 +.brunettemattersrefused.com
 +.businessmenmerchandise.com
@@ -31642,6 +31668,7 @@ samsungcloudsolution.com
 +.cherrynanspecification.com
 +.childbirthprivaterouge.com
 +.choiceencounterjackson.com
++.chooseroverlaidspecies.com
 +.christeningscholarship.com
 +.classesfolksprofession.com
 +.clemencyexceptionpolar.com
@@ -31688,6 +31715,7 @@ samsungcloudsolution.com
 +.dichvucongbaohiemxahoi.com
 +.dichvugiaohangtietkiem.com
 +.diffusedpassionquaking.com
++.diffusionsubletunnamed.com
 +.dinecogitateaffections.com
 +.disappearancetickfilth.com
 +.disciplineagonywashing.com
@@ -32132,6 +32160,8 @@ samsungcloudsolution.com
 +.contemplatepuddingbrain.com
 +.continentalaileendepict.com
 +.conveniencepickedegoism.com
++.cosponsorgarnetmorphing.com
++.coveteddutifulprescribe.com
 +.criminalweightforetaste.com
 +.crimsondozeprofessional.com
 +.customernormallyseventh.com
@@ -32182,6 +32212,7 @@ samsungcloudsolution.com
 +.entrailsintentionsbrace.com
 +.enviousforegroundboldly.com
 +.envoyauthorityregularly.com
++.ergonomicparadeupstroke.com
 +.evasiondemandedlearning.com
 +.exasperationincorporate.com
 +.excelfriendsdistracting.com
@@ -32551,6 +32582,7 @@ samsungcloudsolution.com
 +.engagementdepressingseem.com
 +.enhanceinterestinghasten.com
 +.espionagegardenerthicket.com
++.exodusjailhousetarantula.com
 +.expectationtragicpreview.com
 +.explosivegleameddesigner.com
 +.extracthorizontaldashing.com
@@ -32601,6 +32633,7 @@ samsungcloudsolution.com
 +.irrationalcontagiousbean.com
 +.irresponsibilityprograms.com
 +.irritablepopcornwanderer.com
++.islamiclyricallyvariable.com
 +.itchhandwritingimpetuous.com
 +.judgementhavocexcitement.com
 +.jumperformalityexhausted.com
@@ -33080,6 +33113,7 @@ samsungcloudsolution.com
 +.commiseratefiveinvitations.com
 +.complementinstancesvarying.com
 +.compromiseadaptedspecialty.com
++.connectoritineraryswimming.com
 +.consessionconsessiontimber.com
 +.consolationgratitudeunwise.com
 +.consternationmysticalstuff.com
@@ -55867,7 +55901,6 @@ events.jianshu.io
 +.stats.sushibyte.io
 +.integrations.syncmedia.io
 +.21fhq0t574p.talentkit.io
-+.static.terratraf.io
 +.analytics.touchnote.io
 +.gtm.wudpecker.io
 +.stats.asymptotic.io
@@ -65981,6 +66014,7 @@ sapi.edgedb.com
 +.cdn.fedykr.com
 +.engagement.feedly.com
 +.1.feihua.com
++.hub.fghtem.com
 +.go.fhlbny.com
 +.join.fhlbny.com
 +.learn.fhlbny.com

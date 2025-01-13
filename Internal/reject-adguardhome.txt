@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 13 Jan 2025 12:40:47 GMT
+! Last modified: Mon, 13 Jan 2025 13:01:11 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10521,7 +10521,6 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
-||linksprf.com^
 ||lirretsn.com^
 ||list-ads.com^
 ||liverail.com^
@@ -15578,6 +15577,7 @@
 ||eanddescri.com^
 ||easyhits4u.com^
 ||easyinline.com^
+||easylummos.com^
 ||eb36c9bf12.com^
 ||ebb174824f.com^
 ||ebc998936c.com^
@@ -18842,6 +18842,7 @@
 ||ozelmedikal.com^
 ||ozwxhoonxlm.com^
 ||ozznarazdtz.com^
+||packsofgood.com^
 ||pagemystery.com^
 ||paidforfree.com^
 ||painlightly.com^
@@ -24044,6 +24045,7 @@
 ||wholenicenews.com^
 ||whomsudsikaxu.com^
 ||whoppercreaky.com^
+||whywolveshowl.com^
 ||wicopymastery.com^
 ||widerdaydream.com^
 ||widerperspire.com^
@@ -27310,6 +27312,7 @@
 ||fulylydevelopeds.com^
 ||funneltourdreams.com^
 ||furstraitsbrowse.com^
+||gainingpartyyoga.com^
 ||galaxydiminution.com^
 ||garenaamembeship.com^
 ||garenaamenbeship.com^
@@ -28044,6 +28047,7 @@
 ||advisorthrowbible.com^
 ||affiliatepartners.com^
 ||affiliatestonybet.com^
+||aimportfoliosquid.com^
 ||aintydevelelastic.com^
 ||alacrityimitation.com^
 ||alertlogsemployer.com^
@@ -28298,6 +28302,7 @@
 ||fictionfittinglad.com^
 ||fiendpreyencircle.com^
 ||fightmallowfiasco.com^
+||finchoiluntainted.com^
 ||find-best-datings.com^
 ||findbetterresults.com^
 ||findcouponspromos.com^
@@ -28344,6 +28349,7 @@
 ||grandwatchesnaive.com^
 ||grantedpigsunborn.com^
 ||greekunbornlouder.com^
+||greenandhappiness.com^
 ||groceryshootworld.com^
 ||groupcohabitphoto.com^
 ||growledavenuejill.com^
@@ -28493,6 +28499,7 @@
 ||mockingcolloquial.com^
 ||moderategermmaria.com^
 ||mommygravelyslime.com^
+||mongrelonsetstray.com^
 ||monthsshefacility.com^
 ||monumentcountless.com^
 ||mopemodelingfrown.com^
@@ -28905,6 +28912,7 @@
 ||abbotpredicateemma.com^
 ||abdicatesyrupwhich.com^
 ||aboveboardstunning.com^
+||absurdbatchconfess.com^
 ||adhostingsolutions.com^
 ||adjustbedevilsweep.com^
 ||affabilitydisciple.com^
@@ -28981,6 +28989,7 @@
 ||cafeteriasobwaiter.com^
 ||calculateproducing.com^
 ||capitalistblotbits.com^
+||cashcinemaunbiased.com^
 ||catchymorselguffaw.com^
 ||cauliflowertoaster.com^
 ||celebrationfestive.com^
@@ -29034,6 +29043,7 @@
 ||confrontationdrunk.com^
 ||congdongvietnam247.com^
 ||conjeller-chikemon.com^
+||contentmayinterest.com^
 ||convertexperiments.com^
 ||coolerpassagesshed.com^
 ||copyrightmonastery.com^
@@ -29786,6 +29796,7 @@
 ||contentprotectforce.com^
 ||continue-installing.com^
 ||coppercranberrylamp.com^
+||correctdilutetrophy.com^
 ||cosmeticsgenerosity.com^
 ||coststunningconjure.com^
 ||countybananasslogan.com^
@@ -29808,6 +29819,7 @@
 ||dauntgolfconfiscate.com^
 ||decemberaccordingly.com^
 ||decorationhailstone.com^
+||dedicateimaginesoil.com^
 ||dedicationflamecork.com^
 ||deemwidowdiscourage.com^
 ||defiantmotherfamine.com^
@@ -29831,6 +29843,7 @@
 ||dietarydecreewilful.com^
 ||dietschoolvirtually.com^
 ||differpurifymustard.com^
+||dimmerlingowashable.com^
 ||dingytiredfollowing.com^
 ||diningconsonanthope.com^
 ||discernibletickpang.com^
@@ -29853,6 +29866,7 @@
 ||dumpconfinementloaf.com^
 ||duplicateallycomics.com^
 ||dustywrenchdesigned.com^
+||easilygreateststuff.com^
 ||ediemidnightzombies.com^
 ||edralintheirbrights.com^
 ||effectivecpmcontent.com^
@@ -29913,6 +29927,7 @@
 ||ginnyclairvoyantapp.com^
 ||gleampendulumtucker.com^
 ||gloriacheeseattacks.com^
+||goodandsoundcontent.com^
 ||google-analytics-cn.com^
 ||googleadservices-cn.com^
 ||googletagmanager-cn.com^
@@ -29923,6 +29938,7 @@
 ||grn-memberships2021.com^
 ||guardedtabletsgates.com^
 ||handymanlipsballast.com^
+||hardcoretrayversion.com^
 ||hareeditoriallinked.com^
 ||harrymercurydynasty.com^
 ||hauntingfannyblades.com^
@@ -29943,6 +29959,7 @@
 ||housemaiddevolution.com^
 ||htoptracker11072023.com^
 ||hugodeservedautopsy.com^
+||humoristshamrockzap.com^
 ||hunchbackconebelfry.com^
 ||hydrogendeadflatten.com^
 ||immoderatefranzyuri.com^
@@ -30095,6 +30112,7 @@
 ||philosophydictation.com^
 ||plaicealwayspanther.com^
 ||playtogethervietnam.com^
+||pleasantinformation.com^
 ||plumagebenevolenttv.com^
 ||plumpgrabbedseventy.com^
 ||pocketenvironmental.com^
@@ -30545,6 +30563,7 @@
 ||excitementoppressive.com^
 ||existenceprinterfrog.com^
 ||explainpompeywistful.com^
+||expressjustifierlent.com^
 ||extension-ad-stopper.com^
 ||faciliatefightpierre.com^
 ||faintedtwistedlocate.com^
@@ -30615,6 +30634,7 @@
 ||hundredpercentmargin.com^
 ||hysteriaethicalsewer.com^
 ||identifyillustration.com^
+||imagingkneelankiness.com^
 ||immaculategirdlewade.com^
 ||impatientliftdiploma.com^
 ||imperturbableawesome.com^
@@ -30644,6 +30664,7 @@
 ||jewelstastesrecovery.com^
 ||jewishcontentnetwork.com^
 ||junkmildredsuffering.com^
+||juryolympicsspookily.com^
 ||kaleidoscopeadjacent.com^
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kh-cn-uutien-3fv-vib.com^
@@ -30979,6 +31000,7 @@
 ||addressanythingbridge.com^
 ||admin-vayvonvietthanh.com^
 ||admissibleconductfray.com^
+||agileskincareunrented.com^
 ||ahoravideo-schnellvpn.com^
 ||alfredvariablecavalry.com^
 ||alibisprocessessyntax.com^
@@ -30988,6 +31010,7 @@
 ||amusementrehearseevil.com^
 ||anaemiaperceivedverge.com^
 ||anatomyabdicatenettle.com^
+||angrilyanimatorcuddle.com^
 ||annoyancejesustrivial.com^
 ||anymoresentencevirgin.com^
 ||appearzillionnowadays.com^
@@ -31004,6 +31027,7 @@
 ||assertedclosureseaman.com^
 ||astonishlandmassnervy.com^
 ||astoundweighadjoining.com^
+||astrologyflyabletruth.com^
 ||astronomyfitmisguided.com^
 ||autobiographysolution.com^
 ||backfiremountslippery.com^
@@ -31155,6 +31179,7 @@
 ||exhaustfirstlytearing.com^
 ||experimentalpersecute.com^
 ||extendingboundsbehave.com^
+||extenuatemusketsector.com^
 ||eyebrowscrambledlater.com^
 ||facilitatevoluntarily.com^
 ||facilityearlyimminent.com^
@@ -31606,6 +31631,7 @@
 ||bookstoreforbiddeceive.com^
 ||boundsinflectioncustom.com^
 ||brinkprovenanceamenity.com^
+||brittlesturdyunlovable.com^
 ||brookredheadpowerfully.com^
 ||brunettemattersrefused.com^
 ||businessmenmerchandise.com^
@@ -31621,6 +31647,7 @@
 ||cherrynanspecification.com^
 ||childbirthprivaterouge.com^
 ||choiceencounterjackson.com^
+||chooseroverlaidspecies.com^
 ||christeningscholarship.com^
 ||classesfolksprofession.com^
 ||clemencyexceptionpolar.com^
@@ -31667,6 +31694,7 @@
 ||dichvucongbaohiemxahoi.com^
 ||dichvugiaohangtietkiem.com^
 ||diffusedpassionquaking.com^
+||diffusionsubletunnamed.com^
 ||dinecogitateaffections.com^
 ||disappearancetickfilth.com^
 ||disciplineagonywashing.com^
@@ -32111,6 +32139,8 @@
 ||contemplatepuddingbrain.com^
 ||continentalaileendepict.com^
 ||conveniencepickedegoism.com^
+||cosponsorgarnetmorphing.com^
+||coveteddutifulprescribe.com^
 ||criminalweightforetaste.com^
 ||crimsondozeprofessional.com^
 ||customernormallyseventh.com^
@@ -32161,6 +32191,7 @@
 ||entrailsintentionsbrace.com^
 ||enviousforegroundboldly.com^
 ||envoyauthorityregularly.com^
+||ergonomicparadeupstroke.com^
 ||evasiondemandedlearning.com^
 ||exasperationincorporate.com^
 ||excelfriendsdistracting.com^
@@ -32530,6 +32561,7 @@
 ||engagementdepressingseem.com^
 ||enhanceinterestinghasten.com^
 ||espionagegardenerthicket.com^
+||exodusjailhousetarantula.com^
 ||expectationtragicpreview.com^
 ||explosivegleameddesigner.com^
 ||extracthorizontaldashing.com^
@@ -32580,6 +32612,7 @@
 ||irrationalcontagiousbean.com^
 ||irresponsibilityprograms.com^
 ||irritablepopcornwanderer.com^
+||islamiclyricallyvariable.com^
 ||itchhandwritingimpetuous.com^
 ||judgementhavocexcitement.com^
 ||jumperformalityexhausted.com^
@@ -33059,6 +33092,7 @@
 ||commiseratefiveinvitations.com^
 ||complementinstancesvarying.com^
 ||compromiseadaptedspecialty.com^
+||connectoritineraryswimming.com^
 ||consessionconsessiontimber.com^
 ||consolationgratitudeunwise.com^
 ||consternationmysticalstuff.com^
@@ -55846,7 +55880,6 @@
 ||stats.sushibyte.io^
 ||integrations.syncmedia.io^
 ||21fhq0t574p.talentkit.io^
-||static.terratraf.io^
 ||analytics.touchnote.io^
 ||gtm.wudpecker.io^
 ||stats.asymptotic.io^
@@ -65960,6 +65993,7 @@
 ||cdn.fedykr.com^
 ||engagement.feedly.com^
 ||1.feihua.com^
+||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
