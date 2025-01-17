@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-01-13T12:40:42.066Z
-# Size: 452
+# Last Updated: 2025-01-17T12:44:34.346Z
+# Size: 454
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -40,6 +40,7 @@ speedtest.sewan.fr
 +.speedtest.orange.fr
 +.speed.pfm.gg
 speedtest-sg.cbn.id
+horizon.sadata.id
 speedtest.mtnetworks.mn
 +.speedtest.rt.ru
 +.speedtest.rascom.ru
@@ -333,6 +334,7 @@ velocidade-pvh.amazoniatelecom.com.br
 speedtest.conectaamazonia.com.br
 speed.newclicktelecom.com.br
 velocidade.impertechtelecom.com.br
+speedtest.cyberlinkinternet.com.br
 test.infoconnecttelecom.com.br
 ookla.jgainterlinktelecom.com.br
 speedtest.topnettelecomservicos.com.br
