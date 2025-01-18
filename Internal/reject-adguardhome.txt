@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 18 Jan 2025 12:34:33 GMT
+! Last modified: Sat, 18 Jan 2025 15:25:48 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -14027,6 +14027,7 @@
 ||quitepoet.com^
 ||quytiente.com^
 ||qwertypay.com^
+||ragofkanc.com^
 ||raijigrip.com^
 ||rainydirt.com^
 ||rainyhand.com^
@@ -14813,6 +14814,7 @@
 ||zantainet.com^
 ||zapunited.com^
 ||zbdcjjpat.com^
+||zdgeoqvzo.com^
 ||zealsalts.com^
 ||zeemacauk.com^
 ||zercenius.com^
@@ -14965,6 +14967,7 @@
 ||3cb9b57efc.com^
 ||3d5affba28.com^
 ||3dfuckdoll.com^
+||3e1898dbbe.com^
 ||3e6072834f.com^
 ||3ead4fd497.com^
 ||3fc0ebfea0.com^
@@ -15932,6 +15935,7 @@
 ||d9db994995.com^
 ||d9fb2cc166.com^
 ||da066d9560.com^
+||da52d550a0.com^
 ||daailynews.com^
 ||daisyshopp.com^
 ||dariolunus.com^
@@ -16139,6 +16143,7 @@
 ||ezyenrwcmo.com^
 ||f092680893.com^
 ||f0eba64ba6.com^
+||f10f9df901.com^
 ||f145794b22.com^
 ||f14b0e6b0b.com^
 ||f1617d6a6a.com^
@@ -25384,6 +25389,7 @@
 ||tediousticket.com^
 ||temporarympay.com^
 ||tensorsbancos.com^
+||tepirhdbauahk.com^
 ||terabytemedia.com^
 ||terhousouokop.com^
 ||terriblethumb.com^
@@ -25473,6 +25479,7 @@
 ||tylosischewer.com^
 ||tyranbrashore.com^
 ||ubiquitoussea.com^
+||ufykspupgxgzz.com^
 ||ukenthasmeetu.com^
 ||ukindwouldmeu.com^
 ||ulteriorprank.com^
@@ -34934,6 +34941,7 @@
 ||sukientriankhachhang2021.com^
 ||supervisionbasketinhuman.com^
 ||sustainsuspenseorchestra.com^
+||swiftlybloodlesseconomic.com^
 ||symptomprominentfirewood.com^
 ||synonymcuttermischievous.com^
 ||tacticschangebabysitting.com^
@@ -38834,6 +38842,7 @@
 ||sidsaignoo.net^
 ||smartclick.net^
 ||smileyhost.net^
+||soajaihebu.net^
 ||soaneefooy.net^
 ||sograirsoa.net^
 ||soolivawou.net^
