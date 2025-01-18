@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 17 Jan 2025 19:10:24 GMT
+! Last modified: Sat, 18 Jan 2025 12:34:33 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4638,6 +4638,7 @@
 ||gxnfz.com^
 ||gynax.com^
 ||gzads.com^
+||h-bid.com^
 ||h6295.com^
 ||hborq.com^
 ||he7ll.com^
@@ -7779,6 +7780,7 @@
 ||fccomvn.com^
 ||fdawdnh.com^
 ||feedjit.com^
+||feedten.com^
 ||ffbvhlc.com^
 ||ffsewzk.com^
 ||fgoqnva.com^
@@ -11048,10 +11050,12 @@
 ||opqhihiw.com^
 ||optimost.com^
 ||optmnstr.com^
+||oqidsgkq.com^
 ||orcinhyi.com^
 ||orfabfbu.com^
 ||orgassme.com^
 ||origunix.com^
+||orkreats.com^
 ||orodsmnu.com^
 ||orysyisn.com^
 ||oskiwood.com^
@@ -17072,6 +17076,7 @@
 ||owwogmlidz.com^
 ||oxbbzxqfnv.com^
 ||oxkgcefteo.com^
+||oxlipbegan.com^
 ||oxmoonlint.com^
 ||oxmqzeszyo.com^
 ||oxthrilled.com^
@@ -21302,6 +21307,7 @@
 ||datas3ntinel.com^
 ||dataunlocker.com^
 ||datqagdkurce.com^
+||daybookclags.com^
 ||dazzlingbook.com^
 ||dbnxlpbtoqec.com^
 ||dcfnihzg81pa.com^
@@ -21704,6 +21710,7 @@
 ||gulliblegrip.com^
 ||gustocooking.com^
 ||gutobtdagruw.com^
+||gypsumsnocks.com^
 ||gzihfaatdohk.com^
 ||h8brccv4zf5h.com^
 ||hacktaikhoan.com^
@@ -21881,6 +21888,7 @@
 ||joaglouwulin.com^
 ||jobsyndicate.com^
 ||jopbvpsglwfm.com^
+||josiepigroot.com^
 ||jpooavwizlvf.com^
 ||jqueryserver.com^
 ||jsfeedadsget.com^
@@ -22731,6 +22739,7 @@
 ||seleeashopee.com^
 ||selfcampaign.com^
 ||selfishsnake.com^
+||sellisteatin.com^
 ||sendingspire.com^
 ||sensible-ads.com^
 ||seo-overview.com^
@@ -22829,6 +22838,7 @@
 ||slight-tooth.com^
 ||slimfiftywoo.com^
 ||slipperysack.com^
+||slitingfears.com^
 ||sluicehamate.com^
 ||smallerfords.com^
 ||smallershops.com^
@@ -23596,6 +23606,7 @@
 ||anywaysreives.com^
 ||apartemployee.com^
 ||apescausecrag.com^
+||apostilprinks.com^
 ||appboy-images.com^
 ||appcloudvalue.com^
 ||applabzzeydoo.com^
@@ -24381,6 +24392,7 @@
 ||honorablehalt.com^
 ||honorableland.com^
 ||honoursdashed.com^
+||hoodingluster.com^
 ||hoodoosdonsky.com^
 ||hookupsonline.com^
 ||hooliganmedia.com^
@@ -24469,6 +24481,7 @@
 ||istanaimpian1.com^
 ||istanaimpian2.com^
 ||istanaimpian3.com^
+||italitecasbah.com^
 ||itchinglikely.com^
 ||itineraryborn.com^
 ||itmamoswineer.com^
@@ -25050,6 +25063,7 @@
 ||riffingwiener.com^
 ||riseup-t-code.com^
 ||riskelaborate.com^
+||rissoidkyaung.com^
 ||robberysordid.com^
 ||roberehearsal.com^
 ||roboticourali.com^
@@ -25545,6 +25559,7 @@
 ||vivaciousveil.com^
 ||voicelessvein.com^
 ||voicerdefeats.com^
+||volapiepalped.com^
 ||voluumtracker.com^
 ||voraciousgrip.com^
 ||voyagessansei.com^
@@ -35865,6 +35880,7 @@
 ||vingroup.fit^
 ||04o.fun^
 ||0vc.fun^
+||2hl.fun^
 ||2za.fun^
 ||3uo.fun^
 ||4gu.fun^
@@ -36601,6 +36617,7 @@
 ||tgccct.icu^
 ||tghrfv.icu^
 ||tgwfaz.icu^
+||tmjzlr.icu^
 ||tsbrzz.icu^
 ||tyodot.icu^
 ||ugtbit.icu^
@@ -39404,6 +39421,7 @@
 ||quick-counter.net^
 ||reewastogloow.net^
 ||saiphoogloobo.net^
+||shaissugritit.net^
 ||shalroazoagee.net^
 ||shatsoutheshe.net^
 ||shaughixefooz.net^
@@ -43004,6 +43022,7 @@
 ||udkpcc.xyz^
 ||udolgy.xyz^
 ||udswai.xyz^
+||uewzjy.xyz^
 ||uftcfo.xyz^
 ||ugolue.xyz^
 ||uiatkc.xyz^
@@ -44794,6 +44813,7 @@
 ||uohdvgscgckkpt.xyz^
 ||uwmlmhcjmjvuqy.xyz^
 ||waiwiboonubaup.xyz^
+||wasoolekretche.xyz^
 ||wefinexvietnam.xyz^
 ||whoobaumpairto.xyz^
 ||wmail-endpoint.xyz^
@@ -45379,6 +45399,7 @@
 ||shopma.info^
 ||smigro.info^
 ||svyksa.info^
+||sygrip.info^
 ||tadapi.info^
 ||talysu.info^
 ||targhe.info^
@@ -46826,6 +46847,7 @@
 ||beddermidlegs.shop^
 ||berwickveered.shop^
 ||blarnyzizzles.shop^
+||blearspellaea.shop^
 ||blowsebarbers.shop^
 ||boudinminding.shop^
 ||bukshiunchair.shop^
@@ -101386,6 +101408,7 @@
 ||smetrics.sen.com.au^
 ||go.tab.com.au^
 ||stt.tab.com.au^
+||content.tab.com.au^
 ||smetrics.tab.com.au^
 ||smetrics.ten.com.au^
 ||antelope.u3a.com.au^

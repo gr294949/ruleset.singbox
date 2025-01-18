@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-17T19:00:01.420Z
+// # Build 2025-01-18T12:34:34.137Z
 
 declare(strict_types=1);
 
@@ -4873,6 +4873,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,121.224.0.0/12,Domestic',
         'IP-CIDR,121.248.0.0/14,Domestic',
         'IP-CIDR,121.255.0.0/16,Domestic',
+        'IP-CIDR,122.0.64.0/18,Domestic',
         'IP-CIDR,122.4.0.0/14,Domestic',
         'IP-CIDR,122.9.0.0/16,Domestic',
         'IP-CIDR,122.10.112.0/21,Domestic',
@@ -6993,6 +6994,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2404:2280:177::/48,Domestic',
         'IP-CIDR6,2404:2280:181::/48,Domestic',
         'IP-CIDR6,2404:2280:183::/48,Domestic',
+        'IP-CIDR6,2404:2280:18a::/48,Domestic',
         'IP-CIDR6,2404:2280:193::/48,Domestic',
         'IP-CIDR6,2404:2280:196::/48,Domestic',
         'IP-CIDR6,2404:2280:198::/45,Domestic',
@@ -8049,6 +8051,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2a0f:7804:f650::/44,Domestic',
         'IP-CIDR6,2a0f:7804:f9f0::/44,Domestic',
         'IP-CIDR6,2a0f:7807::/32,Domestic',
+        'IP-CIDR6,2a0f:7d07::/32,Domestic',
         'IP-CIDR6,2a0f:85c1:816::/48,Domestic',
         'IP-CIDR6,2a0f:85c1:89a::/48,Domestic',
         'IP-CIDR6,2a0f:85c1:8f4::/48,Domestic',
@@ -8082,7 +8085,8 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2a14:7c0:4a01::/48,Domestic',
         'IP-CIDR6,2a14:4c41::/32,Domestic',
         'IP-CIDR6,2a14:67c1:20::/44,Domestic',
-        'IP-CIDR6,2a14:67c1:70::/46,Domestic',
+        'IP-CIDR6,2a14:67c1:70::/47,Domestic',
+        'IP-CIDR6,2a14:67c1:73::/48,Domestic',
         'IP-CIDR6,2a14:67c1:74::/48,Domestic',
         'IP-CIDR6,2a14:67c1:510::/44,Domestic',
         'IP-CIDR6,2a14:67c1:520::/44,Domestic',
@@ -8098,6 +8102,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2a14:67c1:a02f::/48,Domestic',
         'IP-CIDR6,2a14:7580:9200::/40,Domestic',
         'IP-CIDR6,2a14:7580:9400::/39,Domestic',
+        'IP-CIDR6,2a14:7580:9600::/48,Domestic',
         'IP-CIDR6,2a14:7580:c000::/35,Domestic',
         'IP-CIDR6,2a14:7580:e200::/40,Domestic',
         'IP-CIDR6,2a14:7580:fa00::/40,Domestic',

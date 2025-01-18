@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-17T19:10:20.832Z
-# Size: 112987
+# Last Updated: 2025-01-18T12:34:29.600Z
+# Size: 113010
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4659,6 +4659,7 @@ kma.biz
 +.gxnfz.com
 +.gynax.com
 +.gzads.com
++.h-bid.com
 +.h6295.com
 +.hborq.com
 +.he7ll.com
@@ -7800,6 +7801,7 @@ kma.biz
 +.fccomvn.com
 +.fdawdnh.com
 +.feedjit.com
++.feedten.com
 +.ffbvhlc.com
 +.ffsewzk.com
 +.fgoqnva.com
@@ -11069,10 +11071,12 @@ lgtvsdp.com
 +.opqhihiw.com
 +.optimost.com
 +.optmnstr.com
++.oqidsgkq.com
 +.orcinhyi.com
 +.orfabfbu.com
 +.orgassme.com
 +.origunix.com
++.orkreats.com
 +.orodsmnu.com
 +.orysyisn.com
 +.oskiwood.com
@@ -17093,6 +17097,7 @@ lgtvsdp.com
 +.owwogmlidz.com
 +.oxbbzxqfnv.com
 +.oxkgcefteo.com
++.oxlipbegan.com
 +.oxmoonlint.com
 +.oxmqzeszyo.com
 +.oxthrilled.com
@@ -21323,6 +21328,7 @@ samsungqbe.com
 +.datas3ntinel.com
 +.dataunlocker.com
 +.datqagdkurce.com
++.daybookclags.com
 +.dazzlingbook.com
 +.dbnxlpbtoqec.com
 +.dcfnihzg81pa.com
@@ -21725,6 +21731,7 @@ samsungqbe.com
 +.gulliblegrip.com
 +.gustocooking.com
 +.gutobtdagruw.com
++.gypsumsnocks.com
 +.gzihfaatdohk.com
 +.h8brccv4zf5h.com
 +.hacktaikhoan.com
@@ -21902,6 +21909,7 @@ samsungqbe.com
 +.joaglouwulin.com
 +.jobsyndicate.com
 +.jopbvpsglwfm.com
++.josiepigroot.com
 +.jpooavwizlvf.com
 +.jqueryserver.com
 +.jsfeedadsget.com
@@ -22752,6 +22760,7 @@ samsungqbe.com
 +.seleeashopee.com
 +.selfcampaign.com
 +.selfishsnake.com
++.sellisteatin.com
 +.sendingspire.com
 +.sensible-ads.com
 +.seo-overview.com
@@ -22850,6 +22859,7 @@ samsungqbe.com
 +.slight-tooth.com
 +.slimfiftywoo.com
 +.slipperysack.com
++.slitingfears.com
 +.sluicehamate.com
 +.smallerfords.com
 +.smallershops.com
@@ -23617,6 +23627,7 @@ samsungqbe.com
 +.anywaysreives.com
 +.apartemployee.com
 +.apescausecrag.com
++.apostilprinks.com
 +.appboy-images.com
 +.appcloudvalue.com
 +.applabzzeydoo.com
@@ -24402,6 +24413,7 @@ samsungqbe.com
 +.honorablehalt.com
 +.honorableland.com
 +.honoursdashed.com
++.hoodingluster.com
 +.hoodoosdonsky.com
 +.hookupsonline.com
 +.hooliganmedia.com
@@ -24490,6 +24502,7 @@ samsungqbe.com
 +.istanaimpian1.com
 +.istanaimpian2.com
 +.istanaimpian3.com
++.italitecasbah.com
 +.itchinglikely.com
 +.itineraryborn.com
 +.itmamoswineer.com
@@ -25071,6 +25084,7 @@ samsungqbe.com
 +.riffingwiener.com
 +.riseup-t-code.com
 +.riskelaborate.com
++.rissoidkyaung.com
 +.robberysordid.com
 +.roberehearsal.com
 +.roboticourali.com
@@ -25566,6 +25580,7 @@ samsungqbe.com
 +.vivaciousveil.com
 +.voicelessvein.com
 +.voicerdefeats.com
++.volapiepalped.com
 +.voluumtracker.com
 +.voraciousgrip.com
 +.voyagessansei.com
@@ -35886,6 +35901,7 @@ samsungcloudsolution.com
 +.vingroup.fit
 +.04o.fun
 +.0vc.fun
++.2hl.fun
 +.2za.fun
 +.3uo.fun
 +.4gu.fun
@@ -36622,6 +36638,7 @@ samsungcloudsolution.com
 +.tgccct.icu
 +.tghrfv.icu
 +.tgwfaz.icu
++.tmjzlr.icu
 +.tsbrzz.icu
 +.tyodot.icu
 +.ugtbit.icu
@@ -39425,6 +39442,7 @@ samsungcloudsolution.com
 +.quick-counter.net
 +.reewastogloow.net
 +.saiphoogloobo.net
++.shaissugritit.net
 +.shalroazoagee.net
 +.shatsoutheshe.net
 +.shaughixefooz.net
@@ -43025,6 +43043,7 @@ samsungcloudsolution.net
 +.udkpcc.xyz
 +.udolgy.xyz
 +.udswai.xyz
++.uewzjy.xyz
 +.uftcfo.xyz
 +.ugolue.xyz
 +.uiatkc.xyz
@@ -44815,6 +44834,7 @@ samsungcloudsolution.net
 +.uohdvgscgckkpt.xyz
 +.uwmlmhcjmjvuqy.xyz
 +.waiwiboonubaup.xyz
++.wasoolekretche.xyz
 +.wefinexvietnam.xyz
 +.whoobaumpairto.xyz
 +.wmail-endpoint.xyz
@@ -45400,6 +45420,7 @@ nmbr.info
 +.shopma.info
 +.smigro.info
 +.svyksa.info
++.sygrip.info
 +.tadapi.info
 +.talysu.info
 +.targhe.info
@@ -46847,6 +46868,7 @@ nmbr.info
 +.beddermidlegs.shop
 +.berwickveered.shop
 +.blarnyzizzles.shop
++.blearspellaea.shop
 +.blowsebarbers.shop
 +.boudinminding.shop
 +.bukshiunchair.shop
@@ -101407,6 +101429,7 @@ comments.gazo.space
 +.smetrics.sen.com.au
 +.go.tab.com.au
 +.stt.tab.com.au
++.content.tab.com.au
 +.smetrics.tab.com.au
 +.smetrics.ten.com.au
 +.antelope.u3a.com.au
