@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 18 Jan 2025 15:25:48 GMT
+! Last modified: Sun, 19 Jan 2025 04:34:05 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -984,6 +984,7 @@
 ||countok.de^
 ||cptrack.de^
 ||digentu.de^
+||domself.de^
 ||ecn-ldr.de^
 ||emetriq.de^
 ||ethnarc.de^
@@ -10858,6 +10859,7 @@
 ||moseasia.com^
 ||movemeal.com^
 ||mowfruit.com^
+||mowgoats.com^
 ||mp220303.com^
 ||mp3vizor.com^
 ||mptentry.com^
@@ -14535,6 +14537,7 @@
 ||tumblebit.com^
 ||tumordied.com^
 ||tuneshave.com^
+||tuvrutsnf.com^
 ||twewmykfe.com^
 ||twiebayed.com^
 ||twinadsrv.com^
@@ -35891,6 +35894,7 @@
 ||2hl.fun^
 ||2za.fun^
 ||3uo.fun^
+||4ce.fun^
 ||4gu.fun^
 ||4ve.fun^
 ||4wm.fun^
@@ -35899,6 +35903,7 @@
 ||bc4.fun^
 ||e7h.fun^
 ||ed2.fun^
+||hp7.fun^
 ||ok5.fun^
 ||s83.fun^
 ||alty.fun^
@@ -36615,6 +36620,7 @@
 ||rkgbqn.icu^
 ||rktjxj.icu^
 ||rmduuv.icu^
+||rpfuvj.icu^
 ||rqvrbf.icu^
 ||ruqwgb.icu^
 ||rvxmlj.icu^
@@ -52490,6 +52496,7 @@
 ||ama.wdr.de^
 ||wa.web.de^
 ||tgw.web.de^
+||absys.web.de^
 ||ymprove.web.de^
 ||data-0cc10e3905.wuv.de^
 ||data-63bbe3ec45.wuv.de^
