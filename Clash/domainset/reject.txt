@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-20T08:09:10.317Z
-# Size: 113037
+# Last Updated: 2025-01-20T09:28:23.699Z
+# Size: 112998
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12,8 +12,6 @@
 #  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 #  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt
 #  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Huawei-AdBlock.txt
-#  - https://raw.githubusercontent.com/durablenapkin/block/master/tvstream.txt
-#  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 #  - https://easylist.to/easylist/easylist.txt
 #  - https://easylist.to/easylist/easyprivacy.txt
 #  - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -992,7 +990,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.avencio.de
 +.belboon.de
 +.belstat.de
-+.bestsrv.de
 +.biallo1.de
 +.biallo2.de
 +.biallo3.de
@@ -1366,7 +1363,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.countercity.de
 +.emmi-findet.de
 +.euros4click.de
-+.evilsbedont.de
 +.fastcounter.de
 +.geldcounter.de
 +.intensifier.de
@@ -1412,7 +1408,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.superpromo24.de
 +.traffictrack.de
 +.trendcounter.de
-+.trustaproiam.de
 +.usemaxserver.de
 +.webspiration.de
 +.webttracking.de
@@ -1461,7 +1456,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.quality-channel.de
 +.ranking-counter.de
 +.special-sponsor.de
-+.trusteverything.de
 +.vodafone-direkt.de
 +.zanox-affiliate.de
 +.anzeigen-vor-ort.de
@@ -1635,7 +1629,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.galaxiemedia.fr
 +.ftv-publicite.fr
 +.sdqwf.ga
-+.wordc.ga
 +.kmnapthe.ga
 +.napthekm.ga
 +.napthex98.ga
@@ -2630,7 +2623,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.cplayer.pw
 +.pullcdn.pw
 +.spaines.pw
-+.belicimo.pw
 +.craydark.pw
 +.lastpage.pw
 +.leoceran.pw
@@ -7755,7 +7747,6 @@ kma.biz
 +.eramass.com
 +.erandex.com
 +.ercoils.com
-+.erdoscs.com
 +.ergjohl.com
 +.esjvrfq.com
 +.estouca.com
@@ -10957,7 +10948,6 @@ lgtvsdp.com
 +.nilipuyn.com
 +.ninthfad.com
 +.nishoagn.com
-+.nitrokod.com
 +.nitropay.com
 +.niwooghu.com
 +.nkfinsdg.com
@@ -27942,7 +27932,6 @@ samsungqbe.com
 +.especiallyspawn.com
 +.essential-trash.com
 +.estatestrongest.com
-+.ethereum-pocket.com
 +.eum-appdynamics.com
 +.evaluateuncanny.com
 +.eventfulknights.com
@@ -30360,7 +30349,6 @@ samsungqbe.com
 +.ensignpancreasrun.com
 +.enviousinevitable.com
 +.establishedmutiny.com
-+.ethereum-cashcard.com
 +.everyoneglamorous.com
 +.examsupdatesupple.com
 +.excitinginstitute.com
@@ -31394,7 +31382,6 @@ samsungqbe.com
 +.install-adblocking.com
 +.insultoccupyamazed.com
 +.integral-marketing.com
-+.intelserviceupdate.com
 +.interposedflickhip.com
 +.inventionpassenger.com
 +.irritationunderage.com
@@ -38520,7 +38507,6 @@ samsungcloudsolution.com
 +.greheelsy.net
 +.groleegni.net
 +.guanjiabo.net
-+.gxbrowser.net
 +.heejuchee.net
 +.hubsauwha.net
 +.hypersnap.net
@@ -40197,7 +40183,6 @@ samsungcloudsolution.net
 +.fin.ovh
 +.stat.ovh
 +.descz.ovh
-+.scaleway.ovh
 +.geovisite.ovh
 +.optistats.ovh
 +.freecounter.ovh
@@ -40391,7 +40376,6 @@ samsungcloudsolution.net
 +.silver-pen.pro
 +.smartmnews.pro
 +.snoopytown.pro
-+.sourcecode.pro
 +.stingywear.pro
 +.thechleads.pro
 +.thisobject.pro
@@ -45314,7 +45298,6 @@ samsungcloudsolution.net
 +.pjunnest.cyou
 +.vietcapital.cyou
 +.hdbankfinance.cyou
-+.flightzy.date
 +.freecontent.date
 +.vietcombank.fund
 +.syndicatedsearch.goog
@@ -46323,7 +46306,6 @@ nmbr.info
 +.pamwrymm.live
 +.spo-play.live
 +.tracktds.live
-+.verifier.live
 +.hardabbuy.live
 +.litdeetar.live
 +.yohavemix.live
@@ -46341,7 +46323,6 @@ nmbr.info
 +.cardano-ada.live
 +.dawndadmark.live
 +.dealgodsafe.live
-+.freecontent.live
 +.headcaptcha.live
 +.hostcontent.live
 +.keenmagwife.live
@@ -47449,7 +47430,6 @@ nmbr.info
 +.noearon.click
 +.tc-viet.click
 +.vn-shop.click
-+.ashgrrwt.click
 +.cleannow.click
 +.crypto-o.click
 +.delfsrld.click
@@ -51742,7 +51722,6 @@ p.cloudcraft.co
 +.hcaffil.mironet.cz
 +.partner.momcare.cz
 +.gtpxgg.nacesty.cz
-+.js.nahnoji.cz
 +.mine.nahnoji.cz
 +.partner.nanolab.cz
 +.partner.naseano.cz
@@ -59144,7 +59123,6 @@ events.jianshu.io
 +.pubsrv.devhints.io
 +.cattle.driftbot.io
 +.stats.duetcode.io
-+.grf.easyhash.io
 +.tag.elevaate.io
 +.stats.emailrep.io
 +.marketing.empathiq.io
@@ -62826,7 +62804,6 @@ x.o2.pl
 +.csr.onet.pl
 +.events.onet.pl
 +.kropka.onet.pl
-+.cdn1.pebx.pl
 +.app.rclb.pl
 +.smetrics.seat.pl
 +.smetrics.sony.pl
@@ -69318,7 +69295,6 @@ analytics.nexon.com
 +.tcbtus.opodo.com
 +.sa.oprah.com
 +.ssa.oprah.com
-+.cdn-sec.optmd.com
 +.trk.optum.com
 +.conf.optum.com
 +.lewin.optum.com
@@ -70925,11 +70901,6 @@ zuimeitianqi.inveno.com
 +.tuykfa.ivrose.com
 +.contact.iwgplc.com
 +.marketing.iwsinc.com
-v3-ad.ixigua.com
-v1-dc-ad.ixigua.com
-v3-dc-ad.ixigua.com
-v6-dc-ad.ixigua.com
-v9-dc-ad.ixigua.com
 +.zjliloveyou.ixiunv.com
 +.trck-a8.j-depo.com
 +.asoewk.jaanuu.com
@@ -73646,7 +73617,6 @@ click.hunantv.com
 +.marketing.itiball.com
 +.dg.its-ats.com
 +.marketing.itsavvy.com
-+.mail.itseasy.com
 +.marketing.itshome.com
 +.info.itw-air.com
 +.hits-i.iubenda.com
@@ -75239,8 +75209,6 @@ t.yesware.com
 +.rtb-uswest.adflores.com
 +.xml.adflydsp.com
 +.filter.adflydsp.com
-+.sdk.adincube.com
-+.consent.adincube.com
 +.api.adnation.com
 +.admin.adnation.com
 +.cpm.adoptadx.com
@@ -76858,7 +76826,6 @@ mgepodownload.mediatek.com
 +.metrics.myyellow.com
 +.smetrics.myyellow.com
 +.metrics.mzstatic.com
-+.miner.nablabee.com
 +.info.nahealth.com
 +.med.namzaric.com
 +.ideas.nanawall.com
@@ -86082,7 +86049,6 @@ plausible.leaningtech.com
 +.secure.trust-guard.com
 +.apptest.truveiculos.com
 +.bx5.tubemaximum.com
-+.hive.tubetitties.com
 +.cxalid.turtlebeach.com
 +.sadbmetrics.tusanuncios.com
 +.trk.tuthillpump.com
@@ -87632,7 +87598,6 @@ stats.leavemealone.com
 +.ddd.sexstories69.com
 +.net.sexstories69.com
 +.cp-sap.sfmc-content.com
-+.mail.shaferglazer.com
 +.api.shafttraffic.com
 +.admin.shafttraffic.com
 +.gugmlj.sherrilltree.com
@@ -88624,7 +88589,6 @@ stat.zuimeitianqi.com
 +.link.getoutpatient.com
 +.app.getplayground.com
 +.analytics.gewaterheater.com
-+.mail.ghmproperties.com
 +.smetrics.gibbsanddandy.com
 +.cko.globaldevslam.com
 +.ss.globalprinted.com
@@ -89360,7 +89324,6 @@ stat.zuimeitianqi.com
 +.marketing.techinsurance.com
 +.ad.technews-iran.com
 +.sgtm.technikboerse.com
-+.mail.techniservinc.com
 +.sponsors.teethtalkgirl.com
 +.forms.telstraglobal.com
 +.marketing.tengointernet.com
@@ -96457,7 +96420,6 @@ static.vuevideo.net
 +.hydro-ma-proxy.akamaized.net
 +.freewheel-mtgx-tv.akamaized.net
 +.analytics2-meride-tv.akamaized.net
-+.audio-ak-spotify-com.akamaized.net
 +.analytics2-3-meride-tv.akamaized.net
 +.arabs.alarabsex.net
 +.cdn.alfasense.net
@@ -99320,7 +99282,6 @@ ssl.360antivirus.org
 +.dmp.citynews.ovh
 +.plausible.citynews.ovh
 +.aardvark.tracking.ovh
-+.ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 +.a8.watero.pet
 +.go.17r.pro
 +.link.cado.pro
@@ -99440,7 +99401,6 @@ collect.foresightnews.pro
 +.v1.saleshunt.top
 +.support.streamjav.top
 +.cdn1.xvideohub.top
-analytics.bytegiftia.top
 +.a.miyudaquan.top
 +.new.searchadsw.top
 +.s.throatlust.top
@@ -104275,7 +104235,6 @@ httpdns-browser.platform.dbankcloud.cn
 +.images.marketing.statistica.io
 +.data.email.chriscarter.io
 +.dhiva-test.email.chriscarter.io
-+.bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 +.2e718yf5jypb.test.digitalsurge.io
 +.app.marketing.nbi.iq
 +.data.email.islandsbanki.is

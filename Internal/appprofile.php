@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-20T08:01:18.255Z
+// # Build 2025-01-20T09:28:25.790Z
 
 declare(strict_types=1);
 
@@ -1832,6 +1832,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,coinbase.com,Global',
         'DOMAIN-SUFFIX,coindesk.com,Global',
         'DOMAIN-SUFFIX,dashlane.com,Global',
+        'DOMAIN-SUFFIX,debuggex.com,Global',
         'DOMAIN-SUFFIX,deepmind.com,Global',
         'DOMAIN-SUFFIX,dns-leak.com,Global',
         'DOMAIN-SUFFIX,dribbble.com,Global',
@@ -5393,6 +5394,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,160.20.18.0/23,Domestic',
         'IP-CIDR,160.22.188.0/24,Domestic',
         'IP-CIDR,160.83.110.0/24,Domestic',
+        'IP-CIDR,160.191.0.0/24,Domestic',
         'IP-CIDR,160.191.194.0/23,Domestic',
         'IP-CIDR,160.202.212.0/22,Domestic',
         'IP-CIDR,160.202.224.0/19,Domestic',
