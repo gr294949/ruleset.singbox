@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-20T05:30:01.965Z
+// # Build 2025-01-20T08:01:18.255Z
 
 declare(strict_types=1);
 
@@ -1793,6 +1793,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mozilla.com,Global',
         'DOMAIN-SUFFIX,nbcnews.com,Global',
         'DOMAIN-SUFFIX,nordvpn.com,Global',
+        'DOMAIN-SUFFIX,nsfwr34.com,Global',
         'DOMAIN-SUFFIX,nssurge.com,Global',
         'DOMAIN-SUFFIX,nytimes.com,Global',
         'DOMAIN-SUFFIX,patreon.com,Global',
@@ -1955,6 +1956,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,raspberrypi.com,Global',
         'DOMAIN-SUFFIX,redditmedia.com,Global',
         'DOMAIN-SUFFIX,redditspace.com,Global',
+        'DOMAIN-SUFFIX,rule34video.com,Global',
         'DOMAIN-SUFFIX,serverfault.com,Global',
         'DOMAIN-SUFFIX,theguardian.com,Global',
         'DOMAIN-SUFFIX,tradingview.com,Global',
@@ -2173,6 +2175,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bikaios.xyz,Global',
         'DOMAIN-SUFFIX,wikawika.xyz,Global',
         'DOMAIN-SUFFIX,picacomic.xyz,Global',
+        'DOMAIN-SUFFIX,sfmcompile.club,Global',
         'DOMAIN-SUFFIX,jav.guru,Global',
         'DOMAIN-SUFFIX,justdns.info,Global',
         'DOMAIN-SUFFIX,dns-check.info,Global',
@@ -2847,7 +2850,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,43.254.104.0/23,Domestic',
         'IP-CIDR,43.254.106.0/24,Domestic',
         'IP-CIDR,43.254.116.0/22,Domestic',
-        'IP-CIDR,43.254.128.0/22,Domestic',
         'IP-CIDR,43.254.136.0/22,Domestic',
         'IP-CIDR,43.254.140.0/23,Domestic',
         'IP-CIDR,43.254.144.0/20,Domestic',
@@ -3973,7 +3975,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.248.102.0/23,Domestic',
         'IP-CIDR,103.248.152.0/22,Domestic',
         'IP-CIDR,103.248.224.0/22,Domestic',
-        'IP-CIDR,103.249.14.0/23,Domestic',
         'IP-CIDR,103.249.52.0/22,Domestic',
         'IP-CIDR,103.249.136.0/24,Domestic',
         'IP-CIDR,103.249.244.0/22,Domestic',
@@ -4977,6 +4978,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,123.8.0.0/13,Domestic',
         'IP-CIDR,123.49.192.0/23,Domestic',
         'IP-CIDR,123.49.195.0/24,Domestic',
+        'IP-CIDR,123.49.196.0/24,Domestic',
         'IP-CIDR,123.49.240.0/24,Domestic',
         'IP-CIDR,123.49.242.0/23,Domestic',
         'IP-CIDR,123.49.245.0/24,Domestic',
