@@ -15,6 +15,7 @@
         "web-assets.zendesk",
         "-res.cloudinary.com",
         "dsn.algolia.net",
+        "-cdn.eporner.com",
         "cdnstatic."
       ],
       "domain_regex": [
@@ -30,7 +31,6 @@
         "^cdn-msp[\\w.-]\\.18comic\\.vip$",
         "^cdn-msp[\\w.-]\\.jmcomic\\.me$",
         "^cdn-msp[\\w.-]\\.jmcomic-zzz\\.one$",
-        "^static-[\\w.-][\\w.-]-cdn\\.eporner\\.com$",
         "^file[\\w.-]\\.mikuclub\\.fun$",
         "^cdn[\\w.-]\\.mikuclub\\.fun$",
         "^assets[\\w.-]*?\\.freshdesk\\.com$",

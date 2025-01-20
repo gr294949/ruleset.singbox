@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-19T13:28:55.831Z
+# Last Updated: 2025-01-20T05:29:59.830Z
 # Size: 45
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,dsn.algolia.net
+DOMAIN-KEYWORD,-cdn.eporner.com
 DOMAIN-KEYWORD,cdnstatic.
 DOMAIN-REGEX,^appcenter-filemanagement-[\w.-]*?\.cloudapp\.net$
 DOMAIN-REGEX,^proxy-[\w.-]*?\.dailymotion\.com$
@@ -30,7 +31,6 @@ DOMAIN-REGEX,^cdn[\w.-]-dl\.pornhost\.com$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.18comic\.vip$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.jmcomic\.me$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.jmcomic-zzz\.one$
-DOMAIN-REGEX,^static-[\w.-][\w.-]-cdn\.eporner\.com$
 DOMAIN-REGEX,^file[\w.-]\.mikuclub\.fun$
 DOMAIN-REGEX,^cdn[\w.-]\.mikuclub\.fun$
 DOMAIN-REGEX,^assets[\w.-]*?\.freshdesk\.com$
