@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-19T13:28:55.689Z
-# Size: 104040
+# Last Updated: 2025-01-20T01:24:01.241Z
+# Size: 104043
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11280,6 +11280,7 @@ lgtvsdp.com
 +.s2rjtiki.com
 +.s2sterra.com
 +.sachaits.com
++.saelphol.com
 +.safenick.com
 +.saferedd.com
 +.safesync.com
@@ -12793,7 +12794,6 @@ lgtvsdp.com
 +.fleenaive.com
 +.fleshcash.com
 +.flexlinks.com
-+.flippback.com
 +.flixtrial.com
 +.fnlojkpbe.com
 +.focusdate.com
@@ -34543,6 +34543,7 @@ samsungcloudsolution.com
 +.nxdefd.icu
 +.nyjelh.icu
 +.oqnkur.icu
++.pfbmht.icu
 +.pgazaz.icu
 +.pinjzp.icu
 +.pmtrkp.icu
@@ -39115,6 +39116,7 @@ samsungcloudsolution.net
 +.brutvncv.top
 +.bumnxiev.top
 +.bwurserv.top
++.ccokamif.top
 +.cdipsumf.top
 +.cdyurlif.top
 +.cgidskif.top
@@ -73614,6 +73616,7 @@ eas.etherscan.com
 +.pktbag.flighthub.com
 +.ad.flipboard.com
 +.ue.flipboard.com
++.frontend-logger.flippback.com
 +.wam.flirttrck.com
 +.zlfjbr.florsheim.com
 +.knhtqq.fnjournal.com
