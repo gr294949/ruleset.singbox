@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-20T16:27:46.405Z
-# Size: 117768
+# Last Updated: 2025-01-21T05:17:52.672Z
+# Size: 117786
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -7031,6 +7031,7 @@ kma.biz
 +.lptrck.com
 +.lumxts.com
 +.lurefq.com
++.lurefy.com
 +.luxadv.com
 +.luxcdn.com
 +.luxlnk.com
@@ -12860,6 +12861,7 @@ lgtvsdp.com
 +.threkuth.com
 +.threrlak.com
 +.thruksyq.com
++.thrumulr.com
 +.thshopee.com
 +.thunnqyo.com
 +.tien8833.com
@@ -14144,6 +14146,7 @@ lgtvsdp.com
 +.eoweridus.com
 +.ereerdepi.com
 +.ero-cupid.com
++.eroticher.com
 +.erovation.com
 +.eruthoxup.com
 +.esfwkjsim.com
@@ -14789,6 +14792,7 @@ lgtvsdp.com
 +.losstrack.com
 +.lotte3333.com
 +.loudlunch.com
++.lovenestx.com
 +.lovercash.com
 +.lowlocket.com
 +.lowseelan.com
@@ -17008,6 +17012,7 @@ lgtvsdp.com
 +.bucketbean.com
 +.buckumoore.com
 +.buikolered.com
++.bukusukses.com
 +.bukzvsflpo.com
 +.bulcqmteuc.com
 +.bumblecash.com
@@ -20071,6 +20076,7 @@ samsungqbe.com
 +.chokedsmelt.com
 +.choptacache.com
 +.chrysostrck.com
++.cigfhaztaqu.com
 +.cinemabonus.com
 +.ciqtracking.com
 +.circlelevel.com
@@ -23094,6 +23100,7 @@ samsungqbe.com
 +.earshambitty.com
 +.eastergurgle.com
 +.easy-elation.com
++.easyfinderke.com
 +.easywbdesign.com
 +.ebayonstores.com
 +.eblastengine.com
@@ -25762,6 +25769,7 @@ samsungqbe.com
 +.cumbersomecar.com
 +.currentcollar.com
 +.customselliot.com
++.cvaetfspprbnt.com
 +.dailyalienate.com
 +.dailydivision.com
 +.dailyssshopee.com
@@ -26582,6 +26590,7 @@ samsungqbe.com
 +.myusersonline.com
 +.naiantcapling.com
 +.naivescorries.com
++.nanakotrilith.com
 +.napblockmango.com
 +.napfreefirevn.com
 +.napfreefirex5.com
@@ -37787,6 +37796,7 @@ samsungcloudsolution.com
 +.circusinjunctionarrangement.com
 +.clankexpelledidentification.com
 +.classiccarefullycredentials.com
++.communicatedsuitcompartment.com
 +.concreteapplauseinefficient.com
 +.confidentexplanationillegal.com
 +.confounddistressedrectangle.com
@@ -38209,6 +38219,7 @@ samsungcloudsolution.com
 +.tayvano.dev
 +.webwave.dev
 +.westats.dev
++.openpanel.dev
 +.moralis-node.dev
 +.garena.fan
 +.lazadal.fit
@@ -41199,6 +41210,7 @@ samsungcloudsolution.com
 +.densigissy.net
 +.divscripty.net
 +.dl-protect.net
++.doanaudabu.net
 +.doapovauma.net
 +.dockoolser.net
 +.doctorpost.net
@@ -41642,6 +41654,7 @@ samsungcloudsolution.com
 +.soumoastout.net
 +.spice-sugar.net
 +.static-dscn.net
++.staupsoaksy.net
 +.stoagnejums.net
 +.stoobsugree.net
 +.superfolder.net
@@ -41749,6 +41762,7 @@ samsungcloudsolution.com
 +.gay-hotvideo.net
 +.geewedurisou.net
 +.gichaisseexy.net
++.glabsuckoupy.net
 +.glaicmauxoah.net
 +.glaisseexoar.net
 +.glouvugnirsy.net
@@ -42000,6 +42014,7 @@ samsungcloudsolution.com
 +.oackaudrikrul.net
 +.oatsegnickeez.net
 +.oocmangamsaih.net
++.oopheecahough.net
 +.ossmightyenar.net
 +.outseethoozet.net
 +.paidonresults.net
@@ -43199,6 +43214,7 @@ samsungcloudsolution.net
 +.merry-hearing.pro
 +.naughtynotice.pro
 +.pageloadstats.pro
++.pointlessplan.pro
 +.precious-type.pro
 +.pristine-dark.pro
 +.qualifiedhead.pro
@@ -43935,6 +43951,7 @@ samsungcloudsolution.net
 +.hwurseru.top
 +.hyusnisu.top
 +.i4rsrcj6.top
++.icokamio.top
 +.idipsumo.top
 +.idyurlio.top
 +.igidskio.top
@@ -46200,6 +46217,7 @@ samsungcloudsolution.net
 +.00771944.xyz
 +.00857731.xyz
 +.01045395.xyz
++.01210sop.xyz
 +.04424170.xyz
 +.05420795.xyz
 +.05454674.xyz
@@ -62798,6 +62816,7 @@ s.maketheweb.io
 +.smetrics.kone.is
 +.app.begin.is
 +.red.canary.is
+openpanel.follow.is
 +.cardinal.newman.is
 +.stats.siminn.is
 +.api.country.is
@@ -76708,6 +76727,7 @@ httpdns.bcelive.com
 +.analyze.corbado.com
 +.events-stream-svc.cordial.com
 +.ejimtl.costway.com
++.dco.coupang.com
 +.weblog.coupang.com
 +.mercury.coupang.com
 +.ads-partners.coupang.com
@@ -99758,7 +99778,6 @@ sashimi.royli.dev
 +.horse.hookrelay.dev
 +.stats.intheloop.dev
 +.stats.joaopedro.dev
-api.openpanel.dev
 +.pls.skycastle.dev
 +.ingest-data-afra.snappfood.dev
 +.stats.useeffect.dev
@@ -103832,7 +103851,6 @@ ssl.360antivirus.org
 +.go.tracksearch.pro
 +.tr.buenasofertas.pro
 collect.foresightnews.pro
-+.www.pointlessplan.pro
 +.tr.fidalformation.pro
 +.www.negative-speed.pro
 +.trrk5.pointpointiklo.pro
