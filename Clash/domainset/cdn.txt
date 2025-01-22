@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-21T06:15:00.822Z
-# Size: 3019
+# Last Updated: 2025-01-22T01:20:33.556Z
+# Size: 3021
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2316,6 +2316,7 @@ cdn.privacy-mgmt.com
 ak.sail-horizon.com
 image.shutterstock.com
 +.ipfs.soul-network.com
+cdn.staticdelivr.com
 media.steampowered.com
 cdn.sunofbeaches.com
 cdn.unrealengine.com
@@ -2424,6 +2425,7 @@ cdn.cms-twdigitalassets.com
 screenshots.downloadtorrentfile.com
 loader.mantis-intelligence.com
 cdn.minecraft-server-list.com
+cdn.quickemailverification.com
 useruploads.visualwebsiteoptimizer.com
 cdn-a.sonyentertainmentnetwork.com
 +.ipfs.1-2.dev
