@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 22 Jan 2025 12:38:29 GMT
+! Last modified: Wed, 22 Jan 2025 14:37:52 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -12026,6 +12026,7 @@
 ||orkreats.com^
 ||orodsmnu.com^
 ||orysyisn.com^
+||osgabcqk.com^
 ||oskiwood.com^
 ||osusjsga.com^
 ||otrwaram.com^
@@ -16120,6 +16121,7 @@
 ||5ae3a94233.com^
 ||5b10f288ee.com^
 ||5b3fbababb.com^
+||5be7319a8b.com^
 ||5bf6d94b92.com^
 ||5c4ccd56c9.com^
 ||5cf8606941.com^
@@ -16608,6 +16610,7 @@
 ||b3z29k1uxb.com^
 ||b41732fb1b.com^
 ||b50faca981.com^
+||b6b2d31f7e.com^
 ||b6f16b3cd2.com^
 ||b76751e155.com^
 ||b7bf007bbe.com^
@@ -17276,6 +17279,7 @@
 ||f4823894ba.com^
 ||f53d954cc5.com^
 ||f59408d48d.com^
+||f5ff45b3d4.com^
 ||f62b2a8ac6.com^
 ||f794d2f9d9.com^
 ||f83d8a9867.com^
@@ -26636,6 +26640,7 @@
 ||trunchsubnect.com^
 ||trutheyesstab.com^
 ||truthvexedben.com^
+||tteojtlqlxrev.com^
 ||tubeadnetwork.com^
 ||tubecorporate.com^
 ||turmoilmeddle.com^
@@ -27369,6 +27374,7 @@
 ||dkvhqgnyrnbxsi.com^
 ||dnt-userreport.com^
 ||doctromtinnhan.com^
+||doggessasbolin.com^
 ||dogiedimepupae.com^
 ||donhangkiemtra.com^
 ||doorboyouthear.com^
@@ -37223,6 +37229,7 @@
 ||ed2.fun^
 ||h6o.fun^
 ||hp7.fun^
+||m4r.fun^
 ||ok5.fun^
 ||pa6.fun^
 ||qo2.fun^
@@ -40603,6 +40610,7 @@
 ||pteemteethu.net^
 ||ptougeegnep.net^
 ||rainbownine.net^
+||raisoglaini.net^
 ||ratexchange.net^
 ||recognified.net^
 ||redexchange.net^
@@ -41085,6 +41093,7 @@
 ||granseerdissee.net^
 ||grobungairdoul.net^
 ||gromairgexucmo.net^
+||gukrathokeewhi.net^
 ||gutockeewhargo.net^
 ||imageadvantage.net^
 ||infohimatalk77.net^
@@ -60590,6 +60599,7 @@
 ||panda.kasika.io^
 ||stats.krauss.io^
 ||p.logbox.io^
+||demo.medama.io^
 ||ave-caesar-mas.modivo.io^
 ||rtb2-eu.n-data.io^
 ||rtb2-uswest.n-data.io^
@@ -81651,7 +81661,6 @@
 ||e1cc78a266.f356998def.com^
 ||e4fef4ffec.f494c28901.com^
 ||75357f7aec.f5ea66a9f7.com^
-||31fa866365.f5ff45b3d4.com^
 ||8d8039a1eb.f63777e43d.com^
 ||23f19b241e.f7050945a4.com^
 ||87c96e5e53.f74f316370.com^
