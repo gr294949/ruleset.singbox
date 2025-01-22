@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 22 Jan 2025 02:52:38 GMT
+! Last modified: Wed, 22 Jan 2025 12:11:02 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -3232,6 +3232,7 @@
 ||tgram.ru^
 ||topiz.ru^
 ||traff.ru^
+||tvcok.ru^
 ||unads.ru^
 ||uppro.ru^
 ||uryle.ru^
@@ -5126,7 +5127,6 @@
 ||d-064.com^
 ||daldk.com^
 ||dapxl.com^
-||daraz.com^
 ||datam.com^
 ||de17a.com^
 ||declk.com^
@@ -11692,6 +11692,7 @@
 ||luisardo.com^
 ||lum-bext.com^
 ||luminate.com^
+||luravius.com^
 ||lurdoocu.com^
 ||luronews.com^
 ||lusaisso.com^
@@ -13434,6 +13435,7 @@
 ||alphabird.com^
 ||altabold1.com^
 ||altfafbih.com^
+||amacritus.com^
 ||amala-wav.com^
 ||amalakale.com^
 ||amalt-sqc.com^
@@ -14639,7 +14641,6 @@
 ||mapmyuser.com^
 ||mariadock.com^
 ||marimedia.com^
-||markadver.com^
 ||marketgid.com^
 ||marphezis.com^
 ||marti-cqh.com^
@@ -15493,6 +15494,7 @@
 ||tffkroute.com^
 ||thampolsi.com^
 ||thang365g.com^
+||thangrurs.com^
 ||tharbadir.com^
 ||thautselr.com^
 ||thecodeil.com^
@@ -23645,6 +23647,7 @@
 ||pitycultural.com^
 ||pixanalytics.com^
 ||pixelrevenue.com^
+||pixelvariety.com^
 ||placemypixel.com^
 ||placidperson.com^
 ||plaicecaught.com^
@@ -26517,7 +26520,6 @@
 ||summerhamster.com^
 ||sunriseholler.com^
 ||sunstrokeload.com^
-||superchichair.com^
 ||supercounters.com^
 ||supersonicads.com^
 ||suppliesscore.com^
@@ -28615,7 +28617,6 @@
 ||wendelstein-1b.com^
 ||whatisaweekend.com^
 ||whencewaxworks.com^
-||whimsicalgrove.com^
 ||whiprayoutkill.com^
 ||whisperinflate.com^
 ||whisperingcrib.com^
@@ -34044,7 +34045,6 @@
 ||godmotherelectricity.com^
 ||goodluckblockingthis.com^
 ||goodnightbarterleech.com^
-||goodvibesmatterforus.com^
 ||googlesyndication-cn.com^
 ||gorilladescendbounds.com^
 ||grantinsanemerriment.com^
@@ -37226,6 +37226,7 @@
 ||hp7.fun^
 ||ok5.fun^
 ||pa6.fun^
+||qo2.fun^
 ||s83.fun^
 ||uv4.fun^
 ||y0o.fun^
@@ -45200,6 +45201,7 @@
 ||01045395.xyz^
 ||01210sop.xyz^
 ||01211sop.xyz^
+||01221sop.xyz^
 ||04424170.xyz^
 ||05420795.xyz^
 ||05454674.xyz^
@@ -63107,6 +63109,7 @@
 ||data-16d7ec9a30.zeitungsgruppe.ms^
 ||sst.club.mt^
 ||gtm.lily.mt^
+||ads.tvmnews.mt^
 ||smetrics.schindler.mt^
 ||hzeetn.natalie.mu^
 ||zvbqya.marideal.mu^
@@ -68050,6 +68053,7 @@
 ||x822.mrt.com^
 ||metrics.msg.com^
 ||smetrics.msg.com^
+||event.msi.com^
 ||c.msn.com^
 |h.msn.com^
 ||r.msn.com^
@@ -68225,7 +68229,6 @@
 ||smetrics.tmz.com^
 ||stats.tnt.com^
 ||pub.tom.com^
-||track.tom.com^
 |tongji.tom.com^
 ||discovery.tom.com^
 ||m.trb.com^
@@ -69033,6 +69036,7 @@
 ||adsassets-ipv6.waze.com^
 ||axp.wboy.com^
 ||axp.wbtw.com^
+||metrics-a.wbx2.com^
 ||axp.wcia.com^
 ||ywrcqa.wcnc.com^
 ||u999.wcvb.com^
@@ -72951,6 +72955,7 @@
 ||s.zlinkl.com^
 ||s.zlinkn.com^
 ||s.zlinkp.com^
+||jumbo.zomato.com^
 ||track.zomato.com^
 ||vdc.zoomph.com^
 ||1.zou114.com^
@@ -74185,7 +74190,6 @@
 ||rdx2.lgtvsdp.com^
 ||smartshare.lgtvsdp.com^
 ||bizmkt.lguplus.com^
-||dig.lianjia.com^
 ||metrics-api.librato.com^
 ||t.lidyana.com^
 ||amplitude.life360.com^
@@ -78359,6 +78363,7 @@
 ||tracking.cdiscount.com^
 ||display.cdnbucket.com^
 ||hszlhy.cellinnov.com^
+||metricreceiver.cellrebel.com^
 ||smetrics.ceratizit.com^
 ||marketing.cerrozone.com^
 ||ydcksa.certideal.com^
@@ -79638,7 +79643,6 @@
 ||track.peavoidud.com^
 ||smetrics.pedialyte.com^
 ||smetrics.pediasure.com^
-||secure.peep1alea.com^
 ||smetrics.pembridge.com^
 ||s2.pemdelian.com^
 ||serverside.pepejeans.com^
@@ -80019,7 +80023,6 @@
 ||emkt.stefanini.com^
 ||dc.stenaline.com^
 ||ssa.stepstone.com^
-||tags.stepstone.com^
 ||response.stepstone.com^
 ||marketing.stockcero.com^
 ||agoqaa.stockmann.com^
@@ -100935,6 +100938,7 @@
 ||etracker.p3p.repl.co^
 ||rum.ingress.layer0.co^
 ||load.events.palmes.co^
+||sjc.cloud.optable.co^
 ||load.gtm.rejuvit.co^
 ||a8cv.online.d-school.co^
 ||1a715b8q5m3j.www.logology.co^
@@ -105716,7 +105720,6 @@
 ||metrics.mibcookies.rbs.com^
 ||smetrics.mibcookies.rbs.com^
 ||images.info.rrd.com^
-||reportsk.web.sdo.com^
 ||analytics.global.sky.com^
 ||tr.info.svp.com^
 ||sst.tjmaxx.tjx.com^
@@ -106897,6 +106900,7 @@
 ||tr.news.externis.com^
 ||images.news.extrahop.com^
 ||images.insight.extrahop.com^
+||tms.hft.factor75.com^
 ||a8clk.cp.favorina.com^
 ||images.matservice.fcagroup.com^
 ||app.info.fidelity.com^
@@ -109969,6 +109973,7 @@
 ||load.gtm.pro.trainsweateat.com^
 ||data.notifications.portal.cooperlighting.com^
 ||images.mail01.learn.internationalsos.com^
+||events.app-performance.music.amazon.dev^
 ||events.watchtower.imdbtv.amazon.dev^
 ||forms.flexmba.carey.jhu.edu^
 ||act.online.engineering.nyu.edu^
