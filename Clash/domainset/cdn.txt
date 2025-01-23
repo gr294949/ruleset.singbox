@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-23T06:05:23.456Z
-# Size: 3058
+# Last Updated: 2025-01-23T13:55:57.863Z
+# Size: 3059
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2051,6 +2051,7 @@ cdnb.artstation.com
 cdn-www.bluestacks.com
 app.brightback.com
 cdn.britannica.com
+rtcg-access.bytevcloud.com
 public-pages.cbinsights.com
 +.static.chaosgroup.com
 js.chilipiper.com
