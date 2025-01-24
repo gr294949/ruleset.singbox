@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-24T06:48:40.874Z
-# Size: 3060
+# Last Updated: 2025-01-24T07:48:15.140Z
+# Size: 3061
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -516,6 +516,7 @@ searchserverapi.com
 +.googleadservices.com
 +.steamusercontent.com
 +.chargebeestaticv2.com
++.claudeusercontent.com
 conversiongorilla.com
 +.envatousercontent.com
 +.framerusercontent.com
