@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-24T12:37:35.543Z
+// # Build 2025-01-24T13:13:29.146Z
 
 declare(strict_types=1);
 
@@ -1856,6 +1856,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mypikpak.com,Global',
         'DOMAIN-SUFFIX,newsblur.com,Global',
         'DOMAIN-SUFFIX,nicehash.com,Global',
+        'DOMAIN-SUFFIX,nodeseek.com,Global',
         'DOMAIN-SUFFIX,nytstyle.com,Global',
         'DOMAIN-SUFFIX,pastebin.com,Global',
         'DOMAIN-SUFFIX,porntube.com,Global',
@@ -3253,7 +3254,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,93.177.76.0/23,Domestic',
         'IP-CIDR,93.183.14.0/24,Domestic',
         'IP-CIDR,93.183.18.0/24,Domestic',
-        'IP-CIDR,93.187.128.0/22,Domestic',
         'IP-CIDR,94.191.0.0/17,Domestic',
         'IP-CIDR,96.7.136.0/23,Domestic',
         'IP-CIDR,98.96.246.0/23,Domestic',
@@ -5579,7 +5579,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,182.174.0.0/15,Domestic',
         'IP-CIDR,182.200.0.0/13,Domestic',
         'IP-CIDR,182.236.160.0/19,Domestic',
-        'IP-CIDR,182.237.0.0/22,Domestic',
         'IP-CIDR,182.238.0.0/16,Domestic',
         'IP-CIDR,182.240.0.0/13,Domestic',
         'IP-CIDR,182.254.0.0/16,Domestic',
