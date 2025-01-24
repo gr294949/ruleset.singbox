@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-24T06:48:43.905Z
+// # Build 2025-01-24T09:15:48.408Z
 
 declare(strict_types=1);
 
@@ -1483,12 +1483,17 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,au,Global',
         'DOMAIN-SUFFIX,be,Global',
         'DOMAIN-SUFFIX,ca,Global',
+        'DOMAIN-SUFFIX,ch,Global',
+        'DOMAIN-SUFFIX,cy,Global',
+        'DOMAIN-SUFFIX,cz,Global',
+        'DOMAIN-SUFFIX,de,Global',
         'DOMAIN-SUFFIX,ee,Global',
         'DOMAIN-SUFFIX,eu,Global',
         'DOMAIN-SUFFIX,fm,Global',
         'DOMAIN-SUFFIX,fo,Global',
         'DOMAIN-SUFFIX,fr,Global',
         'DOMAIN-SUFFIX,gd,Global',
+        'DOMAIN-SUFFIX,gg,Global',
         'DOMAIN-SUFFIX,gl,Global',
         'DOMAIN-SUFFIX,gs,Global',
         'DOMAIN-SUFFIX,in,Global',
@@ -1517,9 +1522,11 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,su,Global',
         'DOMAIN-SUFFIX,sx,Global',
         'DOMAIN-SUFFIX,to,Global',
+        'DOMAIN-SUFFIX,tv,Global',
         'DOMAIN-SUFFIX,tw,Global',
         'DOMAIN-SUFFIX,uk,Global',
         'DOMAIN-SUFFIX,us,Global',
+        'DOMAIN-SUFFIX,vn,Global',
         'DOMAIN-SUFFIX,ws,Global',
         'DOMAIN-SUFFIX,app,Global',
         'DOMAIN-SUFFIX,aws,Global',
@@ -1572,16 +1579,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,line-beta.me,Global',
         'DOMAIN-SUFFIX,booth.pm,Global',
         'DOMAIN-SUFFIX,jav.pw,Global',
-        'DOMAIN-SUFFIX,bgm.tv,Global',
-        'DOMAIN-SUFFIX,muku.tv,Global',
-        'DOMAIN-SUFFIX,njav.tv,Global',
-        'DOMAIN-SUFFIX,pscp.tv,Global',
-        'DOMAIN-SUFFIX,iwara.tv,Global',
-        'DOMAIN-SUFFIX,jable.tv,Global',
-        'DOMAIN-SUFFIX,hanime.tv,Global',
-        'DOMAIN-SUFFIX,twitch.tv,Global',
-        'DOMAIN-SUFFIX,cableav.tv,Global',
-        'DOMAIN-SUFFIX,periscope.tv,Global',
         'DOMAIN-SUFFIX,signal.art,Global',
         'DOMAIN-SUFFIX,line.biz,Global',
         'DOMAIN-SUFFIX,x.com,Global',
@@ -6579,7 +6576,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,222.125.0.0/16,Domestic',
         'IP-CIDR,222.126.128.0/22,Domestic',
         'IP-CIDR,222.126.132.0/23,Domestic',
-        'IP-CIDR,222.126.138.0/24,Domestic',
         'IP-CIDR,222.126.141.0/24,Domestic',
         'IP-CIDR,222.126.142.0/23,Domestic',
         'IP-CIDR,222.126.144.0/22,Domestic',
