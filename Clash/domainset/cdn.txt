@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-24T09:15:45.323Z
-# Size: 3063
+# Last Updated: 2025-01-24T13:22:36.874Z
+# Size: 3064
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -153,6 +153,7 @@ mui.com
 +.via0.com
 +.yimg.com
 +.ahcdn.com
++.cldup.com
 +.fbcdn.com
 +.fbsbx.com
 +.fonts.com
