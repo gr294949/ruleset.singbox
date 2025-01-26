@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-01-26T14:31:04.452Z
+// # Build 2025-01-26T16:06:46.839Z
 
 declare(strict_types=1);
 
@@ -1715,6 +1715,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,docker.com,Global',
         'DOMAIN-SUFFIX,fandom.com,Global',
         'DOMAIN-SUFFIX,feedly.com,Global',
+        'DOMAIN-SUFFIX,fixupx.com,Global',
         'DOMAIN-SUFFIX,flickr.com,Global',
         'DOMAIN-SUFFIX,forbes.com,Global',
         'DOMAIN-SUFFIX,genius.com,Global',
@@ -1809,6 +1810,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tinypng.com,Global',
         'DOMAIN-SUFFIX,twitpic.com,Global',
         'DOMAIN-SUFFIX,twitter.com,Global',
+        'DOMAIN-SUFFIX,twittpr.com,Global',
         'DOMAIN-SUFFIX,vivaldi.com,Global',
         'DOMAIN-SUFFIX,voanews.com,Global',
         'DOMAIN-SUFFIX,weather.com,Global',
@@ -1885,6 +1887,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,clubhouse.com,Global',
         'DOMAIN-SUFFIX,coingecko.com,Global',
         'DOMAIN-SUFFIX,flipboard.com,Global',
+        'DOMAIN-SUFFIX,fxtwitter.com,Global',
         'DOMAIN-SUFFIX,gcld-line.com,Global',
         'DOMAIN-SUFFIX,geekbench.com,Global',
         'DOMAIN-SUFFIX,githubapp.com,Global',
@@ -1912,6 +1915,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tiltbrush.com,Global',
         'DOMAIN-SUFFIX,tmagazine.com,Global',
         'DOMAIN-SUFFIX,travis-ci.com,Global',
+        'DOMAIN-SUFFIX,vxtwitter.com,Global',
         'DOMAIN-SUFFIX,w3schools.com,Global',
         'DOMAIN-SUFFIX,wikipedia.com,Global',
         'DOMAIN-SUFFIX,wireguard.com,Global',
@@ -2049,6 +2053,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,akamai.net,Global',
         'DOMAIN-SUFFIX,fastly.net,Global',
         'DOMAIN-SUFFIX,ipleak.net,Global',
+        'DOMAIN-SUFFIX,nitter.net,Global',
         'DOMAIN-SUFFIX,sc-cdn.net,Global',
         'DOMAIN-SUFFIX,yandex.net,Global',
         'DOMAIN-SUFFIX,apkpure.net,Global',
