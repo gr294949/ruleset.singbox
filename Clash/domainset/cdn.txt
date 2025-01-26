@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-24T13:22:36.874Z
-# Size: 3064
+# Last Updated: 2025-01-26T04:13:19.284Z
+# Size: 3065
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -251,6 +251,7 @@ app-spm.com
 +.gentcdn.com
 +.githack.com
 +.hardbin.com
++.hgimg00.com
 +.hugebil.com
 +.ignimgs.com
 +.imgikzy.com
