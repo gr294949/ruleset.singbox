@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 26 Jan 2025 04:13:25 GMT
+! Last modified: Sun, 26 Jan 2025 06:27:27 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -825,6 +825,7 @@
 ||arongroups.co^
 ||ccnnetwork.co^
 ||dutydynamo.co^
+||g792337340.co^
 ||i-likefood.co^
 ||icubeswire.co^
 ||lightminer.co^
@@ -1878,7 +1879,6 @@
 ||qads.io^
 ||r2b2.io^
 ||rdtk.io^
-||sjpf.io^
 ||taps.io^
 ||tjme.io^
 ||xref.io^
@@ -31349,6 +31349,7 @@
 ||taichinhcaptoc.com^
 ||taiphanmemfull.com^
 ||take-prize-now.com^
+||takingbackjuly.com^
 ||talentorganism.com^
 ||tangleoccasion.com^
 ||taozgpkjzpdtgr.com^
@@ -52577,6 +52578,7 @@
 ||01221sop.xyz^
 ||01231sop.xyz^
 ||01240sop.xyz^
+||02085170.xyz^
 ||04424170.xyz^
 ||05420795.xyz^
 ||05454674.xyz^
@@ -52639,6 +52641,7 @@
 ||4602306b.xyz^
 ||46276192.xyz^
 ||466c4d0f.xyz^
+||47206262.xyz^
 ||47235645.xyz^
 ||47296536.xyz^
 ||47415889.xyz^
@@ -52658,6 +52661,7 @@
 ||59768910.xyz^
 ||5cc3ac02.xyz^
 ||60571086.xyz^
+||62842068.xyz^
 ||6471e7f7.xyz^
 ||65035033.xyz^
 ||656f1ba3.xyz^
@@ -80980,7 +80984,6 @@
 ||degnsn.birebin.com^
 ||metrics.bissell.com^
 ||smetrics.bissell.com^
-||log.bitauto.com^
 ||metrics.bitbang.com^
 ||go.bitnami.com^
 ||info.blazecu.com^
@@ -91732,7 +91735,6 @@
 ||stats.onepagelove.com^
 ||tipstats.onepagelove.com^
 ||a8cv.online-mega.com^
-||user-metrics.onthemarket.com^
 ||connect.opendoorerp.com^
 ||m.optidigital.com^
 ||s.optidigital.com^
@@ -112549,6 +112551,7 @@
 ||data.comunitat.3cat.cat^
 ||3cat-lp.comunitat.3cat.cat^
 ||t.e.x.com^
+||event.evtm.53.com^
 ||app.payments.53.com^
 ||app.53seconds.53.com^
 ||app.investing.53.com^
@@ -113821,7 +113824,6 @@
 ||images.e.seagate.com^
 ||images.messages.seagate.com^
 ||m.m.sensivo.com^
-||trk.s.sephora.com^
 ||smetrics.ott.showmax.com^
 ||images.learn.shredit.com^
 ||strack.sw.siemens.com^
@@ -115142,7 +115144,6 @@
 ||stats.lastfm.matthiasloibl.com^
 ||tracking.mb.mercedes-benz.com^
 ||images.purl.mercedes-benz.com^
-||sanalytics.smart.mercedes-benz.com^
 ||tracking.techcenter.mercedes-benz.com^
 ||tracking.socialpublish.mercedes-benz.com^
 ||images.info.microstrategy.com^
@@ -116323,7 +116324,6 @@
 |mg.games.sina.com.cn^
 |stnetsdk.appstore.vivo.com.cn^
 ||eap.big5.enorth.com.cn^
-||idm.api.autohome.com.cn^
 ||tracking.c.mercedes-benz.com.cn^
 ||tracking.m.mercedes-benz.com.cn^
 ||tracking.t.mercedes-benz.com.cn^
