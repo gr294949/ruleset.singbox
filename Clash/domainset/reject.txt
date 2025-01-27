@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-27T02:46:44.899Z
-# Size: 117197
+# Last Updated: 2025-01-27T06:30:59.777Z
+# Size: 117196
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3331,6 +3331,7 @@ o0e.ru
 +.yadro.ru
 +.1cpbac.ru
 +.2under.ru
++.46rtpw.ru
 +.abeets.ru
 +.adbean.ru
 +.adbomb.ru
@@ -3940,6 +3941,7 @@ o0e.ru
 +.34bogatirya.ru
 +.am-schedule.ru
 +.amnsreiuojy.ru
++.bagirastyle.ru
 +.bavaria-cup.ru
 +.betsonsport.ru
 +.bolshoykush.ru
@@ -14743,6 +14745,7 @@ lgtvsdp.com
 +.eastgruff.com
 +.eastrk-dn.com
 +.eastrk-lg.com
++.easyfeeed.com
 +.easyflirt.com
 +.eazyleads.com
 +.ebayasean.com
@@ -15481,6 +15484,7 @@ lgtvsdp.com
 +.mapmyuser.com
 +.mariadock.com
 +.marimedia.com
++.markadver.com
 +.marketgid.com
 +.marphezis.com
 +.marti-cqh.com
@@ -26236,7 +26240,6 @@ samsungqbe.com
 +.travelscream.com
 +.treatedscale.com
 +.trendcounter.com
-+.trendentrium.com
 +.trendgurupro.com
 +.trespassrain.com
 +.trialsgroove.com
@@ -27704,6 +27707,7 @@ samsungqbe.com
 +.getconatyclub.com
 +.getnomadtblog.com
 +.getoverenergy.com
++.getpushmonkey.com
 +.getrunmeellso.com
 +.ggetsurv4youu.com
 +.ghettococonut.com
@@ -55845,6 +55849,7 @@ nmbr.info
 +.z-library.live
 +.9analytics.live
 +.bumlabhurt.live
++.cdn-server.live
 +.contextads.live
 +.feetdonsub.live
 +.ganalytics.live
@@ -59791,6 +59796,7 @@ bitanalytics.casperverswijvelt.be
 +.a.publicmobile.ca
 +.b.publicmobile.ca
 +.stats.radio-canada.ca
++.logstash-3.radio-canada.ca
 +.elq.scanningpens.ca
 +.plausible.tasteslikeme.ca
 +.mdws.teachersplus.ca
@@ -60510,6 +60516,7 @@ so.sina.cn
 +.log.sina.cn
 sax.sina.cn
 2016.sina.cn
++.log2.sina.cn
 saxs.sina.cn
 slog.sina.cn
 +.mixer.sina.cn
@@ -63320,7 +63327,6 @@ p.cloudcraft.co
 +.data-f59db3288b.24hamburg.de
 +.data-7896616c61.abzonline.de
 +.data-614d3891ff.academics.de
-+.imp.accesstra.de
 +.tk.airfrance.de
 +.data-579dbb4ef1.airliners.de
 +.data-a495acff56.airliners.de
@@ -67375,7 +67381,6 @@ ad.qingting.fm
 +.tr.seat-fs-email.fr
 +.vjqmrh.seguret-store.fr
 +.nohdbe.terredemarins.fr
-+.tr.toner-service.fr
 +.tr.tonerservices.fr
 +.rechenschieber.transfermarkt.fr
 +.data-1c0a3d83e3.transfermarkt.fr
@@ -67417,7 +67422,6 @@ ad.qingting.fm
 +.pyymip.supportsmuraux.fr
 +.eulerian.telechargement.fr
 +.stats.terre-compagne.fr
-+.tr.toner-services.fr
 +.cfyhym.weightwatchers.fr
 +.my.weplayhandball.fr
 +.lsixuz.agrifournitures.fr
@@ -77551,6 +77555,7 @@ splashqqlive.gtimg.com
 +.go.hager.com
 +.sys.hager.com
 +.stats.hager.com
++.net.haier.com
 +.franchise.hbham.com
 +.img1.hblds.com
 +.metrics.hbogo.com
@@ -82857,7 +82862,6 @@ analytics.spotify.com
 +.static.uzlifat.com
 +.baboon.vacanti.com
 +.zaiuhu.vacatia.com
-+.knowledge.vaisala.com
 +.saametrics.vaisala.com
 +.t.valcyte.com
 +.t-s.valcyte.com
@@ -83199,7 +83203,6 @@ arms-retcode.aliyuncs.com
 +.metrics.allegion.com
 +.smetrics.allegion.com
 +.fngwdl.allheart.com
-+.data.allstate.com
 +.metrics.allstate.com
 +.smetrics.allstate.com
 +.marketing.almusnet.com
@@ -93057,7 +93060,6 @@ oppo.yidianzixun.com
 +.marketing.geigerwealth.com
 +.connect.geniecompany.com
 +.pm.geniusmonkey.com
-+.tc.geniusmonkey.com
 +.ads.gercekgundem.com
 +.somni.getcreditone.com
 +.events.getmodemagic.com
@@ -100624,7 +100626,6 @@ display.360totalsecurity.com
 +.mktg.holidaylettingslistings.com
 +.info.hygfinancialservicesinc.com
 +.secure.innovation-perceptive52.com
-+.secure.intelligent-company-365.com
 +.trk.intermezzofashionevents.com
 +.aa.irvinecompanyapartments.com
 +.saa.irvinecompanyapartments.com
@@ -104426,6 +104427,7 @@ advertise.baicizhan.org
 +.metrics.michaeljfox.org
 +.smetrics.michaeljfox.org
 +.m.msmuseumart.org
++.img2021.navyfederal.org
 +.analytics.navyfederal.org
 +.t.nobleassure.org
 +.marketing.polymerohio.org
@@ -107035,8 +107037,6 @@ comments.gazo.space
 +.smetrics.asteronlife.com.au
 +.zk.atarsuccess.com.au
 +.tags.babybunting.com.au
-+.log-185a61e7.bendigobank.com.au
-+.wup-185a61e7.bendigobank.com.au
 +.metrics.bestandless.com.au
 +.metrics.bestrecipes.com.au
 +.atgtfj.bettermusic.com.au
@@ -109966,7 +109966,6 @@ httpdns-browser.platform.dbankcloud.cn
 +.event.jma.or.jp
 +.wheoze.msf.or.jp
 +.mtcs.nhk.or.jp
-+.stats.nhk.or.jp
 +.qqdflf.lpga.or.jp
 +.st-nlyss1.plala.or.jp
 +.ads.museum.or.jp
