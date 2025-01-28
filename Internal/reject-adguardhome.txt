@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 28 Jan 2025 08:47:45 GMT
+! Last modified: Tue, 28 Jan 2025 12:37:56 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -8095,6 +8095,7 @@
 ||adchemy.com^
 ||adchina.com^
 ||adcrowd.com^
+||addalzq.com^
 ||addiply.com^
 ||addroid.com^
 ||addthis.com^
@@ -12239,6 +12240,7 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
+||linksprf.com^
 ||lirretsn.com^
 ||list-ads.com^
 ||liverail.com^
@@ -38028,6 +38030,7 @@
 ||aeeg5idiuenbi7erger.com^
 ||affectincentiveyelp.com^
 ||affiliatemembership.com^
+||affluentarmyequator.com^
 ||agedmigrationpepper.com^
 ||aggravatecapeamoral.com^
 ||agitatechampionship.com^
@@ -48451,6 +48454,7 @@
 ||apeefacheefirs.net^
 ||auckodsailtoas.net^
 ||bauwonaujouloo.net^
+||boobausauhipsa.net^
 ||bothoorgoamsab.net^
 ||centralnervous.net^
 ||cepsidsoagloko.net^
@@ -50974,6 +50978,7 @@
 ||rrobbybvvwmzk.top^
 ||rudishtremolo.top^
 ||runklessubact.top^
+||rwzvqzvqkzrwq.top^
 ||sabinaazophen.top^
 ||samarradeafer.top^
 ||sawdustreives.top^
@@ -53527,6 +53532,7 @@
 ||arilsoaxie.xyz^
 ||as01271kkp.xyz^
 ||as01280kkp.xyz^
+||as01281kkp.xyz^
 ||aulrertogo.xyz^
 ||bideo-blog.xyz^
 ||bideo-chat.xyz^
@@ -79472,7 +79478,6 @@
 ||cdn.fedykr.com^
 ||engagement.feedly.com^
 ||1.feihua.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -82716,6 +82721,7 @@
 ||communications.qualico.com^
 ||data.queryly.com^
 ||go.quizifu.com^
+||fnl.quizizz.com^
 ||e.quizlet.com^
 ||el.quizlet.com^
 ||jg7y.quizlet.com^
@@ -105136,6 +105142,7 @@
 ||ssc.evropaelire.org^
 ||tags.evropaelire.org^
 ||stats.firstmarkcu.org^
+||plausible.flamekiller.org^
 ||info.frbservices.org^
 ||check.frbservices.org^
 ||accounting.frbservices.org^
