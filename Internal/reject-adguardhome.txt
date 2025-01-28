@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 28 Jan 2025 12:37:56 GMT
+! Last modified: Tue, 28 Jan 2025 18:42:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -12240,7 +12240,6 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
-||linksprf.com^
 ||lirretsn.com^
 ||list-ads.com^
 ||liverail.com^
@@ -22540,6 +22539,7 @@
 ||quellbustle.com^
 ||queryastray.com^
 ||questionfly.com^
+||quicklyedit.com^
 ||quickorange.com^
 ||quickvayorg.com^
 ||quirkysugar.com^
@@ -44546,6 +44546,7 @@
 ||4zn.fun^
 ||6lx.fun^
 ||6oj.fun^
+||6qo.fun^
 ||7mk.fun^
 ||7zb.fun^
 ||8sh.fun^
@@ -79478,6 +79479,7 @@
 ||cdn.fedykr.com^
 ||engagement.feedly.com^
 ||1.feihua.com^
+||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -106592,6 +106594,7 @@
 ||stats.petr.codes^
 ||stats.pollux.codes^
 ||s.fission.codes^
+||land.izuchai.dance^
 ||puffin.geocode.earth^
 ||go.daughter.earth^
 ||locust.ausrebellion.earth^
@@ -113889,6 +113892,7 @@
 ||images.info.sick.com^
 ||metrics.staging.skkn.com^
 ||gtm.load.smol.com^
+||reke.at.sohu.com^
 ||pv.hd.sohu.com^
 ||pixel.staging.tree.com^
 ||load.tracking.vipp.com^
