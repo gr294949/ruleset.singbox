@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-28T19:59:15.687Z
-# Size: 118074
+# Last Updated: 2025-01-29T12:37:23.242Z
+# Size: 118094
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -220,6 +220,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.chanlemomo.cc
 +.givemelink.cc
 +.gotohouse2.cc
++.hotbbuvifu.cc
 +.hotbraraja.cc
 +.kkkjpg-522.cc
 +.loaderware.cc
@@ -11834,6 +11835,7 @@ lgtvsdp.com
 +.getsthis.com
 +.gettopup.com
 +.gevmrjok.com
++.ghairqin.com
 +.gheslosy.com
 +.gibaivoa.com
 +.gigkarma.com
@@ -14352,6 +14354,7 @@ lgtvsdp.com
 +.betendads.com
 +.betriolua.com
 +.beyanmaan.com
++.bhanphevg.com
 +.bhigziaww.com
 +.bidderads.com
 +.bidderrtb.com
@@ -17713,6 +17716,7 @@ lgtvsdp.com
 +.botscanner.com
 +.bov-userid.com
 +.bowerywill.com
++.bownunseel.com
 +.bpm-youweb.com
 +.bptracking.com
 +.bqstreamer.com
@@ -19884,6 +19888,7 @@ samsungqbe.com
 +.sinkfaster.com
 +.sitelabweb.com
 +.sitetistik.com
++.sizedcalas.com
 +.skiptheadz.com
 +.skolvortex.com
 +.skyadsmart.com
@@ -20921,6 +20926,7 @@ samsungqbe.com
 +.breezygrove.com
 +.brewingjoie.com
 +.brieflizard.com
++.briersiconv.com
 +.brightshare.com
 +.brikinhpaxk.com
 +.bringthrust.com
@@ -21012,6 +21018,7 @@ samsungqbe.com
 +.chaireggnog.com
 +.chairgaubsy.com
 +.chairscrack.com
++.chalonbinge.com
 +.chambulwacs.com
 +.chancecorny.com
 +.channelcamp.com
@@ -21991,6 +21998,7 @@ samsungqbe.com
 +.lokrojecukr.com
 +.longerhorns.com
 +.longlakeweb.com
++.loobyfleyed.com
 +.lookingnull.com
 +.loomdeviate.com
 +.loozubaitoa.com
@@ -22373,6 +22381,7 @@ samsungqbe.com
 +.pailbicycle.com
 +.painlightly.com
 +.pajamasgnat.com
++.pajockpomme.com
 +.paketwartet.com
 +.palliwaklgz.com
 +.pallorirony.com
@@ -23920,6 +23929,7 @@ samsungqbe.com
 +.braveacquire.com
 +.brazenwholly.com
 +.breadbalance.com
++.brethelkumys.com
 +.brevandolius.com
 +.bridgearchly.com
 +.brightlybore.com
@@ -25075,7 +25085,6 @@ samsungqbe.com
 +.looksmartppc.com
 +.loolausufouw.com
 +.looodrxopzvi.com
-+.loopcybersec.com
 +.lorenzourban.com
 +.lorswhowishe.com
 +.losingoldfry.com
@@ -27829,6 +27838,7 @@ samsungqbe.com
 +.helipsymphony.com
 +.helmregardiso.com
 +.hentaicounter.com
++.herdersfiches.com
 +.herdprevalent.com
 +.hereinbedding.com
 +.hereofcineols.com
@@ -39601,6 +39611,7 @@ hullcitytigers.com
 +.godmotherelectricity.com
 +.goodluckblockingthis.com
 +.goodnightbarterleech.com
++.goodvibesmatterforus.com
 +.googlesyndication-cn.com
 +.gorilladescendbounds.com
 +.governoraccustomfull.com
@@ -45348,6 +45359,7 @@ samsungcloudsolution.com
 +.vhrhnh.icu
 +.vmnlkr.icu
 +.vopzhl.icu
++.vtbkhl.icu
 +.vuvnix.icu
 +.vwmjkl.icu
 +.vwsgmf.icu
@@ -45733,6 +45745,7 @@ samsungcloudsolution.com
 +.vftrfmia.icu
 +.vjzvgvgz.icu
 +.vkbxaixl.icu
++.vmxvcjuf.icu
 +.vokzqgjp.icu
 +.vrdfxioe.icu
 +.vtdgfisz.icu
@@ -47696,6 +47709,7 @@ samsungcloudsolution.com
 +.oubsooceen.net
 +.ouglauster.net
 +.pagnawhouk.net
++.pashulroak.net
 +.peenuteque.net
 +.phanmemgoc.net
 +.phanmemvip.net
@@ -50112,6 +50126,7 @@ samsungcloudsolution.net
 +.jclimia.top
 +.jdamcsa.top
 +.jdickea.top
++.jdinmia.top
 +.jditera.top
 +.jdomsia.top
 +.jdoshba.top
@@ -50138,6 +50153,7 @@ samsungcloudsolution.net
 +.kclimid.top
 +.kdamcsd.top
 +.kdicked.top
++.kdinmid.top
 +.kdomsid.top
 +.kdoshbd.top
 +.ketlwsd.top
@@ -50940,6 +50956,7 @@ samsungcloudsolution.net
 +.jelokeryevbyy.top
 +.jkzakzalzorvb.top
 +.joqowqyaarewj.top
++.josephtotters.top
 +.joyfultabloid.top
 +.jybaekajjmqrz.top
 +.jzqbyykbrrbkq.top
@@ -51977,6 +51994,7 @@ samsungcloudsolution.net
 +.lnxkrd.xyz
 +.loaiza.xyz
 +.long1x.xyz
++.losobo.xyz
 +.lsfevr.xyz
 +.lsjazn.xyz
 +.ltfpbp.xyz
@@ -53998,6 +54016,7 @@ samsungcloudsolution.net
 +.zoogroocevee.xyz
 +.amesgraduatel.xyz
 +.bflgokbupydgr.xyz
++.bipeedsoubsie.xyz
 +.bipgialxcfvad.xyz
 +.bluitesqiegbo.xyz
 +.brksxofnsadkb.xyz
@@ -55975,6 +55994,7 @@ nmbr.info
 +.bld.mobi
 +.vib.mobi
 +.vyg.mobi
++.0592.mobi
 +.9ads.mobi
 +.bcvc.mobi
 +.hoho.mobi
@@ -76705,7 +76725,6 @@ httpdns.cctv.com
 +.jirnxq.guud.com
 +.bm.h576.com
 +.stats.habr.com
-+.effect.habr.com
 +.xkvmsr.hair.com
 +.info.halo.com
 +.stats.hayu.com
@@ -78213,7 +78232,6 @@ kgmobilestatbak.kugou.com
 +.info.mdsol.com
 +.events.medio.com
 tongji.meizu.com
-+.tongji-res.meizu.com
 +.mm.melia.com
 +.xmohlh.melia.com
 +.logs.mezmo.com
@@ -78813,6 +78831,7 @@ guanggaoad.youku.com
 uuidapi.yunos.com
 tvupgrade.yunos.com
 osupdateservice.yunos.com
++.amawidget.yutbr.com
 +.www2.zacco.com
 +.metrics.zacks.com
 +.dc.zales.com
@@ -80818,7 +80837,6 @@ sdkinit.taobao.com
 +.tracking.virtus.com
 +.investments.virtus.com
 +.st.vitkac.com
-+.trackr.vivenu.com
 +.sslmetrics.vivint.com
 +.vjvj.vj24co.com
 +.s.vlink6.com
@@ -83653,6 +83671,7 @@ arms-retcode.aliyuncs.com
 +.metrics.allegion.com
 +.smetrics.allegion.com
 +.fngwdl.allheart.com
++.data.allstate.com
 +.metrics.allstate.com
 +.smetrics.allstate.com
 +.marketing.almusnet.com
@@ -101624,6 +101643,7 @@ display.360totalsecurity.com
 +.api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 +.hqwtqa.intelligence-artificielle-school.com
 +.a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com
++.cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com
 +.vib.chamsockhachhang-tructuyen-the-visa.com
 +.marketing.home-inspection-franchise-opportunity.com
 +.stats.liveforeverasyouarenowwithalanresnick.com
@@ -107784,7 +107804,6 @@ comments.gazo.space
 +.vafsxc.radioparts.com.au
 +.tags.realestate.com.au
 +.smetrics.realestate.com.au
-+.analytics.realestate.com.au
 +.sasinator.realestate.com.au
 +.bird.recruitkit.com.au
 +.metrics.redballoon.com.au
@@ -107884,7 +107903,6 @@ comments.gazo.space
 +.sanmet.originenergy.com.au
 +.stats.photographer.com.au
 +.tags.reagroupdata.com.au
-+.collect.reagroupdata.com.au
 +.target.remservlease.com.au
 +.elq.scanningpens.com.au
 +.target.securemaxxia.com.au
@@ -110041,6 +110059,7 @@ httpdns-browser.platform.dbankcloud.cn
 +.trk.mymazola.co.il
 +.tk.airfrance.co.il
 +.smetrics.alfalaval.co.il
++.stats.calcalist.co.il
 +.lp.playsmart.co.il
 +.smetrics.schindler.co.il
 +.info.vaadsheli.co.il
@@ -113391,6 +113410,7 @@ doh.ptqy.gitv.tv
 +.cookies.jll.co.za
 +.email-am.jll.co.za
 +.email-em.jll.co.za
++.ad.l2b.co.za
 +.tracking.mtn.co.za
 +.ecvmbusiness.mtn.co.za
 +.target.pwc.co.za

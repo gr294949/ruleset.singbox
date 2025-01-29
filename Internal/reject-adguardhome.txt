@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 28 Jan 2025 19:59:26 GMT
+! Last modified: Wed, 29 Jan 2025 12:37:34 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -204,6 +204,7 @@
 ||chanlemomo.cc^
 ||givemelink.cc^
 ||gotohouse2.cc^
+||hotbbuvifu.cc^
 ||hotbraraja.cc^
 ||kkkjpg-522.cc^
 ||loaderware.cc^
@@ -11827,6 +11828,7 @@
 ||getsthis.com^
 ||gettopup.com^
 ||gevmrjok.com^
+||ghairqin.com^
 ||gheslosy.com^
 ||gibaivoa.com^
 ||gigkarma.com^
@@ -14348,6 +14350,7 @@
 ||betendads.com^
 ||betriolua.com^
 ||beyanmaan.com^
+||bhanphevg.com^
 ||bhigziaww.com^
 ||bidderads.com^
 ||bidderrtb.com^
@@ -17709,6 +17712,7 @@
 ||botscanner.com^
 ||bov-userid.com^
 ||bowerywill.com^
+||bownunseel.com^
 ||bpm-youweb.com^
 ||bptracking.com^
 ||bqstreamer.com^
@@ -19880,6 +19884,7 @@
 ||sinkfaster.com^
 ||sitelabweb.com^
 ||sitetistik.com^
+||sizedcalas.com^
 ||skiptheadz.com^
 ||skolvortex.com^
 ||skyadsmart.com^
@@ -20918,6 +20923,7 @@
 ||breezygrove.com^
 ||brewingjoie.com^
 ||brieflizard.com^
+||briersiconv.com^
 ||brightshare.com^
 ||brikinhpaxk.com^
 ||bringthrust.com^
@@ -21009,6 +21015,7 @@
 ||chaireggnog.com^
 ||chairgaubsy.com^
 ||chairscrack.com^
+||chalonbinge.com^
 ||chambulwacs.com^
 ||chancecorny.com^
 ||channelcamp.com^
@@ -21988,6 +21995,7 @@
 ||lokrojecukr.com^
 ||longerhorns.com^
 ||longlakeweb.com^
+||loobyfleyed.com^
 ||lookingnull.com^
 ||loomdeviate.com^
 ||loozubaitoa.com^
@@ -22371,6 +22379,7 @@
 ||pailbicycle.com^
 ||painlightly.com^
 ||pajamasgnat.com^
+||pajockpomme.com^
 ||paketwartet.com^
 ||palliwaklgz.com^
 ||pallorirony.com^
@@ -23918,6 +23927,7 @@
 ||braveacquire.com^
 ||brazenwholly.com^
 ||breadbalance.com^
+||brethelkumys.com^
 ||brevandolius.com^
 ||bridgearchly.com^
 ||brightlybore.com^
@@ -25074,7 +25084,6 @@
 ||looksmartppc.com^
 ||loolausufouw.com^
 ||looodrxopzvi.com^
-||loopcybersec.com^
 ||lorenzourban.com^
 ||lorswhowishe.com^
 ||losingoldfry.com^
@@ -27828,6 +27837,7 @@
 ||helipsymphony.com^
 ||helmregardiso.com^
 ||hentaicounter.com^
+||herdersfiches.com^
 ||herdprevalent.com^
 ||hereinbedding.com^
 ||hereofcineols.com^
@@ -39601,6 +39611,7 @@
 ||godmotherelectricity.com^
 ||goodluckblockingthis.com^
 ||goodnightbarterleech.com^
+||goodvibesmatterforus.com^
 ||googlesyndication-cn.com^
 ||gorilladescendbounds.com^
 ||governoraccustomfull.com^
@@ -45348,6 +45359,7 @@
 ||vhrhnh.icu^
 ||vmnlkr.icu^
 ||vopzhl.icu^
+||vtbkhl.icu^
 ||vuvnix.icu^
 ||vwmjkl.icu^
 ||vwsgmf.icu^
@@ -45733,6 +45745,7 @@
 ||vftrfmia.icu^
 ||vjzvgvgz.icu^
 ||vkbxaixl.icu^
+||vmxvcjuf.icu^
 ||vokzqgjp.icu^
 ||vrdfxioe.icu^
 ||vtdgfisz.icu^
@@ -47697,6 +47710,7 @@
 ||oubsooceen.net^
 ||ouglauster.net^
 ||pagnawhouk.net^
+||pashulroak.net^
 ||peenuteque.net^
 ||phanmemgoc.net^
 ||phanmemvip.net^
@@ -50113,6 +50127,7 @@
 ||jclimia.top^
 ||jdamcsa.top^
 ||jdickea.top^
+||jdinmia.top^
 ||jditera.top^
 ||jdomsia.top^
 ||jdoshba.top^
@@ -50139,6 +50154,7 @@
 ||kclimid.top^
 ||kdamcsd.top^
 ||kdicked.top^
+||kdinmid.top^
 ||kdomsid.top^
 ||kdoshbd.top^
 ||ketlwsd.top^
@@ -50941,6 +50957,7 @@
 ||jelokeryevbyy.top^
 ||jkzakzalzorvb.top^
 ||joqowqyaarewj.top^
+||josephtotters.top^
 ||joyfultabloid.top^
 ||jybaekajjmqrz.top^
 ||jzqbyykbrrbkq.top^
@@ -51978,6 +51995,7 @@
 ||lnxkrd.xyz^
 ||loaiza.xyz^
 ||long1x.xyz^
+||losobo.xyz^
 ||lsfevr.xyz^
 ||lsjazn.xyz^
 ||ltfpbp.xyz^
@@ -53999,6 +54017,7 @@
 ||zoogroocevee.xyz^
 ||amesgraduatel.xyz^
 ||bflgokbupydgr.xyz^
+||bipeedsoubsie.xyz^
 ||bipgialxcfvad.xyz^
 ||bluitesqiegbo.xyz^
 ||brksxofnsadkb.xyz^
@@ -55976,6 +55995,7 @@
 ||bld.mobi^
 ||vib.mobi^
 ||vyg.mobi^
+||0592.mobi^
 ||9ads.mobi^
 ||bcvc.mobi^
 ||hoho.mobi^
@@ -76718,7 +76738,6 @@
 ||jirnxq.guud.com^
 ||bm.h576.com^
 ||stats.habr.com^
-||effect.habr.com^
 ||xkvmsr.hair.com^
 ||info.halo.com^
 ||stats.hayu.com^
@@ -78227,7 +78246,6 @@
 ||info.mdsol.com^
 ||events.medio.com^
 |tongji.meizu.com^
-||tongji-res.meizu.com^
 ||mm.melia.com^
 ||xmohlh.melia.com^
 ||logs.mezmo.com^
@@ -78827,6 +78845,7 @@
 |uuidapi.yunos.com^
 |tvupgrade.yunos.com^
 |osupdateservice.yunos.com^
+||amawidget.yutbr.com^
 ||www2.zacco.com^
 ||metrics.zacks.com^
 ||dc.zales.com^
@@ -80832,7 +80851,6 @@
 ||tracking.virtus.com^
 ||investments.virtus.com^
 ||st.vitkac.com^
-||trackr.vivenu.com^
 ||sslmetrics.vivint.com^
 ||vjvj.vj24co.com^
 ||s.vlink6.com^
@@ -83668,6 +83686,7 @@
 ||metrics.allegion.com^
 ||smetrics.allegion.com^
 ||fngwdl.allheart.com^
+||data.allstate.com^
 ||metrics.allstate.com^
 ||smetrics.allstate.com^
 ||marketing.almusnet.com^
@@ -101642,6 +101661,7 @@
 ||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||hqwtqa.intelligence-artificielle-school.com^
 ||a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com^
+||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
 ||marketing.home-inspection-franchise-opportunity.com^
 ||stats.liveforeverasyouarenowwithalanresnick.com^
@@ -107804,7 +107824,6 @@
 ||vafsxc.radioparts.com.au^
 ||tags.realestate.com.au^
 ||smetrics.realestate.com.au^
-||analytics.realestate.com.au^
 ||sasinator.realestate.com.au^
 ||bird.recruitkit.com.au^
 ||metrics.redballoon.com.au^
@@ -107904,7 +107923,6 @@
 ||sanmet.originenergy.com.au^
 ||stats.photographer.com.au^
 ||tags.reagroupdata.com.au^
-||collect.reagroupdata.com.au^
 ||target.remservlease.com.au^
 ||elq.scanningpens.com.au^
 ||target.securemaxxia.com.au^
@@ -110061,6 +110079,7 @@
 ||trk.mymazola.co.il^
 ||tk.airfrance.co.il^
 ||smetrics.alfalaval.co.il^
+||stats.calcalist.co.il^
 ||lp.playsmart.co.il^
 ||smetrics.schindler.co.il^
 ||info.vaadsheli.co.il^
@@ -113411,6 +113430,7 @@
 ||cookies.jll.co.za^
 ||email-am.jll.co.za^
 ||email-em.jll.co.za^
+||ad.l2b.co.za^
 ||tracking.mtn.co.za^
 ||ecvmbusiness.mtn.co.za^
 ||target.pwc.co.za^
