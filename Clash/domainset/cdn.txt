@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-30T10:41:01.870Z
-# Size: 3065
+# Last Updated: 2025-01-30T11:28:24.604Z
+# Size: 3066
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2341,6 +2341,7 @@ st.dynamicyield.com
 cdn.dynamicyield.com
 st-eu.dynamicyield.com
 cdn-eu.dynamicyield.com
+cdn.fastcomments.com
 static.filestackapi.com
 m3u8.girigirilove.com
 cdn.hongkongcard.com
