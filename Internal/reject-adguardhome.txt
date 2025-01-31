@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 31 Jan 2025 15:08:37 GMT
+! Last modified: Fri, 31 Jan 2025 16:05:02 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4813,6 +4813,7 @@
 ||low-lyingwh.cfd^
 ||nkstherefor.cfd^
 ||quezachieve.cfd^
+||speedybytes.cfd^
 ||sup7podthee.cfd^
 ||alaskasworld.cfd^
 ||andslideasco.cfd^
@@ -75182,6 +75183,7 @@
 ||metrics.wmg.com^
 ||api-ad-adapter.wps.com^
 ||oms.wsj.com^
+||pbc.wsj.com^
 ||stats.wwd.com^
 ||a.wzu.com^
 ||bmjs.xzw.com^
@@ -111850,6 +111852,7 @@
 ||pages.e.seahawksemail.com^
 ||tr.nl.services-sncf.com^
 ||load.gtm.setterfashion.com^
+||tracking.api.shoppinggives.com^
 ||tr.nl2.sncf-fidelite.com^
 ||secure.checkout.theprime-shop.com^
 ||tracking.go.toyobo-global.com^
