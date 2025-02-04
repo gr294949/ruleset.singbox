@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-02-04T09:00:52.072Z
-# Size: 767
+# Last Updated: 2025-02-04T09:32:00.473Z
+# Size: 769
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -774,5 +774,7 @@ DOMAIN,media.cdn.queniuqe.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$
 DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$
+DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$
+DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$
 DOMAIN-REGEX,^[\w.-]*?\.qhimgs[\w.-]\.com$
 ################## EOF ##################

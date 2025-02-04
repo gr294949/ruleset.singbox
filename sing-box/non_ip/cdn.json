@@ -49,8 +49,6 @@
         "^blog-imgs-[\\w.-][\\w.-]\\.fc2\\.com$",
         "^rr[\\w.-]---[\\w.-][\\w.-]\\.ouo\\.si$",
         "^[\\w.-]*?\\.kuaikan-cdn[\\w.-]\\.com$",
-        "^[\\w.-]*?\\.lz-cdn[\\w.-]\\.com$",
-        "^[\\w.-]*?\\.lz-cdn[\\w.-][\\w.-]\\.com$",
         "^[\\w.-]*?\\.fsvod[\\w.-]\\.com$",
         "^image[\\w.-]*?\\.cloudokyo\\.cloud$",
         "^video[\\w.-]*?\\.cloudokyo\\.cloud$",

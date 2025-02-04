@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-02-04T09:00:57.061Z
+// # Build 2025-02-04T09:32:05.510Z
 
 declare(strict_types=1);
 
@@ -1045,6 +1045,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,Domestic',
         'DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$,Domestic',
         'DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$,Domestic',
         'DOMAIN-REGEX,^[\w.-]*?\.qhimgs[\w.-]\.com$,Domestic',
         'DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple.co,Microsoft & Apple',
@@ -2901,7 +2903,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.80.190.0/24,Domestic',
         'IP-CIDR,45.81.34.0/24,Domestic',
         'IP-CIDR,45.85.76.0/22,Domestic',
-        'IP-CIDR,45.91.83.0/24,Domestic',
         'IP-CIDR,45.92.158.0/23,Domestic',
         'IP-CIDR,45.113.20.0/22,Domestic',
         'IP-CIDR,45.113.24.0/22,Domestic',
