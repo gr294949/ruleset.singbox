@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-04T09:32:00.405Z
-# Size: 49
+# Last Updated: 2025-01-23T06:05:22.734Z
+# Size: 53
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -48,7 +48,11 @@ DOMAIN-REGEX,^vip-videoprem[\w.-]*?-thumbnail[\w.-]\.fc2\.com$
 DOMAIN-REGEX,^blog-imgs-[\w.-][\w.-]\.2nt\.com$
 DOMAIN-REGEX,^blog-imgs-[\w.-][\w.-]\.fc2\.com$
 DOMAIN-REGEX,^rr[\w.-]---[\w.-][\w.-]\.ouo\.si$
+DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$
+DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$
 DOMAIN-REGEX,^[\w.-]*?\.kuaikan-cdn[\w.-]\.com$
+DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$
+DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$
 DOMAIN-REGEX,^[\w.-]*?\.fsvod[\w.-]\.com$
 DOMAIN-REGEX,^image[\w.-]*?\.cloudokyo\.cloud$
 DOMAIN-REGEX,^video[\w.-]*?\.cloudokyo\.cloud$
