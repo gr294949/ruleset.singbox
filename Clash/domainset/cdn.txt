@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-05T06:41:06.119Z
-# Size: 3094
+# Last Updated: 2025-02-05T13:47:32.789Z
+# Size: 3096
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1582,6 +1582,7 @@ img.apponic.com
 cdn6.aptoide.com
 ws2-cache.aptoide.com
 cdn-mobile.aptoide.com
+chat-content.beanfun.com
 media.beehiiv.com
 promotions.betfair.com
 api.bintray.com
@@ -1679,6 +1680,7 @@ static.moonpay.com
 iframe.nbcnews.com
 nodeassets.nbcnews.com
 assets.nflxext.com
+media.nownews.com
 lc.nssurge.com
 static.olelive.com
 assets.ontrack.com
