@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-04T08:12:23.245Z
-# Size: 3084
+# Last Updated: 2025-02-05T02:21:42.878Z
+# Size: 3090
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -94,6 +94,7 @@ typescript-eslint.io
 +.redd.it
 +.unsplash.it
 +.place-hold.it
++.yimg.jp
 +.placehold.jp
 +.misskeyusercontent.jp
 icons.ly
@@ -1027,6 +1028,7 @@ livedoor.blogimg.jp
 resize.blogsys.jp
 cdn.wikiwiki.jp
 media.yukimochi.jp
++.edge.storage-yahoo.jp
 +.ipfs.lain.la
 pomf2.lain.la
 atn.hitomi.la
@@ -1123,6 +1125,7 @@ images.pluto.tv
 assets.twitch.tv
 clips-media-assets2.twitch.tv
 cdn.vidible.tv
+cw-image-resizer.cwg.tw
 megapx-assets.dcard.tw
 cf.shopee.tw
 app.moegirl.tw
@@ -1956,6 +1959,7 @@ cdn1.epicgames.com
 cdn2.epicgames.com
 media-cdn.epicgames.com
 static-assets-prod.epicgames.com
+static.filehorse.com
 snippets.freshchat.com
 cdn.freshdesk.com
 webp.frostming.com
@@ -2432,6 +2436,7 @@ resources.esportsinsider.com
 cdn-live.foreignaffairs.com
 static-gcp.freepikcompany.com
 code.ionicframework.com
+content.kaspersky-labs.com
 static.killedbygoogle.com
 na-library.klarnaservices.com
 assets.media-platform.com
@@ -2694,6 +2699,7 @@ static.underhentai.net
 images.wsjcommerce.net
 +.storage.yandexcloud.net
 +.coral.coralproject.net
++.f.hubspotemail.net
 blacklist.tampermonkey.net
 d4.alternativeto.net
 assets.mediadelivery.net

@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-02-04T08:12:24.740Z
+// # Build 2025-02-05T02:21:47.281Z
 
 declare(strict_types=1);
 
@@ -105,6 +105,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,gov.cn,Domestic',
         'DOMAIN-SUFFIX,itc.cn,Domestic',
         'DOMAIN-SUFFIX,mcd.cn,Domestic',
+        'DOMAIN-SUFFIX,nga.cn,Domestic',
         'DOMAIN-SUFFIX,nmc.cn,Domestic',
         'DOMAIN-SUFFIX,org.cn,Domestic',
         'DOMAIN-SUFFIX,php.cn,Domestic',
@@ -243,6 +244,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,139.com,Domestic',
         'DOMAIN-SUFFIX,163.com,Domestic',
         'DOMAIN-SUFFIX,166.com,Domestic',
+        'DOMAIN-SUFFIX,178.com,Domestic',
         'DOMAIN-SUFFIX,188.com,Domestic',
         'DOMAIN-SUFFIX,360.com,Domestic',
         'DOMAIN-SUFFIX,bh3.com,Domestic',
@@ -395,6 +397,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cmbimg.com,Domestic',
         'DOMAIN-SUFFIX,ctfile.com,Domestic',
         'DOMAIN-SUFFIX,dnspod.com,Domestic',
+        'DOMAIN-SUFFIX,donews.com,Domestic',
         'DOMAIN-SUFFIX,douban.com,Domestic',
         'DOMAIN-SUFFIX,douyin.com,Domestic',
         'DOMAIN-SUFFIX,dpfile.com,Domestic',
@@ -430,6 +433,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mmstat.com,Domestic',
         'DOMAIN-SUFFIX,mobike.com,Domestic',
         'DOMAIN-SUFFIX,myoppo.com,Domestic',
+        'DOMAIN-SUFFIX,ngabbs.com,Domestic',
         'DOMAIN-SUFFIX,ourdvs.com,Domestic',
         'DOMAIN-SUFFIX,pddpic.com,Domestic',
         'DOMAIN-SUFFIX,pddugc.com,Domestic',
@@ -1039,6 +1043,10 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net,Domestic',
         'DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net,Domestic',
         'DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$,Domestic',
         'DOMAIN-REGEX,^[\w.-]*?\.qhimgs[\w.-]\.com$,Domestic',
         'DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple.co,Microsoft & Apple',
@@ -1479,6 +1487,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,blizzard.gcdn.cloudn.co.kr,Steam Download',
         'DOMAIN,edge.steam-dns.top.comcast.net,Steam Download',
         'DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,Global',
+        'DOMAIN-SUFFIX,ac,Global',
         'DOMAIN-SUFFIX,ai,Global',
         'DOMAIN-SUFFIX,at,Global',
         'DOMAIN-SUFFIX,au,Global',
@@ -1549,7 +1558,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,watch,Global',
         'DOMAIN-SUFFIX,network,Global',
         'DOMAIN-SUFFIX,community,Global',
-        'DOMAIN-SUFFIX,ipx.ac,Global',
         'DOMAIN-SUFFIX,520cc.cc,Global',
         'DOMAIN-SUFFIX,ping0.cc,Global',
         'DOMAIN-SUFFIX,whoer.cc,Global',
@@ -2007,9 +2015,11 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,prowritingaid.com,Global',
         'DOMAIN-SUFFIX,stackexchange.com,Global',
         'DOMAIN-SUFFIX,stackoverflow.com,Global',
+        'DOMAIN-SUFFIX,thaiheadlines.com,Global',
         'DOMAIN-SUFFIX,xpressunblock.com,Global',
         'DOMAIN-SUFFIX,cloudflare-dns.com,Global',
         'DOMAIN-SUFFIX,line-apps-beta.com,Global',
+        'DOMAIN-SUFFIX,opencollective.com,Global',
         'DOMAIN-SUFFIX,redtubepremium.com,Global',
         'DOMAIN-SUFFIX,smartmailcloud.com,Global',
         'DOMAIN-SUFFIX,steamcommunity.com,Global',
@@ -2895,7 +2905,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.80.190.0/24,Domestic',
         'IP-CIDR,45.81.34.0/24,Domestic',
         'IP-CIDR,45.85.76.0/22,Domestic',
-        'IP-CIDR,45.91.83.0/24,Domestic',
         'IP-CIDR,45.92.158.0/23,Domestic',
         'IP-CIDR,45.113.20.0/22,Domestic',
         'IP-CIDR,45.113.24.0/22,Domestic',

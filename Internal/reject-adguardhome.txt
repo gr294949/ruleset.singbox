@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 04 Feb 2025 08:12:31 GMT
+! Last modified: Wed, 05 Feb 2025 02:21:52 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4500,6 +4500,7 @@
 ||photonlabs.app^
 ||vaytotnhat.app^
 ||growthbuddy.app^
+||identitypxl.app^
 ||clickguardian.app^
 ||system-notify.app^
 ||vaytienonline.app^
@@ -9748,6 +9749,7 @@
 ||qfgtepw.com^
 ||qfjherc.com^
 ||qgexkmi.com^
+||qhaccid.com^
 ||qhwyoat.com^
 ||qiuaiea.com^
 ||qjukphe.com^
@@ -12060,6 +12062,7 @@
 ||klingxai.com^
 ||klipmart.com^
 ||klixfeed.com^
+||klkchits.com^
 ||klldabck.com^
 ||kms-full.com^
 ||kms-tool.com^
@@ -16928,6 +16931,7 @@
 ||095f2fc218.com^
 ||09b1fcc95e.com^
 ||0b0db57b5f.com^
+||0b6e17a630.com^
 ||0b7741a902.com^
 ||0b85c2f9bb.com^
 ||0c6be7f968.com^
@@ -17213,6 +17217,7 @@
 ||817dae10e1.com^
 ||81c875a340.com^
 ||828af6b8ce.com^
+||831f1e8aa9.com^
 ||835images1.com^
 ||845d6bbf60.com^
 ||84aa71fc7c.com^
@@ -17615,6 +17620,7 @@
 ||authedmine.com^
 ||autopsytan.com^
 ||avhtaapxml.com^
+||aviarymike.com^
 ||aviationbe.com^
 ||avidlender.com^
 ||avtvcuofgz.com^
@@ -17685,6 +17691,7 @@
 ||bbnfcfrvjs.com^
 ||bbrjelrxnp.com^
 ||bc84617c73.com^
+||bca10c62ca.com^
 ||bcd8072b72.com^
 ||bcloudhost.com^
 ||bd33500074.com^
@@ -19968,6 +19975,7 @@
 ||sextubeweb.com^
 ||sexvertise.com^
 ||shackapple.com^
+||shaenphiks.com^
 ||shaggytank.com^
 ||shakesider.com^
 ||shakytaste.com^
@@ -21388,6 +21396,7 @@
 ||cubicnought.com^
 ||cufultahaur.com^
 ||cugraghorty.com^
+||culptyjhitf.com^
 ||cunlagadzwu.com^
 ||curatekrait.com^
 ||curatelsack.com^
@@ -21998,6 +22007,7 @@
 ||iconosquare.com^
 ||id-visitors.com^
 ||ideapassage.com^
+||identitypxl.com^
 ||idreammedia.com^
 ||idtargeting.com^
 ||if-eku3a-fp.com^
@@ -26203,6 +26213,7 @@
 ||ridmilestone.com^
 ||rightfulfall.com^
 ||rilelogicbuy.com^
+||rjkrefyqrixk.com^
 ||rmahmighoogg.com^
 ||rndhaunteran.com^
 ||rndmusharnar.com^
@@ -27108,6 +27119,7 @@
 ||21sexturycash.com^
 ||24-7-vidientu.com^
 ||2435march2024.com^
+||2443march2024.com^
 ||2447march2024.com^
 ||2449march2024.com^
 ||2469april2024.com^
@@ -31419,6 +31431,7 @@
 ||piercepavilion.com^
 ||pistolstumbled.com^
 ||pjtoaewbccpchu.com^
+||pkyffuewwuhnld.com^
 ||placidactivity.com^
 ||placiditylever.com^
 ||placingcompany.com^
@@ -31807,6 +31820,7 @@
 ||staggeredowner.com^
 ||stairmercenary.com^
 ||standstilldeny.com^
+||starmeetonline.com^
 ||starvebelieved.com^
 ||statementsclaw.com^
 ||statistic-data.com^
@@ -32089,6 +32103,7 @@
 ||vpb-nanghanmuc.com^
 ||vpbank-vaytien.com^
 ||vultureobvious.com^
+||vyhpoooamxdhmg.com^
 ||vyxanrtgkrbsbl.com^
 ||wa-nago-wagona.com^
 ||wafflesquaking.com^
@@ -34607,6 +34622,7 @@
 ||dressmakertumble.com^
 ||drfaultlessplays.com^
 ||drsmediaexchange.com^
+||dukerationpecial.com^
 ||dummymerchandise.com^
 ||dunderaffiliates.com^
 ||durabledatabases.com^
@@ -35327,6 +35343,7 @@
 ||projectagoratech.com^
 ||projectwonderful.com^
 ||prophecy-of-fate.com^
+||propositionpower.com^
 ||prosecutorkettle.com^
 ||prosperousdreary.com^
 ||protectonlinenow.com^
@@ -36219,6 +36236,7 @@
 ||digital-interview.com^
 ||dignifiedreligion.com^
 ||dignifiedresident.com^
+||diingsinspiringtg.com^
 ||dilutegulpedshirt.com^
 ||dinerbreathtaking.com^
 ||dingswondenthaiti.com^
@@ -46182,6 +46200,7 @@
 ||qonbibff.icu^
 ||rhndvagz.icu^
 ||roxwusak.icu^
+||rrptnkao.icu^
 ||rvnaxwqe.icu^
 ||rvtfwryz.icu^
 ||rvxsvwqf.icu^
@@ -48707,6 +48726,7 @@
 ||peejoopsajou.net^
 ||peewhouheeku.net^
 ||phadsophoogh.net^
+||phahifoobsie.net^
 ||phaimsebsils.net^
 ||phautchiwaiw.net^
 ||phidaukrauvo.net^
@@ -49011,6 +49031,7 @@
 ||grobungairdoul.net^
 ||gromairgexucmo.net^
 ||groogneeltoupt.net^
+||grookilteepsou.net^
 ||gukrathokeewhi.net^
 ||gutockeewhargo.net^
 ||imageadvantage.net^
@@ -53665,6 +53686,7 @@
 ||mdjdpyrt.xyz^
 ||mebohjhh.xyz^
 ||megnotch.xyz^
+||mengozia.xyz^
 ||milteept.xyz^
 ||minsaith.xyz^
 ||mirtacku.xyz^
@@ -54146,6 +54168,8 @@
 ||illuminous.xyz^
 ||imported1x.xyz^
 ||improvebin.xyz^
+||is02041qqp.xyz^
+||is02050qqp.xyz^
 ||jaudoleewe.xyz^
 ||joastoopsu.xyz^
 ||jyfirjqojg.xyz^
@@ -56902,6 +56926,7 @@
 ||dashdryopes.shop^
 ||dawtittalky.shop^
 ||digitallook.shop^
+||dikersballo.shop^
 ||disburymixy.shop^
 ||ersjnpwf837.shop^
 ||exilesgalei.shop^
@@ -57110,6 +57135,7 @@
 ||cokerymyocele.shop^
 ||complexastare.shop^
 ||congealsubgit.shop^
+||cowsonbaggara.shop^
 ||crustywainmen.shop^
 ||cutelylookups.shop^
 ||cynoidfudging.shop^
@@ -57343,6 +57369,7 @@
 ||amylo.site^
 ||asdf1.site^
 ||belom.site^
+||benue.site^
 ||cdnic.site^
 ||chpok.site^
 ||croni.site^
@@ -69108,6 +69135,7 @@
 ||caamcs.julipet.it^
 ||events.justeat.it^
 ||click.kataweb.it^
+||oasjs.kataweb.it^
 ||logger.kataweb.it^
 ||analytics.komoder.it^
 ||ubdiko.kvstore.it^
@@ -72819,6 +72847,7 @@
 ||awsync.yandex.ru^
 ||adfstat.yandex.ru^
 ||informer.yandex.ru^
+||market-click-baobab.yandex.ru^
 ||vhasqd.zarina.ru^
 ||gdl.zmqdez.ru^
 ||fbvbyi.abekker.ru^
@@ -84965,7 +84994,6 @@
 ||shopcardvnmb.byethost7.com^
 ||fzu4.bysidecar.com^
 ||pixel.byspotify.com^
-||lf1-cdn-tos.bytegoofy.com^
 ||analytics-scripts.cablelabs.com^
 ||stats.cafepress.com^
 ||click2.cafepress.com^
@@ -87480,7 +87508,6 @@
 ||info.bauerbuilt.com^
 ||4ae136934e.bb83b7a45e.com^
 ||5e24c893ea.bc1da16d64.com^
-||9c5203d24f.bca10c62ca.com^
 ||e95055de98.bcc90656ea.com^
 ||3127e9ed17.bd6afd7ab5.com^
 ||serve.bdsmstreak.com^
@@ -90978,6 +91005,7 @@
 ||stats.thomasbandt.com^
 ||trk.thomaspumps.com^
 ||cdn.throatbulge.com^
+||gpt.throatbulge.com^
 ||counter.tianjimedia.com^
 ||khiurx.tigerdirect.com^
 ||n818.timesherald.com^
@@ -97668,6 +97696,7 @@
 ||marketing.insurancedesigners.com^
 ||marketingetsg.insurancedesigners.com^
 ||marketing.interedgemarketing.com^
+||log.jackpotmasterslots.com^
 ||marketing.jacksonholechamber.com^
 ||catshark.janetalexandersson.com^
 ||server.japanbyrivercruise.com^
@@ -103447,7 +103476,6 @@
 ||a.aahen.site^
 ||true.aahen.site^
 ||eq.af31f.site^
-||a.benue.site^
 ||dt.beyla.site^
 ||a.cemir.site^
 ||a.debub.site^
@@ -114390,7 +114418,6 @@
 ||ads-game-configuration-master.ads.prd.ie.internal.unity3d.com^
 ||ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com^
-||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
 /bahoom/
 /\.estream\./
 /jshosting/
