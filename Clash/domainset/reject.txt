@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-05T02:21:41.763Z
-# Size: 114374
+# Last Updated: 2025-02-05T06:31:15.129Z
+# Size: 114376
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -872,6 +872,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.g1386590346.co
 +.g1584674682.co
 +.g1584674684.co
++.g1782759015.co
 +.g9508048080.co
 +.g9706132415.co
 +.gipostart-1.co
@@ -2017,6 +2018,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.kmspico.io
 +.kwizbot.io
 +.leadhit.io
++.lemonpi.io
 +.liftoff.io
 +.lum-api.io
 +.lum-ext.io
@@ -2910,6 +2912,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.trummomo.me
 +.vebo8386.me
 +.xosomomo.me
++.zalo-web.me
 +.aab-check.me
 +.funxgames.me
 +.gamingfun.me
@@ -3113,6 +3116,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.marktest.pt
 +.saturndynamic.pt
 +.tpm.pw
++.u7y.pw
 +.bmcm.pw
 +.bmnr.pw
 +.bmst.pw
@@ -4552,7 +4556,6 @@ o0e.ru
 +.tychon.bid
 +.ads2550.bid
 +.truenat.bid
-+.truffle.bid
 +.popunder.bid
 +.forwardrb.bid
 +.auroraveil.bid
@@ -5146,7 +5149,6 @@ kma.biz
 +.bhlph.com
 +.bhqvi.com
 +.bhyxj.com
-+.bidgx.com
 +.bizua.com
 +.bjpwv.com
 +.bkrkv.com
@@ -16178,7 +16180,6 @@ lgtvsdp.com
 +.semantiqo.com
 +.semiocast.com
 +.sendelven.com
-+.sentinelp.com
 +.serconius.com
 +.serve-rtb.com
 +.serveipqs.com
@@ -22876,7 +22877,6 @@ samsungqbe.com
 +.ramieuretal.com
 +.rampmetrics.com
 +.randomadsrv.com
-+.rarestcandy.com
 +.rarqadxifhi.com
 +.rateonclick.com
 +.rauwoukauku.com
@@ -23225,7 +23225,6 @@ samsungqbe.com
 +.staplehotel.com
 +.star-clicks.com
 +.starkkiller.com
-+.startercost.com
 +.stassaxouwa.com
 +.statdynamic.com
 +.staticfonts.com
@@ -25853,6 +25852,7 @@ samsungqbe.com
 +.otqjfafreaxh.com
 +.otvmucajjmac.com
 +.oudoanoofoms.com
++.ourblogthing.com
 +.ourcoolposts.com
 +.ourdesperate.com
 +.ourhypewords.com
@@ -25945,7 +25945,6 @@ samsungqbe.com
 +.phidianowlet.com
 +.philstraffic.com
 +.phokruhefeki.com
-+.phonicsblitz.com
 +.phoobsoalrie.com
 +.phoutchounse.com
 +.phpmyvpbbank.com
@@ -28909,6 +28908,7 @@ samsungqbe.com
 +.papaneecorche.com
 +.papismkhedahs.com
 +.papmeatidigbo.com
++.paradoxfactor.com
 +.pardonpopular.com
 +.paritymortify.com
 +.parkpay-tickt.com
@@ -29399,6 +29399,7 @@ samsungqbe.com
 +.sootpluglousy.com
 +.sophomorelink.com
 +.soulslaidmale.com
++.soundstocking.com
 +.souvlatraffic.com
 +.sowfootsolent.com
 +.sozzlypeavies.com
@@ -32162,6 +32163,7 @@ samsungqbe.com
 +.wingerssetiger.com
 +.winneradsmedia.com
 +.wipedhypocrite.com
++.wiredforcoffee.com
 +.wiremembership.com
 +.wishoutergrown.com
 +.withholdnausea.com
@@ -45817,6 +45819,7 @@ samsungcloudsolution.com
 +.tghrfv.icu
 +.tgwfaz.icu
 +.tmjzlr.icu
++.tnlixn.icu
 +.tsbrzz.icu
 +.twxftd.icu
 +.txnczz.icu
@@ -49891,6 +49894,7 @@ samsungcloudsolution.net
 +.titanex.pro
 +.utarget.pro
 +.webmine.pro
++.zaloweb.pro
 +.zingmp3.pro
 +.adfinity.pro
 +.adsxtits.pro
@@ -61387,7 +61391,6 @@ grs.dbankcloud.cn
 +.stats.devskills.co
 +.info.heirtight.co
 +.player-metrics.instaread.co
-+.ad.kissanime.co
 +.analytics.mailmunch.co
 +.newt.masonwear.co
 +.server.megabrain.co
@@ -66766,6 +66769,7 @@ p.cloudcraft.co
 +.data-a2c8256a75.radiosaw.eu
 +.campaigns.technics.eu
 +.myprofile.technics.eu
++.service.techzine.eu
 +.fdnkgn.thorauto.eu
 +.sscapi.carnivoro.eu
 +.stats.cremashop.eu
@@ -74026,7 +74030,6 @@ stat.dns.sb
 gif.7mmtv.sx
 +.count.livetv.sx
 +.wafe.camcaps.sx
-+.ad.kissanime.sx
 +.linkx.ix.tc
 +.analytics.midas.tc
 +.rs.smc.tf
@@ -77318,7 +77321,6 @@ yiliao.hupan.com
 +.pixel.ionos.com
 +.metrics.ionos.com
 +.cdn.iople.com
-+.iwa.iplsc.com
 +.vpdyyz.iqair.com
 +.ckm.iqiyi.com
 doh.iqiyi.com
@@ -77563,7 +77565,6 @@ analytics.nexon.com
 +.cdn.nuqwe.com
 +.cnt.nuvid.com
 +.metrics.nycgo.com
-+.prod-events.nykaa.com
 +.stats.nymag.com
 +.metrics.oanda.com
 +.t.ofsys.com
@@ -82338,7 +82339,6 @@ feedback.windows.com
 +.loc.xtr2020.com
 +.forms.xtralis.com
 +.ghghgf.xuexiwa.com
-+.a.xvidxxx.com
 +.c4n.xxxbold.com
 +.x.xxxbule.com
 +.watg.xxxlutz.com
@@ -86084,6 +86084,7 @@ choice.microsoft.com
 +.metrics.nissanusa.com
 +.consent.nitrocnct.com
 +.sponsors.njmonthly.com
++.secure.node7seat.com
 +.analytics.nodecraft.com
 +.fyhsaj.nonpaints.com
 +.sid.nordstrom.com
@@ -89354,7 +89355,6 @@ app-ad.variflight.com
 +.marketing.visitsmcsv.com
 +.marketing.visittulsa.com
 +.jmfgxq.vitalsleep.com
-+.cms-stats-view.vitrinabox.com
 +.track.viverbembr.com
 +.dikhsb.vividseats.com
 +.wildcat.vivritiamc.com
@@ -93891,6 +93891,7 @@ stat.zuimeitianqi.com
 +.amvtwk.thebottleclub.com
 +.metrics.thedailybeast.com
 +.somni.thedarcyhotel.com
++.mp.theepochtimes.com
 +.stats.theiere-tasse.com
 +.marketing.theinovogroup.com
 +.crow.themarbleking.com
@@ -97354,6 +97355,7 @@ display.360totalsecurity.com
 +.track.seubemestaresaude.com
 +.track.silverlinewindows.com
 +.go.siteapostasbrasil.com
++.secure.smart-company-365.com
 +.path.smartamericantips.com
 +.metrics.smartauctionlogin.com
 +.marketing.smartcoversystems.com
