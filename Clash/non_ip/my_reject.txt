@@ -1,40 +1,40 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2025-01-07T15:18:25.229Z
+# Last Updated: 2025-02-06T14:31:09.414Z
 # Size: 36
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,adobestats.io
-DOMAIN-SUFFIX,uhabo.com
-DOMAIN-SUFFIX,xycdn.com
-DOMAIN-SUFFIX,szbdyd.com
-DOMAIN-SUFFIX,saxysec.com
-DOMAIN-SUFFIX,kuiniuca.com
-DOMAIN-SUFFIX,pkoplink.com
-DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN,daisydiskapp.com
-DOMAIN-SUFFIX,p2plog.douyucdn.cn
-DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
-DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
-DOMAIN-SUFFIX,dyp2p-ali.douyucdn.cn
-DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
-DOMAIN-SUFFIX,p2plive-ws.douyucdn.cn
-DOMAIN-SUFFIX,p2pchunk-hw.douyucdn.cn
-DOMAIN-SUFFIX,p2pchunk-ws.douyucdn.cn
-DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
-DOMAIN-SUFFIX,p2plive-ali.douyucdn.cn
-DOMAIN-SUFFIX,p2pchunk-table.douyucdn.cn
-DOMAIN-SUFFIX,p2p.qq.com
-DOMAIN-SUFFIX,p2ptun.qq.com
-DOMAIN-SUFFIX,p2p.huya.com
-DOMAIN-SUFFIX,pcdn.yximgs.com
+DOMAIN-SUFFIX,onethingpcs.com
+DOMAIN-SUFFIX,pkoplink.com
+DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,genuine.autodesk.com
-DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
+DOMAIN-SUFFIX,saxysec.com
+DOMAIN-SUFFIX,pcdn.yximgs.com
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,uhabo.com
+DOMAIN-SUFFIX,p2p.huya.com
+DOMAIN-SUFFIX,p2ptun.qq.com
 DOMAIN-SUFFIX,p2pupgrade.gamedl.qq.com
+DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
+DOMAIN-SUFFIX,p2p.qq.com
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,p2pchunk-table.douyucdn.cn
+DOMAIN-SUFFIX,p2plive-ali.douyucdn.cn
+DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-ws.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-hw.douyucdn.cn
+DOMAIN-SUFFIX,p2plive-ws.douyucdn.cn
+DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
+DOMAIN-SUFFIX,dyp2p-ali.douyucdn.cn
+DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
+DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
+DOMAIN-SUFFIX,p2plog.douyucdn.cn
 DOMAIN-KEYWORD,bahoom
 PROCESS-NAME,Tencent Lemon
 PROCESS-NAME,LemonMonitor
