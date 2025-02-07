@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 07 Feb 2025 12:38:19 GMT
+! Last modified: Fri, 07 Feb 2025 13:12:11 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -39682,7 +39682,6 @@
 ||lirretsn.com^
 ||res.lintlink.com^
 ||syndication.linkwitt.com^
-||linksprf.com^
 ||linkmink.com^
 ||syndication.linkfryn.com^
 ||st.linkfire.com^
@@ -41481,6 +41480,7 @@
 ||tag.aftvnews.com^
 ||connect.afterpay.com^
 ||rsx.afterpay.com^
+||iq.afterpay.com^
 ||afswwtrk.com^
 ||info.afidence.com^
 ||afi-thor.com^
@@ -50769,6 +50769,7 @@
 ||vrzmfy.fool.com^
 ||ssa.food.com^
 ||stats.fomo.com^
+||e.fomo.com^
 ||analytics.fnni.com^
 ||sanalytics.fnbo.com^
 ||analytics.fnbk.com^
@@ -60648,6 +60649,7 @@
 ||tr.news.enkiapp.io^
 ||tr.mep.enkiapp.io^
 ||llama.eniston.io^
+||evts.ecocart.io^
 ||stats.dotplan.io^
 ||appsrv.display.io^
 ||event.dfinery.io^
@@ -69793,6 +69795,7 @@
 ||oiu09.cn^
 ||z1.o8h7d.cn^
 ||ad.nvdvr.cn^
+||nhz6q.cn^
 ||nhcdn.cn^
 ||mc.mwgpg.cn^
 ||c.mnjkw.cn^
