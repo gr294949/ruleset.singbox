@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-02-08T07:02:50.251Z
-# Size: 492
+# Last Updated: 2025-02-08T14:05:18.039Z
+# Size: 508
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -148,6 +148,7 @@ speedtest.gamedoping.com
 speed-test.ukservers.com
 speedtest.surfshark.com
 speedtest.linknetbv.com
+speedtest.jsqiuying.com
 mns.i-systems.com
 mensura.cdn-apple.com
 speedtest.cdmsfirst.com
@@ -221,6 +222,7 @@ storangeville.rogers.com
 stmississauga.rogers.com
 stwoodstock.rogers.com
 ststratford.rogers.com
+stpickering.rogers.com
 stnorthyork.rogers.com
 stkitchener.rogers.com
 stetobicoke.rogers.com
@@ -237,6 +239,7 @@ stmilton.rogers.com
 stlondon.rogers.com
 stguelph.rogers.com
 stbarrie.rogers.com
+stajax.rogers.com
 speedtest.macpaw.com
 +.speedtest.linode.com
 +.speedtest.dchost.com
@@ -309,6 +312,18 @@ speedtest-ist-34-node.netzone.com.tr
 speedtest.netwifi.com.tr
 hiztesti.fiberim.com.tr
 speedtest.eminnet.com.tr
+hizistanbul1.durunet.com.tr
+hizbalikesir.durunet.com.tr
+hizsakarya.durunet.com.tr
+hizkutahya.durunet.com.tr
+hizisparta.durunet.com.tr
+hizsamsun.durunet.com.tr
+hizburdur.durunet.com.tr
+hizizmir.durunet.com.tr
+hizduzce.durunet.com.tr
+hizbursa.durunet.com.tr
+hizaydin.durunet.com.tr
+hizbolu.durunet.com.tr
 speedtest.datafex.com.tr
 balikesirspeedtest.fixnet.com.tr
 antalyaspeedtest.fixnet.com.tr
@@ -361,6 +376,7 @@ speedtest.ip-projects.de
 speedtest.ropa.de
 speedtest-net.mk.de
 speedtest.tigo.cr
+speedtest.dukekunshan.edu.cn
 west-speedtest.frontiernetworks.ca
 speedtest01.fibernetics.ca
 speedtest.execulink.ca
