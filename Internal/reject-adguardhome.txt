@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 08 Feb 2025 14:05:40 GMT
+! Last modified: Sun, 09 Feb 2025 03:47:44 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2550,6 +2550,7 @@
 ||cavewrap.care^
 ||gtm.annette.care^
 ||altcoin.care^
+||hsnskx.care^
 ||sst.andbam.care^
 ||server.sups.care^
 ||load.msr.900.care^
@@ -4984,6 +4985,7 @@
 ||uewrutt.top^
 ||uetlwst.top^
 ||udoshbt.top^
+||udinmat.top^
 ||udamcst.top^
 ||uclimit.top^
 ||uaiosio.top^
@@ -5477,6 +5479,7 @@
 ||windowsavings.pro^
 ||variable-love.pro^
 ||precious-type.pro^
+||positive-hall.pro^
 ||pointlessplan.pro^
 ||loose-courage.pro^
 ||limping-plane.pro^
@@ -5487,6 +5490,7 @@
 |collect.foresightnews.pro^
 ||fixed-complex.pro^
 ||distinctpiece.pro^
+||dimpled-frame.pro^
 ||dental-drawer.pro^
 ||cleverculture.pro^
 ||tr.buenasofertas.pro^
@@ -6878,6 +6882,7 @@
 ||wugoughurtaitsu.net^
 ||wokseephishopty.net^
 ||winnersolutions.net^
+||whouphesaussums.net^
 ||whidsugnoackili.net^
 ||wemtagoowhoohiz.net^
 ||nbdebtsp0.wealthyguardian.net^
@@ -6933,6 +6938,7 @@
 ||kowhinauwoulsas.net^
 ||koomowailiwuzou.net^
 ||koluraishimtouw.net^
+||koaphestoaglouw.net^
 ||keegoagrauptach.net^
 ||joomisomushisuw.net^
 ||joogruphezefaul.net^
@@ -6964,6 +6970,7 @@
 ||coashoohathaija.net^
 ||choumtonunignou.net^
 ||chicheecmaungee.net^
+||cepokraithignie.net^
 ||booshoatoocotez.net^
 ||info.blackhillsgroup.net^
 ||baihoagleewhaum.net^
@@ -7000,6 +7007,7 @@
 ||stairgoastoafa.net^
 ||stats.spreadtheworld.net^
 ||snapmobileasia.net^
+||shoukigaigoors.net^
 ||sholraidsoalro.net^
 ||shoadessuglouz.net^
 ||rt.savingprograms.net^
@@ -7829,6 +7837,7 @@
 ||stats.ibuildings.net^
 ||hsadspixel.net^
 ||houhoumooh.net^
+||hooglaibou.net^
 ||hilltopads.net^
 ||visit.hijacklibs.net^
 ||aqdwkq.hihometech.net^
@@ -10887,6 +10896,7 @@
 ||twxftd.icu^
 ||tsbrzz.icu^
 ||tnlixn.icu^
+||tmvirr.icu^
 ||tmjzlr.icu^
 ||tgwfaz.icu^
 ||tghrfv.icu^
@@ -17479,6 +17489,7 @@
 ||a8.ihinnoseiriyasan.com^
 ||ifknittedhurtful.com^
 ||analytics.ifanrusercontent.com^
+||identicalprofile.com^
 ||icatethebenefits.com^
 ||iasbetaffiliates.com^
 ||bjfbac.hyundaivaudreuil.com^
@@ -17516,6 +17527,7 @@
 ||csvt005.heretakethewheel.com^
 ||metrics.herceptinhylecta.com^
 ||seniorliving.henryfordvillage.com^
+||hengradualtroops.com^
 ||thegreatesthits.hemingway-pianos.com^
 ||event-tracking.hellohealthgroup.com^
 ||frqbff.hedleyandbennett.com^
@@ -19745,6 +19757,7 @@
 ||ungothoritator.com^
 ||unequaledchair.com^
 ||uncrownarmenic.com^
+||unboredlinters.com^
 ||app.umassathletics.com^
 ||t.umassathletics.com^
 ||ukankingwithea.com^
@@ -25926,6 +25939,7 @@
 ||gipsytrumpet.com^
 ||nfptar.giordanoshop.com^
 ||ginningsteri.com^
+||ginnelhangle.com^
 ||visitors.gigianddavid.com^
 ||aiqx.ghostbusters.com^
 ||aiqx.www.ghostbusters.com^
@@ -28864,6 +28878,7 @@
 ||lmpadebis.gala-series.com^
 ||gaitcubicle.com^
 ||app.gaincapital.com^
+||gagepicaras.com^
 ||nwfkjx.gadventures.com^
 ||omni.gadventures.com^
 ||track.gaconnector.com^
@@ -30024,6 +30039,7 @@
 ||go.wintracked.com^
 ||mfwmud.winelivery.com^
 ||xqdgpy.winebuyers.com^
+||wilshohmex.com^
 ||data.transactional.williamsf1.com^
 ||data.marketing.williamsf1.com^
 ||data.adhoc.williamsf1.com^
@@ -33955,11 +33971,13 @@
 ||544c1a86a1.com^
 ||e017807b72.5437c7c977.com^
 ||3963da983f.54176897ed.com^
+||540252a00b.com^
 ||53ff0e58f9.com^
 ||53e91a4877.com^
 ||537images1.com^
 ||536fbeeea4.com^
 ||cf7f345e1e.536e9f9126.com^
+||536435ba94.com^
 ||1386bd6fb0.52fa059b20.com^
 ||trace.51jingying.com^
 ||0ab8344566.51cd57d70c.com^
@@ -36278,6 +36296,7 @@
 ||ig.igmarkets.com^
 ||iglooprin.com^
 ||ifdvfqtcy.com^
+||ifcxhgxqw.com^
 ||ieswfitrk.com^
 ||jclari.idgarages.com^
 ||idg1.idgarages.com^
@@ -39678,6 +39697,7 @@
 ||lirretsn.com^
 ||res.lintlink.com^
 ||syndication.linkwitt.com^
+||linksprf.com^
 ||linkmink.com^
 ||syndication.linkfryn.com^
 ||st.linkfire.com^
@@ -47763,6 +47783,7 @@
 ||matomo.aksorn.com^
 ||akmxts.com^
 ||r.akipam.com^
+||ajump1.com^
 ||ajscdn.com^
 ||ajrkm3.com^
 ||ajrkm1.com^

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-07T13:11:49.857Z
-# Size: 50
+# Last Updated: 2025-02-09T03:47:19.928Z
+# Size: 51
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -41,6 +41,7 @@ DOMAIN-REGEX,^img[\w.-]\.porngo\.com$
 DOMAIN-REGEX,^img[\w.-][\w.-]\.porngo\.com$
 DOMAIN-REGEX,^th-[\w.-]*?\.pornone\.com$
 DOMAIN-REGEX,^s[\w.-][\w.-][\w.-]\.pornone\.com$
+DOMAIN-REGEX,^browser-intake-[\w.-]*?-datadoghq\.com$
 DOMAIN-REGEX,^video-thumbnail2\.fc2\.com$
 DOMAIN-REGEX,^video[\w.-]-thumbnail[\w.-]\.fc2\.com$
 DOMAIN-REGEX,^video-thumbnail2\.liaoningmovie\.net$
