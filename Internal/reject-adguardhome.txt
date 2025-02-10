@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 10 Feb 2025 06:14:20 GMT
+! Last modified: Mon, 10 Feb 2025 10:21:26 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -19559,6 +19559,7 @@
 ||track.vigormasculine.com^
 ||campaign.viessmann-cool.com^
 ||campaign.viessmann-cold.com^
+||vidscriptshark.com^
 ||videoplayerhub.com^
 ||eu.viatrisconnect.com^
 ||vetchesthiever.com^
@@ -19685,6 +19686,7 @@
 ||activation.thunderinsider.com^
 ||images.news.thunderinsider.com^
 ||thronosgeneura.com^
+||threewoodslose.com^
 ||jdzmqj.thousandtrails.com^
 ||cortellisconnections.thomsonreuters.com^
 ||marketing-tracking.thomsonreuters.com^
@@ -21886,6 +21888,7 @@
 ||f164.sheltonherald.com^
 ||she-want-fuck.com^
 ||start.sharpclinical.com^
+||sharkfirelife.com^
 ||shareweeknews.com^
 ||cname2.shaken-yoyaku.com^
 ||sfkldbkldgdgh.com^
@@ -57404,6 +57407,7 @@
 ||msg.simeji.me^
 ||analytics.proxer.me^
 ||porn18.me^
+||octo25.me^
 ||loopme.me^
 ||stats.erik.joling.me^
 ||inappi.me^
@@ -68970,7 +68974,6 @@
 ||rum.layer0.co^
 ||xydvxl.keikei.co^
 ||inappi.co^
-||prebid-cache.ifunny.co^
 ||events.ifunny.co^
 ||geoip.ifunny.co^
 ||analytics.gokwik.co^

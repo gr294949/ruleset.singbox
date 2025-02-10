@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-10T06:13:59.272Z
-# Size: 73155
+# Last Updated: 2025-02-10T10:21:03.308Z
+# Size: 73158
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19571,6 +19571,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.track.vigormasculine.com
 +.campaign.viessmann-cool.com
 +.campaign.viessmann-cold.com
++.vidscriptshark.com
 +.videoplayerhub.com
 +.eu.viatrisconnect.com
 +.vetchesthiever.com
@@ -19697,6 +19698,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.activation.thunderinsider.com
 +.images.news.thunderinsider.com
 +.thronosgeneura.com
++.threewoodslose.com
 +.jdzmqj.thousandtrails.com
 +.cortellisconnections.thomsonreuters.com
 +.marketing-tracking.thomsonreuters.com
@@ -21898,6 +21900,7 @@ httpdns.volcengineapi.com
 +.f164.sheltonherald.com
 +.she-want-fuck.com
 +.start.sharpclinical.com
++.sharkfirelife.com
 +.shareweeknews.com
 +.cname2.shaken-yoyaku.com
 +.sfkldbkldgdgh.com
@@ -57394,6 +57397,7 @@ grs.platform.dbankcloud.ru
 +.msg.simeji.me
 +.analytics.proxer.me
 +.porn18.me
++.octo25.me
 +.loopme.me
 +.stats.erik.joling.me
 +.inappi.me
@@ -68959,7 +68963,6 @@ p.cloudcraft.co
 +.rum.layer0.co
 +.xydvxl.keikei.co
 +.inappi.co
-+.prebid-cache.ifunny.co
 +.events.ifunny.co
 +.geoip.ifunny.co
 +.analytics.gokwik.co
