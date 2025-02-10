@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 09 Feb 2025 13:08:54 GMT
+! Last modified: Mon, 10 Feb 2025 01:33:53 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1640,6 +1640,7 @@
 ||capi.schuhtrend.shop^
 ||porktuliac.shop^
 ||sfdsgfg.notice-def.shop^
+||nopalsoxid.shop^
 ||ndthdtr586.shop^
 ||ndthdte125.shop^
 ||hdtedar126.shop^
@@ -2654,7 +2655,6 @@
 ||worldglobalssp.xyz^
 ||wasoolekretche.xyz^
 ||redir.tropicalsummer.xyz^
-||syiwgwsqwngrdw.xyz^
 ||pushmaster-cdn.xyz^
 ||pmetorealiukze.xyz^
 ||oovoonganeegry.xyz^
@@ -5078,6 +5078,7 @@
 ||lewrutl.top^
 ||letlwsl.top^
 ||ldoshbl.top^
+||ldinmal.top^
 ||ldamcsl.top^
 ||lclimil.top^
 ||kyuwkbd.top^
@@ -10806,6 +10807,7 @@
 ||zghsep.icu^
 ||zeqvqb.icu^
 ||zekzoh.icu^
+||zcrddj.icu^
 ||yyyaih.icu^
 ||yqdnad.icu^
 ||xutvbt.icu^
@@ -16318,6 +16320,7 @@
 ||track.eternavitaoficial.com^
 ||poguia.estudiahosteleria.com^
 ||click.tracking.essentialtechnews.com^
+||esihighlyrecomemu.com^
 ||metrics.ereplacementparts.com^
 ||eremployeesihighl.com^
 ||marketing.equitablemortgage.com^
@@ -16662,6 +16665,7 @@
 ||you75.youpornsexvideos.com^
 ||track.youniversalmedia.com^
 ||ak.youbetterhealthy.com^
+||yinteukrestinafu.com^
 ||yflexibilitukydt.com^
 ||yellowprotection.com^
 ||img.yangshengtang123.com^
@@ -20538,6 +20542,7 @@
 ||joyousruthwest.com^
 ||sgtm.joiavegan-shop.com^
 ||jobfukectivetr.com^
+||jncdvibhdaddmu.com^
 ||jltfqoxyhytayy.com^
 ||analytics.jjkellerupdate.com^
 ||analytics.jjkellersafety.com^
@@ -25101,6 +25106,7 @@
 ||st.nylannuities.com^
 ||metrics.nyandcompany.com^
 ||nwseiihafvyl.com^
+||nwhnzkbfsnpf.com^
 ||nullsglitter.com^
 ||nullrefexcep.com^
 ||nuevonoelmid.com^
@@ -27964,6 +27970,7 @@
 ||marketing.omgnational.com^
 ||sstats.omahasteaks.com^
 ||stats.omahasteaks.com^
+||olxxugltoku.com^
 ||thanks.olivesitter.com^
 ||telemetry.oliverwyman.com^
 ||smetric.olivegarden.com^
@@ -33903,6 +33910,7 @@
 ||46bd8e62a2.com^
 ||421f03c2e5.46acd35e41.com^
 ||72c3d44e4d.4632c60a96.com^
+||460e19ebd6.com^
 ||45f2a90583.com^
 ||45cb7b8453.com^
 ||453130fa9e.com^
@@ -36498,6 +36506,7 @@
 ||sanalytics.fsbloomis.com^
 ||analytics.fsbloomis.com^
 ||fsalfrwdr.com^
+||fs-loader.com^
 ||frompilis.com^
 ||frfsjjtis.com^
 ||frfetchme.com^
@@ -38365,6 +38374,7 @@
 ||app.response.stratfor.com^
 ||join.stratfor.com^
 ||app.stratfor.com^
+||strakuty.com^
 ||stragmik.com^
 ||crevjy.store-up.com^
 ||privacyconsentmgmt.storable.com^
