@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 10 Feb 2025 10:21:26 GMT
+! Last modified: Mon, 10 Feb 2025 12:39:42 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -7302,6 +7302,7 @@
 ||ads.mobvertising.net^
 ||sadbmetrics.madridfusion.net^
 ||adbmetrics.madridfusion.net^
+||louthicoozit.net^
 ||loheveeheegh.net^
 ||marketing.leatherberry.net^
 ||ad.leadboltapps.net^
@@ -7752,6 +7753,7 @@
 ||marketing.lsnetworks.net^
 ||lp-preview.net^
 ||loushoafie.net^
+||loowhujoom.net^
 ||loghutouft.net^
 ||loadecouhi.net^
 ||lptag.liveperson.net^
@@ -8887,6 +8889,7 @@
 ||freshpops.net^
 ||foremedia.net^
 ||sat.fevilsor5.net^
+||feckurteg.net^
 ||hfbetl.fc-hikaku.net^
 ||fastclick.net^
 ||faireegli.net^
@@ -10141,6 +10144,7 @@
 ||analytics.avcdn.net^
 ||avazu.net^
 ||adstatistics.av380.net^
+||us-behavior.apitd.net^
 ||database01p.anixe.net^
 ||hbbtv01p.anixe.net^
 ||amon1.net^
@@ -39472,6 +39476,7 @@
 ||lirretsn.com^
 ||res.lintlink.com^
 ||syndication.linkwitt.com^
+||linksprf.com^
 ||linkmink.com^
 ||syndication.linkfryn.com^
 ||st.linkfire.com^
@@ -42742,6 +42747,7 @@
 ||notabl8.com^
 ||applytics.nordvpn.com^
 ||cm.nordvpn.com^
+||nonguds.com^
 ||response.nofault.com^
 ||arabs.nodzway.com^
 ||nkredir.com^
