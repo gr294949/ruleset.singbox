@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-02-11T09:42:10.594Z
-# Size: 1071
+# Last Updated: 2025-02-11T17:47:25.136Z
+# Size: 1072
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -988,6 +988,7 @@ velocidade.conectato.com.br
 speedtest.cloudinet.com.br
 speednet-atn.brsserver.com.br
 lifitelecom.brsserver.com.br
+uptelecom.brsserver.com.br
 speednet.brsserver.com.br
 velocidadestm.amazonett.com.br
 speed.amazonett.com.br
