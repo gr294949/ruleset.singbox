@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 11 Feb 2025 17:47:46 GMT
+! Last modified: Wed, 12 Feb 2025 01:15:56 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1144,6 +1144,7 @@
 ||c.down.tube^
 ||track.viewitquickly.tech^
 ||marketing.precisiondoor.tech^
+||cvfuyogxbcweq.tech^
 ||box.cryptokingdom.tech^
 ||kiwi.coreyodonnell.tech^
 ||siphdcwglypz.tech^
@@ -1530,6 +1531,7 @@
 ||nowelslicers.shop^
 ||morselmongoe.shop^
 ||mezzounmerge.shop^
+||masonrycruor.shop^
 ||malthuscorno.shop^
 ||lactasetooth.shop^
 ||kipchakshoat.shop^
@@ -1579,6 +1581,7 @@
 ||disburymixy.shop^
 ||dikersballo.shop^
 ||darvongasps.shop^
+||comfreymind.shop^
 ||circleblart.shop^
 ||cbthkumwa96.shop^
 ||bulbousloth.shop^
@@ -2651,6 +2654,7 @@
 ||moviesflix4k.xyz^
 ||magukaudsodo.xyz^
 ||livvbkx-vejj.xyz^
+||kewodruzeezu.xyz^
 ||ivoacooghoug.xyz^
 ||google-js-09.xyz^
 ||google-js-08.xyz^
@@ -2811,7 +2815,9 @@
 ||lunie23.gimmeporn.xyz^
 ||bleua.ecefibwja.xyz^
 ||dkasdeerw.xyz^
+||directone.xyz^
 ||caomeixz7.xyz^
+||cakgsijbt.xyz^
 ||benonblkd.xyz^
 ||beacher56.xyz^
 ||zrtlvtsy.xyz^
@@ -4408,6 +4414,7 @@
 ||spondeekitling.top^
 ||sluggedunbeget.top^
 ||seafoodmesarch.top^
+||saintlyyaupons.top^
 ||ptersudisurvey.top^
 ||pearterkubachi.top^
 ||obsidiancutter.top^
@@ -5325,6 +5332,7 @@
 ||glistening-novel.pro^
 ||descriptivetitle.pro^
 ||6snjvxkawrtolv2x.pro^
+||log.ultimatecleaner.pro^
 ||trusting-secret.pro^
 ||terttalkinhitin.pro^
 ||trk.seniordiscounts.pro^
@@ -7479,6 +7487,7 @@
 ||cutsoussouk.net^
 ||cucaftultog.net^
 ||creativedot.net^
+||cooliwoudol.net^
 ||comicplanet.net^
 ||a8.chuo-estate.net^
 ||stats.chronoslabs.net^
@@ -7622,6 +7631,7 @@
 ||ouglauster.net^
 ||oubsooceen.net^
 ||oomsurtour.net^
+||oomaugnaps.net^
 ||onclickads.net^
 ||ofglicoron.net^
 ||oassackegh.net^
@@ -10727,6 +10737,7 @@
 ||vopzhl.icu^
 ||vmnlkr.icu^
 ||vjzqfh.icu^
+||vitqzd.icu^
 ||vhrhnh.icu^
 ||veaiyl.icu^
 ||uojoqx.icu^
@@ -11728,6 +11739,7 @@
 ||lj5s1u8ct5vz.app.chatpay.dev^
 ||goldfish.boleary.dev^
 ||stats.bholmes.dev^
+||analytics.viture.dev^
 ||wildebeest.quarva.dev^
 ||lark.pollie.dev^
 ||stats.patout.dev^
@@ -16225,6 +16237,7 @@
 ||metrics.arkansastotalcare.com^
 ||argumentsmaymadly.com^
 ||ydswkj.ardenneresidences.com^
+||appearswhetporter.com^
 ||log.appbundledownload.com^
 ||apistatexperience.com^
 ||chocolatine.apexlegendsstatus.com^
@@ -17797,6 +17810,7 @@
 ||telegramconform.com^
 ||techourtoapingu.com^
 ||technoratimedia.com^
+||tdniigxiuvyaafv.com^
 ||tcreativeideasa.com^
 ||trk.tckingdminrdtrk.com^
 ||a8.tcha-tcha-japan.com^
@@ -19353,6 +19367,7 @@
 ||forms.systeminetwork.com^
 ||trk.swipesolutions.com^
 ||swimsunleisure.com^
+||swiftstreamhub.com^
 ||sweepawejasper.com^
 ||sweatypositive.com^
 ||suturaletalage.com^
@@ -19409,6 +19424,7 @@
 ||vgavzy.spierandmackay.com^
 ||metrics.spencersonline.com^
 ||metric.spencersonline.com^
+||spelldeterrent.com^
 ||specialisthuge.com^
 ||start.spark-thinking.com^
 ||pinniped.spacecountdown.com^
@@ -19576,6 +19592,7 @@
 ||rd.resourcehubusa.com^
 ||resionsfrester.com^
 ||v476.reporterherald.com^
+||reorganizeache.com^
 ||releasedfinish.com^
 ||load.s2s.rekord-fenster.com^
 ||rls.regulerlesucre.com^
@@ -20944,6 +20961,7 @@
 ||zpgetworker11.com^
 ||go.zippymagazine.com^
 ||zinniafianced.com^
+||zingerszapota.com^
 ||analytics.ziftsolutions.com^
 ||dynamic.ziftsolutions.com^
 ||leadership.zengerfolkman.com^
@@ -25763,6 +25781,7 @@
 ||stats.carrotsearch.com^
 ||carnelbawrel.com^
 ||carloforward.com^
+||carlebarkeep.com^
 ||doswwi.caringlasses.com^
 ||info.cargoexpreso.com^
 ||stats.careercircle.com^
@@ -37293,6 +37312,7 @@
 ||marketing.traxtech.com^
 ||travidia.com^
 ||marketing.travelks.com^
+||traukvan.com^
 ||trandgid.com^
 ||trafsupr.com^
 ||trafogon.com^
@@ -38667,6 +38687,7 @@
 ||lirretsn.com^
 ||res.lintlink.com^
 ||syndication.linkwitt.com^
+||linksprf.com^
 ||linkmink.com^
 ||syndication.linkfryn.com^
 ||st.linkfire.com^
@@ -49294,7 +49315,7 @@
 |info.analysis.kp.sec.miui.com^
 ||auth.be.sec.miui.com^
 ||tracking.rus.miui.com^
-|mcc.intl.inf.miui.com^
+||inf.miui.com^
 ||ai.mist.com^
 ||trcksplt.miro.com^
 ||track.miro.com^
@@ -49834,6 +49855,7 @@
 ||market.21cn.com^
 |ad.21cn.com^
 ||2144.com^
+||20wx.com^
 ||images.warranty.2-10.com^
 ||2-05.com^
 ||cdn.1vag.com^
