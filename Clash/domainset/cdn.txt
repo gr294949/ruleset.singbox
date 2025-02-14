@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-14T07:39:52.624Z
-# Size: 3133
+# Last Updated: 2025-02-14T08:44:35.307Z
+# Size: 3134
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1492,6 +1492,7 @@ assets.coingecko.com
 webstatic.chargebee.com
 js1.chargebee.com
 js.chargebee.com
+cdn.changelog.com
 doppler-config.cbsivideo.com
 badge.buildkite.com
 media.breitbart.com

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 14 Feb 2025 07:40:06 GMT
+! Last modified: Fri, 14 Feb 2025 08:44:51 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11825,6 +11825,7 @@
 ||mdws.valleycreditunion.com^
 ||marketing.vacationvillastwo.com^
 ||dnecea.vacances-lagrange.com^
+||aws.userlogsanalytics.com^
 ||marketing.usequityadvantage.com^
 ||path.usaresourcestoday.com^
 ||rtk.trk.updatehealthtoday.com^
@@ -30467,7 +30468,6 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
-||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -40115,6 +40115,7 @@
 ||elq.icis.com^
 ||metric.iccu.com^
 ||marketing.iacm.com^
+||i8m6.com^
 ||statwup.huya.com^
 ||udblog.huya.com^
 ||metric.huya.com^
@@ -42883,6 +42884,7 @@
 ||d.mobikom.tv^
 ||meklo.kartina.tv^
 ||seyfwl.interia.tv^
+||atb-stats-api.imolive.tv^
 ||tr.news.i24news.tv^
 ||s.glimesh.tv^
 ||data-e58896b347.galileo.tv^
