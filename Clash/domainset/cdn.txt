@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-14T12:58:11.895Z
-# Size: 3135
+# Last Updated: 2025-02-14T14:59:36.455Z
+# Size: 3138
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -831,6 +831,7 @@ assets.prowritingaid.com
 cdn.prowritingaid.com
 +.cdn.printfriendly.com
 +.pressidiumcdn.com
+media.pointandplace.com
 +.oreillystatic.com
 +.notion-static.com
 +.agechecker.northern-apps.com
@@ -868,6 +869,7 @@ static.cloudcachetci.com
 +.cdn-cookieyes.com
 +.cdn-centaurus.com
 +.cbsnewsstatic.com
++.cdn.autoevolution.com
 +.assets-yammer.com
 images.arigatotravel.com
 +.images.arcpublishing.com
@@ -904,6 +906,7 @@ sbl.onfastspring.com
 +.onekey-asset.com
 +.omnisnippet1.com
 +.olemovienews.com
++.neweggimages.com
 +.meetupstatic.com
 +.media-amazon.com
 cdn.manageengine.com
@@ -1328,6 +1331,7 @@ cdn.zhujiwiki.com
 assets.zerohedge.com
 +.xhpingcdn.com
 +.xdaimages.com
+cdn.scripts.wtwhmedia.com
 +.wowmodels.com
 hhhhhhome86227170.wordpress.com
 +.files.wordpress.com
@@ -1524,9 +1528,6 @@ static.xxxshake.com
 i.xxxshake.com
 +.xnxx-cdn.com
 images-eds-ssl.xboxlive.com
-cdn1-thumbs.worldsex.com
-cdn1-assets.worldsex.com
-cdn0-thumbs.worldsex.com
 bundler.wix-code.com
 assets.wikiwand.com
 cdn.wikiwand.com
@@ -1607,6 +1608,7 @@ assets.nintendo.com
 static.nicehash.com
 js.navattic.com
 c.navattic.com
+static.narrativ.com
 static.namebeta.com
 +.myavlive.com
 +.muscache.com
@@ -2129,6 +2131,7 @@ images.nvidia.com
 images.now-tv.com
 i.niupic.com
 +.nineyu.com
+c1.newegg.com
 +.nc-img.com
 nbcnewsdigital-static.nbcuni.com
 s.namemc.com

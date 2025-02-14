@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-14T12:58:09.025Z
-# Size: 62338
+# Last Updated: 2025-02-14T14:59:33.687Z
+# Size: 62370
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1136,6 +1136,7 @@ bad.third-party.site
 +.puntistbitless.shop
 +.plumousfouldre.shop
 +.paginaltreitre.shop
++.outbidsbrigued.shop
 +.olympuscracowe.shop
 +.ocypetediplont.shop
 +.obeyingdecrier.shop
@@ -1145,6 +1146,7 @@ bad.third-party.site
 +.jurantsepinine.shop
 +.hiphaltlauroyl.shop
 +.crabletfrijole.shop
++.berthashuzzard.shop
 +.bantengdisgown.shop
 +.visiblyhiemal.shop
 +.treschevinose.shop
@@ -1214,6 +1216,7 @@ bad.third-party.site
 +.legitfizzed.shop
 +.load.sgtm.jaspercaven.shop
 +.a.heizkoerper.shop
++.gulfyteases.shop
 +.ghuzwaxlike.shop
 +.data.fuchsgruppe.shop
 +.farcivinage.shop
@@ -2047,6 +2050,7 @@ grs.dbankcloud.asia
 +.ospartners.xyz
 +.oosoojainy.xyz
 +.kocauthoaw.xyz
++.koabouphie.xyz
 +.kfpicimage.xyz
 +.kaarheciqa.xyz
 +.jaudoleewe.xyz
@@ -3485,6 +3489,7 @@ grs.dbankcloud.asia
 +.hexinemicerun.top
 +.hellerraucous.top
 +.grabmannipmuc.top
++.discurehyrate.top
 +.delianoquassa.top
 +.datingcentral.top
 +.cozenedkwanza.top
@@ -5431,6 +5436,7 @@ samsungcloudsolution.net
 +.ptoaheelaishard.net
 +.psoltoanoucamte.net
 +.pooraithacuzaum.net
++.phoalricmoozils.net
 +.oughoaghushouru.net
 +.oogneroopsoorta.net
 +.odalrevaursartu.net
@@ -5475,6 +5481,7 @@ samsungcloudsolution.net
 +.glakraptaidsupi.net
 +.glaghoowingauck.net
 +.ginsaitchosheer.net
++.gemseeniloksair.net
 +.gauwanouzeebota.net
 +.gartaurdeeworsi.net
 +.gaipochipsefoud.net
@@ -5775,6 +5782,7 @@ samsungcloudsolution.net
 +.soonanaiphan.net
 +.vault-stats.sladewatkins.net
 +.sicouthautso.net
++.shoorgaidooz.net
 +.shoonsicousu.net
 +.shitsowhoort.net
 +.shiksinsagoa.net
@@ -9759,6 +9767,7 @@ sashimi.royli.dev
 +.trk.channelpartnersconference.com
 +.bushesassortmentwearisome.com
 +.bulkconflictpeculiarities.com
++.brilliantoverhaulunshaken.com
 +.baggageconservationcaught.com
 +.atonementimmersedlacerate.com
 +.apatheticdrawerscolourful.com
@@ -9839,6 +9848,7 @@ sashimi.royli.dev
 +.generationparchmentqueen.com
 +.fri4esianewheywr90itrage.com
 +.go.fortifybuildingsolutions.com
++.followmurmuringsquealing.com
 +.stats.ferienwohnung-dombrowski.com
 +.februaryinjectionproudly.com
 +.extracthorizontaldashing.com
@@ -10705,6 +10715,7 @@ samsungcloudsolution.com
 +.energeticdryeyebrows.com
 +.somni.endocrinologyadvisor.com
 +.track.info.endocrinologyadvisor.com
++.emissionidiompolygon.com
 +.sadbmetrics.elcorreoclasificados.com
 +.fb.eezeeinsurancequotes.com
 +.earnbeginnerdocument.com
@@ -10755,6 +10766,7 @@ samsungcloudsolution.com
 +.ceasechampagneparade.com
 +.catharsisproductionsmarketing.catharsisproductions.com
 +.mailer.catharsisproductions.com
++.casketdropperregalia.com
 +.sanalytics.cartoonnetworkarabic.com
 +.capturescaldsomewhat.com
 +.info.capitalonesettlement.com
@@ -10916,6 +10928,7 @@ samsungcloudsolution.com
 +.hde1.repentignychevrolet.com
 +.pp.renewedhealthvoyage.com
 +.track.info.renalandurologynews.com
++.refusalspudvicinity.com
 +.reedsbullyingpastel.com
 +.info.redstreamtechnology.com
 +.reallifeforyouandme.com
@@ -13234,6 +13247,7 @@ samsungcloudsolution.com
 +.pqrede.fiatprofessional.com
 +.feistyhelicopter.com
 +.trk.fbprestigetrails.com
++.fatafatasalalala.com
 +.trk.farmprogressshow.com
 +.aisvhv.fanaticwrestling.com
 +.eyebrowsneardual.com
@@ -14370,6 +14384,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.lim.fit-und-schlank.com
 +.firmmaintenance.com
 +.marketing.finleyalexander.com
++.finegoldforeyes.com
 +.findingexchange.com
 +.marketing.festivagetaways.com
 +.feedyourheadmag.com
@@ -15629,6 +15644,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.gpukye.holabirdsports.com
 +.cv.hoikushi-bosyu.com
 +.hitchprivilege.com
++.hinaprecentals.com
 +.highrevenuecpm.com
 +.hxaypz.herschelsupply.com
 +.herconsequence.com
@@ -16050,6 +16066,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.bugleczmoidgxo.com
 +.budsminepatent.com
 +.buckeyekantars.com
++.bubblessudsman.com
 +.marketing.btcelectronics.com
 +.images.engage.brunswickgroup.com
 +.go.brunswickgroup.com
@@ -18111,6 +18128,7 @@ httpdns.volcengineapi.com
 +.trk.bakewithstork.com
 +.baguioattalea.com
 +.baghlachalked.com
++.baculumcipher.com
 +.baculeprudery.com
 +.backletseamen.com
 +.info.backbonemedia.com
@@ -18595,6 +18613,7 @@ ad.zuimeitianqi.com
 +.bxumze.thisweeknews.com
 +.yftkzg.thisisfutbol.com
 +.thirtycabook.com
++.thirsuftutch.com
 +.track.thinkmobiles.com
 +.go.thinkbullish.com
 +.first.thetrustnest.com
@@ -19222,6 +19241,7 @@ js.partnerstack.com
 +.tccd.niche-beauty.com
 +.adtd.niche-beauty.com
 +.collector-statistics.nhn-commerce.com
++.nhdkovgsxbbn.com
 +.tr.mailperf.ngt-services.com
 +.nfzaajfktztp.com
 +.fahmta.newstatesman.com
@@ -22355,6 +22375,7 @@ httpdns.huaweicloud.com
 +.ssc.ekhokavkaza.com
 +.cnameebis.eizoshigoto.com
 +.eikegolehem.com
++.efyglwbapki.com
 +.mastertag.effiliation.com
 +.track.effiliation.com
 +.edvfwlacluo.com
@@ -23560,6 +23581,7 @@ analytics3.starschina.com
 +.t.siusalukis.com
 +.wnnsrb.sister-ann.com
 +.nujxvl.sisleymall.com
++.sisfiggery.com
 +.meerdata.simplyused.com
 +.simplepath.com
 +.analytics.similarweb.com
@@ -24469,6 +24491,7 @@ adapi.lenovogame.com
 +.rmbehm.junjewelry.com
 +.jssejsnvdy.com
 +.loon.jrmyfranck.com
++.jozowgldpc.com
 +.info.josephmday.com
 +.marketing.johnsonbts.com
 +.gtm-ss.jobfunders.com
@@ -26580,6 +26603,8 @@ static.m.sjzhushou.com
 +.screddoit.com
 +.zdpsve.scrapbook.com
 +.metrics.scottrade.com
++.scorchads.com
++.scmoulten.com
 +.cs1470sbeda.schoolasp.com
 +.tracking.schneider.com
 +.schizypdq.com
@@ -29788,6 +29813,7 @@ click.qianqian.com
 res.qhupdate.com
 hs.qhupdate.com
 +.s.qhupdate.com
++.qhunetsq.com
 news.qhstatic.com
 +.qhocciks.com
 +.qhmlwvnd.com
@@ -31284,6 +31310,7 @@ huawei.facebook.com
 +.track.duelbits.com
 +.rlovoa.duckcamp.com
 +.dubzenom.com
++.dtignite.com
 +.dspunion.com
 +.drxxnhks.com
 +.drustren.com
@@ -33762,7 +33789,6 @@ i.ipinyou.com
 +.t.huskers.com
 +.huntmad.com
 +.ping.hungama.com
-click.hunantv.com
 +.log.hunantv.com
 log.v2.hunantv.com
 +.da.hunantv.com
@@ -44015,6 +44041,7 @@ stat.dns.sb
 +.qvnpxc.technopark.ru
 +.counter.reddigital.ru
 +.rymhet.posudamart.ru
++.event.playground.ru
 +.counter.photopulse.ru
 +.odnaknopka.ru
 +.fkmdky.lifehacker.ru
@@ -58235,6 +58262,9 @@ p.cloudcraft.co
 +.awggij.wplay.co
 +.s.vucko.co
 +.a.visme.co
++.ads-api.videy.co
++.ads3.videy.co
++.ads2.videy.co
 +.vic-m.co
 +.track.usxwb.co
 +.rtgio.co
@@ -58875,6 +58905,7 @@ render-web.11222.cn
 +.bd1.xiby.cn
 +.bdjiaoben.wmxa.cn
 +.bdasd.wmxa.cn
++.wbe4.cn
 +.bd.watu.cn
 delivery-pc.wasu.cn
 collector.wasu.cn
@@ -59712,6 +59743,7 @@ hc-ssp.sm.cn
 +.aiwen.cc
 +.squid.adart.cc
 +.88tm6.cc
++.66hao.cc
 +.dm.zjut.cc
 +.bd1.yidu.cc
 +.nxcm.cc

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-14T07:39:44.113Z
-# Size: 54
+# Last Updated: 2025-02-14T14:59:34.150Z
+# Size: 56
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -18,8 +18,11 @@ DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,dsn.algolia.net
+DOMAIN-KEYWORD,-thumbs.pornhost.com
 DOMAIN-KEYWORD,-cdn.eporner.com
 DOMAIN-KEYWORD,cdn.adultempire.com
+DOMAIN-KEYWORD,-assets.worldsex.com
+DOMAIN-KEYWORD,-thumbs.worldsex.com
 DOMAIN-REGEX,^appcenter-filemanagement-[\w.-]*?\.cloudapp\.net$
 DOMAIN-REGEX,^proxy-[\w.-]*?\.dailymotion\.com$
 DOMAIN-REGEX,^static[\w.-]*?\.tgstat\.ru$
@@ -28,7 +31,6 @@ DOMAIN-REGEX,^s3\.[\w.-]*?\.wasabisys\.com$
 DOMAIN-REGEX,^object-storage-[\w.-]*?\.vexxhost\.net$
 DOMAIN-REGEX,^i[\w.-]\.nhentai\.net$
 DOMAIN-REGEX,^t[\w.-]\.nhentai\.net$
-DOMAIN-REGEX,^cdn[\w.-]-thumbs\.pornhost\.com$
 DOMAIN-REGEX,^cdn[\w.-]-dl\.pornhost\.com$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.18comic\.vip$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.jmcomic\.me$
@@ -46,7 +48,7 @@ DOMAIN-REGEX,^s[\w.-][\w.-][\w.-]\.pornone\.com$
 DOMAIN-REGEX,^browser-intake-[\w.-]*?-datadoghq\.com$
 DOMAIN-REGEX,^video-thumbnail2\.fc2\.com$
 DOMAIN-REGEX,^video[\w.-]-thumbnail[\w.-]\.fc2\.com$
-DOMAIN-REGEX,^video-thumbnail2\.liaoningmovie\.net$
+DOMAIN-REGEX,^video-thumbnail[\w.-]\.liaoningmovie\.net$
 DOMAIN-REGEX,^video[\w.-]-thumbnail[\w.-]\.liaoningmovie\.net$
 DOMAIN-REGEX,^vip-videoprem[\w.-]*?-thumbnail[\w.-]\.fc2\.com$
 DOMAIN-REGEX,^blog-imgs-[\w.-][\w.-]\.2nt\.com$
