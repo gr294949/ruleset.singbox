@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - US
-# Last Updated: 2025-02-06T14:31:09.415Z
-# Size: 10
+# Last Updated: 2025-02-14T07:39:44.125Z
+# Size: 9
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,7 +9,6 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,copymanga.site
 DOMAIN,jav.guru
-DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN,www.coinbase.com
 DOMAIN-SUFFIX,mandaom.com

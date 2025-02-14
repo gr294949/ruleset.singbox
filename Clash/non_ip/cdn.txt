@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-09T03:47:19.928Z
-# Size: 51
+# Last Updated: 2025-02-14T07:39:44.113Z
+# Size: 54
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,cdn-msp.18comic.vip
+DOMAIN,cdn-msp.18comic.org
 DOMAIN,cdn-msp.jmcomic-zzz.one
 DOMAIN,cdn-msp.jmcomic.me
 DOMAIN-KEYWORD,-files.gitbook.io
@@ -32,6 +33,7 @@ DOMAIN-REGEX,^cdn[\w.-]-dl\.pornhost\.com$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.18comic\.vip$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.jmcomic\.me$
 DOMAIN-REGEX,^cdn-msp[\w.-]\.jmcomic-zzz\.one$
+DOMAIN-REGEX,^cdn-msp[\w.-]\.18comic\.org$
 DOMAIN-REGEX,^file[\w.-]\.mikuclub\.fun$
 DOMAIN-REGEX,^cdn[\w.-]\.mikuclub\.fun$
 DOMAIN-REGEX,^assets[\w.-]*?\.freshdesk\.com$
@@ -59,4 +61,5 @@ DOMAIN-REGEX,^s[\w.-]\.maxstream\.org$
 DOMAIN-REGEX,^s[\w.-][\w.-]\.maxstream\.org$
 DOMAIN-REGEX,^media[\w.-]\.kissjav\.com$
 DOMAIN-REGEX,^media[\w.-][\w.-]\.kissjav\.com$
+DOMAIN-REGEX,^cdn[\w.-]\.18girlssex\.com$
 ################## EOF ##################

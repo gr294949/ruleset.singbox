@@ -1,12 +1,14 @@
 #########################################
 # Sukka's Ruleset - Internal Special
-# Last Updated: 2025-02-06T14:31:09.413Z
-# Size: 11
+# Last Updated: 2025-02-14T07:39:44.123Z
+# Size: 13
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,azurefd.net
