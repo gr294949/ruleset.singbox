@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-14T08:44:35.307Z
-# Size: 3134
+# Last Updated: 2025-02-14T12:58:11.895Z
+# Size: 3135
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2927,6 +2927,7 @@ website-cdn.ipinfo.io
 packages.httpie.io
 +.gitlab.io
 +.github.io
+cdn-web.fydeos.io
 +.docker.io
 static-mh.content.disney.io
 +.crates.io
