@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 15 Feb 2025 12:35:56 GMT
+! Last modified: Sat, 15 Feb 2025 14:56:45 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -496,6 +496,7 @@
 ||track.mediacareplan.today^
 ||grslim.greenyslimtry.today^
 ||news-bbipasu.today^
+||xqaosfdbhff.today^
 ||marketing.myvitality.today^
 ||srbtztegq.today^
 ||rjowzlkaz.today^
@@ -1163,6 +1164,7 @@
 ||zuisinchills.shop^
 ||wemmyoolakan.shop^
 ||vivaxhouvari.shop^
+||viandryturvy.shop^
 ||unluredtawgi.shop^
 ||unhatedkrubi.shop^
 ||spheryexcise.shop^
@@ -1875,6 +1877,7 @@
 ||server.sups.care^
 ||load.msr.900.care^
 ||check-tl-ver-268-a.buzz^
+||vufqinbxihvvf.buzz^
 ||sjetnf-oizyo.buzz^
 ||bpoiscqmwxej.buzz^
 ||gldkzr-lpqw.buzz^
@@ -1888,6 +1891,7 @@
 ||endream.buzz^
 ||zflylg.buzz^
 ||zflfoy.buzz^
+||vzoqn.buzz^
 ||tjpzz.buzz^
 ||analytics.blue^
 ||stats.tirexo.blue^
@@ -3287,6 +3291,7 @@
 ||ydxdg.xyz^
 ||xmvxo.xyz^
 ||wusfa.xyz^
+||vsdiz.xyz^
 ||vmcnl.xyz^
 ||vieva.xyz^
 ||tnmpd.xyz^
@@ -6156,6 +6161,7 @@
 ||ssl-metric.tsutaya-tv.net^
 ||trenchpoor.net^
 ||trdnewsnow.net^
+||toubaiptay.net^
 ||tooraicush.net^
 ||toonujoops.net^
 ||thaugnaixi.net^
@@ -6205,6 +6211,7 @@
 ||ciszhp.reisefrage.net^
 ||data.socio.realmadrid.net^
 ||njnlih.realitatea.net^
+||rausteehih.net^
 ||raistiwije.net^
 ||raikijausa.net^
 ||pushprofit.net^
@@ -13498,6 +13505,7 @@
 ||elq.atlaslovestravel.com^
 ||ssa.asianfoodnetwork.com^
 ||aad-marketing.ascendeventmedia.com^
+||apphiresandalarg.com^
 ||app-ads-services.com^
 ||wchjfv.apartmenttherapy.com^
 ||shows.anticipate-event.com^
@@ -14997,6 +15005,7 @@
 ||stomachscience.com^
 ||ettcc.steute-meditec.com^
 ||ettcc.steute-leantec.com^
+||stereotypeswig.com^
 ||ss.stelrodadebera.com^
 ||go.stayinghelpful.com^
 ||em.stauffersafety.com^
@@ -17581,6 +17590,7 @@
 ||track.dentalnhygene.com^
 ||metrics.dentalcompare.com^
 ||ifbmqi.dental-worker.com^
+||denoughtanoth.com^
 ||tr.infos.lacarte.demenagez-moi.com^
 ||cache2.delvenetworks.com^
 ||delveactivity.com^
@@ -18088,6 +18098,7 @@
 ||whishannuent.com^
 ||tracking.whattoexpect.com^
 ||secure.whattoexpect.com^
+||wharrownecia.com^
 ||whaleplayful.com^
 ||whaijeezaugh.com^
 ||trk.westpackshow.com^
@@ -18682,6 +18693,7 @@
 ||quaternnerka.com^
 ||quantumshine.com^
 ||qrifhajtabcy.com^
+||qmgpfrwyhtwp.com^
 ||metrics.qatarairways.com^
 ||dqqfrs.qatarairways.com^
 ||pwrgrowthapi.com^
@@ -18811,6 +18823,7 @@
 ||guvtzs.pamelamunson.com^
 ||sgtm.pa-community.com^
 ||oxynticarkab.com^
+||owhmahkpeluw.com^
 ||telemetry.owenscorning.com^
 ||target.owenscorning.com^
 ||om.owenscorning.com^
@@ -20861,6 +20874,7 @@
 ||spersonalization.rainbowintl.com^
 ||app.ragincajuns.com^
 ||t.ragincajuns.com^
+||rafikfangas.com^
 ||tags.radiomarsho.com^
 ||ssc.radiomarsho.com^
 ||hcjpbc.radaronline.com^
@@ -21448,6 +21462,7 @@
 ||rtegbv.jmclaughlin.com^
 ||tfcdn.jingmiuyyds.com^
 ||jicmivojvsa.com^
+||jewdombenin.com^
 ||marketing.jdicleaning.com^
 ||bee.jbkmobiledj.com^
 ||jazzlowness.com^
@@ -29701,7 +29716,6 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
-||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -37950,6 +37964,7 @@
 ||gscounters.gigya.com^
 ||swa.gifts.com^
 ||wa.gifts.com^
+||getui.com^
 ||sadobeanalytics.geico.com^
 ||adobeanalytics.geico.com^
 ||ge189.com^
