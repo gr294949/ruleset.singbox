@@ -6,3 +6,5 @@ https://:project.pages.dev/*
   content-type: text/plain; charset=utf-8
 /List/*
   content-type: text/plain; charset=utf-8
+/Internal/*
+  content-type: text/plain; charset=utf-8
