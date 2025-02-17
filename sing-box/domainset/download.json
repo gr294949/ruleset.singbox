@@ -252,6 +252,7 @@
         "archive.org",
         "mirrors.dotsrc.org",
         "ftp-master.debian.org",
+        "cdimage.debian.org",
         "archive.debian.org",
         "ftp.debian.org",
         "deb.debian.org",
