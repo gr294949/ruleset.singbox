@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-14T14:59:34.150Z
-# Size: 56
+# Last Updated: 2025-02-17T01:48:50.679Z
+# Size: 57
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -63,5 +63,6 @@ DOMAIN-REGEX,^s[\w.-]\.maxstream\.org$
 DOMAIN-REGEX,^s[\w.-][\w.-]\.maxstream\.org$
 DOMAIN-REGEX,^media[\w.-]\.kissjav\.com$
 DOMAIN-REGEX,^media[\w.-][\w.-]\.kissjav\.com$
+DOMAIN-REGEX,^[\w.-]*?\.img\.[\w.-]*?\.sendibm[\w.-]\.com$
 DOMAIN-REGEX,^cdn[\w.-]\.18girlssex\.com$
 ################## EOF ##################
