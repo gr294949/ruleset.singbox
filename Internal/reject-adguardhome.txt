@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 17 Feb 2025 08:53:50 GMT
+! Last modified: Mon, 17 Feb 2025 12:41:38 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -565,6 +565,7 @@
 ||warumbistdusoarm.space^
 ||hoplekhornnist.space^
 ||olivedinflats.space^
+||cbjcfrakrdzzs.space^
 ||ueykjfltxqsb.space^
 ||durgapur.globalsearch.space^
 ||amravati.globalsearch.space^
@@ -760,6 +761,7 @@
 ||customersupport.click^
 ||smellyredirect.click^
 ||cyberblitzdown.click^
+||vnrbjvbwbqfob.click^
 ||trk.trktrackingpt.click^
 ||tomatoqqamber.click^
 ||and.roasrocknroll.click^
@@ -1165,6 +1167,7 @@
 ||retimedtactor.shop^
 ||relockembarge.shop^
 ||reekedtravels.shop^
+||postiewennish.shop^
 ||odallerdosser.shop^
 ||murriesforsee.shop^
 ||multiwall-ads.shop^
@@ -1997,6 +2000,7 @@
 ||ngjwlvrfbwlvm.xyz^
 ||milkygoodness.xyz^
 ||magazinenews1.xyz^
+||gsibxuwrysrws.xyz^
 ||grauckoonsaul.xyz^
 ||equirekeither.xyz^
 ||coodouphenooh.xyz^
@@ -3234,6 +3238,7 @@
 ||zykkjyaokkjlo.top^
 ||zhangqifeng12.top^
 ||yamshikbrucia.top^
+||wywkwqzkavjbv.top^
 ||wwvqboerllmqj.top^
 ||wwaeljamkvzwr.top^
 ||wevrwqjqemoyk.top^
@@ -4007,6 +4012,7 @@
 ||advancedadblocker.pro^
 ||tr.scienceshumaines.pro^
 ||amusing-location.pro^
+||useless-speaker.pro^
 ||log.ultimatecleaner.pro^
 ||trusting-secret.pro^
 ||terttalkinhitin.pro^
@@ -5655,6 +5661,7 @@
 ||wyaopp.lacoccinelle.net^
 ||koataigalupo.net^
 ||koaptausoaco.net^
+||koaphoocouph.net^
 ||kiwhopoardeg.net^
 ||keewophakimy.net^
 ||keboorsootch.net^
@@ -9963,6 +9970,7 @@
 ||disturbancecommemorate.com^
 ||dissolvetimesuspicions.com^
 ||www2s.discountexhaustsystems.com^
+||digestivepresenceclimb.com^
 ||diffusedpassionquaking.com^
 ||mytracking.dientes-saludables-hoy.com^
 ||deceptionhastyejection.com^
@@ -10890,6 +10898,7 @@
 ||analytics.fnbfinancialjourney.com^
 ||marketing.floydfinancialgroup.com^
 ||metrics.flowerscoasttocoast.com^
+||flintsuperintendent.com^
 ||fireworkadservices1.com^
 ||trk.fbperfectpanerepair.com^
 ||trk.fbdriverquoteassist.com^
@@ -12681,6 +12690,7 @@
 ||rnnstu.rentbeforeowning.com^
 ||zppfgh.renovatuvestidor.com^
 ||jiohog.regalopublicidad.com^
+||refundsexynarrow.com^
 ||reedsinterfering.com^
 ||info.redlinesolutions.com^
 ||rectresultofthep.com^
@@ -13664,6 +13674,7 @@
 ||form.e.silverfernfarms.com^
 ||data.e.silverfernfarms.com^
 ||tracking.silverfernbrand.com^
+||signamentswithd.com^
 ||cookies.siemens-advanta.com^
 ||sanalytics.sibleystatebank.com^
 ||analytics.sibleystatebank.com^
@@ -16459,6 +16470,7 @@
 ||qdkaky.rikilovesriki.com^
 ||riffingwiener.com^
 ||rhythmxchange.com^
+||rewindstagger.com^
 ||adztech-images.reviveservers.com^
 ||knhccb.revivalanimal.com^
 ||revenuestripe.com^
@@ -16869,6 +16881,7 @@
 ||trk.mandalaground.com^
 ||manalyticshub.com^
 ||track.makeoverdeals.com^
+||makefeagreata.com^
 ||eulerian.maison-facile.com^
 ||click-eu-v4.mainexdircllk.com^
 ||click-v4.mainexdircllk.com^
@@ -17732,6 +17745,7 @@
 ||marketing.assetstrategy.com^
 ||marketing.aspenavionics.com^
 ||parallax.askmediagroup.com^
+||asbtowhysyfcp.com^
 ||connecttest.arubanetworks.com^
 ||etrack.ext.arubanetworks.com^
 ||data.artnekretnine.com^
@@ -19502,6 +19516,7 @@
 ||debonairtree.com^
 ||debonairdust.com^
 ||tiglon.davidroessli.com^
+||davidoffhand.com^
 ||content.davidhaleweb.com^
 ||ubqjbd.daviddonahue.com^
 ||analytics.datasavannah.com^
@@ -22666,6 +22681,7 @@
 ||tracker.thinkindot.com^
 ||metrics.thingspeak.com^
 ||analytics.thingeight.com^
+||thhwzyuktk.com^
 ||tracking.thermoinfo.com^
 ||data.campaigns.therecroom.com^
 ||somni.therecroom.com^
@@ -23066,6 +23082,7 @@
 ||app.qnasdaqomx.com^
 ||qlfqkjluvz.com^
 ||qituduwios.com^
+||qiplidoxwm.com^
 ||qibkkioqqw.com^
 ||qhogcyoqrl.com^
 ||qelqlunebz.com^
@@ -28013,6 +28030,7 @@
 ||zanoogha.com^
 ||zalnouiy.com^
 ||zaeqrath.com^
+||ywpwxdnb.com^
 ||daima.yuzhulin.com^
 ||yummycdn.com^
 ||overseauspider.yuanshen.com^
@@ -28331,6 +28349,7 @@
 ||track.ukcpreit.com^
 ||sncop.uioozpxq.com^
 ||ufouxbwn.com^
+||ufbcrgms.com^
 ||udinugoo.com^
 ||udheansv.com^
 ||pobawe.typology.com^
@@ -29553,6 +29572,7 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
+||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -45573,6 +45593,7 @@
 ||data-84a0f3455d.transfermarkt.my^
 ||data-1c0a3d83e3.transfermarkt.my^
 ||tk.airfrance.my^
+||kdnvieos.my^
 ||fdolspwa.my^
 ||jybnuw.mudah.my^
 ||saa.dyson.my^
@@ -57908,6 +57929,7 @@
 ||xue.zbyw.cn^
 ||miniye.xjts.cn^
 ||bd1.xiby.cn^
+||wn6y.cn^
 ||bdjiaoben.wmxa.cn^
 ||bdasd.wmxa.cn^
 ||wbe4.cn^
