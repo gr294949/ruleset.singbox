@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-17T08:51:19.051Z
-# Size: 3149
+# Last Updated: 2025-02-17T08:53:23.885Z
+# Size: 3151
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -519,6 +519,7 @@ resize.yandex.net
 avatars.mds.yandex.net
 cdn.xeiaso.net
 avts.wmlabs.net
+fast.wistia.net
 static.vocadb.net
 images1.vinted.net
 craftassets.unraid.net
@@ -2381,6 +2382,7 @@ static.deepl.com
 cdn.db-ip.com
 static.cloud.coveo.com
 cdn.cliqz.com
+segapi.clerk.com
 scdn.clerk.com
 img.clerk.com
 +.cldup.com
