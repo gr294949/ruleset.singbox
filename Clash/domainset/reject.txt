@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-17T04:13:53.233Z
-# Size: 61356
+# Last Updated: 2025-02-17T08:51:15.122Z
+# Size: 61357
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -796,6 +796,7 @@ comments.gazo.space
 +.fiko2.skin-squad.click
 +.oowkzpjo-o.click
 +.easysearch.click
++.dsoftzfile.click
 +.directsnap.click
 +.blueoyster.click
 +.wow-click.click
@@ -1018,6 +1019,7 @@ bad.third-party.site
 +.starswalker.site
 +.quivvlewag389.shimmerglow.site
 +.blimberwham.quaggletwix.site
++.lkjpoisjnil.site
 +.jtegqwmjfxu.site
 +.info.guardianews.site
 +.v1.expresssale.site
@@ -9403,6 +9405,7 @@ sashimi.royli.dev
 +.stape.profissaoassistentefinanceiro.com
 +.likinginconvenientpolitically.com
 +.wctr.kunststoff-schachtabdeckungen.com
++.secure.informationcreativeinnovative.com
 +.affiliate.elektronicke-vycvikove-obojky.com
 +.drivewayilluminatedconstitute.com
 +.load.sgtm.deutsches-gesundheits-journal.com
@@ -9779,7 +9782,6 @@ sashimi.royli.dev
 +.aa.irvinecompanyapartments.com
 +.trk.intermezzofashionevents.com
 +.instancesflushedslander.com
-+.secure.innovation-perceptive52.com
 +.inestimablereddencloset.com
 +.info.hygfinancialservicesinc.com
 +.humbleromecontroversial.com
@@ -14176,6 +14178,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.seniorliving.freedompointefl.com
 +.metrics.freecreditscore.com
 +.fqhnnknhufocejx.com
++.fourtimessmelly.com
 +.tags.foundcollective.com
 +.foundationhorny.com
 +.forwhimsicottan.com
@@ -17822,7 +17825,6 @@ httpdns.volcengineapi.com
 +.cll.start.acahealthpros.com
 +.marketing.acadian-asset.com
 +.academyenrage.com
-+.absorbingband.com
 +.absoluteroute.com
 +.absentairport.com
 +.abruptlydummy.com
@@ -18310,7 +18312,6 @@ adcdn.tencentmusic.com
 +.sprewcereous.com
 +.alsgaj.sportschosun.com
 +.mms.splinternews.com
-+.spinnaker-js.com
 +.spicy-effect.com
 +.spectkuchean.com
 +.marketing.speconthejob.com
@@ -19818,7 +19819,6 @@ httpdns-ocloud.heytapmobile.com
 +.stats.beausimensen.com
 +.smetric.baylorhealth.com
 +.metric.baylorhealth.com
-+.bawdybalance.com
 +.tr.batiwebmedia.com
 +.mdxhsj.batiproduits.com
 +.tr.ml.batiproduits.com
@@ -29558,6 +29558,7 @@ mepodownload.mediatek.com
 +.adbd.liuxue86.com
 +.list-ads.com
 +.lirretsn.com
++.linksprf.com
 +.linkmink.com
 +.st.linkfire.com
 +.analytics.pointdrive.linkedin.com
@@ -36252,7 +36253,6 @@ links.services.disqus.com
 +.marketing.biotek.com
 +.innovate.bionix.com
 +.smetric.biogen.com
-+.marcom.biodex.com
 +.t.bimvid.com
 +.metrics.biaxin.com
 +.bhcont.com
@@ -48965,6 +48965,7 @@ umami.rss3.io
 +.t.beop.io
 +.s.beop.io
 +.c.bazo.io
++.apxl.io
 +.t.adbr.io
 +.stats.abbi.io
 +.rtapi.abbi.io
