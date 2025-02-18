@@ -78,6 +78,8 @@ dns:
     +.hellobike.com: quic://dns.alidns.com:853
     "*.hichina.com": quic://dns.alidns.com:853
     "*.yunos.com": quic://dns.alidns.com:853
+    "*.nlark.com": quic://dns.alidns.com:853
+    "*.yuque.com": quic://dns.alidns.com:853
     upos-sz-mirrorali.bilivideo.com: quic://dns.alidns.com:853
     upos-sz-estgoss.bilivideo.com: quic://dns.alidns.com:853
     ali-safety-video.acfun.cn: quic://dns.alidns.com:853
