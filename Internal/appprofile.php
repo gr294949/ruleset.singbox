@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-02-18T15:13:32.629Z
+// # Build 2025-02-18T16:43:22.762Z
 
 declare(strict_types=1);
 
@@ -1922,6 +1922,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,scpwiki.com,Global',
         'DOMAIN-SUFFIX,reuters.com,Global',
         'DOMAIN-SUFFIX,redtube.com,Global',
+        'DOMAIN-SUFFIX,proxmox.com,Global',
         'DOMAIN-SUFFIX,pornhub.com,Global',
         'DOMAIN-SUFFIX,picacgy.com,Global',
         'DOMAIN-SUFFIX,picacgp.com,Global',
