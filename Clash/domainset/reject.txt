@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-18T12:38:06.824Z
-# Size: 62465
+# Last Updated: 2025-02-18T15:13:05.666Z
+# Size: 62493
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2546,6 +2546,7 @@ grs.dbankcloud.asia
 +.meorzoi.xyz
 +.lznfuab.xyz
 +.lukyday.xyz
++.linakso.xyz
 +.lfhdryz.xyz
 +.ktvjpmi.xyz
 +.kspl48j.xyz
@@ -3398,6 +3399,7 @@ grs.dbankcloud.asia
 +.uptraindustmen.top
 +.trendlewiggery.top
 +.tiepinsespials.top
++.subovalearlish.top
 +.skidlidmassier.top
 +.saintlyyaupons.top
 +.reclameinshoot.top
@@ -3470,6 +3472,7 @@ grs.dbankcloud.asia
 +.lingetunearth.top
 +.jzvwawvwkwkwl.top
 +.jzqbyykjorakb.top
++.jybaekaqbmmmb.top
 +.jovqyymemwezy.top
 +.josephtotters.top
 +.hexinemicerun.top
@@ -3815,6 +3818,7 @@ grs.dbankcloud.asia
 +.ujimtyt.top
 +.ufjslit.top
 +.uewrutt.top
++.uewotga.top
 +.uetlwst.top
 +.udoshbt.top
 +.udinmat.top
@@ -6059,6 +6063,7 @@ samsungcloudsolution.net
 +.psoanoaweek.net
 +.psoamaupsie.net
 +.stats.profilehunt.net
+proxyhog.prisma-data.net
 +.mercury.dl.playstation.net
 +.bravia.dl.playstation.net
 +.nsx-e.np.dl.playstation.net
@@ -6713,6 +6718,7 @@ samsungcloudsolution.net
 +.d23rx8p5l6yry7.cloudfront.net
 +.d23pdhuxarn9w2.cloudfront.net
 +.d23p9gffjvre9v.cloudfront.net
++.d23h3o5tkgytgm.cloudfront.net
 +.d239g0z67jcted.cloudfront.net
 +.d235m8fpdlskx9.cloudfront.net
 +.d22z575k8abudv.cloudfront.net
@@ -6834,6 +6840,7 @@ samsungcloudsolution.net
 +.d1gwclp1pmzk26.cloudfront.net
 +.d1gpi088t70qaf.cloudfront.net
 +.d1gp8joe0evc8s.cloudfront.net
++.d1gof7ug63b1q4.cloudfront.net
 +.d1get58iwmjrxx.cloudfront.net
 +.d1g2nud28z4vph.cloudfront.net
 +.d1ftkft7iiluq6.cloudfront.net
@@ -6931,6 +6938,7 @@ samsungcloudsolution.net
 +.dxkkb5tytkivf.cloudfront.net
 +.dw9uc6c6b8nwx.cloudfront.net
 +.dw85st0ijc8if.cloudfront.net
++.dvwowtnmyluv4.cloudfront.net
 +.dvh66m0o7et0z.cloudfront.net
 +.dvc8653ec6uyk.cloudfront.net
 +.dv7t7qyvgyrt5.cloudfront.net
@@ -9378,6 +9386,7 @@ iadmusicmat.music.126.net
 +.gbdkbtuzvqrun.fun
 +.fulrrlddcjqlk.fun
 +.bjiqdkqwbpbgk.fun
++.srv.yeahwebimobi.fun
 +.lp.vidaperfeita.fun
 +.track.trucosecreto.fun
 +.revokejav128.fun
@@ -9927,6 +9936,7 @@ sashimi.royli.dev
 +.candleannihilationretrieval.com
 +.app.breakthrough-health-options.com
 +.app.augustaentertainmentcomplex.com
++.aspirationprogrammecontains.com
 +.ssl.appliedclinicaltrialsonline.com
 +.zealousinquiriesgovernment.com
 +.wizardunstablecommissioner.com
@@ -10708,6 +10718,7 @@ sashimi.royli.dev
 +.evidencestunundermine.com
 +.espionageomissionrobe.com
 +.communications.enrouteglobalexchange.com
++.engagedpungentrepress.com
 +.go.educationtrendsonline.com
 +.download-adblock-bear.com
 +.distressedsoultabloid.com
@@ -11785,6 +11796,7 @@ samsungcloudsolution.com
 +.track.oportalsaudeemfoco.com
 +.t.onlinesavingshacks.com
 +.onclickperformance.com
++.ominouscedarwalker.com
 +.registro.omegacrmconsulting.com
 +.landings.omegacrmconsulting.com
 +.secure.omegacrmconsulting.com
@@ -15169,6 +15181,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.metrics.abbottnutrition.com
 +.analytics.1stnationalbank.com
 +.emarketing.zulkiepartners.com
++.zoiefwqhcaczun.com
 +.trk.zfx-affiliates.com
 +.adebis.zenyaku-hbshop.com
 +.ncvyha.yves-rocher-kz.com
@@ -15800,6 +15813,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.hglzwi.mountainkhakis.com
 +.csvtr05.mosaikbusiness.com
 +.web.morganfranklin.com
++.moodirresolute.com
 +.monthlypatient.com
 +.fbu8.ticket-online.montecarlolive.com
 +.marketing.montaukchamber.com
@@ -16449,6 +16463,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.ea.camping-and-co.com
 +.mdws.caissepopclare.com
 +.cl.cabaulifestyle.com
++.bwalnuzotowvqg.com
 +.buzzardcraizey.com
 +.buy-briteblaze.com
 +.bushsurprising.com
@@ -17436,6 +17451,7 @@ httpdns.volcengineapi.com
 +.data.mktg.nascarchicago.com
 +.narkalignevil.com
 +.nntjqa.nametagwizard.com
++.namersreminds.com
 +.mythicsallies.com
 +.load.data.mysweetstitch.com
 +.felidae.mysuperportal.com
@@ -18087,6 +18103,7 @@ httpdns.volcengineapi.com
 +.metrics.dollargeneral.com
 +.rd.doggytreatbox.com
 +.jcpjfyikk.dogbonemarket.com
++.doevveyyibmbh.com
 +.gtm.doersoflondon.com
 +.a8.doctorstretch.com
 +.dockdigestion.com
@@ -18181,6 +18198,7 @@ httpdns.volcengineapi.com
 +.dc2.credit-suisse.com
 +.creamssicsite.com
 +.yhdcdo.crazy-factory.com
++.craniolgozzan.com
 +.metrics.crainsnewyork.com
 +.metrics.crainsdetroit.com
 +.jinnsm.craftpirlanta.com
@@ -20821,6 +20839,7 @@ httpdns-ocloud.heytapmobile.com
 +.metrics.1800contacts.com
 +.my.11teamsports.com
 +.metric.1035thearrow.com
++.zpilkesyasa.com
 +.hapic1.zhuangxiu22.com
 +.ruhpbn.zhigaojixie.com
 +.21.zhaozongjie.com
@@ -23894,6 +23913,7 @@ samsungqbe.com
 +.quantcount.com
 +.www4.qualigence.com
 +.gtm.qualebanca.com
++.qpysgochij.com
 +.app.qnasdaqomx.com
 +.qlfqkjluvz.com
 +.qituduwios.com
@@ -24104,6 +24124,7 @@ httpdns.push.oppomobile.com
 +.stats.oldtinroof.com
 +.hcjpbc.okmagazine.com
 +.ohtctjiuow.com
++.ohtasqomva.com
 +.horse.ohseemedia.com
 +.tracking.ohiohealth.com
 +.content.ohcare.ohiohealth.com
@@ -27597,6 +27618,7 @@ choice.microsoft.com
 +.yjpzqw.jackjones.com
 +.j74y03g8u.com
 +.j6t91e89q.com
++.izlrvevwd.com
 +.tracking.ivoyageco.com
 +.track.ivitasana.com
 +.sgtm.ium-paris.com
@@ -29741,6 +29763,7 @@ ad.ximalaya.com
 +.nstclj.rubylane.com
 +.go.rtafleet.com
 +.powerup.rsaworks.com
++.rrwirnlp.com
 +.clk.rratrack.com
 +.laurel.rovicorp.com
 +.rouwhapt.com
@@ -30528,7 +30551,6 @@ mepodownload.mediatek.com
 +.adbd.liuxue86.com
 +.list-ads.com
 +.lirretsn.com
-+.linksprf.com
 +.linkmink.com
 +.st.linkfire.com
 +.analytics.pointdrive.linkedin.com
@@ -32685,6 +32707,7 @@ httpdns.danuoyi.tbcache.com
 +.clarice.streema.com
 +.solutions.stratus.com
 +.a8.strapya.com
++.tracker.str-nrg.com
 +.storkto.com
 +.ssgamf.stories.com
 +.www2s.storage.com
@@ -33324,6 +33347,7 @@ httpdns-sdk.n.netease.com
 +.merchant-mail.neosurf.com
 +.app.response.neopost.com
 +.system.nefiber.com
++.telemetry.nbcuott.com
 +.aamt.nbcnews.com
 +.nawpush.com
 +.info.navitor.com
@@ -35536,6 +35560,7 @@ count.taobao.com
 tyh.taobao.com
 tui.taobao.com
 err.taobao.com
++.h-adashx4ae.ut.taobao.com
 +.adashx4ae.ut.taobao.com
 +.h-adashx.ut.taobao.com
 +.adashxgc.ut.taobao.com
@@ -39390,6 +39415,7 @@ securemetrics.apple.com
 +.gateway.aimia.com
 +.swebstats.us.aimia.com
 +.zwokia.aigle.com
++.track.aieic.com
 +.aiclk.com
 +.ip356694986.ahcdn.com
 +.log.ahamo.com
@@ -41645,6 +41671,7 @@ ga.utilapi.bid
 +.misc.api.snaptube.app
 +.ad.snaptube.app
 +.haddock.simgenie.app
++.pageview.app
 +.webhooks-affiliates.ornament.app
 +.join.ornament.app
 +.python.jukejuke.app
@@ -59080,6 +59107,7 @@ minfo.wps.cn
 +.dm.pw0.cn
 +.pro.cn
 fm.p0y.cn
++.bun1.dayi.org.cn
 logs.chelaile.net.cn
 +.1.feihua.net.cn
 +.srtb.msn.cn

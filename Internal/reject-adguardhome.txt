@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 18 Feb 2025 12:38:44 GMT
+! Last modified: Tue, 18 Feb 2025 15:13:42 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2531,6 +2531,7 @@
 ||meorzoi.xyz^
 ||lznfuab.xyz^
 ||lukyday.xyz^
+||linakso.xyz^
 ||lfhdryz.xyz^
 ||ktvjpmi.xyz^
 ||kspl48j.xyz^
@@ -3383,6 +3384,7 @@
 ||uptraindustmen.top^
 ||trendlewiggery.top^
 ||tiepinsespials.top^
+||subovalearlish.top^
 ||skidlidmassier.top^
 ||saintlyyaupons.top^
 ||reclameinshoot.top^
@@ -3455,6 +3457,7 @@
 ||lingetunearth.top^
 ||jzvwawvwkwkwl.top^
 ||jzqbyykjorakb.top^
+||jybaekaqbmmmb.top^
 ||jovqyymemwezy.top^
 ||josephtotters.top^
 ||hexinemicerun.top^
@@ -3800,6 +3803,7 @@
 ||ujimtyt.top^
 ||ufjslit.top^
 ||uewrutt.top^
+||uewotga.top^
 ||uetlwst.top^
 ||udoshbt.top^
 ||udinmat.top^
@@ -6045,6 +6049,7 @@
 ||psoanoaweek.net^
 ||psoamaupsie.net^
 ||stats.profilehunt.net^
+|proxyhog.prisma-data.net^
 ||mercury.dl.playstation.net^
 ||bravia.dl.playstation.net^
 ||nsx-e.np.dl.playstation.net^
@@ -6699,6 +6704,7 @@
 ||d23rx8p5l6yry7.cloudfront.net^
 ||d23pdhuxarn9w2.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
+||d23h3o5tkgytgm.cloudfront.net^
 ||d239g0z67jcted.cloudfront.net^
 ||d235m8fpdlskx9.cloudfront.net^
 ||d22z575k8abudv.cloudfront.net^
@@ -6820,6 +6826,7 @@
 ||d1gwclp1pmzk26.cloudfront.net^
 ||d1gpi088t70qaf.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
+||d1gof7ug63b1q4.cloudfront.net^
 ||d1get58iwmjrxx.cloudfront.net^
 ||d1g2nud28z4vph.cloudfront.net^
 ||d1ftkft7iiluq6.cloudfront.net^
@@ -6917,6 +6924,7 @@
 ||dxkkb5tytkivf.cloudfront.net^
 ||dw9uc6c6b8nwx.cloudfront.net^
 ||dw85st0ijc8if.cloudfront.net^
+||dvwowtnmyluv4.cloudfront.net^
 ||dvh66m0o7et0z.cloudfront.net^
 ||dvc8653ec6uyk.cloudfront.net^
 ||dv7t7qyvgyrt5.cloudfront.net^
@@ -9366,6 +9374,7 @@
 ||gbdkbtuzvqrun.fun^
 ||fulrrlddcjqlk.fun^
 ||bjiqdkqwbpbgk.fun^
+||srv.yeahwebimobi.fun^
 ||lp.vidaperfeita.fun^
 ||track.trucosecreto.fun^
 ||revokejav128.fun^
@@ -9915,6 +9924,7 @@
 ||candleannihilationretrieval.com^
 ||app.breakthrough-health-options.com^
 ||app.augustaentertainmentcomplex.com^
+||aspirationprogrammecontains.com^
 ||ssl.appliedclinicaltrialsonline.com^
 ||zealousinquiriesgovernment.com^
 ||wizardunstablecommissioner.com^
@@ -10696,6 +10706,7 @@
 ||evidencestunundermine.com^
 ||espionageomissionrobe.com^
 ||communications.enrouteglobalexchange.com^
+||engagedpungentrepress.com^
 ||go.educationtrendsonline.com^
 ||download-adblock-bear.com^
 ||distressedsoultabloid.com^
@@ -11773,6 +11784,7 @@
 ||track.oportalsaudeemfoco.com^
 ||t.onlinesavingshacks.com^
 ||onclickperformance.com^
+||ominouscedarwalker.com^
 ||registro.omegacrmconsulting.com^
 ||landings.omegacrmconsulting.com^
 ||secure.omegacrmconsulting.com^
@@ -15158,6 +15170,7 @@
 ||metrics.abbottnutrition.com^
 ||analytics.1stnationalbank.com^
 ||emarketing.zulkiepartners.com^
+||zoiefwqhcaczun.com^
 ||trk.zfx-affiliates.com^
 ||adebis.zenyaku-hbshop.com^
 ||ncvyha.yves-rocher-kz.com^
@@ -15789,6 +15802,7 @@
 ||hglzwi.mountainkhakis.com^
 ||csvtr05.mosaikbusiness.com^
 ||web.morganfranklin.com^
+||moodirresolute.com^
 ||monthlypatient.com^
 ||fbu8.ticket-online.montecarlolive.com^
 ||marketing.montaukchamber.com^
@@ -16438,6 +16452,7 @@
 ||ea.camping-and-co.com^
 ||mdws.caissepopclare.com^
 ||cl.cabaulifestyle.com^
+||bwalnuzotowvqg.com^
 ||buzzardcraizey.com^
 ||buy-briteblaze.com^
 ||bushsurprising.com^
@@ -17425,6 +17440,7 @@
 ||data.mktg.nascarchicago.com^
 ||narkalignevil.com^
 ||nntjqa.nametagwizard.com^
+||namersreminds.com^
 ||mythicsallies.com^
 ||load.data.mysweetstitch.com^
 ||felidae.mysuperportal.com^
@@ -18076,6 +18092,7 @@
 ||metrics.dollargeneral.com^
 ||rd.doggytreatbox.com^
 ||jcpjfyikk.dogbonemarket.com^
+||doevveyyibmbh.com^
 ||gtm.doersoflondon.com^
 ||a8.doctorstretch.com^
 ||dockdigestion.com^
@@ -18170,6 +18187,7 @@
 ||dc2.credit-suisse.com^
 ||creamssicsite.com^
 ||yhdcdo.crazy-factory.com^
+||craniolgozzan.com^
 ||metrics.crainsnewyork.com^
 ||metrics.crainsdetroit.com^
 ||jinnsm.craftpirlanta.com^
@@ -20811,6 +20829,7 @@
 ||metrics.1800contacts.com^
 ||my.11teamsports.com^
 ||metric.1035thearrow.com^
+||zpilkesyasa.com^
 ||hapic1.zhuangxiu22.com^
 ||ruhpbn.zhigaojixie.com^
 ||21.zhaozongjie.com^
@@ -23886,6 +23905,7 @@
 ||quantcount.com^
 ||www4.qualigence.com^
 ||gtm.qualebanca.com^
+||qpysgochij.com^
 ||app.qnasdaqomx.com^
 ||qlfqkjluvz.com^
 ||qituduwios.com^
@@ -24096,6 +24116,7 @@
 ||stats.oldtinroof.com^
 ||hcjpbc.okmagazine.com^
 ||ohtctjiuow.com^
+||ohtasqomva.com^
 ||horse.ohseemedia.com^
 ||tracking.ohiohealth.com^
 ||content.ohcare.ohiohealth.com^
@@ -27589,6 +27610,7 @@
 ||yjpzqw.jackjones.com^
 ||j74y03g8u.com^
 ||j6t91e89q.com^
+||izlrvevwd.com^
 ||tracking.ivoyageco.com^
 ||track.ivitasana.com^
 ||sgtm.ium-paris.com^
@@ -29734,6 +29756,7 @@
 ||nstclj.rubylane.com^
 ||go.rtafleet.com^
 ||powerup.rsaworks.com^
+||rrwirnlp.com^
 ||clk.rratrack.com^
 ||laurel.rovicorp.com^
 ||rouwhapt.com^
@@ -30523,7 +30546,6 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
-||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -32684,6 +32706,7 @@
 ||clarice.streema.com^
 ||solutions.stratus.com^
 ||a8.strapya.com^
+||tracker.str-nrg.com^
 ||storkto.com^
 ||ssgamf.stories.com^
 ||www2s.storage.com^
@@ -33324,6 +33347,7 @@
 ||merchant-mail.neosurf.com^
 ||app.response.neopost.com^
 ||system.nefiber.com^
+||telemetry.nbcuott.com^
 ||aamt.nbcnews.com^
 ||nawpush.com^
 ||info.navitor.com^
@@ -35539,6 +35563,7 @@
 |tyh.taobao.com^
 |tui.taobao.com^
 |err.taobao.com^
+||h-adashx4ae.ut.taobao.com^
 ||adashx4ae.ut.taobao.com^
 ||h-adashx.ut.taobao.com^
 ||adashxgc.ut.taobao.com^
@@ -39397,6 +39422,7 @@
 ||gateway.aimia.com^
 ||swebstats.us.aimia.com^
 ||zwokia.aigle.com^
+||track.aieic.com^
 ||aiclk.com^
 ||ip356694986.ahcdn.com^
 ||log.ahamo.com^
@@ -41656,6 +41682,7 @@
 ||misc.api.snaptube.app^
 ||ad.snaptube.app^
 ||haddock.simgenie.app^
+||pageview.app^
 ||webhooks-affiliates.ornament.app^
 ||join.ornament.app^
 ||python.jukejuke.app^
@@ -59103,6 +59130,7 @@
 ||dm.pw0.cn^
 ||pro.cn^
 |fm.p0y.cn^
+||bun1.dayi.org.cn^
 |logs.chelaile.net.cn^
 ||1.feihua.net.cn^
 ||srtb.msn.cn^
