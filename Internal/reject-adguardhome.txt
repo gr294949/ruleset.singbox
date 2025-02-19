@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 19 Feb 2025 04:20:24 GMT
+! Last modified: Wed, 19 Feb 2025 08:16:25 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4037,6 +4037,7 @@
 ||hdickeu.top^
 ||hdamcsu.top^
 ||hclimiu.top^
+||hcinvdu.top^
 ||hcinmau.top^
 ||h5lwvwj.top^
 ||fabu333.top^
@@ -9825,7 +9826,6 @@
 ||tr.devisminute-caisseenregistreuse.com^
 ||contaminateconsessionconsession.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
-||secure.visionary-enterprise-ingenuity.com^
 ||realizesensitivenessflashlight.com^
 ||questioningcomplimentarypotato.com^
 ||possibilityfoundationwallpaper.com^
@@ -17111,6 +17111,7 @@
 ||metrics.sciencedirect.com^
 ||schoonnonform.com^
 ||scholarsslate.com^
+||scatteredheat.com^
 ||sayableconder.com^
 ||go.savingsprousa.com^
 ||play.saulosilveira.com^
@@ -18562,6 +18563,7 @@
 ||cll.start.acahealthpros.com^
 ||marketing.acadian-asset.com^
 ||academyenrage.com^
+||absorbingband.com^
 ||absoluteroute.com^
 ||absentairport.com^
 ||abruptlydummy.com^
@@ -21397,7 +21399,6 @@
 ||stat.scroogefrog.com^
 ||owfxhg.scriphessco.com^
 ||stats.screenagers.com^
-||scratchsofa.com^
 ||info.scottmadden.com^
 ||analytics.schoolwires.com^
 ||scfhspacial.com^
@@ -30588,6 +30589,7 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
+||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -58779,7 +58781,6 @@
 ||qrttfmo.cn^
 ||qedgcxi.cn^
 ||vv1.pyhfxdm.cn^
-||res.pinpai8.cn^
 ||pdweoyw.cn^
 ||optimix.cn^
 ||click.oneplus.cn^
@@ -61920,6 +61921,7 @@
 ||metric.nrma.com.au^
 ||adc-js.nine.com.au^
 ||somni.nine.com.au^
+||pixel.nine.com.au^
 ||omni.nine.com.au^
 ||adc.nine.com.au^
 ||ssc.nick.com.au^
