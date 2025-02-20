@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 20 Feb 2025 10:26:12 GMT
+! Last modified: Thu, 20 Feb 2025 12:40:12 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -489,6 +489,7 @@
 ||data-84a0f3455d.transfermarkt.world^
 ||data-1c0a3d83e3.transfermarkt.world^
 ||rechenschieber.transfermarkt.world^
+||nxwugnuqhwxta.world^
 ||ckmmrkvshzbqx.world^
 ||yqp-oxzxjecq.world^
 ||srsxwdadzsrf.world^
@@ -1246,6 +1247,7 @@
 ||ficklepounder.shop^
 ||fessedpyropen.shop^
 ||faciendtabour.shop^
+||eburnahornito.shop^
 ||dwellerfosset.shop^
 ||dipodesoutane.shop^
 ||cygnetgeorama.shop^
@@ -1265,6 +1267,7 @@
 ||viandryturvy.shop^
 ||unluredtawgi.shop^
 ||unhatedkrubi.shop^
+||swidgeteller.shop^
 ||stroupfurcal.shop^
 ||spheryexcise.shop^
 ||spackgeranic.shop^
@@ -1292,6 +1295,7 @@
 ||empaleintone.shop^
 ||embrailamide.shop^
 ||eglingaosmic.shop^
+||dearsdieback.shop^
 ||a8.classicalelf.shop^
 ||cawquawwoldy.shop^
 ||assoinsweety.shop^
@@ -1323,6 +1327,7 @@
 ||ersjnpwf837.shop^
 ||eloahamomum.shop^
 ||ecrasepetre.shop^
+||ductalidyls.shop^
 ||dikersballo.shop^
 ||comfreymind.shop^
 ||circleblart.shop^
@@ -1368,6 +1373,7 @@
 ||dceuhnpc57.shop^
 ||customique.shop^
 ||coymaybong.shop^
+||comagnizes.shop^
 ||bingretape.shop^
 ||yyddkm526.shop^
 ||yhdemu368.shop^
@@ -1654,6 +1660,7 @@
 ||exceptional-ingress.life^
 ||mymembermatchmagic.life^
 ||fabulouscasualdate.life^
+||ohmmspkzzxgjq.life^
 ||kzfslblsahnou.life^
 ||cterpsofcjzcf.life^
 ||qwpsgqyzrzcr.life^
@@ -1956,6 +1963,7 @@
 ||lp.feelingawesome.club^
 ||track.viewitquickly.club^
 ||vczfcmaxnqkby.club^
+||oyagncfnrlmij.club^
 ||kjyytxyetnueu.club^
 ||ittoxicroakon.club^
 ||betgorebysson.club^
@@ -2143,6 +2151,7 @@
 ||fauseepetoozuk.xyz^
 ||ceetuweevozegu.xyz^
 ||caigoowheephoa.xyz^
+||xkefgvsqnippu.xyz^
 ||vhbeyeqaukjui.xyz^
 ||ulwsfvkfwrjyw.xyz^
 ||tpfydtjsvepno.xyz^
@@ -2353,6 +2362,7 @@
 ||viewpath.xyz^
 ||uqqmj868.xyz^
 ||uirvpdor.xyz^
+||u5lddcsi.xyz^
 ||trcckkkk.xyz^
 ||tr-usual.xyz^
 ||tjaard11.xyz^
@@ -3435,6 +3445,7 @@
 ||zhangqifeng12.top^
 ||yamshikbrucia.top^
 ||wywkwqzkavjbv.top^
+||wyvlllooalobz.top^
 ||wylmzwklklywm.top^
 ||wyaoormajveqk.top^
 ||wwvqboerllmqj.top^
@@ -4240,6 +4251,7 @@
 ||glorious-dependent.pro^
 ||spicy-development.pro^
 ||newoneinoldoneout.pro^
+||enlightenedstring.pro^
 ||eclipse-adblocker.pro^
 ||disfigured-survey.pro^
 ||bathshowerexperts.pro^
@@ -4551,6 +4563,7 @@
 ||tracking.info.jeffersonhealth.org^
 ||lp.info.jeffersonhealth.org^
 ||trk.jeffersonhealth.org^
+||ildrenastheycam.org^
 ||insights.harvardbusiness.org^
 ||discover.harvardbusiness.org^
 ||form.harvardbusiness.org^
@@ -4779,6 +4792,7 @@
 ||email.pcmaconvene.org^
 ||otofthesefa.org^
 ||t.nobleassure.org^
+||ngupfromavi.org^
 ||analytics.navyfederal.org^
 ||img2021.navyfederal.org^
 ||ok.myallowance.org^
@@ -6394,6 +6408,7 @@
 ||ivstracker.net^
 ||tracker.iplocation.net^
 ||stats.in-tuition.net^
+||iglupheeth.net^
 ||stats.ibuildings.net^
 ||hsadspixel.net^
 ||houhoumooh.net^
@@ -6697,6 +6712,7 @@
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2cmqkwo8rxlr9.cloudfront.net^
 ||d2cli4kgl5uxre.cloudfront.net^
+||d2byrpuyl3x3q4.cloudfront.net^
 ||d2bvfdz3bljcfk.cloudfront.net^
 ||d2bkkt3kqfmyo0.cloudfront.net^
 ||d2b4jmuffp1l21.cloudfront.net^
@@ -9373,6 +9389,7 @@
 ||embarrassment2.fun^
 ||demonstration2.fun^
 ||confrontation2.fun^
+||mcytxdrqjmrly.fun^
 ||mckbbaaatyhfm.fun^
 ||gbdkbtuzvqrun.fun^
 ||fulrrlddcjqlk.fun^
@@ -9457,6 +9474,7 @@
 ||vfdvdg67.fun^
 ||veryt111.fun^
 ||vcdfsf99.fun^
+||ujw1y54r.fun^
 ||teryt111.fun^
 ||sfesdef6.fun^
 ||rewrwrt4.fun^
@@ -9866,6 +9884,7 @@
 ||stape.profissaoassistentefinanceiro.com^
 ||likinginconvenientpolitically.com^
 ||wctr.kunststoff-schachtabdeckungen.com^
+||irrigatenotwithstandingcommit.com^
 ||secure.informationcreativeinnovative.com^
 ||affiliate.elektronicke-vycvikove-obojky.com^
 ||drivewayilluminatedconstitute.com^
@@ -10262,6 +10281,7 @@
 ||mc7clurd09pla4nrtat7ion.com^
 ||vqjacf.mauriziocollectionstore.com^
 ||makeupmildaccompaniment.com^
+||longinghospitalsurveyed.com^
 ||hello.lesarcs-peiseyvallandry.com^
 ||galop.leferacheval-saintcloud.com^
 ||lamentinsecureheadlight.com^
@@ -11160,6 +11180,7 @@
 ||tgg.you-win-lucky-games.com^
 ||hmziwy.yearbookordercenter.com^
 ||acv.xn--lck7b0fy49k9y1b.com^
+||writeaffectionately.com^
 ||metrics.worldsteakchallenge.com^
 ||metrics.worldsbestvineyards.com^
 ||target.worldsbestvineyards.com^
@@ -11226,6 +11247,7 @@
 ||metrics.sunflowerhealthplan.com^
 ||go.subsidyregister-gov.com^
 ||m3ds.subarumetropolitain.com^
+||streakdancingmantle.com^
 ||analytics.strangeloopnetworks.com^
 ||storageimagedisplay.com^
 ||stimulateartificial.com^
@@ -12847,6 +12869,7 @@
 ||check-tl-ver-94-1.com^
 ||check-tl-ver-85-2.com^
 ||check-tl-ver-17-8.com^
+||charmhealingcarla.com^
 ||bxumze.charlestonexpress.com^
 ||trk.championpneumatic.com^
 ||info.cgjordaninsurance.com^
@@ -15178,6 +15201,7 @@
 ||metrics.abbottnutrition.com^
 ||analytics.1stnationalbank.com^
 ||emarketing.zulkiepartners.com^
+||zounokawewoaru.com^
 ||zoiefwqhcaczun.com^
 ||trk.zfx-affiliates.com^
 ||adebis.zenyaku-hbshop.com^
@@ -16903,6 +16927,7 @@
 ||metrics.ultraholistic.com^
 ||kqoelg.ultrafootball.com^
 ||uktwvhfezyvxn.com^
+||uhpvymqitpihp.com^
 ||flythecrane.ur.ugandairlines.com^
 ||marketing.ugamsolutions.com^
 ||app.ucdavisaggies.com^
@@ -17348,6 +17373,7 @@
 ||app.pennathletics.com^
 ||t.pennathletics.com^
 ||pedangaishons.com^
+||pcwyhptnnypex.com^
 ||target.pccomponentes.com^
 ||sstats.paymypremiums.com^
 ||ljrnju.paulbrunngard.com^
@@ -17551,6 +17577,7 @@
 ||missitzantiot.com^
 ||stats.missionrabies.com^
 ||sgenbs.misgafasdesol.com^
+||miserly-phone.com^
 ||cdn.mircheigeshoa.com^
 ||adobe.miramoonhotel.com^
 ||mil.millsproducts.com^
@@ -17677,6 +17704,7 @@
 ||t.libertyflames.com^
 ||liablematches.com^
 ||marketing.lhbindustries.com^
+||lfhqslstrnkcd.com^
 ||metrics.lexusofqueens.com^
 ||metrics.lexusgwinnett.com^
 ||gerbil.lespetitsbots.com^
@@ -19841,6 +19869,7 @@
 ||app.kstatesports.com^
 ||t.kstatesports.com^
 ||stats.kryptoslogic.com^
+||kronasynusia.com^
 ||connect.kristechwire.com^
 ||kpaagnosdzih.com^
 ||pqgcfg.konasupplyco.com^
@@ -20034,6 +20063,7 @@
 ||hartnessintl.com^
 ||harrowliquid.com^
 ||thegreatesthits.harleybenton.com^
+||haremarianne.com^
 ||track.happymammoth.com^
 ||log.happyapkdown.com^
 ||haoshengtoys.com^
@@ -20342,6 +20372,7 @@
 ||k98k.deudaaliviar.com^
 ||desirebucket.com^
 ||gyvyoc.dermoeczanem.com^
+||depucelgurts.com^
 ||a8.denwa-hikari.com^
 ||tags.dengiamerika.com^
 ||ssc.dengiamerika.com^
@@ -21103,6 +21134,7 @@
 ||mdws.ukrainiancu.com^
 ||ukedrevenue.com^
 ||uejntsxdffp.com^
+||udderhobble.com^
 ||app.ucsdtritons.com^
 ||t.ucsdtritons.com^
 ||images.service.ubmsinoexpo.com^
@@ -23369,6 +23401,7 @@
 ||clk.wagon-hire.com^
 ||vzigttqgqx.com^
 ||vyfrxuytzn.com^
+||vtyjbqlrkt.com^
 ||vsmokhklbw.com^
 ||riluwt.voxcinemas.com^
 ||jugjjr.vonmaehlen.com^
@@ -29952,6 +29985,7 @@
 ||ar.quadient.com^
 ||ap.quadient.com^
 ||qkjlwdkk.com^
+||qivaqhtb.com^
 ||webstat.qiumibao.com^
 ||qinvaris.com^
 ||qingolor.com^
@@ -42648,6 +42682,7 @@
 ||tr.news.vip-mag.co.uk^
 ||tr.mail.vip-mag.co.uk^
 ||tr.info.vip-mag.co.uk^
+||dyn.varsity.co.uk^
 ||marketing.useadam.co.uk^
 ||load.sgtm.toolden.co.uk^
 ||sstats.tiffany.co.uk^
