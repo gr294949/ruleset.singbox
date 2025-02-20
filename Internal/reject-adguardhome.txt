@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 20 Feb 2025 07:16:34 GMT
+! Last modified: Thu, 20 Feb 2025 08:44:19 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1183,6 +1183,7 @@
 ||unsloghpouffes.shop^
 ||trowelsbastant.shop^
 ||thruwaybasqued.shop^
+||tablingmorphew.shop^
 ||swamperhyphens.shop^
 ||skeinedjewbird.shop^
 ||securerhatable.shop^
@@ -1353,6 +1354,7 @@
 ||load.gtm.ladenregal.shop^
 ||inogenkyte.shop^
 ||icodstatus.shop^
+||humpeppier.shop^
 ||hdtedar126.shop^
 ||gravmucins.shop^
 ||ghgasdt963.shop^
@@ -1954,6 +1956,7 @@
 ||lp.feelingawesome.club^
 ||track.viewitquickly.club^
 ||vczfcmaxnqkby.club^
+||kjyytxyetnueu.club^
 ||ittoxicroakon.club^
 ||betgorebysson.club^
 ||bestconvertor.club^
@@ -2257,6 +2260,7 @@
 ||dolphincdn.xyz^
 ||dkasffredf.xyz^
 ||deckeekith.xyz^
+||baxdcynptb.xyz^
 ||aulrertogo.xyz^
 ||as02010kkp.xyz^
 ||as01281kkp.xyz^
@@ -3404,6 +3408,7 @@
 ||subovalearlish.top^
 ||skidlidmassier.top^
 ||saintlyyaupons.top^
+||ritzilypigless.top^
 ||reclameinshoot.top^
 ||rearingligated.top^
 ||obsidiancutter.top^
@@ -3445,6 +3450,8 @@
 ||rwzvqzvqkzrwq.top^
 ||runklessubact.top^
 ||rqyebojzwaaba.top^
+||rjzbvmbybvrjy.top^
+||refusalreared.top^
 ||quasarcouhage.top^
 ||qrzjmjrblqmez.top^
 ||qewylqmelbrew.top^
@@ -3590,6 +3597,7 @@
 ||oretracker.top^
 ||oraefleers.top^
 ||olmnvbgufy.top^
+||narrwhenas.top^
 ||a.miyudaquan.top^
 ||lizijing12.top^
 ||imgoss2255.top^
@@ -9364,6 +9372,7 @@
 ||embarrassment2.fun^
 ||demonstration2.fun^
 ||confrontation2.fun^
+||mckbbaaatyhfm.fun^
 ||gbdkbtuzvqrun.fun^
 ||fulrrlddcjqlk.fun^
 ||bjiqdkqwbpbgk.fun^
@@ -15990,6 +15999,7 @@
 ||knpudr.jardin-concept.com^
 ||ja2n2u30a6rgyd.com^
 ||ebiscname.j-esthe-yoyaku.com^
+||izonwjjsftvgfb.com^
 ||tr.ispaconsulting.com^
 ||ioniserpinones.com^
 ||metrics.investmentnews.com^
@@ -21541,6 +21551,7 @@
 ||sgtm.rico-design.com^
 ||sst.rico-design.com^
 ||rhiaxplrolm.com^
+||rgwyljdsutb.com^
 ||services.reworkbyroe.com^
 ||collect.rewardstyle.com^
 ||revresponse.com^
@@ -30635,7 +30646,6 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
-||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -31123,6 +31133,7 @@
 ||gishejuy.com^
 ||sstats.girls1st.com^
 ||giqepofa.com^
+||gicoxmha.com^
 ||marketing.giantsrl.com^
 ||bqwfom.giannibg.com^
 ||cmp-cdn.ghostery.com^
@@ -32569,6 +32580,7 @@
 ||ugdtimg.com^
 ||uegsjnk.com^
 ||analytics.ubports.com^
+|umami.ubports.com^
 ||ubixioe.com^
 ||uberads.com^
 ||tzegilo.com^
