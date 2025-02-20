@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-20T15:16:35.904Z
-# Size: 3163
+# Last Updated: 2025-02-20T15:20:18.506Z
+# Size: 3164
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -546,6 +546,7 @@ brick.freetls.fastly.net
 brick.a.ssl.fastly.net
 +.eroimg.net
 assets.dwncdn.net
++.dlunar.net
 screenshots.debian.net
 +.cdn.cwinfo.net
 +.cdnppb.net
