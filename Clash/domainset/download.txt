@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-20T03:10:03.113Z
-# Size: 644
+# Last Updated: 2025-02-20T03:35:41.141Z
+# Size: 647
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -104,6 +104,8 @@ blzddist3-a.akamaihd.net
 blzddist2-a.akamaihd.net
 blzddist1-a.akamaihd.net
 origin-a.akamaihd.net
++.file.core.windows.net
++.blob.core.windows.net
 download-core.sys.truenas.net
 +.dyn.riotcdn.net
 download-installer.cdn.mozilla.net
@@ -136,6 +138,7 @@ pkg-containers.githubusercontent.com
 objects.githubusercontent.com
 +.cloudflarestorage.com
 +.cloudflaremirrors.com
++.circle-artifacts.com
 +.androidfilehost.com
 +.public.blob.vercel-storage.com
 ctldl.windowsupdate.com
