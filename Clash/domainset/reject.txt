@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-20T04:28:16.193Z
-# Size: 62572
+# Last Updated: 2025-02-20T07:16:20.036Z
+# Size: 62588
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -438,6 +438,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.qpwvhsxxzwgft.global
 +.omcgqahejstuo.global
 +.hbidfirrysrvw.global
++.cgtwccqrpbota.global
 +.aekpzxaghjyxa.global
 +.kmbjerbaafdn.global
 +.scuzgq.greencell.global
@@ -1032,6 +1033,7 @@ cwa.html.zone
 +.track.masculinevigor.site
 +.lp.gentlemanvigor.site
 +.adt.autodealstoday.site
++.yxpmkgzsqcxyu.site
 +.track.viverbemagora.site
 +.v1.topdealfrance.site
 +.tracking01.tipshealthmen.site
@@ -1368,6 +1370,7 @@ bad.third-party.site
 +.inogenkyte.shop
 +.icodstatus.shop
 +.hdtedar126.shop
++.gravmucins.shop
 +.ghgasdt963.shop
 +.ghgasdb365.shop
 +.frtnqpw837.shop
@@ -2265,6 +2268,7 @@ grs.dbankcloud.asia
 +.illuminous.xyz
 +.grouxauksu.xyz
 +.graushauls.xyz
++.fiiobbyltt.xyz
 +.dolphincdn.xyz
 +.dkasffredf.xyz
 +.deckeekith.xyz
@@ -3501,6 +3505,7 @@ grs.dbankcloud.asia
 +.boodiecawquaw.top
 +.birlingtriced.top
 +.bayonetukiyoe.top
++.ayjvwlrbjojlr.top
 +.avjbjbekaazzw.top
 +.assisantornus.top
 +.amjllwblmlbrj.top
@@ -3566,6 +3571,7 @@ grs.dbankcloud.asia
 +.zhengzhou12.top
 +.valewhatchy.top
 +.unsoothippi.top
++.triconsenex.top
 +.temperansar.top
 +.smartdating.top
 +.shopsonnies.top
@@ -4505,6 +4511,7 @@ collect.foresightnews.pro
 +.stat.marshfieldclinic.org
 +.seniorliving.liveatwhitestone.org
 +.stats.literacysomerset.org
++.keanangelsaidthe.org
 +.eloqua-tracking.kaiserpermanente.org
 +.smetrics2.kaiserpermanente.org
 +.marketing.johnstoncountync.org
@@ -4613,6 +4620,7 @@ collect.foresightnews.pro
 +.connect.care.baptist-health.org
 +.web.care.baptist-health.org
 +.info.ascassociation.org
++.appriedtheligh.org
 +.tags.amerikaninsesi.org
 +.ssc.amerikaninsesi.org
 +.retirementliving.actsretirement.org
@@ -6527,6 +6535,7 @@ proxyhog.prisma-data.net
 +.d3hfiiy55cbi5t.cloudfront.net
 +.d3hdbjtb1686tn.cloudfront.net
 +.d3glxtkdbno0so.cloudfront.net
++.d3glbzj5024wpt.cloudfront.net
 +.d3gi4w10ruedfh.cloudfront.net
 +.d3g5ovfngjw9bw.cloudfront.net
 +.d3frqqoat98cng.cloudfront.net
@@ -8331,6 +8340,7 @@ front-perf.imoim.net
 +.ss-mndsrv.b-cdn.net
 +.popcashjs.b-cdn.net
 +.core-apps.b-cdn.net
++.w2g-ping.b-cdn.net
 +.tracking.b-cdn.net
 +.bbangads.b-cdn.net
 +.propsid.b-cdn.net
@@ -8351,7 +8361,7 @@ front-perf.imoim.net
 +.s3t3d2y8.afcdn.net
 +.houston.advgo.net
 +.adsrv.net
-+.adrtx.net
++.adstax-cdn.adrtx.net
 +.magento-recs-sdk.adobe.net
 +.adnxs.net
 +.marketing.acieu.net
@@ -9828,6 +9838,7 @@ sashimi.royli.dev
 +.stats.liveforeverasyouarenowwithalanresnick.com
 +.marketing.home-inspection-franchise-opportunity.com
 +.potentiallypantsreseptivereseptive.com
++.secure.insightful-enterprise-intelligence.com
 +.a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com
 +.hqwtqa.intelligence-artificielle-school.com
 +.gratifiedsacrificetransformation.com
@@ -16034,6 +16045,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.metrics.icemakerdirect.com
 +.mosquito.iamamandaperez.com
 +.somos.iaexpertagency.com
++.iaerojczekghdr.com
 +.bitify.hydroetculture.com
 +.hurkarubypaths.com
 +.ensighten.huntingtonbank.com
@@ -16595,6 +16607,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.attempttipsrye.com
 +.marketing.atlanticcitynj.com
 +.al.atelierofsleep.com
++.ataccwpdiqqnfl.com
 +.astscolipedeor.com
 +.marketing.astecsolutions.com
 +.t.assurepinnacle.com
@@ -18374,6 +18387,7 @@ httpdns.volcengineapi.com
 +.a8.calmia-clinic.com
 +.stats.callnowbutton.com
 +.cajangeurymus.com
++.cabritoyenite.com
 +.bybastiodoner.com
 +.data-b389eff81a.business-punk.com
 +.data-2d86fd41e0.business-punk.com
@@ -19496,7 +19510,6 @@ js.partnerstack.com
 +.oqbaxgolrabl.com
 +.xoxbxd.opus-fashion.com
 +.optyruntchan.com
-+.optimallimit.com
 +.bjiiow.opticontacts.com
 +.opti-digital.com
 +.oppoteammate.com
@@ -20523,7 +20536,6 @@ httpdns-ocloud.heytapmobile.com
 +.cash4members.com
 +.stats.carrotsearch.com
 +.carnelbawrel.com
-+.carloforward.com
 +.doswwi.caringlasses.com
 +.info.cargoexpreso.com
 +.stats.careercircle.com
@@ -20664,6 +20676,7 @@ httpdns-ocloud.heytapmobile.com
 +.stats.beausimensen.com
 +.smetric.baylorhealth.com
 +.metric.baylorhealth.com
++.bawdybalance.com
 +.tr.batiwebmedia.com
 +.mdxhsj.batiproduits.com
 +.tr.ml.batiproduits.com
@@ -21477,6 +21490,7 @@ oppo.yidianzixun.com
 +.stats.ryanchmelir.com
 +.rvrpushserv.com
 +.ruvqitlilqi.com
++.rusticprice.com
 +.sstats.runnersneed.com
 +.static.runconverge.com
 +.rukskijruza.com
@@ -21712,7 +21726,6 @@ oppo.yidianzixun.com
 +.tracking.pellabranch.com
 +.tr.pm.pelhammedia.com
 +.pejzeexukxo.com
-+.pegsbuttons.com
 +.solutions.peco-energy.com
 +.metrics.pebblebeach.com
 +.direct.peakmindpro.com
@@ -28684,7 +28697,6 @@ ad.caiyunapp.com
 +.www2.bimobject.com
 +.vqxlbd.billyreid.com
 +.httpdns.bilivideo.com
-+.secure.bike6debt.com
 +.bihunekus.com
 +.data.biggastro.com
 +.dev-analytics-cf.bigcrunch.com
@@ -29056,6 +29068,7 @@ advertise.baicizhan.com
 +.daima.yuzhulin.com
 +.yummycdn.com
 +.overseauspider.yuanshen.com
++.ypmnzrio.com
 +.wenxue.youzhicn.com
 +.yourtrap.com
 +.axp.yourerie.com
@@ -30627,6 +30640,7 @@ mepodownload.mediatek.com
 +.adbd.liuxue86.com
 +.list-ads.com
 +.lirretsn.com
++.linksprf.com
 +.linkmink.com
 +.st.linkfire.com
 +.analytics.pointdrive.linkedin.com
@@ -31483,6 +31497,7 @@ huawei.facebook.com
 +.sw88.disneyme.com
 +.marketing.discovia.com
 +.metrics.discover.com
++.content.discover.com
 +.telegraph.prd.api.discomax.com
 +.events.prd.api.discomax.com
 +.tracking.direxion.com
@@ -36502,7 +36517,6 @@ ad.maoyan.com
 +.collect.verify.lnearn.com
 +.lnabew.com
 +.lmepbq.com
-+.lltrck.com
 +.llksja.com
 +.w3n.llbean.com
 +.dun8qk8.lkmxqq.com
@@ -37869,6 +37883,7 @@ dl.g.youku.com
 +.11.yiqig.com
 +.log.ycapp.yiche.com
 adx.yiche.com
++.analytics.yicai.com
 +.track.yfret.com
 +.ads.yeeyi.com
 +.g.yccdn.com
@@ -50163,6 +50178,7 @@ umami.rss3.io
 +.events.elev.io
 +.tracking.drum.io
 +.track.sp.crdl.io
++.cnna.io
 +.azuvwa.ceps.io
 +.a8.cbiz.io
 +.marketing.calm.io
@@ -59416,6 +59432,7 @@ hc-ssp.sm.cn
 +.patriot.cs.pp.cn
 +.adsclick.yx.js.cn
 +.union.6.cn
++.shrek.6.cn
 +.atom-log.3.cn
 +.tk.airfrance.cm
 +.analytics.send.cm
@@ -59458,7 +59475,6 @@ hc-ssp.sm.cn
 +.tracking.ssab.cl
 +.securetags.esri.cl
 +.sw88.espn.cl
-+.geo.emol.cl
 +.realtime.bbcl.cl
 +.email-em.jll.cl
 +.email-cm.jll.cl

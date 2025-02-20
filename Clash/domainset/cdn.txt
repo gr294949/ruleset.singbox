@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-20T03:35:41.141Z
-# Size: 3162
+# Last Updated: 2025-02-20T07:16:22.443Z
+# Size: 3163
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1966,6 +1966,7 @@ detectportal.firefox.com
 +.ffzy888.com
 +.exp-tas.com
 +.espncdn.com
+cdn.equinix.com
 static-sg-cdn.eporner.com
 static-ca-cdn.eporner.com
 cdn.embedly.com
