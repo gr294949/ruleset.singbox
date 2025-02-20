@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 20 Feb 2025 12:40:12 GMT
+! Last modified: Thu, 20 Feb 2025 15:16:48 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -690,6 +690,7 @@
 ||webads.media^
 ||tarantula.tuxedo.media^
 ||popads.media^
+||fstatic.netpub.media^
 ||hoverr.media^
 ||data-583b460b43.edison.media^
 ||coinad.media^
@@ -1279,6 +1280,7 @@
 ||ownhoodmucro.shop^
 ||olenidpalter.shop^
 ||nowelslicers.shop^
+||nepitasianic.shop^
 ||muridvikings.shop^
 ||morselmongoe.shop^
 ||mezzounmerge.shop^
@@ -1660,6 +1662,7 @@
 ||exceptional-ingress.life^
 ||mymembermatchmagic.life^
 ||fabulouscasualdate.life^
+||paoailpcwnnhd.life^
 ||ohmmspkzzxgjq.life^
 ||kzfslblsahnou.life^
 ||cterpsofcjzcf.life^
@@ -2268,6 +2271,7 @@
 ||fiiobbyltt.xyz^
 ||dolphincdn.xyz^
 ||dkasffredf.xyz^
+||deereefade.xyz^
 ||deckeekith.xyz^
 ||baxdcynptb.xyz^
 ||aulrertogo.xyz^
@@ -2302,7 +2306,7 @@
 ||mangtaoxa.xyz^
 ||letstry69.xyz^
 ||kubicadza.xyz^
-||xzx.jtiasfkkg.xyz^
+||jtiasfkkg.xyz^
 ||tracker.jkstremum.xyz^
 ||stats.ignatuque.xyz^
 ||click.iamdomain.xyz^
@@ -3472,6 +3476,7 @@
 ||qblllqzqezmvb.top^
 ||qbkraweaoewrv.top^
 ||pyroidscarphs.top^
+||pvxzjdetbhrtz.top^
 ||premium4kflix.top^
 ||poiejdhmkjcnd.top^
 ||pizzlessclimb.top^
@@ -3498,6 +3503,7 @@
 ||hatlikecivory.top^
 ||grabmannipmuc.top^
 ||gluteusriotry.top^
+||galahsflamant.top^
 ||discurehyrate.top^
 ||delianoquassa.top^
 ||datingcentral.top^
@@ -4457,6 +4463,7 @@
 ||tk.wellnessdiscovered.org^
 ||metrics.stanfordhealthcare.org^
 ||marketing.shreveport-bossier.org^
+||meoneintheworldwho.org^
 ||stats.mein-futterlexikon.org^
 ||stats.marshfieldresearch.org^
 ||looksjustlikeanang.org^
@@ -4672,6 +4679,7 @@
 ||analytics.islamicfinder.org^
 ||marketing.hospicecarelc.org^
 ||marketing.hireheroesusa.org^
+||hingleroofsge.org^
 ||headirtlseivi.org^
 ||ssl.graham-center.org^
 ||cdnads.geeksforgeeks.org^
@@ -5849,6 +5857,7 @@
 ||wirtooxoajet.net^
 ||winsaijoacoo.net^
 ||whoansodroas.net^
+||whertatoasse.net^
 ||whegnoangirt.net^
 ||whaidroansee.net^
 ||weegraphooph.net^
@@ -6058,6 +6067,7 @@
 ||vupteerairs.net^
 ||vouwhowhaca.net^
 ||voovoacivoa.net^
+||vookooboace.net^
 ||vodsoamsoun.net^
 ||vlctorytime.net^
 ||vauphuwoaby.net^
@@ -6668,6 +6678,7 @@
 ||d2mw3lu2jj5laf.cloudfront.net^
 ||d2muzdhs7lpmo0.cloudfront.net^
 ||d2m785nxw66jui.cloudfront.net^
+||d2m6mzhbzc72b5.cloudfront.net^
 ||d2lzu2a5ishr7o.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
 ||d2ltukojvgbso5.cloudfront.net^
@@ -10301,6 +10312,7 @@
 ||track.info.haymarketmedicalnetwork.com^
 ||lets.go.haymarketmedicalnetwork.com^
 ||a8.global-mobility-service.com^
+||germinappropriateengine.com^
 ||track.info.gastroenterologyadvisor.com^
 ||s.freelanceratecalculator.com^
 ||tags.freedomfinancialnetwork.com^
@@ -17281,6 +17293,7 @@
 ||welcome.qualicoliving.com^
 ||eloqua.quadrotech-it.com^
 ||qrprobopassor.com^
+||pyriticpremie.com^
 ||purchase-shop.com^
 ||puldhukelpmet.com^
 ||pubtagmanager.com^
@@ -17931,6 +17944,7 @@
 ||images.marketing.habtoormotors.com^
 ||gypperywyling.com^
 ||guidonsfeeing.com^
+||guffernewport.com^
 ||guesswhatnews.com^
 ||s.guelphmercury.com^
 ||guangzhuiyuan.com^
@@ -19570,6 +19584,7 @@
 ||irgddc.oasishoteles.com^
 ||st.nylannuities.com^
 ||metrics.nyandcompany.com^
+||nwvvhxakmxif.com^
 ||nullrefexcep.com^
 ||nuevonoelmid.com^
 ||insights.nowitmatters.com^
@@ -19750,6 +19765,7 @@
 ||ssc.mashaalradio.com^
 ||info.marumatchbox.com^
 ||stats.martyntaylor.com^
+||marshalcurve.com^
 ||analytics.marketmemoir.com^
 ||app.response.markem-imaje.com^
 ||analytics.marchmadness.com^
@@ -20001,6 +20017,7 @@
 ||hyperpromote.com^
 ||counter.hyipexplorer.com^
 ||njpnbe.hydrobuilder.com^
+||hwufmoocnkha.com^
 ||hvwqgedwpckc.com^
 ||gdknnd.hushblankets.com^
 ||humatecortin.com^
@@ -21133,6 +21150,7 @@
 ||umedadelemp.com^
 ||mdws.ukrainiancu.com^
 ||ukedrevenue.com^
+||ufvxiyewsyi.com^
 ||uejntsxdffp.com^
 ||udderhobble.com^
 ||app.ucsdtritons.com^
@@ -21634,6 +21652,7 @@
 ||rafikfangas.com^
 ||tags.radiomarsho.com^
 ||ssc.radiomarsho.com^
+||radianttank.com^
 ||hcjpbc.radaronline.com^
 ||info.racksquared.com^
 ||racedinvict.com^
@@ -23197,6 +23216,7 @@
 ||tk.aircaraibes.com^
 ||pix.airbusgroup.com^
 ||hpymkg.air-austral.com^
+||ainerations.com^
 ||trck.aiincomepro.com^
 ||movdrl.agriconomie.com^
 ||agqoshfujku.com^
@@ -23330,6 +23350,7 @@
 ||wubizigeng.com^
 ||app.wsucougars.com^
 ||t.wsucougars.com^
+||wqeacqyulq.com^
 ||v1.wphonelife.com^
 ||wowrapidly.com^
 ||c.wort-suche.com^
@@ -26064,6 +26085,7 @@
 ||7b91f8c7a4.com^
 ||7b5f77dbb5.com^
 ||79xmz3lmss.com^
+||79pa4bxa86.com^
 ||7900c936fb.com^
 ||777bb111ww.com^
 ||777aa888bb.com^
@@ -28606,6 +28628,7 @@
 ||mon-va-us-looki.capcutapi.com^
 ||log-va-us-looki.capcutapi.com^
 ||mon-boot.capcutapi.com^
+||mon-va.capcutapi.com^
 ||cv.cante-gym.com^
 ||images.response.canesmail.com^
 ||load.ss.cane-line.com^
@@ -29243,6 +29266,7 @@
 ||waufooke.com^
 ||watchcpm.com^
 ||app.info.washcaps.com^
+||warypool.com^
 ||sstats.wartsila.com^
 ||marketing.mail.warriors.com^
 ||data.mail.warriors.com^
@@ -29259,6 +29283,7 @@
 ||waescyne.com^
 ||vygtjtrk.com^
 ||vwagkipi.com^
+||vuqcteyi.com^
 ||vupoupay.com^
 ||vugpakba.com^
 ||vuftouks.com^
@@ -30484,6 +30509,7 @@
 ||metrics.mrporter.com^
 ||fhdnds.mrmarvis.com^
 ||donkey.mrfrisby.com^
+||mrairvwt.com^
 ||server.mr-lumen.com^
 ||mp3vizor.com^
 ||mowgoats.com^
@@ -30681,7 +30707,6 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
-||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -34185,6 +34210,7 @@
 ||gen-ref.com^
 ||geiybze.com^
 ||log.geetest.com^
+||gdeigri.com^
 ||d077.gazette.com^
 ||images.digital-markets.gartner.com^
 ||gdmelqact.gartner.com^
@@ -34907,6 +34933,7 @@
 ||wtr-digital-analytics.ew.r.appspot.com^
 ||appnext.com^
 ||appmetr.com^
+||applstr.com^
 ||tracking.applift.com^
 ||config.appjolt.com^
 ||stats.apitman.com^
@@ -36052,6 +36079,7 @@
 ||qovunx.com^
 ||qovith.com^
 ||stats.qovery.com^
+||qogrux.com^
 ||bdgg.qjy168.com^
 ||bdcode.qinglm.com^
 ||qifake.com^
