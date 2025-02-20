@@ -1575,6 +1575,8 @@
         "registry.npmjs.com",
         "static.npmjs.com",
         "skimdb.npmjs.com",
+        "ws-cdn.nperf.com",
+        "cdn.nperf.com",
         "connect.nosto.com",
         "fesdk.nexon.com",
         "static.music.com",

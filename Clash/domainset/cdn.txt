@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-20T07:16:22.443Z
-# Size: 3163
+# Last Updated: 2025-02-20T10:26:00.171Z
+# Size: 3165
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2321,6 +2321,8 @@ registry.npmjs.com
 static.npmjs.com
 skimdb.npmjs.com
 +.npmfs.com
+ws-cdn.nperf.com
+cdn.nperf.com
 connect.nosto.com
 fesdk.nexon.com
 static.music.com
