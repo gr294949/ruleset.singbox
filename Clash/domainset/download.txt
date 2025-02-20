@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-20T03:35:41.141Z
-# Size: 647
+# Last Updated: 2025-02-20T04:28:18.564Z
+# Size: 648
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -515,6 +515,7 @@ download.iboysoft.com
 download.gigabyte.com
 +.fuwamofu.com
 +.mirror.constant.com
+dl.circleci.com
 level3.blizzard.com
 dist.blizzard.com
 +.cdn.blizzard.com

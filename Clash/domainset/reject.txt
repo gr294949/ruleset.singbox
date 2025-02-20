@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-20T03:10:00.575Z
-# Size: 62559
+# Last Updated: 2025-02-20T04:28:16.193Z
+# Size: 62572
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -304,6 +304,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.iegrozrmvgjfp.online
 +.cpa-optimizer.online
 +.dc.chadecatuaba1.online
++.bwhhcuikrgvhs.online
 +.lp.bemestarunido.online
 +.amicleara.amicleardeals.online
 +.pre.aldenjquesada.online
@@ -410,6 +411,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.aj1090.online
 +.aj1070.online
 +.agl002.online
++.ytdut.online
 +.walak.online
 +.midlk.online
 +.map-s.online
@@ -1223,6 +1225,7 @@ bad.third-party.site
 +.ectypalnonbank.shop
 +.dinkeysosmetic.shop
 +.deavelydragees.shop
++.dabbingassyria.shop
 +.crabletfrijole.shop
 +.cerilloeelboat.shop
 +.berthashuzzard.shop
@@ -1304,6 +1307,7 @@ bad.third-party.site
 +.eglingaosmic.shop
 +.a8.classicalelf.shop
 +.cawquawwoldy.shop
++.assoinsweety.shop
 +.antralhokier.shop
 +.yoickscaper.shop
 +.telegakapur.shop
@@ -2209,6 +2213,7 @@ grs.dbankcloud.asia
 +.ooltakreenu.xyz
 +.ocheejacheb.xyz
 +.newbluetrue.xyz
++.najsyrytrrn.xyz
 +.lesenjiaoyu.xyz
 +.ldgjwdohqbi.xyz
 +.koawipheela.xyz
@@ -3483,6 +3488,7 @@ grs.dbankcloud.asia
 +.hexinemicerun.top
 +.hexagynjewing.top
 +.hellerraucous.top
++.hatlikecivory.top
 +.grabmannipmuc.top
 +.gluteusriotry.top
 +.discurehyrate.top
@@ -4006,6 +4012,7 @@ grs.dbankcloud.asia
 +.jdickea.top
 +.jdamcsa.top
 +.jclimia.top
++.jcinvda.top
 +.jcinmaa.top
 +.iyuwkbo.top
 +.iyjqgpo.top
@@ -4441,6 +4448,7 @@ collect.foresightnews.pro
 +.marketing.shreveport-bossier.org
 +.stats.mein-futterlexikon.org
 +.stats.marshfieldresearch.org
++.looksjustlikeanang.org
 +.fctms.fidelitycharitable.org
 +.fcone.fidelitycharitable.org
 +.downloadoffice2010.org
@@ -4536,6 +4544,7 @@ collect.foresightnews.pro
 +.track.mylegaldefender.org
 +.panda.mvhphotoproject.org
 +.seniorliving.mooringsatlewes.org
++.machmayhavedesc.org
 +.info.lakewoodwestend.org
 +.seniorliving.jeffersonsferry.org
 +.mktg.jeffersonhealth.org
@@ -8671,6 +8680,7 @@ iadmusicmat.music.126.net
 +.dhnnbfok.icu
 +.ddlmsoyo.icu
 +.ddhjabqe.icu
++.dbdophuz.icu
 +.cidhmxxb.icu
 +.ccobksxz.icu
 +.bxheifoe.icu
@@ -14424,6 +14434,7 @@ display.360totalsecurity.com
 +.shop.overstockcostco.com
 +.sagor.ovation-designs.com
 +.outwhirlipedeer.com
++.outponyglorious.com
 +.outoctillerytor.com
 +.data-ad8351f80c.outdoor-magazin.com
 +.data-9b7927207a.outdoor-magazin.com
@@ -22178,6 +22189,7 @@ oppo.yidianzixun.com
 +.rtegbv.jmclaughlin.com
 +.tfcdn.jingmiuyyds.com
 +.jijqzypmeqi.com
++.jiidanypxfg.com
 +.jicmivojvsa.com
 +.jewdombenin.com
 +.bee.jbkmobiledj.com
@@ -27621,6 +27633,7 @@ choice.microsoft.com
 +.judebelii.com
 +.jtmwjbgoz.com
 +.jrzrqi0au.com
++.jrvvpbggu.com
 +.journeys.journeyed.com
 +.joudauhee.com
 +.dptkdh.joinhoney.com

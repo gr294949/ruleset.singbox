@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 20 Feb 2025 03:10:17 GMT
+! Last modified: Thu, 20 Feb 2025 04:28:40 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -288,6 +288,7 @@
 ||iegrozrmvgjfp.online^
 ||cpa-optimizer.online^
 ||dc.chadecatuaba1.online^
+||bwhhcuikrgvhs.online^
 ||lp.bemestarunido.online^
 ||amicleara.amicleardeals.online^
 ||pre.aldenjquesada.online^
@@ -394,6 +395,7 @@
 ||aj1090.online^
 ||aj1070.online^
 ||agl002.online^
+||ytdut.online^
 ||walak.online^
 ||midlk.online^
 ||map-s.online^
@@ -1207,6 +1209,7 @@
 ||ectypalnonbank.shop^
 ||dinkeysosmetic.shop^
 ||deavelydragees.shop^
+||dabbingassyria.shop^
 ||crabletfrijole.shop^
 ||cerilloeelboat.shop^
 ||berthashuzzard.shop^
@@ -1288,6 +1291,7 @@
 ||eglingaosmic.shop^
 ||a8.classicalelf.shop^
 ||cawquawwoldy.shop^
+||assoinsweety.shop^
 ||antralhokier.shop^
 ||yoickscaper.shop^
 ||telegakapur.shop^
@@ -2194,6 +2198,7 @@
 ||ooltakreenu.xyz^
 ||ocheejacheb.xyz^
 ||newbluetrue.xyz^
+||najsyrytrrn.xyz^
 ||lesenjiaoyu.xyz^
 ||ldgjwdohqbi.xyz^
 ||koawipheela.xyz^
@@ -3468,6 +3473,7 @@
 ||hexinemicerun.top^
 ||hexagynjewing.top^
 ||hellerraucous.top^
+||hatlikecivory.top^
 ||grabmannipmuc.top^
 ||gluteusriotry.top^
 ||discurehyrate.top^
@@ -3991,6 +3997,7 @@
 ||jdickea.top^
 ||jdamcsa.top^
 ||jclimia.top^
+||jcinvda.top^
 ||jcinmaa.top^
 ||iyuwkbo.top^
 ||iyjqgpo.top^
@@ -4426,6 +4433,7 @@
 ||marketing.shreveport-bossier.org^
 ||stats.mein-futterlexikon.org^
 ||stats.marshfieldresearch.org^
+||looksjustlikeanang.org^
 ||fctms.fidelitycharitable.org^
 ||fcone.fidelitycharitable.org^
 ||downloadoffice2010.org^
@@ -4521,6 +4529,7 @@
 ||track.mylegaldefender.org^
 ||panda.mvhphotoproject.org^
 ||seniorliving.mooringsatlewes.org^
+||machmayhavedesc.org^
 ||info.lakewoodwestend.org^
 ||seniorliving.jeffersonsferry.org^
 ||mktg.jeffersonhealth.org^
@@ -8659,6 +8668,7 @@
 ||dhnnbfok.icu^
 ||ddlmsoyo.icu^
 ||ddhjabqe.icu^
+||dbdophuz.icu^
 ||cidhmxxb.icu^
 ||ccobksxz.icu^
 ||bxheifoe.icu^
@@ -14413,6 +14423,7 @@
 ||shop.overstockcostco.com^
 ||sagor.ovation-designs.com^
 ||outwhirlipedeer.com^
+||outponyglorious.com^
 ||outoctillerytor.com^
 ||data-ad8351f80c.outdoor-magazin.com^
 ||data-9b7927207a.outdoor-magazin.com^
@@ -22169,6 +22180,7 @@
 ||rtegbv.jmclaughlin.com^
 ||tfcdn.jingmiuyyds.com^
 ||jijqzypmeqi.com^
+||jiidanypxfg.com^
 ||jicmivojvsa.com^
 ||jewdombenin.com^
 ||bee.jbkmobiledj.com^
@@ -27613,6 +27625,7 @@
 ||judebelii.com^
 ||jtmwjbgoz.com^
 ||jrzrqi0au.com^
+||jrvvpbggu.com^
 ||journeys.journeyed.com^
 ||joudauhee.com^
 ||dptkdh.joinhoney.com^
