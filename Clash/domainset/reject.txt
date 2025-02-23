@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-23T12:36:11.864Z
+# Last Updated: 2025-02-23T14:46:20.752Z
 # Size: 62807
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -30847,7 +30847,6 @@ mepodownload.mediatek.com
 +.adbd.liuxue86.com
 +.list-ads.com
 +.lirretsn.com
-+.linksprf.com
 +.linkmink.com
 +.st.linkfire.com
 +.analytics.pointdrive.linkedin.com
@@ -35138,6 +35137,7 @@ adsz.wagbridge.1688.alimama.com
 adsh.wagbridge.1688.alimama.com
 adx.alimama.com
 logview.uc.alimama.com
+ad.alimama.com
 p.alimama.com
 +.dmtracking2.alibaba.com
 +.marketing.alibaba.com
