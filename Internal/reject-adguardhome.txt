@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 23 Feb 2025 14:46:35 GMT
+! Last modified: Mon, 24 Feb 2025 02:20:49 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -420,6 +420,7 @@
 ||vcsxfynmtgwwj.global^
 ||tfaxtyhedrwub.global^
 ||qpwvhsxxzwgft.global^
+||pkehswqnitpvr.global^
 ||omcgqahejstuo.global^
 ||hbidfirrysrvw.global^
 ||cgtwccqrpbota.global^
@@ -1174,6 +1175,7 @@
 ||amylo.site^
 ||alony.site^
 ||eq.af31f.site^
+||ablat.site^
 ||a.aahen.site^
 ||yayn.site^
 ||xyxz.site^
@@ -1220,10 +1222,12 @@
 ||letheanthalers.shop^
 ||laciestsculped.shop^
 ||jurantsepinine.shop^
+||itelmesplanted.shop^
 ||inbreedbeelbow.shop^
 ||hiphaltlauroyl.shop^
 ||foamingjessant.shop^
 ||ectypalnonbank.shop^
+||earholeprosode.shop^
 ||deavelydragees.shop^
 ||dabbingassyria.shop^
 ||crabletfrijole.shop^
@@ -1308,7 +1312,9 @@
 ||kalkvisrecit.shop^
 ||jokersguaiac.shop^
 ||huzzasbakula.shop^
+||grankellwand.shop^
 ||graissearear.shop^
+||formulatrets.shop^
 ||flakefanwort.shop^
 ||fetorsboozer.shop^
 ||esereperigee.shop^
@@ -1332,6 +1338,7 @@
 ||shnpetdb638.shop^
 ||scugmarkkaa.shop^
 ||sanestmelic.shop^
+||salliesjoll.shop^
 ||reverbpiert.shop^
 ||reshowsvole.shop^
 ||picturescil.shop^
@@ -2003,6 +2010,7 @@
 ||lp.feelingawesome.club^
 ||track.viewitquickly.club^
 ||vczfcmaxnqkby.club^
+||skdjppgwnfune.club^
 ||qwjxcvdzrafum.club^
 ||oyagncfnrlmij.club^
 ||kjyytxyetnueu.club^
@@ -2200,6 +2208,7 @@
 ||pushmaster-in.xyz^
 ||pmiswxkxztebq.xyz^
 ||ngjwlvrfbwlvm.xyz^
+||msfumbsqosjdg.xyz^
 ||milkygoodness.xyz^
 ||magazinenews1.xyz^
 ||hedungirgassi.xyz^
@@ -2341,6 +2350,7 @@
 ||momoguoji.xyz^
 ||letstry69.xyz^
 ||kubicadza.xyz^
+||kgdjphtbp.xyz^
 ||jtiasfkkg.xyz^
 ||tracker.jkstremum.xyz^
 ||ikpdajbua.xyz^
@@ -3460,6 +3470,7 @@
 ||subovalearlish.top^
 ||sourishtrummel.top^
 ||skidlidmassier.top^
+||signorihorrors.top^
 ||saintlyyaupons.top^
 ||ritzilypigless.top^
 ||reclameinshoot.top^
@@ -3492,6 +3503,7 @@
 ||zykkjyaokkjlo.top^
 ||zyblzreyykzme.top^
 ||zhangqifeng12.top^
+||zerzvqrzzvlmo.top^
 ||yamshikbrucia.top^
 ||wywkwqzkavjbv.top^
 ||wyvlllooalobz.top^
@@ -3499,8 +3511,10 @@
 ||wyaoormajveqk.top^
 ||wwvqboerllmqj.top^
 ||wwaeljamkvzwr.top^
+||wmmrbwiyztgeg.top^
 ||wjzrzwyvzbzbj.top^
 ||wevrwqjqemoyk.top^
+||vbmjlevwwvyzj.top^
 ||unsavedbaruch.top^
 ||uncalmgermane.top^
 ||tunnelbuilder.top^
@@ -3579,6 +3593,7 @@
 ||totemsplurgy.top^
 ||tearoomzebus.top^
 ||studscrissal.top^
+||spitzrafting.top^
 ||spickbricole.top^
 ||skibbybester.top^
 ||shoeinggrimy.top^
@@ -3652,6 +3667,7 @@
 ||plantalwauk.top^
 ||peniblecoop.top^
 ||oursexhance.top^
+||moreadsfeed.top^
 ||ijeujkdhnvb.top^
 ||hammerhewer.top^
 ||grtarpcf963.top^
@@ -3983,6 +3999,7 @@
 ||qfjsliy.top^
 ||qewruty.top^
 ||qetlwsy.top^
+||qdqppsl.top^
 ||qdoshby.top^
 ||qdinmay.top^
 ||qdickey.top^
@@ -4381,6 +4398,7 @@
 ||tense-winter.pro^
 ||televeniesuc.pro^
 ||shamelesspop.pro^
+||plush-region.pro^
 ||nathanaeldan.pro^
 ||katerigordas.pro^
 ||joyous-north.pro^
@@ -4410,6 +4428,7 @@
 ||commonevent.pro^
 ||brandnewapp.pro^
 ||info.appliedtech.pro^
+||showybrief.pro^
 ||stats.reisemobil.pro^
 ||numb-price.pro^
 ||googleplay.pro^
@@ -4592,6 +4611,7 @@
 ||strangineersalyl.org^
 ||track.solucoesnaturais.org^
 ||stats.screenresolution.org^
+||rkhovdiminatedmo.org^
 ||reamsofcryingfor.org^
 ||seniorliving.presvillagenorth.org^
 ||stats.poweringpastcoal.org^
@@ -4644,6 +4664,7 @@
 ||t.playhousesquare.org^
 ||yourcare.pennstatehealth.org^
 ||cc.pennstatehealth.org^
+||nkhimunpractica.org^
 ||ok.nationalbenefit.org^
 ||track.mylegaldefender.org^
 ||panda.mvhphotoproject.org^
@@ -7028,6 +7049,7 @@
 ||du002iv2rxh4h.cloudfront.net^
 ||dtxtngytz5im1.cloudfront.net^
 ||dtv5ske218f44.cloudfront.net^
+||dtpbt6teapmm3.cloudfront.net^
 ||dt3y1f1i1disy.cloudfront.net^
 ||dsnymrk0k4p3v.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
@@ -8414,6 +8436,7 @@
 ||core-apps.b-cdn.net^
 ||w2g-ping.b-cdn.net^
 ||tracking.b-cdn.net^
+||f3eb2b32.b-cdn.net^
 ||bbangads.b-cdn.net^
 ||propsid.b-cdn.net^
 ||st-fly.b-cdn.net^
@@ -8661,6 +8684,7 @@
 ||zabpgtjh.icu^
 ||yqlzccxn.icu^
 ||xytcboyz.icu^
+||xvvfpsmp.icu^
 ||xuldtcip.icu^
 ||xufyxhiu.icu^
 ||xnbuapwp.icu^
@@ -9124,6 +9148,7 @@
 ||pnpbjt.icu^
 ||pmtrkp.icu^
 ||pinjzp.icu^
+||phxdrf.icu^
 ||pfbmht.icu^
 ||pevpbx.icu^
 ||oqnkur.icu^
@@ -9184,6 +9209,7 @@
 ||dtntnl.icu^
 ||dqlhuf.icu^
 ||difhil.icu^
+||dfhthh.icu^
 ||damiul.icu^
 ||bypllv.icu^
 ||bxzlfr.icu^
@@ -9462,6 +9488,7 @@
 ||mckbbaaatyhfm.fun^
 ||gbdkbtuzvqrun.fun^
 ||fulrrlddcjqlk.fun^
+||cfvcjyksaerua.fun^
 ||bjiqdkqwbpbgk.fun^
 ||srv.yeahwebimobi.fun^
 ||lp.vidaperfeita.fun^
@@ -10206,6 +10233,7 @@
 ||data.emailinfo.novonordiskemailprograms.com^
 ||path.nofrillshomeownersavings.com^
 ||sw88.nationalgeographicbrasil.com^
+||multiculturalcakelimited.com^
 ||mockscissorssatisfaction.com^
 ||mobileoffers-ep-download.com^
 ||info.midwestdatacenterexperts.com^
@@ -15427,6 +15455,7 @@
 ||app.ucirvinesports.com^
 ||t.ucirvinesports.com^
 ||ubiquitousyard.com^
+||tzzvvohntnlvan.com^
 ||tylocintriones.com^
 ||tracking.twocommagrowth.com^
 ||tuschesanaitis.com^
@@ -15745,6 +15774,7 @@
 ||querulous-type.com^
 ||icare.quantum-health.com^
 ||qgfeomktnlkcii.com^
+||qclruwltqxojpo.com^
 ||pzocxjzcitiuaq.com^
 ||metrics.purina-petcare.com^
 ||pupilarouranos.com^
@@ -16137,6 +16167,7 @@
 ||marketing.imperialhealer.com^
 ||sgtm.impactcommerce.com^
 ||illiticguiding.com^
+||ikooqmunrveuve.com^
 ||ignoresphlorol.com^
 ||net.idealo-partner.com^
 ||call.idealhealthins.com^
@@ -16587,6 +16618,7 @@
 ||bwalnuzotowvqg.com^
 ||buzzardcraizey.com^
 ||buy-briteblaze.com^
+||buxomerrentage.com^
 ||butoxylhewhall.com^
 ||bushsurprising.com^
 ||bunjaraserumal.com^
@@ -17499,6 +17531,7 @@
 ||outlopunnytor.com^
 ||outlookabsorb.com^
 ||outkisslahuli.com^
+||outheelrelict.com^
 ||outfoxnapalms.com^
 ||fqhzca.outdooractive.com^
 ||outcrycaseate.com^
@@ -20534,6 +20567,7 @@
 ||mydeze.croisierenet.com^
 ||partner.crewmaldives.com^
 ||creepy-frame.com^
+||creedthrough.com^
 ||metrics.creditreport.com^
 ||creativesumo.com^
 ||sitebeat.crazydomains.com^
@@ -20943,6 +20977,7 @@
 ||ghtry.amateurswild.com^
 ||a.alzcombocare.com^
 ||pakdru.altrarunning.com^
+||altaircastor.com^
 ||alsolrocktor.com^
 ||uapmxl.alphaoutpost.com^
 ||almightypush.com^
@@ -24333,6 +24368,7 @@
 ||outseeltor.com^
 ||sfiycb.outerknown.com^
 ||oussockobs.com^
+||ousptbllgj.com^
 ||d276.ourmidland.com^
 ||oukwhsfdhc.com^
 ||yyvkni.ottasilver.com^
@@ -25331,6 +25367,7 @@
 ||metrics.esbriethcp.com^
 ||bd.ershenghuo.com^
 ||ero-vtuber.com^
+||erkaevhlcp.com^
 ||eringosdye.com^
 ||hiuplq.eredmenyek.com^
 ||marketing.equiscript.com^
@@ -27707,6 +27744,7 @@
 ||tewuoy.lillebaby.com^
 ||lidburger.com^
 ||clk.liberty-e.com^
+||lhbbostal.com^
 ||lgsmartad.com^
 ||promotion.lginnotek.com^
 ||lfstmedia.com^
@@ -28242,6 +28280,7 @@
 ||uenbyu.franzmall.com^
 ||tp.frankonia.com^
 ||te.frankonia.com^
+||fqertokpt.com^
 ||fpqwpqiyq.com^
 ||fppicfedo.com^
 ||analytics.nova.foxsports.com^
@@ -28278,6 +28317,7 @@
 ||gtm.flightams.com^
 ||flexlinks.com^
 ||marketing.fleetstar.com^
+||fkxdmztrx.com^
 ||fixedfold.com^
 ||track.fitup7uae.com^
 ||a8.fit-theme.com^
@@ -28678,6 +28718,7 @@
 ||b.cinvetica.com^
 ||jnkqnf.cifraclub.com^
 ||tr.emailing.cifea-mkg.com^
+||chuundads.com^
 ||metrics.churchill.com^
 ||chuccipkn.com^
 ||app.results.chronicle.com^
@@ -28960,6 +29001,7 @@
 ||axmocklwa.com^
 ||axjndvucr.com^
 ||awlatbtrk.com^
+||awjpufvwu.com^
 ||awhoupsou.com^
 ||sp.aviasales.com^
 ||info.avantiplc.com^
@@ -29255,6 +29297,7 @@
 ||zeechumy.com^
 ||jqubyz.zebracbd.com^
 ||zbrushcn.com^
+||zaxtapoa.com^
 ||zanoogha.com^
 ||zalnouiy.com^
 ||zaeqrath.com^

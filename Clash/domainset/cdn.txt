@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-23T05:01:35.895Z
-# Size: 3168
+# Last Updated: 2025-02-24T02:20:36.821Z
+# Size: 3169
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3153,6 +3153,7 @@ res.abc.net.au
 tags.news.com.au
 +.ipfs.greyh.at
 i.snap.as
+solve-widget.forethought.ai
 +.shortpixel.ai
 pplx-next-static-public.perplexity.ai
 r2cdn.perplexity.ai
