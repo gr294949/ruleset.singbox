@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-24T02:20:34.962Z
-# Size: 62850
+# Last Updated: 2025-02-24T03:22:53.804Z
+# Size: 62820
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -421,7 +421,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.partner.hubnu.online
 +.winr.online
 +.v785.online
-+.m4su.online
 +.lf8q.online
 +.exaggerating.makeup
 +.stape.theheartclinic.london
@@ -1282,7 +1281,6 @@ bad.third-party.site
 +.fatihabespurt.shop
 +.faciendtabour.shop
 +.eburnahornito.shop
-+.dwellerfosset.shop
 +.dipodesoutane.shop
 +.cygnetgeorama.shop
 +.crumendeparts.shop
@@ -1793,11 +1791,9 @@ bad.third-party.site
 +.tr.activeprospects.info
 +.yusiswensaidoh.info
 +.cv.theatreacademy.info
-+.sdhiltewasvery.info
 +.track.rocketcoverage.info
 +.qwrwhosailedbe.info
 +.polothdgemanow.info
-+.logystowtencon.info
 +.lernodydenknow.info
 +.kmodukuleqasfo.info
 +.ilkindweandthe.info
@@ -1811,7 +1807,6 @@ bad.third-party.site
 +.yuearanceofam.info
 +.log.worldsoft-cms.info
 +.data-13621569c0.tunnel-online.info
-+.pphiresandala.info
 +.oldforeyesheh.info
 +.ntoftheusysia.info
 +.notifypicture.info
@@ -2178,10 +2173,8 @@ grs.dbankcloud.asia
 +.xxaks01080sspao.xyz
 +.tougaipteehuboo.xyz
 +.sxwrpqrqehcafgb.xyz
-+.stoaglauksargoo.xyz
 +.soacoujusoopsoo.xyz
 +.seelanaglashaiy.xyz
-+.pethaphegauftup.xyz
 +.portal.novidadesdehoje.xyz
 +.n2wqmr4lmaummar.xyz
 +.tracking.monkeoztracking.xyz
@@ -2245,7 +2238,6 @@ grs.dbankcloud.asia
 +.saukaivounoa.xyz
 +.ricewaterhou.xyz
 +.pq-mzfusgpzt.xyz
-+.oplpectation.xyz
 +.onautcatholi.xyz
 +.moviesflix4k.xyz
 +.livvbkx-vejj.xyz
@@ -2483,6 +2475,7 @@ grs.dbankcloud.asia
 +.cdhfvrug.xyz
 +.cdfhidrk.xyz
 +.cdazjxso.xyz
++.bulochka.xyz
 +.boodaisi.xyz
 +.blistest.xyz
 +.meowlytics.bignutty.xyz
@@ -2950,7 +2943,6 @@ grs.dbankcloud.asia
 +.plzblz.xyz
 +.pklujb.xyz
 +.pjdthz.xyz
-+.piotyo.xyz
 +.phtivr.xyz
 +.phjtxx.xyz
 +.pefufv.xyz
@@ -3697,7 +3689,6 @@ grs.dbankcloud.asia
 +.wkjyxcheng.top
 +.widiaoexhe.top
 +.warwickgph.top
-+.vestrydual.top
 +.utendpacas.top
 +.new.searchadsw.top
 +.roughsvick.top
@@ -4447,7 +4438,6 @@ collect.foresightnews.pro
 +.stats.reisemobil.pro
 +.numb-price.pro
 +.googleplay.pro
-+.fine-click.pro
 +.dizzy-drag.pro
 +.track.clickblick.pro
 +.zendplace.pro
@@ -5727,7 +5717,6 @@ samsungcloudsolution.net
 +.baihoagleewhaum.net
 +.ageetsaimouphih.net
 +.zoowhausairoun.net
-+.zishezetchadsi.net
 +.flexpod.ynsecureserver.net
 +.mgbkt9eckr.xn--mgbkt9eckr.net
 +.nope.xn--mgbkt9eckr.net
@@ -6114,7 +6103,6 @@ samsungcloudsolution.net
 +.hanlinzhijia.net
 +.marketing.gtsgservices.net
 +.grourouksoop.net
-+.gronsoakoube.net
 +.grexackugnee.net
 +.gresteedoong.net
 +.graivampouth.net
@@ -6558,7 +6546,6 @@ proxyhog.prisma-data.net
 +.gletchauka.net
 +.gixeedsute.net
 +.gessiptoab.net
-+.gersutsaix.net
 +.geeptaunip.net
 +.analytics.geekyminds.net
 +.gaudoaphuh.net
@@ -7498,7 +7485,6 @@ static.vuevideo.net
 +.gold.szonline.net
 +.supapush.net
 +.stats-bq.stylight.net
-+.stvbiopr.net
 +.stuwhost.net
 +.stotoowu.net
 +.stootsou.net
@@ -9519,10 +9505,12 @@ iadmusicmat.music.126.net
 +.arrestjav182.fun
 +.6efgcdcjr000.fun
 +.2efgcdcjr000.fun
++.rkdpzcdehop.fun
 +.gtmstape.motssecrets.fun
 +.rtsandbox2.happy-swift.fun
 +.grecizing26.fun
 +.graduate472.fun
++.gimmickry26.fun
 +.gesvfvfhhb6.fun
 +.gedxssashb8.fun
 +.gcvgedashb3.fun
@@ -11290,6 +11278,7 @@ samsungcloudsolution.com
 +.trk.windowrescueservice.com
 +.marketing.whiteeaglecoalition.com
 +.whippedfreezerbegun.com
++.whereuponcomicsraft.com
 +.info.weloveournewwindows.com
 +.t.welovebeingtogether.com
 +.gad.wellnesswavesonline.com
@@ -11846,7 +11835,6 @@ samsungcloudsolution.com
 +.screechingstocking.com
 +.go.sciencevisionaries.com
 +.lr.sciaticnervehealth.com
-+.schedulerationally.com
 +.samsungelectronics.com
 +.rvisofoseveralyear.com
 +.cookies.engage.russellinvestments.com
@@ -12139,7 +12127,6 @@ samsungcloudsolution.com
 +.duplicatepokeheavy.com
 +.dreadluckdecidedly.com
 +.dreadfulprofitable.com
-+.domainanalyticsapi.com
 +.data.products.disneydestinations.com
 +.data.m2.disneydestinations.com
 +.marketing.discoverpuertorico.com
@@ -13269,7 +13256,6 @@ samsungcloudsolution.com
 +.smetric.thecapitalburger.com
 +.load.d.the-crystal-maze.com
 +.ims2.tescotravelmoney.com
-+.televisionjitter.com
 +.lpbhnv.telemundochicago.com
 +.lpbhnv.telemundoarizona.com
 +.marketing2.technologyadvice.com
@@ -13298,6 +13284,7 @@ samsungcloudsolution.com
 +.test3-dc.sterlingjewelers.com
 +.dc.sterlingjewelers.com
 +.ss.stellarequipment.com
++.steeringsunshine.com
 +.sxjfhh.statesmanjournal.com
 +.sp.statesmanjournal.com
 +.startappexchange.com
@@ -13326,7 +13313,6 @@ samsungcloudsolution.com
 +.ss.sourire-brillant.com
 +.ocelot.sonicumonitoring.com
 +.son-in-lawmorbid.com
-+.solitudeelection.com
 +.tracking.softwareprojects.com
 +.bmjmse.softsurroundings.com
 +.snoopundesirable.com
@@ -13475,6 +13461,7 @@ samsungcloudsolution.com
 +.kyinub.palmbeachjewelry.com
 +.marketing.pacificspecialty.com
 +.oywhowascryingfo.com
++.oundhertobeconsi.com
 +.dldotl.ouestfrance-auto.com
 +.orientedargument.com
 +.track.info.optometryadvisor.com
@@ -14623,7 +14610,6 @@ charlestownwyllie.oaklawnnonantum.com
 +.ydcpcm.ninelineapparel.com
 +.info.nicholsonclinic.com
 +.s.niagarathisweek.com
-+.ngplansforourco.com
 +.metrics.nextaccelerator.com
 +.metrics.newyorkfarmshow.com
 +.newsforyourmood.com
@@ -14765,7 +14751,6 @@ charlestownwyllie.oaklawnnonantum.com
 +.lusipn.komorebi-museum.com
 +.kolleqasforsale.com
 +.knockedcherries.com
-+.kneltopeningfit.com
 +.kmspicoofficial.com
 +.gpjelw.kiwamitriathlon.com
 +.keywordsconnect.com
@@ -15150,6 +15135,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.news.brokersalliance.com
 +.app.broadwayspokane.com
 +.t.broadwayspokane.com
++.broadsheetblaze.com
 +.brightcriticism.com
 +.seniorliving.brandonwildelcs.com
 +.secure.checkout.brand-stock2-sv.com
@@ -15697,7 +15683,6 @@ charlestownwyllie.oaklawnnonantum.com
 +.telemetry.schwinnfitness.com
 +.marketing.schneiderdowns.com
 +.scenescrockery.com
-+.scatulalactate.com
 +.app.scarletknights.com
 +.t.scarletknights.com
 +.scarcerpokomoo.com
@@ -19855,7 +19840,6 @@ js.partnerstack.com
 +.assets.mikeroulston.com
 +.woodpecker.mikehalliday.com
 +.bsosgd.midori-anzen.com
-+.midistortrix.com
 +.wavzlt.michaelstars.com
 +.info.michaelfoods.com
 +.rtk.metodoqu4tro.com
@@ -19939,10 +19923,8 @@ js.partnerstack.com
 +.lowsteelixor.com
 +.sst.lovetomorrow.com
 +.smtccv.loveholidays.com
-+.lovedenimori.com
 +.loungyserger.com
 +.lostinfuture.com
-+.looksmartppc.com
 +.longingtrees.com
 +.katylz.lojaspompeia.com
 +.load.lbss.lois-bullion.com
@@ -20037,7 +20019,6 @@ stats.leavemealone.com
 +.kerryfluence.com
 +.sgtm.kentstrapper.com
 +.app.leadership.kenblanchard.com
-+.kelpiesregna.com
 +.stats.keirwhitaker.com
 +.kdlktswsqhpd.com
 +.e.kc-education.com
@@ -20439,6 +20420,7 @@ httpdns-ocloud.heytapmobile.com
 +.beacon.errorception.com
 +.marketing.enterprisedb.com
 +.strack.englandstore.com
++.engineseeker.com
 +.go.engiestorage.com
 +.enduresopens.com
 +.create.encoreglobal.com
@@ -23302,7 +23284,6 @@ httpdns.calorietech.com
 +.fpa-api.arstechnica.com
 +.stats2.arstechnica.com
 +.arshelmeton.com
-+.arleavannya.com
 +.arithpouted.com
 +.srepdata.argusleader.com
 +.sxjfhh.argusleader.com
@@ -25106,7 +25087,6 @@ httpdns.push.heytapmobi.com
 +.marketing.guidepoint.com
 +.consulting.guidehouse.com
 +.tracking.guidehouse.com
-+.gtyjpiobza.com
 +.stats.gtnetworks.com
 +.stat.gspaceteam.com
 +.grushoungy.com
@@ -25682,7 +25662,6 @@ simple.cloudsmith.com
 +.csp-reporting.cloudflare.com
 +.tr.www.cloudflare.com
 +.data.em2.cloudflare.com
-+.clkofafcbk.com
 +.clixforads.com
 +.cdn.clivetadds.com
 +.events.clips4sale.com
@@ -26273,7 +26252,6 @@ simple.cloudsmith.com
 +.5eef1ed9ac.com
 +.5bf6d94b92.com
 +.84c6a87c91.5be7319a8b.com
-+.5ae3a94233.com
 +.5707f9766c.com
 +.2950917e4a.56eed75dbe.com
 +.562i7aqkxu.com
@@ -26346,7 +26324,6 @@ simple.cloudsmith.com
 +.0b6e17a630.com
 +.a4422148cd.0aabc05067.com
 +.09b1fcc95e.com
-+.044da016b3.com
 +.03b5f525af.com
 +.197a0c366b.02be4c77d5.com
 +.horse.zwei-bags.com
@@ -27637,7 +27614,6 @@ choice.microsoft.com
 +.forms.mcgladrey.com
 +.collector.mazeberry.com
 +.i2.mayoblast.com
-+.i.mayoblast.com
 +.a.maxxhotel.com
 +.ckyhec.maxisport.com
 +.sst.maxiscoot.com
@@ -27826,6 +27802,7 @@ choice.microsoft.com
 +.adbmetrics.koreanair.com
 +.kontextua.com
 +.hi.koalendar.com
++.knowfloor.com
 +.knitstamp.com
 +.datas.knitpicks.com
 +.km14hkusz.com
@@ -27852,7 +27829,6 @@ choice.microsoft.com
 +.keenquill.com
 +.ssc.kcamexico.com
 +.scookies-adobe.kbc-group.com
-+.kazanante.com
 +.test3-dc.kayoutlet.com
 +.metrics.kayoutlet.com
 +.dc.kayoutlet.com
@@ -30093,7 +30069,6 @@ ad.ximalaya.com
 +.rusnuiyu.com
 +.ruranews.com
 +.sffyrc.ruparupa.com
-+.rulrahed.com
 +.fglrgt.ruggable.com
 +.nstclj.rubylane.com
 +.go.rtafleet.com
@@ -31309,7 +31284,6 @@ adx.halomobi.com
 +.cv.h-docomo.com
 +.wa.gymboree.com
 +.gxzhshop.com
-+.gxtmsmni.com
 +.a.guzhilin.com
 +.ggw.gusuwang.com
 +.guqoinly.com
@@ -35582,7 +35556,6 @@ api.d.xiaomi.com
 +.salary.xiao84.com
 +.becode.xiao84.com
 +.b1.xiao84.com
-+.cluster.xhspot.com
 +.xevaix.com
 +.analyticswritenew.xerevo.com
 +.xdiwbc.com
@@ -36147,7 +36120,6 @@ newloc.map.n.shifen.com
 +.rtrhit.com
 +.rtrgt2.com
 +.rtbpop.com
-+.rtbbnr.com
 +.us-marketing.roxtec.com
 +.uk-marketing.roxtec.com
 +.marketing.roxtec.com
@@ -36749,7 +36721,6 @@ ad.maoyan.com
 +.lwnbts.com
 +.lwjvyd.com
 +.lwgadm.com
-+.luxope.com
 +.luxlnk.com
 +.neojge.luxeol.com
 +.luxcdn.com
@@ -37021,7 +36992,6 @@ httpdns.kwd.inkuai.com
 +.img301.com
 +.stats.img2go.com
 +.tags.imagin.com
-+.sponsor.imacdn.com
 +.ilzies.com
 +.itmmgk.ilgufo.com
 +.ikcaru.com
@@ -38826,7 +38796,6 @@ analytics.nexon.com
 +.geoip.mlive.com
 +.mms.mlive.com
 +.ml314.com
-+.mkhoj.com
 +.mixpo.com
 +.gg.miued.com
 +.wemqip.misli.com
@@ -44565,6 +44534,7 @@ grs.platform.dbankcloud.ru
 +.iwpkhm.re-store.ru
 +.prodalet.ru
 +.cfqsup.pro-bike.ru
++.popunder.ru
 +.itncmg.ostrovok.ru
 +.hvlglf.ochkarik.ru
 +.xfzcds.netprint.ru
@@ -56141,6 +56111,7 @@ grs.dbankcloud.eu
 +.data-a495acff56.airliners.de
 +.data-579dbb4ef1.airliners.de
 +.tk.airfrance.de
++.imp.accesstra.de
 +.data-614d3891ff.academics.de
 +.data-7896616c61.abzonline.de
 +.30koqnlks.de
@@ -56464,7 +56435,6 @@ grs.dbankcloud.eu
 +.ftysya.aboutyou.de
 +.load.home.abiturma.de
 +.95ppq87g.de
-+.78bk5iji.de
 +.72hdgb5o.de
 +.hruoxg.5vorflug.de
 +.5btekl14.de
