@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-02-25T08:47:36.158Z
-# Size: 1102
+# Last Updated: 2025-02-25T16:59:44.246Z
+# Size: 1103
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1030,6 +1030,7 @@ speedtest.apnet-rr.com.br
 ookla.xponnet.com.br
 teste.wsfibra.com.br
 speed.rnp-net.com.br
+speed.rnipnet.com.br
 speedtest.redewsp.com.br
 veloteste.mrjomar.com.br
 speedtest.jvswifi.com.br

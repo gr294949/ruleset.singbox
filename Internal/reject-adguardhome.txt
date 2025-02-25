@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 25 Feb 2025 12:40:36 GMT
+! Last modified: Tue, 25 Feb 2025 16:59:58 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -185,6 +185,7 @@
 ||mktg.rtx.travel^
 ||osoblx.ena.travel^
 ||track.social.supply^
+||demand.supply^
 ||cuckoo.cult.supply^
 ||nkydma.newbuild.studio^
 ||sfft.finstral.studio^
@@ -8605,6 +8606,7 @@
 ||content.mhs.net^
 ||marketing.m-m.net^
 ||analyticsnarc.ro.ing.net^
+||epimetheus.navigator.gmx.net^
 ||ymprove.gmx.net^
 ||tgw.gmx.net^
 ||wa.gmx.net^
@@ -21796,6 +21798,7 @@
 ||info.send-server.com^
 ||outreach.semaconnect.com^
 ||load.stats.sefr-online.com^
+||seeptoafuko.com^
 ||marketing.seemonterey.com^
 ||seecaimooth.com^
 ||securegate9.com^
@@ -23686,6 +23689,7 @@
 ||3347.wolfgordon.com^
 ||gmrhzf.wolfermans.com^
 ||t.wmubroncos.com^
+||wmrdplrves.com^
 ||wmptengate.com^
 ||xggjgl.wjthinkbig.com^
 ||wjhxjjnngo.com^
@@ -33596,8 +33600,6 @@
 ||gjdjij.roncato.com^
 ||dmc.romotur.com^
 ||trk.romfour.com^
-||collector.roistat.com^
-||cllctr.roistat.com^
 ||roinduk.com^
 ||marketing.rogards.com^
 ||rocoads.com^
@@ -60034,6 +60036,7 @@
 ||lvnr.cn^
 |mobilead.kuwo.cn^
 |rich.kuwo.cn^
+||kqgn.cn^
 ||metrics.kone.cn^
 ||ivvn.cn^
 |dd.iask.cn^

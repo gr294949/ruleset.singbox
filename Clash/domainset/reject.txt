@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-25T12:40:21.645Z
-# Size: 63448
+# Last Updated: 2025-02-25T16:59:44.245Z
+# Size: 63451
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -201,6 +201,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.mktg.rtx.travel
 +.osoblx.ena.travel
 +.track.social.supply
++.demand.supply
 +.cuckoo.cult.supply
 +.nkydma.newbuild.studio
 +.sfft.finstral.studio
@@ -8618,6 +8619,7 @@ sdk.1rtb.net
 +.content.mhs.net
 +.marketing.m-m.net
 +.analyticsnarc.ro.ing.net
++.epimetheus.navigator.gmx.net
 +.ymprove.gmx.net
 +.tgw.gmx.net
 +.wa.gmx.net
@@ -21806,6 +21808,7 @@ oppo.yidianzixun.com
 +.info.send-server.com
 +.outreach.semaconnect.com
 +.load.stats.sefr-online.com
++.seeptoafuko.com
 +.marketing.seemonterey.com
 +.seecaimooth.com
 +.securegate9.com
@@ -23694,6 +23697,7 @@ hd.xiaojukeji.com
 +.3347.wolfgordon.com
 +.gmrhzf.wolfermans.com
 +.t.wmubroncos.com
++.wmrdplrves.com
 +.wmptengate.com
 +.xggjgl.wjthinkbig.com
 +.wjhxjjnngo.com
@@ -33596,8 +33600,6 @@ inside.rtbasia.com
 +.gjdjij.roncato.com
 +.dmc.romotur.com
 +.trk.romfour.com
-+.collector.roistat.com
-+.cllctr.roistat.com
 +.roinduk.com
 +.marketing.rogards.com
 +.rocoads.com
@@ -60011,6 +60013,7 @@ yun.rili.cn
 +.lvnr.cn
 mobilead.kuwo.cn
 rich.kuwo.cn
++.kqgn.cn
 +.metrics.kone.cn
 +.ivvn.cn
 dd.iask.cn
