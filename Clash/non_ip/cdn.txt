@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-17T01:48:50.679Z
-# Size: 57
+# Last Updated: 2025-02-25T17:35:32.973Z
+# Size: 58
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25,7 +25,8 @@ DOMAIN-KEYWORD,-assets.worldsex.com
 DOMAIN-KEYWORD,-thumbs.worldsex.com
 DOMAIN-REGEX,^appcenter-filemanagement-[\w.-]*?\.cloudapp\.net$
 DOMAIN-REGEX,^proxy-[\w.-]*?\.dailymotion\.com$
-DOMAIN-REGEX,^static[\w.-]*?\.tgstat\.ru$
+DOMAIN-REGEX,^static[\w.-]\.tgstat\.ru$
+DOMAIN-REGEX,^static[\w.-][\w.-]\.tgstat\.ru$
 DOMAIN-REGEX,^ocsp\.[\w.-]*?\.amazontrust\.com$
 DOMAIN-REGEX,^s3\.[\w.-]*?\.wasabisys\.com$
 DOMAIN-REGEX,^object-storage-[\w.-]*?\.vexxhost\.net$

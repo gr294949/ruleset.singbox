@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-25T16:59:46.076Z
-# Size: 3177
+# Last Updated: 2025-02-25T17:35:34.895Z
+# Size: 3178
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2893,6 +2893,7 @@ img.badgesize.io
 +.events.backtrace.io
 +.4everland.io
 +.vsassets.io
+img.telemetr.io
 release.runcloud.io
 +.cdn.manage.runcloud.io
 +.cdn.runcloud.io
