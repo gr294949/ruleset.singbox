@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 26 Feb 2025 16:14:24 GMT
+! Last modified: Thu, 27 Feb 2025 01:24:55 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2303,6 +2303,7 @@
 ||fiiobbyltt.xyz^
 ||dolphincdn.xyz^
 ||dkasffredf.xyz^
+||deshouroup.xyz^
 ||deereefade.xyz^
 ||deckeekith.xyz^
 ||baxdcynptb.xyz^
@@ -3609,6 +3610,7 @@
 ||ruggyscallop.top^
 ||refpaxfbvjlw.top^
 ||refpa4293501.top^
+||predrawfixed.top^
 ||ppio12200ios.top^
 ||ppio12191ios.top^
 ||ppio12181ios.top^
@@ -4380,6 +4382,7 @@
 ||rt.maximumincrease.pro^
 ||jumbo-insurance.pro^
 ||concernedwealth.pro^
+||completeminimum.pro^
 ||adoredcriticism.pro^
 ||windowsexperts.pro^
 ||warlike-abroad.pro^
@@ -4528,6 +4531,7 @@
 ||stats.finalrabiesgeneration.org^
 ||app.care.eisenhowerhealthcares.org^
 ||lp.care.eisenhowerhealthcares.org^
+||eautifulasaweathercoc.org^
 ||worm.communitytrustproject.org^
 ||canidae.collectingsocialphoto.org^
 ||seniorliving.broadviewseniorliving.org^
@@ -4562,6 +4566,7 @@
 ||beyondwickedmapping.org^
 ||marketing.afterschoolallstars.org^
 ||tk.wellnessdiscovered.org^
+||swomanifefashionis.org^
 ||metrics.stanfordhealthcare.org^
 ||marketing.shreveport-bossier.org^
 ||moonheappyrincenev.org^
@@ -5867,11 +5872,13 @@
 ||wnt-some-push.net^
 ||widrelroalrie.net^
 ||whootitoukrol.net^
+||whoortaglauck.net^
 ||whoksoadousto.net^
 ||whacmoltibsay.net^
 ||t.webjavaskript.net^
 ||want-some-psh.net^
 ||wailoageebivy.net^
+||vounooptouphu.net^
 ||stats.videodelivery.net^
 ||vaimucuvikuwu.net^
 ||topsummerapps.net^
@@ -6388,6 +6395,7 @@
 ||zooglaptob.net^
 ||zograughoa.net^
 ||zakurdedso.net^
+||zaistouzit.net^
 ||marketing.youththink.net^
 ||xmindchina.net^
 ||wigrooglie.net^
@@ -6983,6 +6991,7 @@
 ||d1eyw3m16hfg9c.cloudfront.net^
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1esebcdm6wx7j.cloudfront.net^
+||d1e51ovcxdu97v.cloudfront.net^
 ||d1e28xq8vu3baf.cloudfront.net^
 ||d1djrodi2reo2w.cloudfront.net^
 ||d1cykymlllue3h.cloudfront.net^
@@ -9159,6 +9168,7 @@
 ||rmtxdn.icu^
 ||rktjxj.icu^
 ||rkgbqn.icu^
+||rdllzz.icu^
 ||rcyzsh.icu^
 ||rbzupn.icu^
 ||rajxjj.icu^
@@ -9231,6 +9241,7 @@
 ||fwcnex.icu^
 ||fmssoj.icu^
 ||fekpcd.icu^
+||fbvbrb.icu^
 ||fafvvt.icu^
 ||dytkgl.icu^
 ||dyegif.icu^
@@ -10540,6 +10551,7 @@
 ||engage.ria-insurancesolutions.com^
 ||metrics.restaurant-hospitality.com^
 ||trk.restaurant-hospitality.com^
+||recessionspeaksanybody.com^
 ||ravineagencyirritating.com^
 ||metrics.radissonhotelsamericas.com^
 ||metrics.quickmanufacturingnews.com^
@@ -11902,6 +11914,7 @@
 ||reticencecarefully.com^
 ||track.reservationcounter.com^
 ||oms.reputationdefender.com^
+||rencessedessations.com^
 ||et.rejuvenescenatural.com^
 ||rehabilitatereason.com^
 ||sstats.regionalacceptance.com^
@@ -15530,6 +15543,7 @@
 ||ungothoritator.com^
 ||unequaledchair.com^
 ||unboredlinters.com^
+||umpiresmagpied.com^
 ||app.umassathletics.com^
 ||t.umassathletics.com^
 ||ukankingwithea.com^
@@ -17250,6 +17264,7 @@
 ||marketing.tengointernet.com^
 ||forms.telstraglobal.com^
 ||lpbhnv.telemundoutah.com^
+||tejoafotocmal.com^
 ||sgtm.technikboerse.com^
 ||techiteration.com^
 ||marketing.techinsurance.com^
@@ -17390,6 +17405,7 @@
 ||trk.e.seahawksemail.com^
 ||scotergushing.com^
 ||metrics.sciencedirect.com^
+||schrankdecker.com^
 ||schoonnonform.com^
 ||scholarsslate.com^
 ||scatteredheat.com^
@@ -17594,6 +17610,7 @@
 ||images.learn.pharmacyclics.com^
 ||go.pharamondlife.com^
 ||tr1.peugeot-ipsos.com^
+||pettlesmethol.com^
 ||tracking.petrelocation.com^
 ||perfectmarket.com^
 ||tags.pepperl-fuchs.com^
@@ -17624,6 +17641,7 @@
 ||target.pandasecurity.com^
 ||mgejbc.pamelalovenyc.com^
 ||bxumze.palmbeachpost.com^
+||paleaehowking.com^
 ||wisdom.palaisdetokyo.com^
 ||metrics.palaceresorts.com^
 ||pajamasguests.com^
@@ -18172,7 +18190,6 @@
 ||guesswhatnews.com^
 ||s.guelphmercury.com^
 ||gucucmaikaups.com^
-||guangzhuiyuan.com^
 ||track.gtienergywave.com^
 ||stapegtm.growwwdigital.com^
 ||activate.growthspotter.com^
@@ -18500,6 +18517,7 @@
 ||sstats.cupidandgrace.com^
 ||aqwvwn.cultfurniture.com^
 ||cudavagommier.com^
+||cuboidmewlers.com^
 ||stats.cruisingpower.com^
 ||dynamic-content.croquetteland.com^
 ||crisp-freedom.com^
@@ -18683,6 +18701,7 @@
 ||marketing.brucknertruck.com^
 ||metrics.brooksrunning.com^
 ||bromidsluluai.com^
+||brionyamanist.com^
 ||brightonclick.com^
 ||nvpdaa.brightcellars.com^
 ||marketing.braunintertec.com^
@@ -18698,6 +18717,7 @@
 ||preferences.bowerswilkins.com^
 ||bourrepardale.com^
 ||boundlessveil.com^
+||boundersapele.com^
 ||boundarygoose.com^
 ||bottleschance.com^
 ||bordsnewsjule.com^
@@ -19627,6 +19647,7 @@
 ||reachableads.com^
 ||marketing.rdoequipment.com^
 ||images.rjf.raymondjames.com^
+||rameshdeisin.com^
 ||app.ramblinwreck.com^
 ||t.ramblinwreck.com^
 ||load.gtm.radschlaeger.com^
@@ -19651,6 +19672,7 @@
 ||dqqfrs.qatarairways.com^
 ||pwrgrowthapi.com^
 ||imp.pvnsolutions.com^
+||puwhoughaugn.com^
 ||tuna.purplespider.com^
 ||lfqyah.pureformulas.com^
 ||connect.purebranding.com^
@@ -20631,6 +20653,7 @@
 ||s.durhamregion.com^
 ||durantconvey.com^
 ||metrics.dunkindonuts.com^
+||dumpleoxidic.com^
 ||dulillipupan.com^
 ||gtm.dstchemicals.com^
 ||dsjhcgvhjsvc.com^
@@ -21869,6 +21892,7 @@
 ||rtbsuperhub.com^
 ||rtbfradhome.com^
 ||info.rsquaredcre.com^
+||rsirkdevvgn.com^
 ||metrics.royalmailfr.com^
 ||royalcactus.com^
 ||roxot-panel.com^
@@ -22589,6 +22613,7 @@
 ||jarvispopsu.com^
 ||r451.jamanetwork.com^
 ||jaletemetia.com^
+||jaifeeveely.com^
 ||p-events.ivideosmart.com^
 ||ittorchicer.com^
 ||itstuffnews.com^
@@ -27178,6 +27203,7 @@
 ||load.gtm.shipmondo.com^
 ||shinypond.com^
 ||clk.shinydaay.com^
+||shatielsu.com^
 ||gdfkkg.sharkbanz.com^
 ||load.gtm.shark-net.com^
 ||sharethis.com^
@@ -28873,6 +28899,7 @@
 ||load.gtm.dagahogar.com^
 ||dafapromo.com^
 ||axoqvl.daf-shoes.com^
+||cxornpyay.com^
 ||cuttlefly.com^
 ||redtrk.customtrk.com^
 ||liwxfq.customink.com^
@@ -30963,6 +30990,7 @@
 ||sadbmetrics.mujerhoy.com^
 ||data.mujerhoy.com^
 ||mjs.mudjeans.com^
+||mudacban.com^
 ||ssc.mtvjapan.com^
 ||mtadvert.com^
 ||mrybahnw.com^
@@ -60047,6 +60075,7 @@
 |cre.dp.sina.cn^
 ||s7vf.cn^
 ||rxys.cn^
+||rojj.cn^
 |yun.rili.cn^
 ||qnki.cn^
 ||qnhi.cn^

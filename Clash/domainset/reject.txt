@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-02-26T16:14:09.814Z
-# Size: 63474
+# Last Updated: 2025-02-27T01:24:40.673Z
+# Size: 63503
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2318,6 +2318,7 @@ grs.dbankcloud.asia
 +.fiiobbyltt.xyz
 +.dolphincdn.xyz
 +.dkasffredf.xyz
++.deshouroup.xyz
 +.deereefade.xyz
 +.deckeekith.xyz
 +.baxdcynptb.xyz
@@ -3624,6 +3625,7 @@ grs.dbankcloud.asia
 +.ruggyscallop.top
 +.refpaxfbvjlw.top
 +.refpa4293501.top
++.predrawfixed.top
 +.ppio12200ios.top
 +.ppio12191ios.top
 +.ppio12181ios.top
@@ -4395,6 +4397,7 @@ grs.dbankcloud.asia
 +.rt.maximumincrease.pro
 +.jumbo-insurance.pro
 +.concernedwealth.pro
++.completeminimum.pro
 +.adoredcriticism.pro
 +.windowsexperts.pro
 +.warlike-abroad.pro
@@ -4543,6 +4546,7 @@ collect.foresightnews.pro
 +.stats.finalrabiesgeneration.org
 +.app.care.eisenhowerhealthcares.org
 +.lp.care.eisenhowerhealthcares.org
++.eautifulasaweathercoc.org
 +.worm.communitytrustproject.org
 +.canidae.collectingsocialphoto.org
 +.seniorliving.broadviewseniorliving.org
@@ -4577,6 +4581,7 @@ collect.foresightnews.pro
 +.beyondwickedmapping.org
 +.marketing.afterschoolallstars.org
 +.tk.wellnessdiscovered.org
++.swomanifefashionis.org
 +.metrics.stanfordhealthcare.org
 +.marketing.shreveport-bossier.org
 +.moonheappyrincenev.org
@@ -5881,11 +5886,13 @@ samsungcloudsolution.net
 +.wnt-some-push.net
 +.widrelroalrie.net
 +.whootitoukrol.net
++.whoortaglauck.net
 +.whoksoadousto.net
 +.whacmoltibsay.net
 +.t.webjavaskript.net
 +.want-some-psh.net
 +.wailoageebivy.net
++.vounooptouphu.net
 +.stats.videodelivery.net
 +.vaimucuvikuwu.net
 +.topsummerapps.net
@@ -6402,6 +6409,7 @@ proxyhog.prisma-data.net
 +.zooglaptob.net
 +.zograughoa.net
 +.zakurdedso.net
++.zaistouzit.net
 +.marketing.youththink.net
 +.xmindchina.net
 +.wigrooglie.net
@@ -6997,6 +7005,7 @@ proxyhog.prisma-data.net
 +.d1eyw3m16hfg9c.cloudfront.net
 +.d1ev866ubw90c6.cloudfront.net
 +.d1esebcdm6wx7j.cloudfront.net
++.d1e51ovcxdu97v.cloudfront.net
 +.d1e28xq8vu3baf.cloudfront.net
 +.d1djrodi2reo2w.cloudfront.net
 +.d1cykymlllue3h.cloudfront.net
@@ -9171,6 +9180,7 @@ iadmusicmat.music.126.net
 +.rmtxdn.icu
 +.rktjxj.icu
 +.rkgbqn.icu
++.rdllzz.icu
 +.rcyzsh.icu
 +.rbzupn.icu
 +.rajxjj.icu
@@ -9243,6 +9253,7 @@ iadmusicmat.music.126.net
 +.fwcnex.icu
 +.fmssoj.icu
 +.fekpcd.icu
++.fbvbrb.icu
 +.fafvvt.icu
 +.dytkgl.icu
 +.dyegif.icu
@@ -10552,6 +10563,7 @@ sashimi.royli.dev
 +.engage.ria-insurancesolutions.com
 +.metrics.restaurant-hospitality.com
 +.trk.restaurant-hospitality.com
++.recessionspeaksanybody.com
 +.ravineagencyirritating.com
 +.metrics.radissonhotelsamericas.com
 +.metrics.quickmanufacturingnews.com
@@ -11914,6 +11926,7 @@ samsungcloudsolution.com
 +.reticencecarefully.com
 +.track.reservationcounter.com
 +.oms.reputationdefender.com
++.rencessedessations.com
 +.et.rejuvenescenatural.com
 +.rehabilitatereason.com
 +.sstats.regionalacceptance.com
@@ -15541,6 +15554,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.ungothoritator.com
 +.unequaledchair.com
 +.unboredlinters.com
++.umpiresmagpied.com
 +.app.umassathletics.com
 +.t.umassathletics.com
 +.ukankingwithea.com
@@ -17261,6 +17275,7 @@ httpdns.volcengineapi.com
 +.marketing.tengointernet.com
 +.forms.telstraglobal.com
 +.lpbhnv.telemundoutah.com
++.tejoafotocmal.com
 +.sgtm.technikboerse.com
 +.techiteration.com
 +.marketing.techinsurance.com
@@ -17401,6 +17416,7 @@ httpdns.volcengineapi.com
 +.trk.e.seahawksemail.com
 +.scotergushing.com
 +.metrics.sciencedirect.com
++.schrankdecker.com
 +.schoonnonform.com
 +.scholarsslate.com
 +.scatteredheat.com
@@ -17605,6 +17621,7 @@ httpdns.volcengineapi.com
 +.images.learn.pharmacyclics.com
 +.go.pharamondlife.com
 +.tr1.peugeot-ipsos.com
++.pettlesmethol.com
 +.tracking.petrelocation.com
 +.perfectmarket.com
 +.tags.pepperl-fuchs.com
@@ -17635,6 +17652,7 @@ httpdns.volcengineapi.com
 +.target.pandasecurity.com
 +.mgejbc.pamelalovenyc.com
 +.bxumze.palmbeachpost.com
++.paleaehowking.com
 +.wisdom.palaisdetokyo.com
 +.metrics.palaceresorts.com
 +.pajamasguests.com
@@ -18183,7 +18201,6 @@ httpdns.volcengineapi.com
 +.guesswhatnews.com
 +.s.guelphmercury.com
 +.gucucmaikaups.com
-+.guangzhuiyuan.com
 +.track.gtienergywave.com
 +.stapegtm.growwwdigital.com
 +.activate.growthspotter.com
@@ -18511,6 +18528,7 @@ httpdns.volcengineapi.com
 +.sstats.cupidandgrace.com
 +.aqwvwn.cultfurniture.com
 +.cudavagommier.com
++.cuboidmewlers.com
 +.stats.cruisingpower.com
 +.dynamic-content.croquetteland.com
 +.crisp-freedom.com
@@ -18694,6 +18712,7 @@ httpdns.volcengineapi.com
 +.marketing.brucknertruck.com
 +.metrics.brooksrunning.com
 +.bromidsluluai.com
++.brionyamanist.com
 +.brightonclick.com
 +.nvpdaa.brightcellars.com
 +.marketing.braunintertec.com
@@ -18709,6 +18728,7 @@ httpdns.volcengineapi.com
 +.preferences.bowerswilkins.com
 +.bourrepardale.com
 +.boundlessveil.com
++.boundersapele.com
 +.boundarygoose.com
 +.bottleschance.com
 +.bordsnewsjule.com
@@ -19638,6 +19658,7 @@ adcdn.tencentmusic.com
 +.reachableads.com
 +.marketing.rdoequipment.com
 +.images.rjf.raymondjames.com
++.rameshdeisin.com
 +.app.ramblinwreck.com
 +.t.ramblinwreck.com
 +.load.gtm.radschlaeger.com
@@ -19662,6 +19683,7 @@ adcdn.tencentmusic.com
 +.dqqfrs.qatarairways.com
 +.pwrgrowthapi.com
 +.imp.pvnsolutions.com
++.puwhoughaugn.com
 +.tuna.purplespider.com
 +.lfqyah.pureformulas.com
 +.connect.purebranding.com
@@ -20642,6 +20664,7 @@ httpdns-ocloud.heytapmobile.com
 +.s.durhamregion.com
 +.durantconvey.com
 +.metrics.dunkindonuts.com
++.dumpleoxidic.com
 +.dulillipupan.com
 +.gtm.dstchemicals.com
 +.dsjhcgvhjsvc.com
@@ -21879,6 +21902,7 @@ oppo.yidianzixun.com
 +.rtbsuperhub.com
 +.rtbfradhome.com
 +.info.rsquaredcre.com
++.rsirkdevvgn.com
 +.metrics.royalmailfr.com
 +.royalcactus.com
 +.roxot-panel.com
@@ -22598,6 +22622,7 @@ oppo.yidianzixun.com
 +.jarvispopsu.com
 +.r451.jamanetwork.com
 +.jaletemetia.com
++.jaifeeveely.com
 +.p-events.ivideosmart.com
 +.ittorchicer.com
 +.itstuffnews.com
@@ -27186,6 +27211,7 @@ static.m.sjzhushou.com
 +.load.gtm.shipmondo.com
 +.shinypond.com
 +.clk.shinydaay.com
++.shatielsu.com
 +.gdfkkg.sharkbanz.com
 +.load.gtm.shark-net.com
 +.sharethis.com
@@ -28881,6 +28907,7 @@ v2.fm.n.duokanbox.com
 +.load.gtm.dagahogar.com
 +.dafapromo.com
 +.axoqvl.daf-shoes.com
++.cxornpyay.com
 +.cuttlefly.com
 +.redtrk.customtrk.com
 +.liwxfq.customink.com
@@ -30969,6 +30996,7 @@ geolocation.onetrust.com
 +.sadbmetrics.mujerhoy.com
 +.data.mujerhoy.com
 +.mjs.mudjeans.com
++.mudacban.com
 +.ssc.mtvjapan.com
 +.mtadvert.com
 +.mrybahnw.com
@@ -60024,6 +60052,7 @@ so.sina.cn
 cre.dp.sina.cn
 +.s7vf.cn
 +.rxys.cn
++.rojj.cn
 yun.rili.cn
 +.qnki.cn
 +.qnhi.cn
