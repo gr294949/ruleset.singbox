@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 28 Feb 2025 08:17:42 GMT
+! Last modified: Fri, 28 Feb 2025 12:39:50 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -6061,6 +6061,7 @@
 ||sicouthautso.net^
 ||shoorgaidooz.net^
 ||shoonsicousu.net^
+||shoarsaiglep.net^
 ||shitsowhoort.net^
 ||shiksinsagoa.net^
 ||shelourdoals.net^
@@ -21501,6 +21502,7 @@
 ||analytic.underarmour.com^
 ||unblitzlean.com^
 ||umpedshumal.com^
+||umoaydexfqf.com^
 ||umedadelemp.com^
 ||mdws.ukrainiancu.com^
 ||ukedrevenue.com^
@@ -22749,6 +22751,7 @@
 ||app.hokiesports.com^
 ||t.hokiesports.com^
 ||a8.hokengarden.com^
+||hoalaicheey.com^
 ||hoabauwezow.com^
 ||hnmikeloarp.com^
 ||eqkwat.histoiredor.com^
@@ -23468,6 +23471,7 @@
 ||msioay.backcountry.com^
 ||stats.backcountry.com^
 ||baccarat212.com^
+||azlohwnummu.com^
 ||st.azcardinals.com^
 ||fdkeip.azafashions.com^
 ||aywnaoliigc.com^
@@ -24785,6 +24789,7 @@
 ||stats.navedislam.com^
 ||gtm.navadohair.com^
 ||tr.email.nauticexpo.com^
+||naugaugair.com^
 ||ping.naturadapt.com^
 ||nativclick.com^
 ||target.nationwide.com^
@@ -26059,6 +26064,7 @@
 ||stats.calldorado.com^
 ||collector.cakeresume.com^
 ||caitoasece.com^
+||ca-log.cafe24data.com^
 ||ca-api.cafe24data.com^
 ||uvwvjd.cablematic.com^
 ||ca2686564a.com^
@@ -29258,6 +29264,7 @@
 ||bidderads.com^
 ||aiq-in.bicycling.com^
 ||td.bicycling.com^
+||bhohreatz.com^
 ||bhanphevg.com^
 ||marketing.bftwealth.com^
 ||beyanmaan.com^
@@ -31202,6 +31209,7 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
+||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
