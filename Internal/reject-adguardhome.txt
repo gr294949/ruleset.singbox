@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 01 Mar 2025 12:36:59 GMT
+! Last modified: Sat, 01 Mar 2025 16:17:52 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -339,7 +339,7 @@
 ||tq-eu.foseller-a.online^
 ||xml.foseller-a.online^
 ||tq.foseller-a.online^
-||a.ztulcrynw.online^
+||ztulcrynw.online^
 ||app.yogurtfit.online^
 ||go.visitpage.online^
 ||rtk.revitabem.online^
@@ -924,6 +924,7 @@
 ||c.down.tube^
 ||track.viewitquickly.tech^
 ||marketing.precisiondoor.tech^
+||lnfncvjaweewi.tech^
 ||llpzoaezdwwah.tech^
 ||itvfpesimiyuy.tech^
 ||dtrurjpkugcsv.tech^
@@ -1259,6 +1260,7 @@
 ||relockembarge.shop^
 ||reekedtravels.shop^
 ||ramaismprecel.shop^
+||prearmsspreed.shop^
 ||postiewennish.shop^
 ||odallerdosser.shop^
 ||nagsmanasdics.shop^
@@ -1297,6 +1299,7 @@
 ||aliciafibrous.shop^
 ||alamodewabuma.shop^
 ||agoutyspattee.shop^
+||accuserhorste.shop^
 ||zuisinchills.shop^
 ||yarranpyrope.shop^
 ||wemmyoolakan.shop^
@@ -1374,6 +1377,7 @@
 ||maltingmear.shop^
 ||legitfizzed.shop^
 ||lawedclimbs.shop^
+||kaiwiscarps.shop^
 ||jotsboggish.shop^
 ||load.sgtm.jaspercaven.shop^
 ||a.heizkoerper.shop^
@@ -1644,6 +1648,7 @@
 ||vamgggllztusk.love^
 ||ntuulavmbjdgo.love^
 ||irwyiaexxopok.love^
+||gygvodegxicbv.love^
 ||dywuhp-unbnf.love^
 ||cpngiubbcnq.love^
 ||partner.whoopdedoo.love^
@@ -2223,6 +2228,7 @@
 ||slfxgbhlleuvg.xyz^
 ||pushmaster-in.xyz^
 ||pmiswxkxztebq.xyz^
+||nxfaswayrubuc.xyz^
 ||ngjwlvrfbwlvm.xyz^
 ||msfumbsqosjdg.xyz^
 ||milkygoodness.xyz^
@@ -3522,12 +3528,14 @@
 ||fuddlerpanther.top^
 ||forfarscarotin.top^
 ||fermiumoregoni.top^
+||evenerspellock.top^
 ||embrawnseeping.top^
 ||dulosismispage.top^
 ||costivecohorts.top^
 ||v1.bonnesaffaires.top^
 ||bestcontentweb.top^
 ||bestcontentfee.top^
+||awardeeramjets.top^
 ||agaroidapposer.top^
 ||786yfvedhcbxjk.top^
 ||zyvbvqvjjkvqz.top^
@@ -3624,6 +3632,7 @@
 ||colentkeruing.top^
 ||canopusastray.top^
 ||clk.burningritual.top^
+||burgeraphrite.top^
 ||boodiecawquaw.top^
 ||bobblegoobers.top^
 ||birlingtriced.top^
@@ -3697,6 +3706,7 @@
 ||creticennoic.top^
 ||c3j7rk-rtbix.top^
 ||bygonearabin.top^
+||bunchybombus.top^
 ||bromalsbroke.top^
 ||bortschtinea.top^
 ||bedelsdefter.top^
@@ -5613,6 +5623,7 @@
 ||omoevcozeezhg.one^
 ||lpyyzoetztnmv.one^
 ||inxgfxylzkkgi.one^
+||escgjyxnxbktf.one^
 ||load.collect2.performance.one^
 ||evsw-zfdmag.one^
 ||ientent.stre4mplay.one^
@@ -11524,6 +11535,7 @@
 ||safestgatetocontent.com^
 ||rprinc6etodn9kunjiv.com^
 ||ruw.roanokeunderwriting.com^
+||roadstupidsupporter.com^
 ||track.info.rheumatologyadvisor.com^
 ||t-s.rheumatoidarthritis.com^
 ||t.rheumatoidarthritis.com^
@@ -15984,6 +15996,7 @@
 ||ptyalinbrattie.com^
 ||senthg.prxperformance.com^
 ||prudentperform.com^
+||provisionskiss.com^
 ||proreancostaea.com^
 ||propertyofnews.com^
 ||propellerclick.com^
@@ -16091,6 +16104,7 @@
 ||st.nylinvestments.com^
 ||t.nylinvestments.com^
 ||gwvrel.ny-onlinestore.com^
+||nuyqsshmxgukny.com^
 ||count.nuanyuehanxing.com^
 ||marketing.nowplayingutah.com^
 ||track.offer.novella-shop24.com^
@@ -22898,6 +22912,7 @@
 ||sadbmetrics.habitatsoft.com^
 ||gypsitenevi.com^
 ||gybyxsy1588.com^
+||gxeebcponhv.com^
 ||track.gummiesinfo.com^
 ||tags.gskpro-com.preview-cf65.gskinternet.com^
 ||tickets.gs-warriors.com^
@@ -23255,6 +23270,7 @@
 ||forms.cybersource.com^
 ||info.cybersource.com^
 ||7hdl8dlfjm4g.www.cybernetman.com^
+||cuzrkugucdu.com^
 ||yxofzr.currentbody.com^
 ||load.future.curlysecret.com^
 ||culptyjhitf.com^
@@ -30623,6 +30639,7 @@
 ||cx.quadient.com^
 ||ar.quadient.com^
 ||ap.quadient.com^
+||qktpyrtr.com^
 ||qkjlwdkk.com^
 ||qivaqhtb.com^
 ||webstat.qiumibao.com^
@@ -31325,7 +31342,6 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
-||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
