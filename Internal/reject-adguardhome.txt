@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 02 Mar 2025 12:36:05 GMT
+! Last modified: Sun, 02 Mar 2025 15:05:04 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2532,6 +2532,7 @@
 ||72891504.xyz^
 ||72888710.xyz^
 ||72560514.xyz^
+||72123581.xyz^
 ||69799884.xyz^
 ||65894140.xyz^
 ||65122038.xyz^
@@ -2548,6 +2549,7 @@
 ||4fdd7f4b.xyz^
 ||4afa45f1.xyz^
 ||49766251.xyz^
+||49709796.xyz^
 ||49333767.xyz^
 ||48654012.xyz^
 ||47296536.xyz^
@@ -31315,7 +31317,6 @@
 ||adbd.liuxue86.com^
 ||list-ads.com^
 ||lirretsn.com^
-||linksprf.com^
 ||linkmink.com^
 ||st.linkfire.com^
 ||analytics.pointdrive.linkedin.com^
@@ -57290,6 +57291,7 @@
 ||data-c5925d7d99.pcgames.de^
 ||data-5d621ddc78.pcgames.de^
 ||jdgtgb.pcgames.de^
+||utiq.pcgames.de^
 ||load.sst.palomat.de^
 ||data-49dc40e643.onvista.de^
 ||wttbup.novasol.de^
@@ -60190,6 +60192,7 @@
 ||qnki.cn^
 ||qnhi.cn^
 ||news.qcyz.cn^
+||pjwk.cn^
 ||pisb.cn^
 ||odxh.cn^
 ||adx.mala.cn^
