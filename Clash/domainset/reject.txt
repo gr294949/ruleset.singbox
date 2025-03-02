@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-02T05:13:21.281Z
-# Size: 63627
+# Last Updated: 2025-03-02T07:55:35.678Z
+# Size: 63611
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -732,7 +732,6 @@ comments.gazo.space
 +.t1.trex.media
 +.rtb-apac-v4.oppa.media
 +.cpm.oppa.media
-+.vlogs.deja.media
 +.adjs.media
 +.tri.media
 +.nui.media
@@ -10933,7 +10932,6 @@ sashimi.royli.dev
 +.metrics.jamestowndistributors.com
 +.ibho.secure.investorsbusinesshour.com
 +.info.internetconsultinginc.com
-+.secure.intelligentdatawisdom.com
 +.institutehopelessbeck.com
 +.inspectorstrongerpill.com
 +.track.injuryjusticealliance.com
@@ -17392,6 +17390,7 @@ httpdns.volcengineapi.com
 +.ebis-tracking.tcb-fukushima.com
 +.sgtm.tankterminals.com
 +.takeoverrings.com
++.metrics.t-mobilemoney.com
 +.sysoutvariola.com
 +.secureanalytics.synchronybank.com
 +.analytics.synchronybank.com
@@ -17692,7 +17691,6 @@ httpdns.volcengineapi.com
 +.stats.pointflottant.com
 +.events-endpoint.pointandplace.com
 +.observe-nexus.pointandplace.com
-+.t.pointandplace.com
 +.dmkt.point-ad-game.com
 +.podsolnu9hi10.com
 +.app.poconoraceway.com
@@ -18827,7 +18825,6 @@ httpdns.volcengineapi.com
 +.fjortk.braun-hamburg.com
 +.brandreachsys.com
 +.tracking1.brandmentions.com
-+.tracking.brandmentions.com
 +.brand-display.com
 +.lu9xve2c97l898gjjxv4.brain-sharper.com
 +.fpcn.bpsgameserver.com
@@ -20621,7 +20618,6 @@ httpdns-ocloud.heytapmobile.com
 +.bxumze.gadsdentimes.com
 +.sst.fxifyfutures.com
 +.info.fxcm-chinese.com
-+.stat-ssl.fx-rashinban.com
 +.seniorliving.fvbrandywine.com
 +.fuzeeretells.com
 +.communications.fusioncharts.com
@@ -20829,7 +20825,6 @@ httpdns-ocloud.heytapmobile.com
 +.images.hcp.dfamessaging.com
 +.plan.devbyexample.com
 +.k98k.deudaaliviar.com
-+.desirebucket.com
 +.gyvyoc.dermoeczanem.com
 +.depucelgurts.com
 +.a8.denwa-hikari.com
@@ -21718,6 +21713,7 @@ oppo.yidianzixun.com
 +.track.thelitlamps.com
 +.cjejjz.thelasthunt.com
 +.yqpzcf.thekoinclub.com
++.thejavalane.com
 +.analytics.thehartford.com
 +.metrics.thehartford.com
 +.gtm.thehappybed.com
@@ -25153,7 +25149,6 @@ httpdns.push.oppomobile.com
 +.detnmz.livestrong.com
 +.analytics.livestream.com
 +.vtodss.livenation.com
-+.livelumber.com
 +.creatives.livejasmin.com
 +.crmtt.livejasmin.com
 +.crmpt.livejasmin.com
@@ -27510,6 +27505,7 @@ static.m.sjzhushou.com
 +.images.constellation.quintiles.com
 +.images.siteconnect.quintiles.com
 +.images.ime.quintiles.com
++.quillkick.com
 +.data.investing.questrade.com
 +.target.questrade.com
 +.app.info.questrade.com
@@ -28018,7 +28014,6 @@ choice.microsoft.com
 +.marketing.medsphere.com
 +.medleyads.com
 +.digital.medimpact.com
-+.c3metrics.medifast1.com
 +.mediasama.com
 +.media-412.com
 +.marketing.medfusion.com
@@ -37157,7 +37152,6 @@ app01.nodes.gslb.mi-idc.com
 +.yixvbp.merkal.com
 +.images.news.meraas.com
 +.strack.mentor.com
-+.t.menepe.com
 +.sstats.meijer.com
 adm.meiguo.com
 +.ufnbgh.meierq.com
@@ -38312,7 +38306,6 @@ device-metrics-us-2.amazon.com
 +.alxbgo.com
 +.altopd.com
 +.go2.altaro.com
-+.ad.aloodo.com
 +.allyes.com
 +.sstats2.allure.com
 +.stats2.allure.com
@@ -38926,7 +38919,6 @@ ad.api.3g.tudou.com
 +.marketing.sstid.com
 +.3.ssqzj.com
 +.sslph.com
-+.tracker.ssl0d.com
 +.ssevt.com
 +.srvgl.com
 +.images.go.spurs.com
@@ -39289,7 +39281,6 @@ analytics.nexon.com
 +.somni.mycme.com
 +.earthworm.mxdvl.com
 +.go.mvtec.com
-+.geo.mtvnn.com
 +.ssc.mtvla.com
 +.tracker.mtrtb.com
 +.mtfc8.com
@@ -44490,7 +44481,6 @@ gif.7mmtv.sx
 +.b.socialdemokraterna.se
 +.pkntko.nordicchoicehotels.se
 +.gfdlnadm.georgjensen-damask.se
-+.fusion.bonniertidskrifter.se
 +.ss.beredskapsfabriken.se
 +.dnkeyt.svetsochtillbehor.se
 +.gtm.neckermann-nordic.se
@@ -50927,7 +50917,6 @@ sa.holopin.io
 +.api.taggrs.io
 +.collector.sspinc.io
 +.reports-api.sqreen.io
-+.tag.digops.sincro.io
 +.sf-ads.io
 +.ingest.make.rvapps.io
 +.lofo3l15c674.platform.replai.io
@@ -51097,6 +51086,7 @@ umami.rss3.io
 +.az.nzn.io
 +.lqm.io
 +.lp4.io
++.k5a.io
 +.tracking.i2w.io
 +.geoinfo.i2w.io
 +.cat.gfx.io
@@ -51587,7 +51577,6 @@ ad.yixin.im
 +.ywayoh.ecipo.hu
 +.saa.dyson.hu
 +.nukktn.dorko.hu
-+.mlweb.dmlab.hu
 +.trk.delma.hu
 +.tracking.brady.hu
 +.gwvvgz.borgo.hu
@@ -56783,7 +56772,6 @@ grs.dbankcloud.eu
 +.data-125f69cccb.eppelheim.de
 +.mquwyx.engelhorn.de
 +.data.engelhorn.de
-+.tracking.emsmobile.de
 +.zicgoi.emmiegray.de
 +.sst.emmamerch.de
 +.analytics.egernsund.de
@@ -57211,7 +57199,6 @@ grs.dbankcloud.eu
 +.data-16d7ec9a30.wn-jobs.de
 +.data-16d7ec9a30.wn-immo.de
 +.data-b640a0ce46.wmp-dev.de
-+.tracker.winload.de
 +.data-cc10b861be.winbiap.de
 +.counter.webmart.de
 +.data-cd0b4bd19f.webauto.de
@@ -57592,7 +57579,6 @@ grs.dbankcloud.eu
 +.data-dea12ffb25.prisma.de
 +.data-39f71aefaf.prisma.de
 +.rdtk.practs.de
-+.tracking.plinga.de
 +.data-d61ee02db0.pirsch.de
 +.data-95c8053841.pirsch.de
 +.nuyibu.pieper.de
@@ -59461,7 +59447,6 @@ p.cloudcraft.co
 +.skated.co
 +.load.sgtm.revelx.co
 +.stats.readng.co
-+.fog.pixual.co
 +.inbound-analytics.pixlee.co
 +.load.events.palmes.co
 +.ad.ohmyad.co
@@ -61863,7 +61848,6 @@ hc-ssp.sm.cn
 +.metricas.agzero.com.br
 +.incvag.agatha.com.br
 +.sa.adidas.com.br
-+.nctrk.abmail.com.br
 +.obfnkc.yuool.com.br
 +.marketing.wesco.com.br
 +.gtbvre.vapza.com.br
