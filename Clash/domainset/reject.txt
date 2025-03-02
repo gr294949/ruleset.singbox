@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-02T08:03:39.635Z
-# Size: 63610
+# Last Updated: 2025-03-02T11:56:19.524Z
+# Size: 63611
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29554,6 +29554,7 @@ advertise.baicizhan.com
 +.data.message.aircanada.com
 +.iqbjqv.airarabia.com
 +.aimpocket.com
++.aillaeuyn.com
 +.ailil-fzt.com
 +.images.notifications.aigdirect.com
 +.a8track.aidmybank.com
