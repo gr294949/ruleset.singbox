@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-02T15:04:41.497Z
-# Size: 63615
+# Last Updated: 2025-03-03T02:47:55.308Z
+# Size: 63628
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3273,6 +3273,7 @@ grs.dbankcloud.asia
 +.dabajd.xyz
 +.cysgcm.xyz
 +.cycvyo.xyz
++.cxuapz.xyz
 +.cwwgqu.xyz
 +.cvujac.xyz
 +.cvmuia.xyz
@@ -3732,6 +3733,7 @@ grs.dbankcloud.asia
 +.spareforads.top
 +.solelyguids.top
 +.smartdating.top
++.sicksarrish.top
 +.shopsonnies.top
 +.sepalsdhobi.top
 +.screensnaps.top
@@ -3983,6 +3985,7 @@ grs.dbankcloud.asia
 +.wcwkcus.top
 +.wclimie.top
 +.wcinvde.top
++.vaykjwn.top
 +.uyuwkbt.top
 +.uyretut.top
 +.uyislot.top
@@ -4800,6 +4803,7 @@ collect.foresightnews.pro
 +.alfelixstownrus.org
 +.marketing.visitmilwaukee.org
 +.marketing.visitannapolis.org
++.veideasandcome.org
 +.tracking.email.trinity-health.org
 +.page.email.trinity-health.org
 +.drjbzg.studenthousing.org
@@ -9274,6 +9278,7 @@ iadmusicmat.music.126.net
 +.pofbpx.icu
 +.pnpbjt.icu
 +.pmtrkp.icu
++.pkvjrb.icu
 +.pinjzp.icu
 +.phxdrf.icu
 +.pghglj.icu
@@ -9341,6 +9346,7 @@ iadmusicmat.music.126.net
 +.dyegif.icu
 +.dtntnl.icu
 +.dqlhuf.icu
++.difzhd.icu
 +.difhil.icu
 +.dfhthh.icu
 +.derwbl.icu
@@ -13881,6 +13887,7 @@ samsungcloudsolution.com
 +.info.harvardapparatus.com
 +.marketing.harrishealthcare.com
 +.resources.harneysfiduciary.com
++.hardnessanything.com
 +.tk.happysavingsblog.com
 +.t.happysavingsblog.com
 +.pl.hackathon-makers.com
@@ -15661,6 +15668,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.t.ucirvinesports.com
 +.ubiquitousyard.com
 +.tzzvvohntnlvan.com
++.tzhrmcnidxqwrb.com
 +.tylocintriones.com
 +.tracking.twocommagrowth.com
 +.tuschesanaitis.com
@@ -19967,6 +19975,7 @@ js.partnerstack.com
 +.oockighuchee.com
 +.onvictinitor.com
 +.moreinfo.onnowdigital.com
++.onmoxskatoxx.com
 +.onlyfansrips.com
 +.ikghqz.online-marks.com
 +.oneselfoxide.com
@@ -23170,6 +23179,7 @@ httpdns.huaweicloud.com
 +.asc.e-conolight.com
 +.dzienkudrow.com
 +.dzeaqmeuaql.com
++.dzdmvnegsov.com
 +.dyywcxfftue.com
 +.dwhfqyafsct.com
 +.dupsyduckom.com
@@ -26585,6 +26595,7 @@ simple.cloudsmith.com
 +.9xob25oszs.com
 +.9fe538916e.com
 +.9d87b35397.com
++.9cd4abb9e0.com
 +.ee17c6b8f1.9b8619b026.com
 +.9adbbad978.com
 +.999xx999kk.com
@@ -27301,6 +27312,7 @@ static.m.sjzhushou.com
 +.sitescout.com
 +.metrics.aws.sitepoint.com
 +.oqgrax.sissy-boy.com
++.sinkrersf.com
 +.sincalled.com
 +.partner.simplymix.com
 +.sgtm.simoahava.com
@@ -60171,6 +60183,7 @@ yun.rili.cn
 +.news.qcyz.cn
 +.pjwk.cn
 +.pisb.cn
++.oqea.cn
 +.odxh.cn
 +.adx.mala.cn
 +.xc.macd.cn

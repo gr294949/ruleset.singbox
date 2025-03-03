@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 02 Mar 2025 15:05:04 GMT
+! Last modified: Mon, 03 Mar 2025 02:48:10 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -3258,6 +3258,7 @@
 ||dabajd.xyz^
 ||cysgcm.xyz^
 ||cycvyo.xyz^
+||cxuapz.xyz^
 ||cwwgqu.xyz^
 ||cvujac.xyz^
 ||cvmuia.xyz^
@@ -3717,6 +3718,7 @@
 ||spareforads.top^
 ||solelyguids.top^
 ||smartdating.top^
+||sicksarrish.top^
 ||shopsonnies.top^
 ||sepalsdhobi.top^
 ||screensnaps.top^
@@ -3968,6 +3970,7 @@
 ||wcwkcus.top^
 ||wclimie.top^
 ||wcinvde.top^
+||vaykjwn.top^
 ||uyuwkbt.top^
 ||uyretut.top^
 ||uyislot.top^
@@ -4785,6 +4788,7 @@
 ||alfelixstownrus.org^
 ||marketing.visitmilwaukee.org^
 ||marketing.visitannapolis.org^
+||veideasandcome.org^
 ||tracking.email.trinity-health.org^
 ||page.email.trinity-health.org^
 ||drjbzg.studenthousing.org^
@@ -9262,6 +9266,7 @@
 ||pofbpx.icu^
 ||pnpbjt.icu^
 ||pmtrkp.icu^
+||pkvjrb.icu^
 ||pinjzp.icu^
 ||phxdrf.icu^
 ||pghglj.icu^
@@ -9329,6 +9334,7 @@
 ||dyegif.icu^
 ||dtntnl.icu^
 ||dqlhuf.icu^
+||difzhd.icu^
 ||difhil.icu^
 ||dfhthh.icu^
 ||derwbl.icu^
@@ -13870,6 +13876,7 @@
 ||info.harvardapparatus.com^
 ||marketing.harrishealthcare.com^
 ||resources.harneysfiduciary.com^
+||hardnessanything.com^
 ||tk.happysavingsblog.com^
 ||t.happysavingsblog.com^
 ||pl.hackathon-makers.com^
@@ -15650,6 +15657,7 @@
 ||t.ucirvinesports.com^
 ||ubiquitousyard.com^
 ||tzzvvohntnlvan.com^
+||tzhrmcnidxqwrb.com^
 ||tylocintriones.com^
 ||tracking.twocommagrowth.com^
 ||tuschesanaitis.com^
@@ -19956,6 +19964,7 @@
 ||oockighuchee.com^
 ||onvictinitor.com^
 ||moreinfo.onnowdigital.com^
+||onmoxskatoxx.com^
 ||onlyfansrips.com^
 ||ikghqz.online-marks.com^
 ||oneselfoxide.com^
@@ -23161,6 +23170,7 @@
 ||asc.e-conolight.com^
 ||dzienkudrow.com^
 ||dzeaqmeuaql.com^
+||dzdmvnegsov.com^
 ||dyywcxfftue.com^
 ||dwhfqyafsct.com^
 ||dupsyduckom.com^
@@ -26577,6 +26587,7 @@
 ||9xob25oszs.com^
 ||9fe538916e.com^
 ||9d87b35397.com^
+||9cd4abb9e0.com^
 ||ee17c6b8f1.9b8619b026.com^
 ||9adbbad978.com^
 ||999xx999kk.com^
@@ -27293,6 +27304,7 @@
 ||sitescout.com^
 ||metrics.aws.sitepoint.com^
 ||oqgrax.sissy-boy.com^
+||sinkrersf.com^
 ||sincalled.com^
 ||partner.simplymix.com^
 ||sgtm.simoahava.com^
@@ -60194,6 +60206,7 @@
 ||news.qcyz.cn^
 ||pjwk.cn^
 ||pisb.cn^
+||oqea.cn^
 ||odxh.cn^
 ||adx.mala.cn^
 ||xc.macd.cn^
