@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 03 Mar 2025 12:41:01 GMT
+! Last modified: Mon, 03 Mar 2025 14:03:18 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -18631,6 +18631,7 @@
 ||bordsnewsjule.com^
 ||sanalytics.boomerangmena.com^
 ||oczehj.bookaacruises.com^
+||boiledegglabs.com^
 ||boffoadsfeeds.com^
 ||cenonc.bobochicparis.com^
 ||load.data.boardsandmore.com^
@@ -32679,6 +32680,7 @@
 ||adkernel.com^
 ||adirects.com^
 ||adinfuse.com^
+||adincube.com^
 ||adfpoint.com^
 ||adentifi.com^
 ||beacon.adelphic.com^
@@ -38952,6 +38954,7 @@
 ||trk.optum.com^
 ||data.em.optum.com^
 ||optnx.com^
+||optmd.com^
 ||ssa.oprah.com^
 ||sa.oprah.com^
 ||oppuz.com^
