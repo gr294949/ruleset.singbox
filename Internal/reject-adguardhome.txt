@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 04 Mar 2025 12:40:53 GMT
+! Last modified: Tue, 04 Mar 2025 14:18:47 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1257,6 +1257,7 @@
 ||laciestsculped.shop^
 ||jurantsepinine.shop^
 ||juniatacidaris.shop^
+||iterantunacute.shop^
 ||itelmesplanted.shop^
 ||inbreedbeelbow.shop^
 ||hiphaltlauroyl.shop^
@@ -1399,6 +1400,7 @@
 ||peglessbath.shop^
 ||pallivermis.shop^
 ||trrrk.novahairpro.shop^
+||murmursutta.shop^
 ||mnemtracery.shop^
 ||megmhokluck.shop^
 ||maltingmear.shop^
@@ -1446,6 +1448,7 @@
 ||sfdsgfg.notice-def.shop^
 ||nopalsoxid.shop^
 ||monassumph.shop^
+||mazerflush.shop^
 ||loonysnaws.shop^
 ||load.gtm.ladenregal.shop^
 ||inogenkyte.shop^
@@ -2332,6 +2335,7 @@
 ||nexusbloom.xyz^
 ||ncawqlxxjq.xyz^
 ||kxyscjyaqk.xyz^
+||kvpbsnkgjy.xyz^
 ||kocauthoaw.xyz^
 ||koabouphie.xyz^
 ||kfpicimage.xyz^
@@ -3473,6 +3477,7 @@
 ||poiejdhmkjcnd.top^
 ||pizzlessclimb.top^
 ||phoceansteaks.top^
+||penjxqxbieezy.top^
 ||patakaendymal.top^
 ||orisonaunties.top^
 ||orientczarism.top^
@@ -3491,6 +3496,7 @@
 ||jybaekaqbmmmb.top^
 ||jrolyrlabybmz.top^
 ||jovqyymemwezy.top^
+||jelokerrvvkqj.top^
 ||jbzmwqmwqyleb.top^
 ||infiledeplant.top^
 ||hexinemicerun.top^
@@ -3631,6 +3637,7 @@
 ||oursexhance.top^
 ||moreadsfeed.top^
 ||mimosaavior.top^
+||larryhagbut.top^
 ||ijeujkdhnvb.top^
 ||hammerhewer.top^
 ||haloedessed.top^
@@ -3715,6 +3722,7 @@
 ||dajiahao8.top^
 ||d24ak3f2b.top^
 ||axvelures.top^
+||atefpurga.top^
 ||arcedcoss.top^
 ||ao1201kas.top^
 ||ao1123kas.top^
@@ -4686,6 +4694,7 @@
 ||trk.financialdollar.org^
 ||marketing.exploregwinnett.org^
 ||enhancedjourney.org^
+||dolularhenewrev.org^
 ||marketing.discovernewport.org^
 ||metrics.consumerreports.org^
 ||commercialvalue.org^
@@ -4695,6 +4704,7 @@
 ||track.borderlessfill9.org^
 ||bobabillydirect.org^
 ||health.atlanticgeneral.org^
+||athyimemediates.org^
 ||go.apostasdobrasil.org^
 ||alfelixstownrus.org^
 ||yfueuktureukwo.org^
@@ -5526,6 +5536,7 @@
 ||tttcraukuyqff.one^
 ||sdiiilldgbhrm.one^
 ||omoevcozeezhg.one^
+||njicuiabvwawm.one^
 ||lpyyzoetztnmv.one^
 ||inxgfxylzkkgi.one^
 ||escgjyxnxbktf.one^
@@ -7127,6 +7138,7 @@
 ||djv99sxoqpv11.cloudfront.net^
 ||djucew6ul1t0k.cloudfront.net^
 ||dj4odketdva9s.cloudfront.net^
+||dil4q0t0blrf8.cloudfront.net^
 ||dic9vgwbkxd8r.cloudfront.net^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||di2xlfgjbl0v7.cloudfront.net^
@@ -8710,6 +8722,7 @@
 ||responservbzh.icu^
 ||qcwnfoqtqgvau.icu^
 ||pontxukybocim.icu^
+||oxfygsqqgnfts.icu^
 ||kiqqxuwxgboqm.icu^
 ||jphvuphqzgyak.icu^
 ||idbagqaerpifx.icu^
@@ -15874,6 +15887,7 @@
 ||cdn2.sales-frontier.com^
 ||safecoprograms.com^
 ||sadbasindinner.com^
+||rviqwckvfbjtay.com^
 ||mccylg.rutlandcycling.com^
 ||trk.runtechsystems.com^
 ||rugtranslating.com^
@@ -25375,6 +25389,7 @@
 ||insights.jackporter.com^
 ||jaavnacsdw.com^
 ||zneerf.ixtem-moto.com^
+||iwtdbhvgvk.com^
 ||shop.iwantclips.com^
 ||app.iuhoosiers.com^
 ||t.iuhoosiers.com^
@@ -27520,6 +27535,7 @@
 ||ingest.make.rvohealth.com^
 ||ruxacwdfu.com^
 ||rumsroots.com^
+||rumqrobuv.com^
 ||fygild.rueonline.com^
 ||umlvbe.rucipello.com^
 ||mail.rtdyotrck.com^
@@ -60577,6 +60593,7 @@
 |collector.wasu.cn^
 ||delivery.wasu.cn^
 ||uojx.cn^
+||ujmz.cn^
 ||bdjs.uimg.cn^
 ||tuia.cn^
 ||go.tuev.cn^
@@ -63412,6 +63429,7 @@
 ||metrics.vogue.com.au^
 ||metrics.taste.com.au^
 ||tracking.stihl.com.au^
+||stats.senty.com.au^
 ||metrics.repco.com.au^
 ||deliver.oztam.com.au^
 ||nocaadobefpc.optus.com.au^
