@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 03 Mar 2025 14:31:36 GMT
+! Last modified: Tue, 04 Mar 2025 01:51:58 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -500,6 +500,7 @@
 ||marketing-eme.toxicology.abbott^
 ||marketing.toxicology.abbott^
 ||metrics.abbott^
+||ymqlrkznenfcd.world^
 ||data-84a0f3455d.transfermarkt.world^
 ||data-1c0a3d83e3.transfermarkt.world^
 ||rechenschieber.transfermarkt.world^
@@ -560,6 +561,7 @@
 ||track.mediacareplan.today^
 ||grslim.greenyslimtry.today^
 ||bzddpjcutxcvk.today^
+||bumidpuaraodp.today^
 ||aajhkzdwbmloi.today^
 ||xx-umomfzqik.today^
 ||news-bbipasu.today^
@@ -627,6 +629,7 @@
 ||vrqdzfzzlyalb.space^
 ||olivedinflats.space^
 ||cbjcfrakrdzzs.space^
+||amfzugolptnpo.space^
 ||ueykjfltxqsb.space^
 ||durgapur.globalsearch.space^
 ||amravati.globalsearch.space^
@@ -988,6 +991,7 @@
 ||pahtef.tech^
 ||s.mannes.tech^
 ||stat.lexhub.tech^
+||a.hit360.tech^
 ||gtm.cylock.tech^
 ||xszjh.tech^
 ||track.robee.tech^
@@ -1307,6 +1311,7 @@
 ||dipodesoutane.shop^
 ||cygnetgeorama.shop^
 ||crumendeparts.shop^
+||crestsrenovel.shop^
 ||cowsonbaggara.shop^
 ||chiningpassen.shop^
 ||brassicbabies.shop^
@@ -3590,6 +3595,7 @@
 ||wacapousoth.top^
 ||valewhatchy.top^
 ||triconsenex.top^
+||tessaragair.top^
 ||stylesbatty.top^
 ||spareforads.top^
 ||solelyguids.top^
@@ -5695,6 +5701,7 @@
 ||baihoagleewhaum.net^
 ||auvauvixoazedro.net^
 ||pl1.animes-stream24.net^
+||amoteehoodaumse.net^
 ||ageetsaimouphih.net^
 ||zoowhausairoun.net^
 ||flexpod.ynsecureserver.net^
@@ -6053,6 +6060,7 @@
 ||paiglumousty.net^
 ||managedaccounts.pacificpower.net^
 ||matrk.pacificpower.net^
+||outsoupsergy.net^
 ||oolsutsougri.net^
 ||oavurognaurd.net^
 ||oardaptaunga.net^
@@ -6564,6 +6572,7 @@
 ||info.electrifai.net^
 ||eertoamogn.net^
 ||eepengoons.net^
+||eeksoshair.net^
 ||eejeephaux.net^
 ||edokouksuk.net^
 ||go.easygadget.net^
@@ -8447,6 +8456,7 @@
 ||578297a5.b-cdn.net^
 ||3426e3de.b-cdn.net^
 ||propsid.b-cdn.net^
+||1wincdn.b-cdn.net^
 ||st-fly.b-cdn.net^
 ||bda1.ayule.net^
 ||analytics.avcdn.net^
@@ -9186,6 +9196,7 @@
 ||hwtadf.icu^
 ||hvddxj.icu^
 ||hsutav.icu^
+||hmjmjz.icu^
 ||hjdjfl.icu^
 ||grmzwc.icu^
 ||gcomwx.icu^
@@ -9199,6 +9210,7 @@
 ||dfhthh.icu^
 ||derwbl.icu^
 ||bypllv.icu^
+||bybrrn.icu^
 ||bxzlfr.icu^
 ||bjtlzv.icu^
 ||bidotz.icu^
@@ -10290,7 +10302,9 @@
 ||get.americanseniorcareonline.com^
 ||afternoonpregnantgetting.com^
 ||afflictionlawcommemorate.com^
+||adriftventilatormeatloaf.com^
 ||absorbedscholarsvolatile.com^
+||abruptplentifulcoalition.com^
 ||sxjfhh.zanesvilletimesrecorder.com^
 ||sp.zanesvilletimesrecorder.com^
 ||wishesantennarightfully.com^
@@ -16044,6 +16058,7 @@
 ||info.norman-spencer.com^
 ||noondaylingers.com^
 ||nomalleadzuaff.com^
+||nokeensalupsoo.com^
 ||aphid.nihilnegativum.com^
 ||ngshospicalada.com^
 ||metrics.nflextrapoints.com^
@@ -17106,6 +17121,7 @@
 ||wofgtbofyaslp.com^
 ||wnt-some-push.com^
 ||wkcwtmsbrmbka.com^
+||wjqnenstfwelf.com^
 ||wittolsaortic.com^
 ||trk.wittigsystems.com^
 ||witnessjacket.com^
@@ -19352,6 +19368,7 @@
 ||yptqys.tianqistatic.com^
 ||datas.tianqistatic.com^
 ||thymeycimnel.com^
+||thuoccultive.com^
 ||mastodon.thrustcarbon.com^
 ||throwsceases.com^
 ||thrivescriss.com^
@@ -19985,6 +20002,7 @@
 ||tttd.niche-beauty.com^
 ||tccd.niche-beauty.com^
 ||adtd.niche-beauty.com^
+||nhywupchagze.com^
 ||collector-statistics.nhn-commerce.com^
 ||nhdkovgsxbbn.com^
 ||tr.mailperf.ngt-services.com^
@@ -21003,6 +21021,7 @@
 ||marketing.cbancnetwork.com^
 ||cayuganwhewl.com^
 ||causingguard.com^
+||catwisekusan.com^
 ||akzdrh.catofashions.com^
 ||my.catfinancial.com^
 ||stats.castingdepot.com^
@@ -23563,6 +23582,7 @@
 ||bayshorline.com^
 ||app.baylorbears.com^
 ||t.baylorbears.com^
+||baucuptaugo.com^
 ||offers.bathexperts.com^
 ||analytics.basistheory.com^
 ||bashoodsird.com^
@@ -25296,6 +25316,7 @@
 ||ads.jianchiapp.com^
 ||jhxakdmdlz.com^
 ||stats.jhsheridan.com^
+||jftobitbxg.com^
 ||news.jennydanny.com^
 ||cyvxfq.jennikayne.com^
 ||web.marketing.jellybelly.com^
@@ -27609,6 +27630,7 @@
 ||marketing.quadramed.com^
 ||a.qsjiajiao.com^
 ||qquhzi4f3.com^
+||qpnbfkjkg.com^
 ||qnp16tstw.com^
 ||pwbgowdca.com^
 ||trk.pvhealth1.com^
@@ -29440,6 +29462,7 @@
 ||lead.blackrock.com^
 ||elq.blackrock.com^
 ||go.blackrock.com^
+||blackenoz.com^
 ||experience.blackbaud.com^
 ||app.response.blackbaud.com^
 ||metrics.blackbaud.com^
@@ -35975,6 +35998,7 @@
 ||www2.2ndgear.com^
 ||shopify.2adosum.com^
 ||dm.21hubei.com^
+||1wglkbv.com^
 ||slyimp.1thrive.com^
 ||jzprtb.1stdibs.com^
 ||1999019.com^
@@ -38645,6 +38669,7 @@
 ||u1.2048sj.com^
 ||1.201980.com^
 ||1wnurc.com^
+||1winpb.com^
 ||adebis1.1rnavi.com^
 ||1iuh5l.com^
 ||tracking.196189.com^
@@ -60588,6 +60613,7 @@
 ||pisb.cn^
 ||oqea.cn^
 ||odxh.cn^
+||nhur.cn^
 ||adx.mala.cn^
 ||xc.macd.cn^
 ||a.lz13.cn^
