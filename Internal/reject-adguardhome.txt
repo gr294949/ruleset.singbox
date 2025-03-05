@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 04 Mar 2025 14:18:47 GMT
+! Last modified: Wed, 05 Mar 2025 02:32:05 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1293,6 +1293,7 @@
 ||ramaismprecel.shop^
 ||prearmsspreed.shop^
 ||postiewennish.shop^
+||pollentdalaga.shop^
 ||pardahspondee.shop^
 ||odallerdosser.shop^
 ||nunhoodpanmug.shop^
@@ -3414,6 +3415,7 @@
 ||embrawnseeping.top^
 ||dulosismispage.top^
 ||costivecohorts.top^
+||caudatedaystar.top^
 ||v1.bonnesaffaires.top^
 ||bestcontentweb.top^
 ||bestcontentfee.top^
@@ -7667,7 +7669,6 @@
 ||mauchopt.net^
 ||res.marianne.net^
 ||mansudee.net^
-||mangomob.net^
 ||bdjj.makepolo.net^
 ||jp-axia.m0mentum.net^
 ||lurgaimt.net^
@@ -9240,6 +9241,7 @@
 ||hsutav.icu^
 ||hmjmjz.icu^
 ||hjdjfl.icu^
+||hbxmdf.icu^
 ||grmzwc.icu^
 ||gcomwx.icu^
 ||fmssoj.icu^
@@ -15011,6 +15013,7 @@
 ||trk.hairclinicdubai.com^
 ||lp.guiasaudebrasil.com^
 ||guerrilla-links.com^
+||grutsokucaiftoa.com^
 ||grown-inpp-code.com^
 ||greenplasticdua.com^
 ||promo.greeninvestings.com^
@@ -16008,6 +16011,7 @@
 ||plantdigestion.com^
 ||wjobab.planet-puzzles.com^
 ||pkyffuewwuhnld.com^
+||pittardhectare.com^
 ||sadbmetrics.pisocompartido.com^
 ||juwhdw.piscine-market.com^
 ||tracker.pinnaclesports.com^
@@ -16450,6 +16454,7 @@
 ||grotzenzelotic.com^
 ||gripping-bread.com^
 ||page.griffinshockey.com^
+||greeterstaniel.com^
 ||gblock.greenhousedata.com^
 ||trk.greenbuildexpo.com^
 ||now.greenbuildexpo.com^
@@ -17113,6 +17118,7 @@
 ||adobemetrics.yellohvillage.com^
 ||yarningbursal.com^
 ||yandexmetrica.com^
+||yackedcuttage.com^
 ||xxxwebtraffic.com^
 ||xxxbannerswap.com^
 ||sub.xxx-porn-tube.com^
@@ -17655,6 +17661,7 @@
 ||metric.publicstorage.com^
 ||pubimageboard.com^
 ||qtxxnx.ptotst-worker.com^
+||ptookirgoonsa.com^
 ||psvpromo.psvgamestudio.com^
 ||pseexauboorsu.com^
 ||pschentinfile.com^
@@ -19404,6 +19411,7 @@
 ||tirosagalite.com^
 ||rtnzyx.tirewheel-ec.com^
 ||ctr.tiptoptrends.com^
+||tingesfosses.com^
 ||etl.tindersparks.com^
 ||tilesmuzarab.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
@@ -19412,6 +19420,7 @@
 ||yptqys.tianqistatic.com^
 ||datas.tianqistatic.com^
 ||thymeycimnel.com^
+||thyinegutnic.com^
 ||thuoccultive.com^
 ||mastodon.thrustcarbon.com^
 ||throwsceases.com^
@@ -19554,6 +19563,7 @@
 ||sst.subzero-wolf.com^
 ||pahkjm.subtypestore.com^
 ||styzmutkduoh.com^
+||stulmunshent.com^
 ||capi.studio-nonna.com^
 ||shop.strongviking.com^
 ||marketing.striveoffice.com^
@@ -21897,6 +21907,7 @@
 ||cxsaev.stratiaskin.com^
 ||offers.storagepipe.com^
 ||stopstomach.com^
+||stoorgouzoy.com^
 ||stoopsaipee.com^
 ||stockerator.com^
 ||stoachdarts.com^
@@ -22001,6 +22012,7 @@
 ||connect.shoprentone.com^
 ||activate.shopjustice.com^
 ||track.shop2market.com^
+||shoofabhalu.com^
 ||a8.shitsukekun.com^
 ||shitcustody.com^
 ||metrics.shinseibank.com^
@@ -22090,7 +22102,6 @@
 ||sgtm.rudolphcare.com^
 ||eldoradottfha.dataplane.rudderstack.com^
 ||gtm.rudapatrice.com^
-||notifiy.rtbuniverse.com^
 ||rtbsuperhub.com^
 ||rtbfradhome.com^
 ||info.rsquaredcre.com^
@@ -22115,6 +22126,7 @@
 ||somni.rocketloans.com^
 ||somni.rockethomes.com^
 ||omni.rockethomes.com^
+||rocheachaja.com^
 ||obooom.robinmaybag.com^
 ||robedonedip.com^
 ||ngzqwt.roadloisirs.com^
@@ -24231,6 +24243,7 @@
 ||tobaltoyon.com^
 ||analytics.law.tmchippewa.com^
 ||creative.tklivechat.com^
+||tiredpause.com^
 ||data.promo.timhortons.com^
 ||metrics.timewarner.com^
 ||n730.timesunion.com^
@@ -27035,6 +27048,7 @@
 ||app.villanova.com^
 ||t.villanova.com^
 ||vikuhiaor.com^
+||logs.viewstats.com^
 ||steinbackhaus.viessmann.com^
 ||tk.viapresse.com^
 ||load.stape.viafinans.com^
@@ -28233,8 +28247,8 @@
 ||app.mail.mfg.macquarie.com^
 ||mackeeper.com^
 ||m0rsq075u.com^
+||lu2.luyouwang.com^
 ||jsx.luyouwang.com^
-||192.luyouwang.com^
 ||luxupcdnc.com^
 ||luxupcdnb.com^
 ||luxupcdna.com^
@@ -30258,7 +30272,6 @@
 ||tridroin.com^
 ||marketing.trextape.com^
 ||bjeost.trespass.com^
-||games.tresensa.com^
 ||metrics.trendyol.com^
 ||cgqkhc.trendyol.com^
 ||info.trendler.com^
@@ -33231,7 +33244,6 @@
 ||vgmuan.xandres.com^
 ||s.x47b2v9.com^
 ||wwhnjrg.com^
-||cdn.wtshare.com^
 ||wtg-ads.com^
 ||wt20trk.com^
 ||marketing.wsandco.com^
@@ -35064,7 +35076,6 @@
 ||tracking.g2crowd.com^
 ||log.g-enews.com^
 ||fuuksew.com^
-||funpavo.com^
 ||funnull.com^
 ||insights.networks.global.fujitsu.com^
 ||target.fuelman.com^
@@ -39436,7 +39447,6 @@
 ||l.premium.naver.com^
 ||er.search.naver.com^
 ||veta.naver.com^
-||nlog.naver.com^
 ||ma.news.naver.com^
 ||s.news.naver.com^
 ||l.msdl.naver.com^
@@ -48174,7 +48184,6 @@
 ||calvera-telemetry.polaris.me^
 ||stat.myshows.me^
 ||l-agent.me^
-||gwbudgetali.iymedia.me^
 ||greeter.me^
 ||tracking.supremoglobal.custeau.me^
 ||cdnflex.me^
@@ -60641,6 +60650,7 @@
 ||pjwk.cn^
 ||pisb.cn^
 ||oqea.cn^
+||ojmv.cn^
 ||odxh.cn^
 ||nhur.cn^
 ||adx.mala.cn^
