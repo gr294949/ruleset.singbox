@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-05T14:49:26.247Z
-# Size: 64124
+# Last Updated: 2025-03-05T16:01:58.751Z
+# Size: 64125
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26654,6 +26654,7 @@ simple.cloudsmith.com
 +.ads6-adnow.com
 +.ads5-adnow.com
 +.ads3-adnow.com
++.ads2native.com
 +.ads1-adnow.com
 +.adpointrtb.com
 +.trk.admtoronto.com
