@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-05T16:01:58.751Z
-# Size: 64125
+# Last Updated: 2025-03-06T01:25:28.966Z
+# Size: 64147
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1408,12 +1408,14 @@ bad.third-party.site
 +.reshowsvole.shop
 +.reekhearsay.shop
 +.rediptacted.shop
++.projetpunce.shop
 +.praxeandean.shop
 +.picturescil.shop
 +.physidstert.shop
 +.peglessbath.shop
 +.pallivermis.shop
 +.trrrk.novahairpro.shop
++.nickdotarie.shop
 +.murmursutta.shop
 +.mnemtracery.shop
 +.megmhokluck.shop
@@ -1714,6 +1716,7 @@ bad.third-party.site
 +.ucavu.live
 +.aegis.trovo.live
 +.stats.doors.live
++.avads.live
 +.caterpilla.ibon.live
 +.cheese.guac.live
 +.ingress-comporellon.ewp.live
@@ -2502,7 +2505,7 @@ grs.dbankcloud.asia
 +.88129513.xyz
 +.86222538.xyz
 +.86043854.xyz
-+.0.www.85132058.xyz
++.85132058.xyz
 +.84631949.xyz
 +.84302764.xyz
 +.84055600.xyz
@@ -4767,6 +4770,7 @@ collect.foresightnews.pro
 +.bigleapforward.org
 +.connect.care.baptist-health.org
 +.web.care.baptist-health.org
++.asrelaterconde.org
 +.info.ascassociation.org
 +.appriedtheligh.org
 +.tags.amerikaninsesi.org
@@ -5735,6 +5739,7 @@ samsungcloudsolution.net
 +.gaipochipsefoud.net
 +.fonsaigotoaftuy.net
 +.ewouwamsubsouvy.net
++.eptoufeebimeesh.net
 +.edoxoonsackefte.net
 +.ebigrooxoomsust.net
 +.ebengussaubsooh.net
@@ -6258,6 +6263,7 @@ samsungcloudsolution.net
 +.soostewiphy.net
 +.somsoargous.net
 +.soadaupaila.net
++.shitsoojacm.net
 +.shaughaupoo.net
 +.shaugacakro.net
 +.shaitchergu.net
@@ -6388,6 +6394,7 @@ proxyhog.prisma-data.net
 +.duzeegotimu.net
 +.wew.dushiwenxue.net
 +.dugraukeeck.net
++.dooteewoodi.net
 +.al.directishii.net
 +.hoojts.demmelhuber.net
 +.sgtm.demmelhuber.net
@@ -9251,6 +9258,8 @@ iadmusicmat.music.126.net
 +.hbxmdf.icu
 +.grmzwc.icu
 +.gcomwx.icu
++.frthpp.icu
++.fpfhtr.icu
 +.fmssoj.icu
 +.ffjevt.icu
 +.fbvbrb.icu
@@ -10122,6 +10131,7 @@ sashimi.royli.dev
 +.marineingredientinevitably.com
 +.ss.manoscritti-gruppoalbatros.com
 +.rt.livingthegoodlifenaturally.com
++.learningcontractionpolling.com
 +.metrics.kunilexusofcoloradosprings.com
 +.metrics.internationalwinechallenge.com
 +.engage.informaconstructionmarkets.com
@@ -15166,6 +15176,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.metrics.donmcgilltoyota.com
 +.marketing.dohenycompanies.com
 +.lp.docecarboidrato.com
++.doastaiwhouwouy.com
 +.distractedavail.com
 +.sales.disneylandparis.com
 +.ssc.disneylandparis.com
@@ -16490,6 +16501,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.trk.getbrightright.com
 +.securetags.geotecnologias.com
 +.load.tagging.gehirnsoftware.com
++.geghlyrecomemu.com
 +.analytics.gebhardt-group.com
 +.info.garveyproducts.com
 +.ntdoeb.garageclothing.com
@@ -17813,6 +17825,7 @@ httpdns.volcengineapi.com
 +.appgax.optica-optima.com
 +.tr.mailing.opinionrelate.com
 +.opclauncheran.com
++.onykekwbyyita.com
 +.data.news.onlyyouhotels.com
 +.o.onlynewsfacts.com
 +.eeoldm.onitsukatiger.com
@@ -19144,6 +19157,7 @@ ad.zuimeitianqi.com
 +.seniorliving.wyndemerelcs.com
 +.stats.develop.wwdcscholars.com
 +.stats.wwdcscholars.com
++.wwainferrara.com
 +.odc.wunderground.com
 +.wtyankriwnza.com
 +.load.data.ws-autoteile.com
@@ -20992,6 +21006,7 @@ httpdns-ocloud.heytapmobile.com
 +.t.cmuchippewas.com
 +.vzuxpl.cmgroup-ziko.com
 +.news.cmatcherlink.com
++.clrmoccyveuh.com
 +.a8cname.cloudwifi-nc.com
 +.cloudvideosa.com
 +.cloudlogobox.com
@@ -22941,6 +22956,7 @@ httpdns.huaweicloud.com
 +.highmanapts.com
 +.highmaidfhr.com
 +.highcpmgate.com
++.hidgttxnces.com
 +.hfpmjbfhyau.com
 +.adsfs-sdkconfig.heytapimage.com
 +.heybarnacle.com
@@ -23449,6 +23465,7 @@ httpdns.huaweicloud.com
 +.ii1.chajiaotong.com
 +.c1.chajiaotong.com
 +.chaireggnog.com
++.cgqhtithixi.com
 +.metrics.centurylink.com
 +.metrics.centexhomes.com
 +.tracking.centerfield.com
@@ -26786,7 +26803,7 @@ simple.cloudsmith.com
 +.53ff0e58f9.com
 +.537images1.com
 +.536435ba94.com
-+.e410f82db5.52588314e4.com
++.52588314e4.com
 +.trace.51jingying.com
 +.50f0ac5daf.com
 +.50368ce0a6.com
@@ -27990,6 +28007,7 @@ static.m.sjzhushou.com
 +.info.nescornow.com
 +.caterpillarsigns.neonearth.com
 +.negxkj5ca.com
++.ncvwahrct.com
 +.ncojkokhi.com
 +.pages.nbjsummit.com
 +.ijaabm.nbcsports.com
@@ -28039,6 +28057,7 @@ static.m.sjzhushou.com
 +.solutions.multitone.com
 +.info.multitech.com
 +.mugpothop.com
++.mufaommef.com
 +.mqprzapns.com
 +.mqfrosboc.com
 +.telemetry.moveworks.com
@@ -32995,6 +33014,7 @@ jsadsdisplay.cn-beijing.log.aliyuncs.com
 +.akutapro.com
 +.up.aktivliv.com
 +.ajoosheg.com
++.aizhantj.com
 +.daima.aixiaola.com
 +.aitsatho.com
 +.sswmetrics.airmalta.com
@@ -51183,6 +51203,7 @@ s.maketheweb.io
 +.mobotoolpush.moboapps.io
 +.collector.lunalabs.io
 +.luminati.io
++.govisibl.io
 +.tracker-v4.gamedock.io
 +.apptracker.gamedock.io
 +.tracker.gamedock.io
@@ -60621,6 +60642,7 @@ rich.kuwo.cn
 +.kqgn.cn
 +.metrics.kone.cn
 +.kczq.cn
++.ixtu.cn
 +.ivvn.cn
 dd.iask.cn
 +.hy90.cn

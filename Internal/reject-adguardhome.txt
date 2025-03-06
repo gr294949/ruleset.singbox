@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 05 Mar 2025 16:02:12 GMT
+! Last modified: Thu, 06 Mar 2025 01:25:42 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1392,12 +1392,14 @@
 ||reshowsvole.shop^
 ||reekhearsay.shop^
 ||rediptacted.shop^
+||projetpunce.shop^
 ||praxeandean.shop^
 ||picturescil.shop^
 ||physidstert.shop^
 ||peglessbath.shop^
 ||pallivermis.shop^
 ||trrrk.novahairpro.shop^
+||nickdotarie.shop^
 ||murmursutta.shop^
 ||mnemtracery.shop^
 ||megmhokluck.shop^
@@ -1699,6 +1701,7 @@
 ||ucavu.live^
 ||aegis.trovo.live^
 ||stats.doors.live^
+||avads.live^
 ||caterpilla.ibon.live^
 ||cheese.guac.live^
 ||ingress-comporellon.ewp.live^
@@ -2487,7 +2490,7 @@
 ||88129513.xyz^
 ||86222538.xyz^
 ||86043854.xyz^
-||0.www.85132058.xyz^
+||85132058.xyz^
 ||84631949.xyz^
 ||84302764.xyz^
 ||84055600.xyz^
@@ -4752,6 +4755,7 @@
 ||bigleapforward.org^
 ||connect.care.baptist-health.org^
 ||web.care.baptist-health.org^
+||asrelaterconde.org^
 ||info.ascassociation.org^
 ||appriedtheligh.org^
 ||tags.amerikaninsesi.org^
@@ -5721,6 +5725,7 @@
 ||gaipochipsefoud.net^
 ||fonsaigotoaftuy.net^
 ||ewouwamsubsouvy.net^
+||eptoufeebimeesh.net^
 ||edoxoonsackefte.net^
 ||ebigrooxoomsust.net^
 ||ebengussaubsooh.net^
@@ -6244,6 +6249,7 @@
 ||soostewiphy.net^
 ||somsoargous.net^
 ||soadaupaila.net^
+||shitsoojacm.net^
 ||shaughaupoo.net^
 ||shaugacakro.net^
 ||shaitchergu.net^
@@ -6374,6 +6380,7 @@
 ||duzeegotimu.net^
 ||wew.dushiwenxue.net^
 ||dugraukeeck.net^
+||dooteewoodi.net^
 ||al.directishii.net^
 ||hoojts.demmelhuber.net^
 ||sgtm.demmelhuber.net^
@@ -9239,6 +9246,8 @@
 ||hbxmdf.icu^
 ||grmzwc.icu^
 ||gcomwx.icu^
+||frthpp.icu^
+||fpfhtr.icu^
 ||fmssoj.icu^
 ||ffjevt.icu^
 ||fbvbrb.icu^
@@ -10110,6 +10119,7 @@
 ||marineingredientinevitably.com^
 ||ss.manoscritti-gruppoalbatros.com^
 ||rt.livingthegoodlifenaturally.com^
+||learningcontractionpolling.com^
 ||metrics.kunilexusofcoloradosprings.com^
 ||metrics.internationalwinechallenge.com^
 ||engage.informaconstructionmarkets.com^
@@ -15155,6 +15165,7 @@
 ||metrics.donmcgilltoyota.com^
 ||marketing.dohenycompanies.com^
 ||lp.docecarboidrato.com^
+||doastaiwhouwouy.com^
 ||distractedavail.com^
 ||sales.disneylandparis.com^
 ||ssc.disneylandparis.com^
@@ -16479,6 +16490,7 @@
 ||trk.getbrightright.com^
 ||securetags.geotecnologias.com^
 ||load.tagging.gehirnsoftware.com^
+||geghlyrecomemu.com^
 ||analytics.gebhardt-group.com^
 ||info.garveyproducts.com^
 ||ntdoeb.garageclothing.com^
@@ -17802,6 +17814,7 @@
 ||appgax.optica-optima.com^
 ||tr.mailing.opinionrelate.com^
 ||opclauncheran.com^
+||onykekwbyyita.com^
 ||data.news.onlyyouhotels.com^
 ||o.onlynewsfacts.com^
 ||eeoldm.onitsukatiger.com^
@@ -19133,6 +19146,7 @@
 ||seniorliving.wyndemerelcs.com^
 ||stats.develop.wwdcscholars.com^
 ||stats.wwdcscholars.com^
+||wwainferrara.com^
 ||odc.wunderground.com^
 ||wtyankriwnza.com^
 ||load.data.ws-autoteile.com^
@@ -20982,6 +20996,7 @@
 ||t.cmuchippewas.com^
 ||vzuxpl.cmgroup-ziko.com^
 ||news.cmatcherlink.com^
+||clrmoccyveuh.com^
 ||a8cname.cloudwifi-nc.com^
 ||cloudvideosa.com^
 ||cloudlogobox.com^
@@ -22932,6 +22947,7 @@
 ||highmanapts.com^
 ||highmaidfhr.com^
 ||highcpmgate.com^
+||hidgttxnces.com^
 ||hfpmjbfhyau.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||heybarnacle.com^
@@ -23440,6 +23456,7 @@
 ||ii1.chajiaotong.com^
 ||c1.chajiaotong.com^
 ||chaireggnog.com^
+||cgqhtithixi.com^
 ||metrics.centurylink.com^
 ||metrics.centexhomes.com^
 ||tracking.centerfield.com^
@@ -26778,7 +26795,7 @@
 ||53ff0e58f9.com^
 ||537images1.com^
 ||536435ba94.com^
-||e410f82db5.52588314e4.com^
+||52588314e4.com^
 ||trace.51jingying.com^
 ||50f0ac5daf.com^
 ||50368ce0a6.com^
@@ -27982,6 +27999,7 @@
 ||info.nescornow.com^
 ||caterpillarsigns.neonearth.com^
 ||negxkj5ca.com^
+||ncvwahrct.com^
 ||ncojkokhi.com^
 ||pages.nbjsummit.com^
 ||ijaabm.nbcsports.com^
@@ -28031,6 +28049,7 @@
 ||solutions.multitone.com^
 ||info.multitech.com^
 ||mugpothop.com^
+||mufaommef.com^
 ||mqprzapns.com^
 ||mqfrosboc.com^
 ||telemetry.moveworks.com^
@@ -32994,6 +33013,7 @@
 ||akutapro.com^
 ||up.aktivliv.com^
 ||ajoosheg.com^
+||aizhantj.com^
 ||daima.aixiaola.com^
 ||aitsatho.com^
 ||sswmetrics.airmalta.com^
@@ -51196,6 +51216,7 @@
 ||mobotoolpush.moboapps.io^
 ||collector.lunalabs.io^
 ||luminati.io^
+||govisibl.io^
 ||tracker-v4.gamedock.io^
 ||apptracker.gamedock.io^
 ||tracker.gamedock.io^
@@ -60644,6 +60665,7 @@
 ||kqgn.cn^
 ||metrics.kone.cn^
 ||kczq.cn^
+||ixtu.cn^
 ||ivvn.cn^
 |dd.iask.cn^
 ||hy90.cn^
