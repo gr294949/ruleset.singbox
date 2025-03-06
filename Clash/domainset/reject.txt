@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-06T12:40:54.196Z
-# Size: 64068
+# Last Updated: 2025-03-06T14:03:14.839Z
+# Size: 64071
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1295,6 +1295,7 @@ bad.third-party.site
 +.splayermosque.shop
 +.sparredcubans.shop
 +.schorlyalroot.shop
++.retrosowenian.shop
 +.retimedtactor.shop
 +.relockembarge.shop
 +.regainchiasmi.shop
@@ -31444,7 +31445,6 @@ mepodownload.mediatek.com
 +.adbd.liuxue86.com
 +.list-ads.com
 +.lirretsn.com
-+.linksprf.com
 +.linkmink.com
 +.st.linkfire.com
 +.analytics.pointdrive.linkedin.com
@@ -60545,6 +60545,7 @@ cre.dp.sina.cn
 +.rojj.cn
 +.riym.cn
 yun.rili.cn
++.rgju.cn
 +.qnki.cn
 +.qnhi.cn
 +.news.qcyz.cn
@@ -63248,6 +63249,8 @@ bitanalytics.casperverswijvelt.be
 +.qmgwny.autobarn.com.au
 +.guppy.ausowned.com.au
 +.mdxhon.allhomes.com.au
++.wup-2ffe60ee.westpac.com.au
++.log-2ffe60ee.westpac.com.au
 +.data.msgs.westpac.com.au
 +.data.msg.westpac.com.au
 +.sstats.tiffany.com.au
