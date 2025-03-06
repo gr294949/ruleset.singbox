@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-06T14:03:14.839Z
-# Size: 64071
+# Last Updated: 2025-03-06T15:16:06.803Z
+# Size: 64077
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3536,6 +3536,7 @@ grs.dbankcloud.asia
 +.ppio12191ios.top
 +.ppio12181ios.top
 +.plugmanhidel.top
++.petherobjure.top
 +.parvuliremue.top
 +.oxtzgomhodrz.top
 +.overfixhater.top
@@ -6195,6 +6196,7 @@ samsungcloudsolution.net
 +.voovoacivoa.net
 +.vookooboace.net
 +.vodsoamsoun.net
++.viphirsaick.net
 +.vauphuwoaby.net
 +.vaufekonaub.net
 +.www2s.usautoparts.net
@@ -14970,6 +14972,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.trk.health-personal.com
 +.app.hawaiiathletics.com
 +.t.hawaiiathletics.com
++.hatchaxeeftaist.com
 +.register.harley-davidson.com
 +.metrics.harley-davidson.com
 +.atarget.harley-davidson.com
@@ -17000,6 +17003,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.info.alticoadvisors.com
 +.ss.altafitgymclub.com
 +.almonryminuter.com
++.allworkovergot.com
 +.alluviopurreic.com
 +.allfreecounter.com
 +.allergicloaded.com
@@ -29490,6 +29494,7 @@ ad.caiyunapp.com
 +.bidswitch.com
 +.metrics.biddertmz.com
 +.bidderads.com
++.bidarblam.com
 +.aiq-in.bicycling.com
 +.td.bicycling.com
 +.bhoscopop.com
@@ -31954,6 +31959,7 @@ cdn.getkoala.com
 +.metrics.genoapay.com
 +.genbalar.com
 +.metrics.geekwire.com
++.geekries.com
 +.geejetag.com
 +.analytics.geastore.com
 +.thegreatesthits.gearnews.com
