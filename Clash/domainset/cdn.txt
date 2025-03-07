@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-07T01:32:51.872Z
-# Size: 3214
+# Last Updated: 2025-03-07T05:43:01.848Z
+# Size: 3224
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2829,6 +2829,16 @@ btn.hitomi.la
 atn.hitomi.la
 pomf2.lain.la
 +.ipfs.lain.la
+img9.yna.co.kr
+img8.yna.co.kr
+img7.yna.co.kr
+img6.yna.co.kr
+img5.yna.co.kr
+img4.yna.co.kr
+img3.yna.co.kr
+img2.yna.co.kr
+img1.yna.co.kr
+img0.yna.co.kr
 media.cmx.edu.kg
 +.misskeyusercontent.jp
 +.edge.storage-yahoo.jp

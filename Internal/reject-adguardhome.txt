@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 07 Mar 2025 01:33:00 GMT
+! Last modified: Fri, 07 Mar 2025 05:43:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -731,6 +731,7 @@
 ||nst.trex.media^
 ||t1.trex.media^
 ||cpm.oppa.media^
+||vlogs.deja.media^
 ||adjs.media^
 ||tri.media^
 ||nui.media^
@@ -10566,7 +10567,6 @@
 ||isolatedovercomepasted.com^
 ||ssa.investigationdiscovery.com^
 ||sa.investigationdiscovery.com^
-||secure.intelligent-consortium.com^
 ||load.gtm.integratorecolesterolo.com^
 ||injuredripplegentleman.com^
 ||owl.indigenoushiphopawards.com^
@@ -15466,7 +15466,6 @@
 ||womangathering.com^
 ||wlxbbnkkwlppkq.com^
 ||wjgpspkxzjbdgu.com^
-||wiredforcoffee.com^
 ||alpaca.wingmantracker.com^
 ||t570.wiltonbulletin.com^
 ||mhhugd.wilsonsleather.com^
@@ -17730,7 +17729,6 @@
 ||saa.paramountplus.com^
 ||aa.paramountplus.com^
 ||trk.paragondirect.com^
-||paradoxfactor.com^
 ||track.paradigmtrack.com^
 ||papmeatidigbo.com^
 ||papaneecorche.com^
@@ -17771,6 +17769,7 @@
 ||ormolusapiary.com^
 ||ed.originalpress.com^
 ||opvanillishan.com^
+||opulentsylvan.com^
 ||sstats.optionsxpress.com^
 ||jrjick.optimaleoptik.com^
 ||appgax.optica-optima.com^
@@ -21717,7 +21716,6 @@
 ||thunderhead.com^
 ||load.swm.thunderdome.com^
 ||gpt.throatbulge.com^
-||thrillasoft.com^
 ||thomastorch.com^
 ||trk.thomaspumps.com^
 ||stats.thomasbandt.com^
@@ -24598,6 +24596,7 @@
 ||marketing.redclassic.com^
 ||aiq-in.redbookmag.com^
 ||b668.record-bee.com^
+||recessrain.com^
 ||load.sst.rebel-cell.com^
 ||reariimime.com^
 ||realsrvcdn.com^
@@ -25394,6 +25393,7 @@
 ||intellitxt.com^
 ||iq.intellicyt.com^
 ||marketing.insureline.com^
+||insulatech.com^
 ||sstats.instawares.com^
 ||stats.instawares.com^
 ||track.instacashy.com^
@@ -26898,6 +26898,7 @@
 ||app.wvusports.com^
 ||t.wvusports.com^
 ||marketing.wvtourism.com^
+||metrics.workfront.com^
 ||metrics.workforce.com^
 ||stats.wordpress.com^
 ||refer.wordpress.com^
@@ -27695,7 +27696,6 @@
 ||pncloudfl.com^
 ||data.mails.pluspagos.com^
 ||dnklry.plushbeds.com^
-||leadtracking.plumvoice.com^
 ||act.plumvoice.com^
 ||meta-events.pledgereg.com^
 ||response.playworld.com^
@@ -37254,7 +37254,6 @@
 ||mnaspm.com^
 ||zg.mmyuer.com^
 ||oneid.mmstat.com^
-||gj.mmstat.com^
 ||info.mmmlaw.com^
 ||marketing.mma-mi.com^
 ||dejavu.mlapps.com^
@@ -38205,6 +38204,7 @@
 ||cdctwm.com^
 ||ssl.cbinet.com^
 ||dzimne.catpre.com^
+||tracking.cat898.com^
 ||super.cat898.com^
 ||target.caseys.com^
 ||gtmsrv.caseih.com^
@@ -42228,7 +42228,7 @@
 ||gbmfid.1mg.com^
 ||market.178.com^
 |crashlytics.163.com^
-|analytics.163.com^
+||analytics.163.com^
 ||clientlogdep.music.163.com^
 ||clientlogsf.music.163.com^
 ||clientlog3.music.163.com^
@@ -51112,6 +51112,7 @@
 ||f-log-at.grammarly.io^
 ||futureads.io^
 ||mollusk.forwardmx.io^
+||fasttiger.io^
 ||everestop.io^
 ||tag.escalated.io^
 ||districtm.io^
@@ -51362,6 +51363,7 @@
 ||statscollector-1.agora.io^
 ||marketing.agora.io^
 ||tracking.agora.io^
+||adstk.io^
 ||adser.io^
 ||adobe.io^
 ||track.91app.io^
@@ -51936,6 +51938,7 @@
 ||stat.akkrt.hu^
 ||stats.tena.hu^
 ||lalqoc.lyke.hu^
+||adat.life.hu^
 ||bwmetrics.jegy.hu^
 ||ldugvf.bolf.hu^
 ||metrics.one.hu^
@@ -53817,7 +53820,6 @@
 ||metrics.be.carrefour.eu^
 ||sscapi.carnivoro.eu^
 ||bcaeurope.eu^
-||service.techzine.eu^
 ||myprofile.technics.eu^
 ||campaigns.technics.eu^
 ||load.gtm.selfwise.eu^
@@ -59732,7 +59734,6 @@
 ||squirrels.getsquirrel.co^
 ||g9706132415.co^
 ||g9508048080.co^
-||g1782759015.co^
 ||g1584674684.co^
 ||g1584674682.co^
 ||g1386590346.co^
@@ -62288,6 +62289,7 @@
 ||metricas.agzero.com.br^
 ||incvag.agatha.com.br^
 ||sa.adidas.com.br^
+||nctrk.abmail.com.br^
 ||obfnkc.yuool.com.br^
 ||marketing.wesco.com.br^
 ||gtbvre.vapza.com.br^
