@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-07T05:48:39.096Z
-# Size: 3225
+# Last Updated: 2025-03-07T07:24:54.426Z
+# Size: 3226
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1459,6 +1459,7 @@ filestore.community.support.microsoft.com
 images.ecomm.microsoft.com
 ajax.microsoft.com
 uhf.microsoft.com
+csp.microsoft.com
 js.memberful.com
 static.mediafire.com
 cdn-images.mailchimp.com
