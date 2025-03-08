@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-08T12:30:26.683Z
-# Size: 64500
+# Last Updated: 2025-03-08T16:40:26.935Z
+# Size: 64519
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -643,6 +643,8 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.vrqdzfzzlyalb.space
 +.vplxmpagryjvl.space
 +.olivedinflats.space
++.myurphoftafzx.space
++.lzljxgqazegmr.space
 +.cbjcfrakrdzzs.space
 +.amfzugolptnpo.space
 +.ueykjfltxqsb.space
@@ -685,6 +687,7 @@ comments.gazo.space
 +.pwtaaoncavyvy.rocks
 +.mvijuifysyjrz.rocks
 +.ljbiynvyhfteq.rocks
++.lfdisicuttrod.rocks
 +.foybdfdodvgva.rocks
 +.fgjaelzvzxtdq.rocks
 +.elejwqalsqjbb.rocks
@@ -967,6 +970,7 @@ cwa.html.zone
 +.marketing.precisiondoor.tech
 +.lnfncvjaweewi.tech
 +.llpzoaezdwwah.tech
++.kxiaruornurfb.tech
 +.itvfpesimiyuy.tech
 +.dtrurjpkugcsv.tech
 +.cvfuyogxbcweq.tech
@@ -1402,6 +1406,7 @@ bad.third-party.site
 +.deturnfurdle.shop
 +.dearsdieback.shop
 +.curvedtobies.shop
++.clumpykupper.shop
 +.a8.classicalelf.shop
 +.citharahemps.shop
 +.chloredenpia.shop
@@ -2153,6 +2158,7 @@ tag.safary.club
 +.xbwkskazmgbyk.buzz
 +.vufqinbxihvvf.buzz
 +.skgpzivadwdte.buzz
++.ntmreohudibfo.buzz
 +.jzqscvqlgasxh.buzz
 +.sjetnf-oizyo.buzz
 +.lust-goddess.buzz
@@ -3480,6 +3486,7 @@ grs.dbankcloud.asia
 +.verchokberain.top
 +.vbmjlevwwvyzj.top
 +.unsavedbaruch.top
++.uncolylirella.top
 +.uncalmgermane.top
 +.tunnelbuilder.top
 +.titanictooler.top
@@ -3517,7 +3524,9 @@ grs.dbankcloud.asia
 +.pizzlessclimb.top
 +.phoceansteaks.top
 +.penjxqxbieezy.top
++.peartengrousy.top
 +.patakaendymal.top
++.pallorsdomini.top
 +.orisonaunties.top
 +.orientczarism.top
 +.oilwellsublot.top
@@ -3531,9 +3540,11 @@ grs.dbankcloud.asia
 +.ljybybyerzklr.top
 +.ljvmokwyroajm.top
 +.lingetunearth.top
++.lihqutwoiumpd.top
 +.lehmerrociest.top
 +.jzvwawvwkwkwl.top
 +.jzqbyykjorakb.top
++.jzleekzaovelw.top
 +.jyvkwqjremjbj.top
 +.jybaekaqbmmmb.top
 +.jrolyrlabybmz.top
@@ -3677,6 +3688,7 @@ grs.dbankcloud.asia
 +.screensnaps.top
 +.salonscrowd.top
 +.roudpiously.top
++.riddedgarle.top
 +.plantalwauk.top
 +.peniblecoop.top
 +.oursexhance.top
@@ -3711,6 +3723,7 @@ grs.dbankcloud.asia
 +.pavedmawks.top
 +.oretracker.top
 +.olmnvbgufy.top
++.obiexcised.top
 +.narrwhenas.top
 +.a.miyudaquan.top
 +.lizijing12.top
@@ -12241,6 +12254,7 @@ samsungcloudsolution.com
 +.catshark.janetalexandersson.com
 +.marketing.jacksonholechamber.com
 +.log.jackpotmasterslots.com
++.irritatepillssurly.com
 +.ipadraffle-dfe0trk.com
 +.interposedflickhip.com
 +.marketing.interedgemarketing.com
@@ -16893,6 +16907,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.dbbupggdbamnvo.com
 +.publicidad.daviviendaintl.com
 +.saa.daveandbusters.com
++.dauntedsnubbed.com
 +.datingtopgirls.com
 +.vampirebat.datingmedellin.com
 +.datesassistant.com
@@ -27407,6 +27422,7 @@ httpdns.yunxindns.com
 +.trustaffs.com
 +.ewwstx.trussardi.com
 +.marketing.trubridge.com
++.trorqaeao.com
 +.rdtk.troma-now.com
 +.rdtrk.trkrfcvns.com
 +.om.triphomes.com
@@ -31328,6 +31344,7 @@ news.qhstatic.com
 +.app.paciolan.com
 +.t.paciolan.com
 +.tracking.pacharge.com
++.ozvtuton.com
 +.ozongees.com
 +.ozobsaib.com
 +.analytics.oyorooms.com
@@ -32015,6 +32032,7 @@ log-sdk.ksapisrv.com
 +.metrics.jeld-wen.com
 +.jeekomih.com
 +.jeehathu.com
++.jeadjolc.com
 +.dxpxgy.jdsports.com
 +.ttmetrics.jcpenney.com
 +.kwvbhj.jcpenney.com
@@ -36808,6 +36826,7 @@ dns.wechat.com
 +.idit.trdid9.com
 +.trcktr.com
 +.tratbc.com
++.trasre.com
 +.learn.trapac.com
 +.stape.tralgo.com
 +.ejkmld.tradus.com
