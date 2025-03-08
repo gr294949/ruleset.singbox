@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 08 Mar 2025 16:40:41 GMT
+! Last modified: Sat, 08 Mar 2025 18:36:02 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -826,6 +826,7 @@
 ||dapro.cloud^
 ||cartx.cloud^
 ||stpd.cloud^
+||ppio.cloud^
 ||japw.cloud^
 ||corporate.fctg.cloud^
 ||coyote.gnx.cloud^
@@ -8425,6 +8426,8 @@
 ||logsink.zedge.net^
 ||youmi.net^
 ||yoads.net^
+||yfp2p.net^
+||yfcdn.net^
 ||yceml.net^
 ||admarketing.yahoo.net^
 ||hb.yahoo.net^
@@ -33507,6 +33510,7 @@
 ||yllaris.com^
 ||yinzcam.com^
 ||yieldmo.com^
+||yfcloud.com^
 |t.yesware.com^
 ||yesgwyn.com^
 ||yeesshh.com^
@@ -39676,6 +39680,7 @@
 ||huechl.paige.com^
 ||ping.paidy.com^
 ||pa5ka.com^
+||p2cdn.com^
 ||zljyvx.ozkiz.com^
 ||xxjiqg.oysho.com^
 ||ssp.otm-r.com^
@@ -60479,6 +60484,7 @@
 |grs.dbankcloud.cn^
 |adx-drcn.op.dbankcloud.cn^
 ||dt.dbankcloud.cn^
+||cdnnodedns.cn^
 ||arewcdf116.cn^
 ||analytics.afirstsoft.cn^
 ||acasadf112.cn^
@@ -60546,18 +60552,9 @@
 ||gfdfgfgr.cn^
 ||log-auth.flysleep.cn^
 ||eacdf119.cn^
-||p2pchunk-table.douyucdn.cn^
-||p2plive-ali.douyucdn.cn^
 ||p2perrorlog.douyucdn.cn^
-||p2pchunk-ws.douyucdn.cn^
-||p2pchunk-hw.douyucdn.cn^
-||p2plive-ws.douyucdn.cn^
 ||dotcounter.douyucdn.cn^
-||p2pvod-ws.douyucdn.cn^
-||dyp2p-ali.douyucdn.cn^
 ||dotserver.douyucdn.cn^
-||dyp2p-hw.douyucdn.cn^
-||p2p-ali.douyucdn.cn^
 ||p2plog.douyucdn.cn^
 ||dfgfdffg.cn^
 ||msz3.destinia.cn^
@@ -61039,6 +61036,7 @@
 |dd.iask.cn^
 ||hy90.cn^
 ||efxh.cn^
+||dvuz.cn^
 ||diav.cn^
 ||bd.dhsz.cn^
 ||dbba.cn^
@@ -64631,6 +64629,11 @@
 /adwords/
 /\x2dtracker\.biliapi\.net/
 /ad\.ixigua\.com/
+|p2p-*.douyucdn.cn^
+|p2pchunk-*.douyucdn.cn^
+|dyp2p-*.douyucdn.cn^
+|p2plive-*.douyucdn.cn^
+|p2p*-ws.douyucdn.cn^
 |f-log*.grammarly.io^
 ||ad.*.prod.hosts.ooklaserver.net^
 |adv0*.msa.cdn.mediaset.net^
