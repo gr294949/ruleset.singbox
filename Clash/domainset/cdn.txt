@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-09T15:01:48.416Z
-# Size: 3229
+# Last Updated: 2025-03-09T15:21:40.597Z
+# Size: 3226
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2141,9 +2141,6 @@ imgix.setapp.com
 cdn.setapp.com
 cdn.seondf.com
 vice-prod.sdiapi.com
-static-staging.scroll.com
-static.scroll.com
-assets.scroll.com
 ec-prod.scene7.com
 s7d1.scene7.com
 +.sc-cdn.com
