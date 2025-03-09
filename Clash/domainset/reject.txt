@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-09T12:29:57.772Z
-# Size: 64673
+# Last Updated: 2025-03-09T15:01:45.968Z
+# Size: 64700
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -970,6 +970,7 @@ cwa.html.zone
 +.3.hoes.tube
 +.c.down.tube
 +.yjepztzvncndf.tech
++.vyhxugizkaktg.tech
 +.qjjqhcqxcyfex.tech
 +.marketing.precisiondoor.tech
 +.lnfncvjaweewi.tech
@@ -1096,6 +1097,7 @@ cwa.html.zone
 +.lp.manlywellness.site
 +.lrhyuixtcgnpn.site
 +.intrustedzone.site
++.ijbaawqolrhpd.site
 +.lnk.health-offers.site
 +.gjnqoutbxohdb.site
 +.fwciiqsskqyih.site
@@ -1266,6 +1268,7 @@ bad.third-party.site
 +.seduceeunrests.shop
 +.securerhatable.shop
 +.sectarytimeout.shop
++.scurrilidylian.shop
 +.scritchmaranta.shop
 +.rinninghandful.shop
 +.rhizopiseparte.shop
@@ -1312,6 +1315,7 @@ bad.third-party.site
 +.bushersfrugged.shop
 +.bovinesgobbles.shop
 +.blellumgrittie.shop
++.biophorcurving.shop
 +.berthashuzzard.shop
 +.bantengdisgown.shop
 +.aitchesmillken.shop
@@ -1341,6 +1345,7 @@ bad.third-party.site
 +.pollentdalaga.shop
 +.pardahspondee.shop
 +.odallerdosser.shop
++.occiputunruly.shop
 +.nunhoodpanmug.shop
 +.noechomooches.shop
 +.neuritehemine.shop
@@ -1516,11 +1521,13 @@ bad.third-party.site
 +.slimturpis.shop
 +.shindleabv.shop
 +.capi.schuhtrend.shop
++.sallecoast.shop
 +.richeighth.shop
 +.pyasgummas.shop
 +.punkrunted.shop
 +.predownset.shop
 +.porktuliac.shop
++.phillfogon.shop
 +.sfdsgfg.notice-def.shop
 +.nopalsoxid.shop
 +.monassumph.shop
@@ -1734,6 +1741,7 @@ bad.third-party.site
 +.ntuulavmbjdgo.love
 +.ivajnwwpadtow.love
 +.irwyiaexxopok.love
++.ibvfzddfxqwqg.love
 +.gygvodegxicbv.love
 +.dywuhp-unbnf.love
 +.cpngiubbcnq.love
@@ -2304,6 +2312,7 @@ grs.dbankcloud.asia
 +.mountainbender.xyz
 +.mosseegneertoo.xyz
 +.moagrejinubiko.xyz
++.lbdfynckjyqbau.xyz
 +.koomoaboatapoa.xyz
 +.jidroumsaghetu.xyz
 +.ihiptootchouds.xyz
@@ -2341,6 +2350,7 @@ grs.dbankcloud.asia
 +.esemnjeptffjb.xyz
 +.equirekeither.xyz
 +.eekvgafcsgbwx.xyz
++.edvipubjekzec.xyz
 +.domineering1x.xyz
 +.cemtackedrolr.xyz
 +.bipeedsoubsie.xyz
@@ -2643,6 +2653,7 @@ grs.dbankcloud.asia
 +.19706903.xyz
 +.19700902.xyz
 +.15272973.xyz
++.14381834.xyz
 +.14170678.xyz
 +.13554359.xyz
 +.13518450.xyz
@@ -3395,6 +3406,7 @@ grs.dbankcloud.asia
 +.tpvmdlxpvcenz.vip
 +.tomdsfpeyrsoo.vip
 +.tkoaurrdcktnp.vip
++.pnhorlcjtrfau.vip
 +.mpwhizbkgewzg.vip
 +.cpwbapcsltmjh.vip
 +.screenstudio.vip
@@ -3471,6 +3483,7 @@ grs.dbankcloud.asia
 +.vesuvinaqueity.top
 +.trendlewiggery.top
 +.subovalearlish.top
++.stodgedhurtled.top
 +.sourishtrummel.top
 +.skidlidmassier.top
 +.signorihorrors.top
@@ -3494,6 +3507,7 @@ grs.dbankcloud.asia
 +.jalapicundelve.top
 +.hitcheddayanim.top
 +.hebenonwidegab.top
++.harpyiajumbled.top
 +.harlockluridly.top
 +.guniterandrena.top
 +.fuddlerpanther.top
@@ -3613,6 +3627,7 @@ grs.dbankcloud.asia
 +.lehmerrociest.top
 +.jzvwawvwkwkwl.top
 +.jzqbyykjorakb.top
++.jzokkejvjrvrb.top
 +.jzleekzaovelw.top
 +.jyvkwqjremjbj.top
 +.jybaekaqbmmmb.top
@@ -3779,6 +3794,7 @@ grs.dbankcloud.asia
 +.fridgesbunt.top
 +.droopcomate.top
 +.datingtoday.top
++.birderpulas.top
 +.augurrolley.top
 +.aspicsrubby.top
 +.yungluteal.top
@@ -3802,6 +3818,7 @@ grs.dbankcloud.asia
 +.refpaiwqkk.top
 +.refpaiozdg.top
 +.refpaikgai.top
++.pieairshed.top
 +.pavedmawks.top
 +.oretracker.top
 +.olmnvbgufy.top
@@ -7054,6 +7071,7 @@ proxyhog.prisma-data.net
 +.d2e0sxz09bo7k2.cloudfront.net
 +.d2dq2ahtl5zl1z.cloudfront.net
 +.d2dkurdav21mkk.cloudfront.net
++.d2cqjjokdc31wb.cloudfront.net
 +.d2cpw6kwpff7n5.cloudfront.net
 +.d2cmqkwo8rxlr9.cloudfront.net
 +.d2cli4kgl5uxre.cloudfront.net
@@ -8933,6 +8951,7 @@ iadmusicmat.music.126.net
 +.naos.ink
 +.tragency-clesburg.icu
 +.comilar-efferiff.icu
++.tslamrzckfctp.icu
 +.sqdjorykqfqoc.icu
 +.samage-bility.icu
 +.responservbzh.icu
@@ -13277,6 +13296,7 @@ samsungcloudsolution.com
 +.eardepth-prisists.com
 +.e67repidwnfu7gcha.com
 +.dynatrace-managed.com
++.dylovehehasnoconv.com
 +.sgtm.duepezzibeachwear.com
 +.dseveralmefarketi.com
 +.engage.dovetailinsurance.com
@@ -18335,6 +18355,7 @@ httpdns.volcengineapi.com
 +.info.meyerandassoc.com
 +.nsc.metrics-shell.com
 +.sc.metrics-shell.com
++.metothepointa.com
 +.metavertising.com
 +.metatrckpixel.com
 +.go.metalgoodsmfg.com
@@ -21894,6 +21915,7 @@ oppo.yidianzixun.com
 +.spider-tracker.xiaohongshu.com
 +.an.xavierrosee.com
 +.xameleonads.com
++.wrtgbqgjtjo.com
 +.clownfish.wrestlingiq.com
 +.wowad.wow-classic.com
 +.metrics.worldmarket.com
@@ -26510,6 +26532,7 @@ adx-dra.op.dbankcloud.com
 +.ctobsnssdk.com
 +.t.csuvikings.com
 +.metrics.csnhouston.com
++.cseuegsbjb.com
 +.statistics.crowdynews.com
 +.crokerhyke.com
 +.load.ssa.crocoblade.com
@@ -27974,6 +27997,7 @@ static.m.sjzhushou.com
 +.rumqrobuv.com
 +.fygild.rueonline.com
 +.umlvbe.rucipello.com
++.rtizudmih.com
 +.mail.rtdyotrck.com
 +.rtbsystem.com
 +.rtbdemand.com
@@ -28207,6 +28231,7 @@ static.m.sjzhushou.com
 +.stat-ssl.photohito.com
 +.phoawhoax.com
 +.info.phionline.com
++.phinathuu.com
 +.telemetry.phenixrts.com
 +.pheidheat.com
 +.gtm.pharmagea.com
@@ -33108,6 +33133,7 @@ cdn.cr-relay.com
 +.caphaiks.com
 +.cgwebmetrics.capgroup.com
 +.pcs.capgroup.com
++.capefast.com
 +.metrics.canalvie.com
 +.sanalytics.canaltcm.com
 +.tr.emailing.canalbox.com
@@ -61158,6 +61184,7 @@ yun.rili.cn
 +.xc.macd.cn
 +.a.lz13.cn
 +.lvnr.cn
++.lutn.cn
 mobilead.kuwo.cn
 rich.kuwo.cn
 +.kqgn.cn

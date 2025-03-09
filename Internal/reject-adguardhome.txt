@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 09 Mar 2025 12:30:13 GMT
+! Last modified: Sun, 09 Mar 2025 15:02:00 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -955,6 +955,7 @@
 ||3.hoes.tube^
 ||c.down.tube^
 ||yjepztzvncndf.tech^
+||vyhxugizkaktg.tech^
 ||qjjqhcqxcyfex.tech^
 ||marketing.precisiondoor.tech^
 ||lnfncvjaweewi.tech^
@@ -1081,6 +1082,7 @@
 ||lp.manlywellness.site^
 ||lrhyuixtcgnpn.site^
 ||intrustedzone.site^
+||ijbaawqolrhpd.site^
 ||lnk.health-offers.site^
 ||gjnqoutbxohdb.site^
 ||fwciiqsskqyih.site^
@@ -1251,6 +1253,7 @@
 ||seduceeunrests.shop^
 ||securerhatable.shop^
 ||sectarytimeout.shop^
+||scurrilidylian.shop^
 ||scritchmaranta.shop^
 ||rinninghandful.shop^
 ||rhizopiseparte.shop^
@@ -1297,6 +1300,7 @@
 ||bushersfrugged.shop^
 ||bovinesgobbles.shop^
 ||blellumgrittie.shop^
+||biophorcurving.shop^
 ||berthashuzzard.shop^
 ||bantengdisgown.shop^
 ||aitchesmillken.shop^
@@ -1326,6 +1330,7 @@
 ||pollentdalaga.shop^
 ||pardahspondee.shop^
 ||odallerdosser.shop^
+||occiputunruly.shop^
 ||nunhoodpanmug.shop^
 ||noechomooches.shop^
 ||neuritehemine.shop^
@@ -1501,11 +1506,13 @@
 ||slimturpis.shop^
 ||shindleabv.shop^
 ||capi.schuhtrend.shop^
+||sallecoast.shop^
 ||richeighth.shop^
 ||pyasgummas.shop^
 ||punkrunted.shop^
 ||predownset.shop^
 ||porktuliac.shop^
+||phillfogon.shop^
 ||sfdsgfg.notice-def.shop^
 ||nopalsoxid.shop^
 ||monassumph.shop^
@@ -1720,6 +1727,7 @@
 ||ntuulavmbjdgo.love^
 ||ivajnwwpadtow.love^
 ||irwyiaexxopok.love^
+||ibvfzddfxqwqg.love^
 ||gygvodegxicbv.love^
 ||dywuhp-unbnf.love^
 ||cpngiubbcnq.love^
@@ -2290,6 +2298,7 @@
 ||mountainbender.xyz^
 ||mosseegneertoo.xyz^
 ||moagrejinubiko.xyz^
+||lbdfynckjyqbau.xyz^
 ||koomoaboatapoa.xyz^
 ||jidroumsaghetu.xyz^
 ||ihiptootchouds.xyz^
@@ -2327,6 +2336,7 @@
 ||esemnjeptffjb.xyz^
 ||equirekeither.xyz^
 ||eekvgafcsgbwx.xyz^
+||edvipubjekzec.xyz^
 ||domineering1x.xyz^
 ||cemtackedrolr.xyz^
 ||bipeedsoubsie.xyz^
@@ -2629,6 +2639,7 @@
 ||19706903.xyz^
 ||19700902.xyz^
 ||15272973.xyz^
+||14381834.xyz^
 ||14170678.xyz^
 ||13554359.xyz^
 ||13518450.xyz^
@@ -3381,6 +3392,7 @@
 ||tpvmdlxpvcenz.vip^
 ||tomdsfpeyrsoo.vip^
 ||tkoaurrdcktnp.vip^
+||pnhorlcjtrfau.vip^
 ||mpwhizbkgewzg.vip^
 ||cpwbapcsltmjh.vip^
 ||screenstudio.vip^
@@ -3457,6 +3469,7 @@
 ||vesuvinaqueity.top^
 ||trendlewiggery.top^
 ||subovalearlish.top^
+||stodgedhurtled.top^
 ||sourishtrummel.top^
 ||skidlidmassier.top^
 ||signorihorrors.top^
@@ -3480,6 +3493,7 @@
 ||jalapicundelve.top^
 ||hitcheddayanim.top^
 ||hebenonwidegab.top^
+||harpyiajumbled.top^
 ||harlockluridly.top^
 ||guniterandrena.top^
 ||fuddlerpanther.top^
@@ -3599,6 +3613,7 @@
 ||lehmerrociest.top^
 ||jzvwawvwkwkwl.top^
 ||jzqbyykjorakb.top^
+||jzokkejvjrvrb.top^
 ||jzleekzaovelw.top^
 ||jyvkwqjremjbj.top^
 ||jybaekaqbmmmb.top^
@@ -3765,6 +3780,7 @@
 ||fridgesbunt.top^
 ||droopcomate.top^
 ||datingtoday.top^
+||birderpulas.top^
 ||augurrolley.top^
 ||aspicsrubby.top^
 ||yungluteal.top^
@@ -3788,6 +3804,7 @@
 ||refpaiwqkk.top^
 ||refpaiozdg.top^
 ||refpaikgai.top^
+||pieairshed.top^
 ||pavedmawks.top^
 ||oretracker.top^
 ||olmnvbgufy.top^
@@ -7041,6 +7058,7 @@
 ||d2e0sxz09bo7k2.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2dkurdav21mkk.cloudfront.net^
+||d2cqjjokdc31wb.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2cmqkwo8rxlr9.cloudfront.net^
 ||d2cli4kgl5uxre.cloudfront.net^
@@ -8924,6 +8942,7 @@
 ||naos.ink^
 ||tragency-clesburg.icu^
 ||comilar-efferiff.icu^
+||tslamrzckfctp.icu^
 ||sqdjorykqfqoc.icu^
 ||samage-bility.icu^
 ||responservbzh.icu^
@@ -13269,6 +13288,7 @@
 ||eardepth-prisists.com^
 ||e67repidwnfu7gcha.com^
 ||dynatrace-managed.com^
+||dylovehehasnoconv.com^
 ||sgtm.duepezzibeachwear.com^
 ||dseveralmefarketi.com^
 ||engage.dovetailinsurance.com^
@@ -18327,6 +18347,7 @@
 ||info.meyerandassoc.com^
 ||nsc.metrics-shell.com^
 ||sc.metrics-shell.com^
+||metothepointa.com^
 ||metavertising.com^
 ||metatrckpixel.com^
 ||go.metalgoodsmfg.com^
@@ -21887,6 +21908,7 @@
 ||spider-tracker.xiaohongshu.com^
 ||an.xavierrosee.com^
 ||xameleonads.com^
+||wrtgbqgjtjo.com^
 ||clownfish.wrestlingiq.com^
 ||wowad.wow-classic.com^
 ||metrics.worldmarket.com^
@@ -26505,6 +26527,7 @@
 ||ctobsnssdk.com^
 ||t.csuvikings.com^
 ||metrics.csnhouston.com^
+||cseuegsbjb.com^
 ||statistics.crowdynews.com^
 ||crokerhyke.com^
 ||load.ssa.crocoblade.com^
@@ -27969,6 +27992,7 @@
 ||rumqrobuv.com^
 ||fygild.rueonline.com^
 ||umlvbe.rucipello.com^
+||rtizudmih.com^
 ||mail.rtdyotrck.com^
 ||rtbsystem.com^
 ||rtbdemand.com^
@@ -28202,6 +28226,7 @@
 ||stat-ssl.photohito.com^
 ||phoawhoax.com^
 ||info.phionline.com^
+||phinathuu.com^
 ||telemetry.phenixrts.com^
 ||pheidheat.com^
 ||gtm.pharmagea.com^
@@ -33109,6 +33134,7 @@
 ||caphaiks.com^
 ||cgwebmetrics.capgroup.com^
 ||pcs.capgroup.com^
+||capefast.com^
 ||metrics.canalvie.com^
 ||sanalytics.canaltcm.com^
 ||tr.emailing.canalbox.com^
@@ -61178,6 +61204,7 @@
 ||xc.macd.cn^
 ||a.lz13.cn^
 ||lvnr.cn^
+||lutn.cn^
 |mobilead.kuwo.cn^
 |rich.kuwo.cn^
 ||kqgn.cn^
