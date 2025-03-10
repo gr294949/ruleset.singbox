@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-03-10T12:41:44.678Z
+// # Build 2025-03-10T15:20:47.775Z
 
 declare(strict_types=1);
 
@@ -122,8 +122,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,oschina.net,Domestic',
         'DOMAIN-SUFFIX,meituan.net,Domestic',
         'DOMAIN-SUFFIX,store.apple.com.edgekey.net,Domestic',
-        'DOMAIN-SUFFIX,www.apple.com.edgekey.net,Domestic',
-        'DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net,Domestic',
         'DOMAIN-SUFFIX,biliapi.net,Domestic',
         'DOMAIN-SUFFIX,xiaote.net,Domestic',
         'DOMAIN-SUFFIX,xiaomi.net,Domestic',
@@ -177,7 +175,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,swdist.apple.com.akadns.net,Domestic',
-        'DOMAIN-SUFFIX,images.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,cds.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,115cdn.net,Domestic',
         'DOMAIN-SUFFIX,xiami.net,Domestic',
@@ -765,7 +762,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,swscan.apple.com,Domestic',
         'DOMAIN-SUFFIX,swdist.apple.com,Domestic',
         'DOMAIN-SUFFIX,itunes.apple.com,Domestic',
-        'DOMAIN-SUFFIX,images.apple.com,Domestic',
         'DOMAIN-SUFFIX,iadsdk.apple.com,Domestic',
         'DOMAIN-SUFFIX,gs-loc.apple.com,Domestic',
         'DOMAIN-SUFFIX,dejavu.apple.com,Domestic',
@@ -774,9 +770,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,valid.apple.com,Domestic',
         'DOMAIN-SUFFIX,swcdn.apple.com,Domestic',
         'DOMAIN-SUFFIX,store.apple.com,Domestic',
-        'DOMAIN-SUFFIX,api-p-ap-e.smoot.apple.com,Domestic',
-        'DOMAIN-SUFFIX,api-p-ap-d.smoot.apple.com,Domestic',
-        'DOMAIN-SUFFIX,api-p-ap-c.smoot.apple.com,Domestic',
         'DOMAIN-SUFFIX,guzzoni.smoot.apple.com,Domestic',
         'DOMAIN-SUFFIX,oscdn.apple.com,Domestic',
         'DOMAIN-SUFFIX,ocsp2.apple.com,Domestic',
@@ -816,7 +809,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,gsp12-cn.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,gsp5-cn.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,gsp4-cn.ls.apple.com,Domestic',
-        'DOMAIN-SUFFIX,gspe21.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,cn-ssl.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,cn.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,static.gc.apple.com,Domestic',
@@ -2921,6 +2913,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.67.223.0/24,Domestic',
         'IP-CIDR,45.81.34.0/24,Domestic',
         'IP-CIDR,45.85.76.0/22,Domestic',
+        'IP-CIDR,45.91.83.0/24,Domestic',
         'IP-CIDR,45.92.158.0/23,Domestic',
         'IP-CIDR,45.113.20.0/22,Domestic',
         'IP-CIDR,45.113.24.0/22,Domestic',
