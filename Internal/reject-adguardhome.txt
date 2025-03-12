@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 12 Mar 2025 07:02:21 GMT
+! Last modified: Wed, 12 Mar 2025 12:41:42 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -20290,6 +20290,7 @@
 ||stats.referralhero.com^
 ||hasslefree.redwingshoes.com^
 ||solutions.redwingshoes.com^
+||red-swimming.com^
 ||srepdata.recordonline.com^
 ||bxumze.recordonline.com^
 ||gerbil.recipe-ipsum.com^
@@ -61270,6 +61271,7 @@
 ||info.kollmorgen.cn^
 ||wj.jiancai365.cn^
 ||logservice1.dbankcloud.cn^
+||logservice.dbankcloud.cn^
 |httpdns-browser.platform.dbankcloud.cn^
 ||logservice-dre.platform.dbankcloud.cn^
 ||dnkeeper.platform.dbankcloud.cn^
