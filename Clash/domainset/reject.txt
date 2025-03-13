@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-13T09:31:36.115Z
-# Size: 65789
+# Last Updated: 2025-03-13T12:41:28.544Z
+# Size: 65798
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5633,6 +5633,7 @@ ynuf.aliapp.org
 +.1558334541.rsc.cdn77.org
 +.1548164934.rsc.cdn77.org
 +.1437953666.rsc.cdn77.org
++.1361424968.rsc.cdn77.org
 +.1352924994.rsc.cdn77.org
 +.1208344341.rsc.cdn77.org
 +.1187531871.rsc.cdn77.org
@@ -6279,6 +6280,7 @@ samsungcloudsolution.net
 +.webmaxlogger.net
 +.waujigarailo.net
 +.watchingthat.net
++.vophothoorom.net
 +.redtrack.virtualvenus.net
 +.vidrugnirtop.net
 +.tusheedrosep.net
@@ -15223,6 +15225,7 @@ display.360totalsecurity.com
 +.cuckoo.peoplefirstjobs.com
 +.metrics.peopleenespanol.com
 +.meta-events.pelotonmagazine.com
++.pefslhmrktkvami.com
 +.info.paulsontraining.com
 +.metrics.patientsatheart.com
 +.load.server.pastillfabriken.com
@@ -17011,6 +17014,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.mob2.healthapplines.com
 +.thegreatesthits.headphonecheck.com
 +.offers.hddistributors.com
++.hbqaihowimyiuh.com
 +.hauledskirmish.com
 +.harmootphenate.com
 +.marketing.hardysolutions.com
@@ -18689,6 +18693,7 @@ httpdns.volcengineapi.com
 +.lmnqof.littletoncoin.com
 +.kbqtbd.littlehipstar.com
 +.rsst.literiedesign.com
++.lissaizocmoog.com
 +.adebis2.line-property.com
 +.limbecculvers.com
 +.dbdidv.lillianvernon.com
@@ -19870,6 +19875,7 @@ ad.zuimeitianqi.com
 +.zs.voyage-prive.com
 +.f2.voyage-prive.com
 +.bn.voyage-prive.com
++.vomerkalpaks.com
 +.app.response.volarisgroup.com
 +.tags.voatiengviet.com
 +.ssc.voatiengviet.com
@@ -20410,6 +20416,7 @@ adcdn.tencentmusic.com
 +.rndskittytor.com
 +.rndnoibattor.com
 +.rndhaunteran.com
++.rkvldurquedh.com
 +.marketing.riverfrontig.com
 +.metrics.rituxanforra.com
 +.metrics.rituxanforpv.com
@@ -29099,6 +29106,7 @@ choice.microsoft.com
 +.luxupcdna.com
 +.luxupadva.com
 +.lushaseex.com
++.luqjuzatt.com
 +.lungerect.com
 +.anglerfish.luminfire.com
 +.redtrack.lumevltta.com
@@ -30803,6 +30811,7 @@ advertise.baicizhan.com
 +.yieldtrk.com
 +.yieldkit.com
 +.yhmhbnzz.com
++.yf9pkk1q.com
 +.yetshape.com
 +.mapp.yesstyle.com
 +.yespetor.com
