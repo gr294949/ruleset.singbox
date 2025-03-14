@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-14T06:27:46.721Z
-# Size: 65990
+# Last Updated: 2025-03-14T12:39:36.281Z
+# Size: 66010
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1282,6 +1282,7 @@ bad.third-party.site
 +.sectarytimeout.shop
 +.scurrilidylian.shop
 +.scritchmaranta.shop
++.scrannyliplike.shop
 +.rinninghandful.shop
 +.rhizopiseparte.shop
 +.remudasfablers.shop
@@ -1750,6 +1751,7 @@ bad.third-party.site
 +.wyidsbopxpifd.love
 +.vnhmdeyzvmgho.love
 +.vamgggllztusk.love
++.oaocrxsgsemdg.love
 +.ntuulavmbjdgo.love
 +.ivajnwwpadtow.love
 +.irwyiaexxopok.love
@@ -3681,6 +3683,7 @@ grs.dbankcloud.asia
 +.hamatumkoodoo.top
 +.gluteusriotry.top
 +.girdersacetla.top
++.gateautriamid.top
 +.gangingwalnut.top
 +.galahsflamant.top
 +.faqirsgoliard.top
@@ -5992,6 +5995,7 @@ samsungcloudsolution.net
 +.fonsaigotoaftuy.net
 +.ewouwamsubsouvy.net
 +.eptoufeebimeesh.net
++.eemaibsemtushaz.net
 +.edoxoonsackefte.net
 +.ebigrooxoomsust.net
 +.ebengussaubsooh.net
@@ -14860,6 +14864,7 @@ display.360totalsecurity.com
 +.xwlfmnfnffkixgm.com
 +.images.e.xtelligentmedia.com
 +.wugroansaghadry.com
++.wsatylyuqqtyhxv.com
 +.mktredtrack.worldscientific.com
 +.engage.worldofconcrete.com
 +.iesopeaktracker.workbenchenergy.com
@@ -14900,6 +14905,7 @@ display.360totalsecurity.com
 +.waspishoverhear.com
 +.trk.connect.vulcanmaterials.com
 +.analytics.voxbusinesscard.com
++.voowozoogroagom.com
 +.info.visuresolutions.com
 +.marketing.visitsanantonio.com
 +.marketing.visitsacramento.com
@@ -15105,6 +15111,7 @@ display.360totalsecurity.com
 +.storystaffrings.com
 +.tsrdhi.stores-discount.com
 +.tracking-receiver.prod-general.stocard-backend.com
++.stithauzouleesy.com
 +.edge.sterlingcapital.com
 +.opossum.stephanieharari.com
 +.dc.stenalinetravel.com
@@ -20169,6 +20176,7 @@ ad.zuimeitianqi.com
 +.tombsspinner.com
 +.togothermany.com
 +.todayapplied.com
++.toashapegroo.com
 +.tkyierpoyjrs.com
 +.tkrconnector.com
 +.tirosagalite.com
@@ -23662,6 +23670,7 @@ oppo.yidianzixun.com
 +.jarvispopsu.com
 +.r451.jamanetwork.com
 +.jaletemetia.com
++.jaletcatena.com
 +.p-events.ivideosmart.com
 +.ittorchicer.com
 +.itstuffnews.com
@@ -24448,6 +24457,7 @@ httpdns.calorietech.com
 +.bidvertiser.com
 +.bidsxchange.com
 +.rttkpr.bidolubaski.com
++.nr.bidderstack.com
 +.bianxianmao.com
 +.app.bgsufalcons.com
 +.t.bgsufalcons.com
@@ -25560,6 +25570,7 @@ samsungqbe.com
 +.qlfqkjluvz.com
 +.qituduwios.com
 +.qiplidoxwm.com
++.qidnujocmf.com
 +.qibkkioqqw.com
 +.qhogcyoqrl.com
 +.qfiacnkita.com
@@ -25651,6 +25662,7 @@ samsungqbe.com
 +.pogimpfufg.com
 +.ctr.po-kaki-to.com
 +.pnuhondppw.com
++.pnrndhgury.com
 +.marketing.pmanetwork.com
 +.pluckyzone.com
 +.track.playonouae.com
@@ -28712,6 +28724,7 @@ static.m.sjzhushou.com
 +.stats.polldaddy.com
 +.nossl.policeone.com
 +.go.polarking.com
++.cdn.polarbyte.com
 +.ubvsjh.pointtown.com
 +.pointroll.com
 +.analytics.poferries.com
@@ -28826,6 +28839,7 @@ static.m.sjzhushou.com
 +.profiling.outokumpu.com
 +.privacy.outdoorsg.com
 +.outabsola.com
++.otvadvpas.com
 +.telemetry.otsuka-us.com
 +.a8.otonayaki.com
 +.otisephie.com
@@ -30069,6 +30083,7 @@ choice.microsoft.com
 +.load.sgtm.earlygame.com
 +.sokcdx.e-picasso.com
 +.tr.info.e-leclerc.com
++.dzvuvtwbp.com
 +.dyptanaza.com
 +.dynsrvtbg.com
 +.trk.dvsystems.com
@@ -32745,6 +32760,7 @@ log-sdk.ksapisrv.com
 +.js-check.com
 +.jrpkizae.com
 +.jqueryoi.com
++.jqtfoe92.com
 +.pbstats.jpmorgan.com
 +.joxaviri.com
 +.mnrddc.journeys.com
@@ -39412,10 +39428,12 @@ links.services.disqus.com
 +.shtptt.cupshe.com
 +.cukuix.com
 +.in.cuebiq.com
++.ctwmed.com
 +.ctwmcd.com
 +.ctsdwm.com
 +.ctrdwm.com
 +.t810.ctpost.com
++.ctcdwm.com
 +.cszlks.com
 +.tracking.cspire.com
 +.rdvxxx.crushj.com
@@ -46935,6 +46953,7 @@ grs.platform.dbankcloud.ru
 +.d.wi-fi.ru
 +.s.frida.vse42.ru
 +.vihub.ru
++.stbid.ru
 +.ffzffn.satra.ru
 +.metrics.med.roche.ru
 +.euldnr.rezat.ru
@@ -52793,6 +52812,7 @@ s.maketheweb.io
 +.presage.io
 +.analytics.pagefly.io
 +.meta-events.outside.io
++.stat.nsc-lab.io
 +.events.missena.io
 +.metalex.io
 +.rw.marchex.io
