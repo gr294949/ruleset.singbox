@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-14T06:27:48.763Z
-# Size: 3239
+# Last Updated: 2025-03-14T07:01:09.707Z
+# Size: 3253
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -47,6 +47,7 @@ namedotcom-cdn.name.tools
 pics.javhd.today
 vanilla-extract.style
 eslint.style
+cdn.one.store
 +.pstorage.space
 cdn.hiive.space
 cdn.deta.space
@@ -534,6 +535,7 @@ fast.wistia.net
 static.vocadb.net
 images1.vinted.net
 craftassets.unraid.net
+components.trynow.net
 +.sftcdn.net
 +.rspcdn.net
 +.poecdn.net
@@ -873,6 +875,7 @@ images.flightradar24.com
 +.envato-static.com
 +.dropboxstatic.com
 +.discourse-cdn.com
+chat.digitalgenius.com
 images8.design-editor.com
 images7.design-editor.com
 images.design-editor.com
@@ -996,6 +999,7 @@ img2.xiangbinjun.com
 +.webpkgcache.com
 static.webclicks24.com
 cdn.webclicks24.com
+live.visually-io.com
 app.viral-loops.com
 static-cdn.usertesting.com
 +.js.usemessages.com
@@ -1352,6 +1356,8 @@ app.brightback.com
 +.boomio-cdn.com
 cdn-www.bluestacks.com
 +.bestjavcdn.com
+widget.automizely.com
+sdks.automizely.com
 cdnb.artstation.com
 cdna.artstation.com
 cdn.artstation.com
@@ -1772,6 +1778,7 @@ app.chatwoot.com
 +.cdnfonts.com
 +.cartocdn.com
 assets.capterra.com
+cdn.camweara.com
 assets.calendly.com
 assets.byteplus.com
 +.bytedapm.com
@@ -1803,10 +1810,13 @@ cdn2.airdroid.com
 cdn1.airdroid.com
 dl.airdroid.com
 sentry.ainopara.com
+static-us.afterpay.com
+static.afterpay.com
 assets.adobedtm.com
 static.addtoany.com
 image.p-c2-x.abema-tv.com
 +.zohocdn.com
+cdn.zigpoll.com
 +.media.zestyio.com
 web-assets.zendesk.com
 img.youtube.com
@@ -1933,6 +1943,7 @@ img.ltyears.com
 +.kym-cdn.com
 static-forms.klaviyo.com
 static.klaviyo.com
+a.klaviyo.com
 media10.kissjav.com
 media9.kissjav.com
 media8.kissjav.com
@@ -2259,6 +2270,7 @@ static.hotjar.com
 cdn5.hextom.com
 cdn3.hextom.com
 cdn2.hextom.com
+cdn.hextom.com
 +.assets.heroku.com
 +.hembed.com
 image.gyutto.com
@@ -2324,6 +2336,7 @@ static.ahrefs.com
 +.9cache.com
 +.ytimg.com
 cdn-yotpo-images-production.yotpo.com
+cdn-widgetsrepository.yotpo.com
 staticw2.yotpo.com
 yep.video.yahoo.com
 +.xhcdn.com
@@ -2363,6 +2376,7 @@ s.plurk.com
 cdn1.plesk.com
 cdn.plaid.com
 i.pcmag.com
+cdn.paidy.com
 package-assets.oomol.com
 registry.oomol.com
 static.oomol.com
