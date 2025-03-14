@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-13T01:55:02.897Z
-# Size: 3230
+# Last Updated: 2025-03-14T06:27:48.763Z
+# Size: 3239
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -58,6 +58,7 @@ jssdk.opin.media
 +.icon.horse
 assets.buttondown.email
 +.ipfs-gateway.cloud
++.dreamscape.cloud
 media.cleanshot.cloud
 +.mypinata.cloud
 cdn.bullwhip.cloud
@@ -1345,6 +1346,7 @@ js.chilipiper.com
 +.cdn-spurit.com
 public-pages.cbinsights.com
 rtcg-access.bytevcloud.com
+static.buydomains.com
 cdn.britannica.com
 app.brightback.com
 +.boomio-cdn.com
@@ -1775,6 +1777,7 @@ assets.byteplus.com
 +.bytedapm.com
 +.bunnycdn.com
 assets.bravenet.com
+static.registration.bluehost.com
 +.bp.blogspot.com
 +.blogblog.com
 static.bitfinex.com
@@ -1906,6 +1909,8 @@ media.nownews.com
 +.nordcdn.com
 +.ngfiles.com
 assets.nflxext.com
+stbff.newfold.com
+mta.newfold.com
 +.ndtvimg.com
 nodeassets.nbcnews.com
 iframe.nbcnews.com
@@ -2143,7 +2148,9 @@ imgix.setapp.com
 cdn.setapp.com
 cdn.seondf.com
 vice-prod.sdiapi.com
+newfold.scene7.com
 ec-prod.scene7.com
+stbff.scene7.com
 s7d1.scene7.com
 +.sc-cdn.com
 embed.runkit.com
@@ -2219,6 +2226,7 @@ cdn2.macpaw.com
 +.loggly.com
 +.lodash.com
 staging-pubfeed.linkby.com
++.li-cdn.com
 ledger-wp-website-s3-prd.ledger.com
 assets-cms.kraken.com
 assets.kraken.com
@@ -3235,6 +3243,7 @@ media.evolv.ai
 metrics.kapa.ai
 widget.kapa.ai
 assets.dify.ai
+limitless.cmax.ai
 +.cdn.s7s.ai
 bot.ivy.ai
 rules.ac
