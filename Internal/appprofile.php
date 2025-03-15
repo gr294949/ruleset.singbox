@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-03-15T05:42:55.958Z
+// # Build 2025-03-15T19:30:48.446Z
 
 declare(strict_types=1);
 
@@ -915,6 +915,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,authing.co,Domestic',
         'DOMAIN-SUFFIX,officewebapps.cn,Domestic',
         'DOMAIN-SUFFIX,mobileservice.cn,Domestic',
+        'DOMAIN-SUFFIX,elseviercdn.cn,Domestic',
         'DOMAIN-SUFFIX,cnspeedtest.cn,Domestic',
         'DOMAIN-SUFFIX,chinaunicom.cn,Domestic',
         'DOMAIN-SUFFIX,baishancdnx.cn,Domestic',
