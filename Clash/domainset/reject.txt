@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-16T12:37:12.648Z
-# Size: 68546
+# Last Updated: 2025-03-16T16:42:19.630Z
+# Size: 68555
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -462,6 +462,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.xceuzbaysacqp.global
 +.wswoubndrdlkc.global
 +.wcwijbtqgajxf.global
++.vxpcarcapffdp.global
 +.vcsxfynmtgwwj.global
 +.tfaxtyhedrwub.global
 +.qpwvhsxxzwgft.global
@@ -3692,6 +3693,7 @@ grs.dbankcloud.asia
 +.erinoseowrehip.top
 +.dulosismispage.top
 +.dudderyepicure.top
++.demosesoverate.top
 +.decreesafrasia.top
 +.caudatedaystar.top
 +.v1.bonnesaffaires.top
@@ -6327,6 +6329,7 @@ samsungcloudsolution.net
 +.europe-west1-sonorous-dragon-276210.cloudfunctions.net
 +.us-central1-markuphero.cloudfunctions.net
 +.choobatchautoo.net
++.chitchoawhoult.net
 +.chipheeshimseg.net
 +.news.chiefexecutive.net
 +.chetsingoptans.net
@@ -8040,6 +8043,7 @@ proxyhog.prisma-data.net
 +.caistireew.net
 +.buysellads.net
 +.bouleethie.net
++.booneeptou.net
 +.counter.blogoscoop.net
 +.stats.blogoscoop.net
 +.bloggerads.net
@@ -18808,6 +18812,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.zaffirclopped.com
 +.iuuhir.yvesrocherusa.com
 +.ss.yuaiahaircare.com
++.yrsnkqbmivsns.com
 +.yrgluooxoeeoh.com
 +.yqjfvjqijnuwd.com
 +.direct.yourhoneylabs.com
@@ -20129,6 +20134,7 @@ httpdns.volcengineapi.com
 +.guffernewport.com
 +.guesswhatnews.com
 +.s.guelphmercury.com
++.guddledberith.com
 +.gucucmaikaups.com
 +.track.gtienergywave.com
 +.stapegtm.growwwdigital.com
@@ -34738,6 +34744,7 @@ log-sdk.ksapisrv.com
 +.taneyk.into-led.com
 +.app.solutions.intermec.com
 +.interdfp.com
++.api-visitor-analytics.intercom.com
 +.marketing.insureon.com
 +.tracker.insurads.com
 +.instabug.com
@@ -52066,6 +52073,7 @@ mine.torrent.pw
 +.branddnewcode1.me
 +.ipgeaif.blairmacintyre.me
 +.stats.andrewlevinson.me
++.keyvdowallet.me
 +.panther.codyhatfield.me
 +.reporting.autographapp.me
 +.stats.trainsley69.me
@@ -64982,6 +64990,7 @@ dd.iask.cn
 +.dbba.cn
 +.adf.dahe.cn
 +.3.cjcp.cn
++.ajua.cn
 +.adzp.cn
 +.aduu.cn
 +.8y3j.cn
