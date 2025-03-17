@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-16T16:42:21.356Z
-# Size: 3261
+# Last Updated: 2025-03-17T02:01:21.051Z
+# Size: 3263
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1852,6 +1852,8 @@ play.vidyard.com
 cdn.vidyard.com
 +.userapi.com
 img.urlnode.com
+static.uptimia.com
+cdn.uptimia.com
 static-overlay.ubisoft.com
 ubistatic2-a.ubisoft.com
 ubistatic-a.ubisoft.com
