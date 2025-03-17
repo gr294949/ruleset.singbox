@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-17T09:56:23.069Z
-# Size: 3266
+# Last Updated: 2025-03-17T13:29:21.969Z
+# Size: 3267
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2155,6 +2155,7 @@ img.supjav.com
 connect-js.stripe.com
 checkout.stripe.com
 js.stripe.com
+heatmap-external-a.strava.com
 web-assets.strava.com
 +.ss-cdn.com
 +.sndcdn.com
