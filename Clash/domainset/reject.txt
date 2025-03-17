@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-17T09:22:02.172Z
-# Size: 68931
+# Last Updated: 2025-03-17T09:31:57.984Z
+# Size: 68930
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -52501,7 +52501,6 @@ mine.torrent.pw
 +.branddnewcode1.me
 +.ipgeaif.blairmacintyre.me
 +.stats.andrewlevinson.me
-+.keyvdowallet.me
 +.panther.codyhatfield.me
 +.reporting.autographapp.me
 +.stats.trainsley69.me
