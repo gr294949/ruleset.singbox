@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-17T13:29:21.969Z
-# Size: 3267
+# Last Updated: 2025-03-17T14:23:06.743Z
+# Size: 3270
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1430,6 +1430,7 @@ static.skyassets.com
 uploads.sitepoint.com
 s3.sitepoint.com
 media.shopimind.com
++.sfbassets.com
 +.sendspace.com
 forest-mt-s3.seekrtech.com
 images.scrolller.com
@@ -1483,6 +1484,7 @@ cdn-images.mailchimp.com
 images.macrumors.com
 +.lr-ingest.com
 +.lowendbox.com
+scdn.line-apps.com
 +.kinja-img.com
 cdn.joinhoney.com
 +.jisuimage.com
@@ -1619,6 +1621,7 @@ cdn4.sysgears.com
 cdn3.sysgears.com
 cdn2.sysgears.com
 cdn1.sysgears.com
++.sway-cdn.com
 cdn.substack.com
 +.stylexjs.com
 +.stripcdn.com
