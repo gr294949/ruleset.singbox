@@ -4,19 +4,19 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "hv-monster-submit.skk.moe-",
-        "api.wakatime.com-",
-        "writer-api.mintlify.com-"
+        "hv-monster-submit.skk.moe",
+        "api.wakatime.com",
+        "writer-api.mintlify.com"
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "18comic.vip-",
-        "18comic.org-",
-        "akamaized.net-",
-        "akamaihd.net-",
-        "azurefd.net-",
-        "vo.msecnd.net-",
-        "kxcdn.com-"
+        "18comic.vip",
+        "18comic.org",
+        "akamaized.net",
+        "akamaihd.net",
+        "azurefd.net",
+        "vo.msecnd.net",
+        "kxcdn.com"
       ]
     }
   ]
