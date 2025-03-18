@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-17T14:41:58.584Z
-# Size: 3273
+# Last Updated: 2025-03-18T07:00:02.657Z
+# Size: 3276
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1887,6 +1887,7 @@ assets.st-note.com
 cdn.st-note.com
 static.srcspot.com
 +.sqspcdn.com
+cdn.sphlabs.com
 +.snzypic.com
 sdk.snapkit.com
 cdn.shopify.com
@@ -2792,8 +2793,10 @@ flo.uri.sh
 +.ttl.sh
 +.now.sh
 +.esm.sh
+cassette.sphdigital.com.sg
 static.zaobao.com.sg
 static.mysph.sph.com.sg
+cdp.sph.com.sg
 +.ipfs.best-practice.se
 +.webp.se
 curl.se
