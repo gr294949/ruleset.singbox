@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 18 Mar 2025 15:44:51 GMT
+! Last modified: Wed, 19 Mar 2025 01:27:09 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1590,6 +1590,7 @@
 ||yhdemu368.shop^
 ||track.watchmore.shop^
 ||twirkacus.shop^
+||tostervar.shop^
 ||ss.thuistest.shop^
 ||scfmfurls.shop^
 ||partner.salibandy.shop^
@@ -2334,6 +2335,7 @@
 ||load.msr.900.care^
 ||lustgoddessthegame.buzz^
 ||check-tl-ver-268-a.buzz^
+||zynewaylxyxex.buzz^
 ||zqdekzkqwvzcl.buzz^
 ||zautfqxtmfvjr.buzz^
 ||xtrgqmnflnfnj.buzz^
@@ -2754,6 +2756,7 @@
 ||84055600.xyz^
 ||83887336.xyz^
 ||83409127.xyz^
+||79582961.xyz^
 ||79391192.xyz^
 ||78b78ff8.xyz^
 ||78587924.xyz^
@@ -4625,6 +4628,7 @@
 ||addizhi.top^
 ||zlgame.top^
 ||yruadj.top^
+||xrlzhk.top^
 ||xiuska.top^
 ||wuisaq.top^
 ||wmcbld.top^
@@ -6055,6 +6059,7 @@
 ||sdiiilldgbhrm.one^
 ||omoevcozeezhg.one^
 ||njicuiabvwawm.one^
+||masogjmltljhl.one^
 ||lpyyzoetztnmv.one^
 ||inxgfxylzkkgi.one^
 ||escgjyxnxbktf.one^
@@ -6136,6 +6141,7 @@
 ||cs1979sbeda.customguide-build.net^
 ||mandrill.castingcollective.net^
 ||data-b0fd716f10.auto-medienportal.net^
+||affiliateservices.net^
 ||yandexadexchange.net^
 ||xn--swt207gl1hzc.net^
 ||servicing.unitedautocredit.net^
@@ -6639,6 +6645,7 @@
 ||managedaccounts.pacificpower.net^
 ||matrk.pacificpower.net^
 ||outsoupsergy.net^
+||oungirtuwhoo.net^
 ||oolsutsougri.net^
 ||omegaadblock.net^
 ||oavurognaurd.net^
@@ -7009,6 +7016,7 @@
 ||vothongeey.net^
 ||vooptikoph.net^
 ||voopsookie.net^
+||vohainoaho.net^
 ||mdws.vantageone.net^
 ||valueclick.net^
 ||vaivurizoa.net^
@@ -10439,6 +10447,7 @@
 ||lftcph.icu^
 ||lelczf.icu^
 ||ledwtz.icu^
+||ledfjl.icu^
 ||leadc6.icu^
 ||ldbnhd.icu^
 ||lcvwdn.icu^
@@ -10449,6 +10458,7 @@
 ||kgdyoh.icu^
 ||jwhdgt.icu^
 ||jthotb.icu^
+||jslxzx.icu^
 ||jshilr.icu^
 ||jrblfv.icu^
 ||jjfufv.icu^
@@ -12461,6 +12471,7 @@
 ||sundayscrewinsulting.com^
 ||summer-notifications.com^
 ||suburbanabolishflare.com^
+||steroidbazaarbalance.com^
 ||slaunch.spectrumtherapeutics.com^
 ||information.specialoccasionlinen.com^
 ||spacecatholicpalmful.com^
@@ -18857,6 +18868,7 @@
 ||vtmhxs.bulkapothecary.com^
 ||parakeet.buildcodelearn.com^
 ||bugleczmoidgxo.com^
+||bufmjknaeprvyd.com^
 ||budsminepatent.com^
 ||buckeyekantars.com^
 ||bubblessudsman.com^
@@ -22451,6 +22463,7 @@
 ||sgtm.namosparfums.com^
 ||med.namendaxrhcp.com^
 ||nakooarsenal.com^
+||naiantmucksy.com^
 ||nachodusking.com^
 ||yourporscheimg.nabooda-auto.com^
 ||yourporsche.nabooda-auto.com^
@@ -24980,6 +24993,7 @@
 ||starget.panerabread.com^
 ||metrics.panerabread.com^
 ||pamperwoody.com^
+||palliondout.com^
 ||pfazmz.palletforks.com^
 ||web.news.paganistore.com^
 ||load.sgtm.padel-point.com^
@@ -25670,6 +25684,7 @@
 ||tickets.gs-warriors.com^
 ||ana.grumpygamer.com^
 ||na.groupondata.com^
+||gromtempair.com^
 ||tcmdjt.grimmschool.com^
 ||grillejisms.com^
 ||info.greentarget.com^
@@ -25976,6 +25991,7 @@
 ||partners.duckferries.com^
 ||dubvacasept.com^
 ||dtadnetwork.com^
+||druqkstwwvg.com^
 ||creative.drtuberlive.com^
 ||dasych.drmartypets.com^
 ||gxyrml.drdifferent.com^
@@ -30037,6 +30053,7 @@
 ||xxxviijmp.com^
 ||xxxmyself.com^
 ||xuugnuits.com^
+||xunqrutsl.com^
 ||a.xuezizhai.com^
 ||mnwor.xuanlishi.com^
 ||marketing.xtralight.com^
@@ -30066,6 +30083,7 @@
 ||alaska.xhamster2.com^
 ||xfileload.com^
 ||fcnqkw.xeroshoes.com^
+||xeccotftw.com^
 ||xcelltech.com^
 ||xcahurewa.com^
 ||xbuycgcae.com^
@@ -31622,6 +31640,7 @@
 ||lidburger.com^
 ||licantrum.com^
 ||clk.liberty-e.com^
+||lhpigkujw.com^
 ||lhbbostal.com^
 ||lgsmartad.com^
 ||promotion.lginnotek.com^
@@ -31988,6 +32007,7 @@
 ||hilltopgo.com^
 ||images.e.hillsbank.com^
 ||health.hillcrest.com^
+||higrigake.com^
 ||marketing.highwoods.com^
 ||marketing.highpoint.com^
 ||analytics.hiexpress.com^
@@ -32189,6 +32209,7 @@
 ||info.gcaaltium.com^
 ||gayadpros.com^
 ||gtm.gate-away.com^
+||garthsava.com^
 ||dxlqiq.garbarino.com^
 ||info.gantryinc.com^
 ||gamesyour.com^
@@ -32849,7 +32870,6 @@
 ||forms.capitaliq.com^
 ||mon-va-us-looki.capcutapi.com^
 ||log-va-us-looki.capcutapi.com^
-||mon-boot.capcutapi.com^
 ||mon-va.capcutapi.com^
 ||mcs-va.capcutapi.com^
 ||cv.cante-gym.com^
@@ -35522,6 +35542,7 @@
 ||t.iowawild.com^
 ||go.iowacubs.com^
 ||marketing.iongroup.com^
+||ioefhvcc.com^
 ||act-on.ioactive.com^
 ||info.ioactive.com^
 ||inworket.com^
@@ -37480,6 +37501,7 @@
 ||trafmag.com^
 ||trafget.com^
 ||lzrljv.tradera.com^
+||trackzd.com^
 ||go.trackv5.com^
 ||trackjs.com^
 ||tozqvor.com^
