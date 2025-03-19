@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-19T12:22:07.944Z
-# Size: 69712
+# Last Updated: 2025-03-19T15:46:30.595Z
+# Size: 69713
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -30172,6 +30172,7 @@ httpdns.yunxindns.com
 +.cvpthv.vipoutlet.com
 +.tr.news.vip-diary.com
 +.track.vio-media.com
++.vinoinqih.com
 +.app.villanova.com
 +.t.villanova.com
 +.vikuhiaor.com
