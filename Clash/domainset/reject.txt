@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-19T08:09:36.918Z
-# Size: 69710
+# Last Updated: 2025-03-19T10:39:35.207Z
+# Size: 69711
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -201,7 +201,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.load.tracking.lacaja.company
 +.images.hello.adagio.company
 +.stork.ibite.company
-+.githubhelp.com$all
 +.bank.charity
 +.nvjrxh.nl.bauhaus
 +.asd.nl.bauhaus
@@ -545,6 +544,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.data-1c0a3d83e3.transfermarkt.world
 +.rechenschieber.transfermarkt.world
 +.nxwugnuqhwxta.world
++.nkdccsiwixvzj.world
 +.galgkaaqhxhuz.world
 +.evzrqgvsgngmg.world
 +.crdgbpgzdoicy.world
@@ -28611,6 +28611,7 @@ httpdns.push.heytapmobi.com
 +.gjonfartyb.com
 +.sgtm.giuliaredd.com
 +.gixdir.gitionline.com
++.githubhelp.com
 +.dqvzvi.ginzabiyou.com
 +.duqxys.gino-rossi.com
 +.lmiudo.ginette-ny.com
